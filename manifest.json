@@ -1,0 +1,125 @@
+{
+  "schema": 1,
+  "levels": [
+    {
+      "id": 1,
+      "version": 1,
+      "minAppVersion": "1.0.0",
+      "level": "levels/level_001.json",
+      "size": 6509309,
+      "files": [
+        {
+          "path": "levels/level_001.json",
+          "size": 6272,
+          "sha256": "4f394e79c7b565e743a3cde53280a59031be93168b9599c9a20d401d0655a01f"
+        },
+        {
+          "path": "sahneler/kitap/scene.webp",
+          "size": 3454858,
+          "sha256": "eb3a82c9903162bf6d1c1f8b907d231c4cd6deade2d6965f297a0fdff8c61b27"
+        },
+        {
+          "path": "sahneler/kitap/scene_2048.webp",
+          "size": 1030160,
+          "sha256": "fa1104b870747ce85e9226417902907abf5861bb7a1d1ba4d3654dfd0ed46ca2"
+        },
+        {
+          "path": "sahneler/kitap/bg_blur.webp",
+          "size": 3990,
+          "sha256": "9c3fbfee8b1479fb413a4833da330638700f7ab056b3822844ad3afda619ce6b"
+        },
+        {
+          "path": "sahneler/kitap/depth.png",
+          "size": 152162,
+          "sha256": "9fc5e910e1591dc86c35f35178fb1f1d50e59c889ef192b4bcd131f33d34d2f4",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "path": "sahneler/kitap/water_mask.png",
+          "size": 85692,
+          "sha256": "df53484ee223bb3a75563c816ed87dcbf834dddb58c4237a2b937e31cfe49e55",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "path": "sahneler/kitap/waterfall_mask.png",
+          "size": 26250,
+          "sha256": "b85c57c726c44609514b574cb1f8f7bdfc99048e0ac88e61ba922a622e6cf16a",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "path": "sahneler/kitap/light_mask.png",
+          "size": 393535,
+          "sha256": "446417b9c37b887e96c956c49d5214edb8d33a45a8a62d8e5b2cf2d2dbabec21",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "path": "peek/bakan.png",
+          "size": 165497,
+          "sha256": "3e17fcaa59382d0bf953f10d95119a6ce70ee5250f51372df304a17c7799a874",
+          "width": 256,
+          "height": 352
+        },
+        {
+          "path": "nesneler/telescope.png",
+          "size": 135100,
+          "sha256": "aa268a9261808df769e5a389ccd25fc03a76c2fa940eb9d4e3066eac5e007754",
+          "width": 302,
+          "height": 295
+        },
+        {
+          "path": "nesneler/birdcage.png",
+          "size": 154870,
+          "sha256": "c81b4f211ae9e357ff8bb51fee803c738415e1a20a24e191c67c3723f18ad218",
+          "width": 246,
+          "height": 317
+        },
+        {
+          "path": "nesneler/key.png",
+          "size": 109975,
+          "sha256": "ee2cfdac619b9b2bee8b5fd79f5c3a53ed5f8723d386a7c684294a19a3287788",
+          "width": 243,
+          "height": 274
+        },
+        {
+          "path": "nesneler/straw_hat.png",
+          "size": 174848,
+          "sha256": "d06c2687f0e7ad5ee5330bab14cd5aeec4f0a7925d0933fd05c2f3ab166680b2",
+          "width": 314,
+          "height": 254
+        },
+        {
+          "path": "nesneler/seashell.png",
+          "size": 127359,
+          "sha256": "190b8892ad8948ae882638b060ad4fb2a5d6f13d84e4b364a06ca88d50af4aee",
+          "width": 278,
+          "height": 221
+        },
+        {
+          "path": "nesneler/pocket_watch.png",
+          "size": 167680,
+          "sha256": "66fe3b9169d95d71482a17ef1fa019295ed46b39891a4f2a9a0257234a3bef9b",
+          "width": 248,
+          "height": 321
+        },
+        {
+          "path": "nesneler/jug.png",
+          "size": 158847,
+          "sha256": "6181e26ad8c8b2b829b4ee9b734d225b1370f8874d05c8f3020a88cd3052080f",
+          "width": 235,
+          "height": 305
+        },
+        {
+          "path": "nesneler/message_bottle.png",
+          "size": 162214,
+          "sha256": "9021046dcefde5844d389edc8784ae89e01f2ed6bc792bc87d0a558f080d78bd",
+          "width": 300,
+          "height": 310
+        }
+      ]
+    }
+  ]
+}

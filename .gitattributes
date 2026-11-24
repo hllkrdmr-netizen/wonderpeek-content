@@ -1,0 +1,2 @@
+# Byte-exact files: manifest.json hashes must match what the CDN serves (no CRLF conversion).
+* -text
