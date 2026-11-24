@@ -3,10 +3,12 @@
   "levels": [
     {
       "id": 1,
-      "version": 1,
+      "mode": "classic",
+      "thumb": "sahneler/kitap/thumb.webp",
+      "version": 2,
       "minAppVersion": "1.0.0",
       "level": "levels/level_001.json",
-      "size": 6509309,
+      "size": 6530501,
       "files": [
         {
           "path": "levels/level_001.json",
@@ -27,6 +29,11 @@
           "path": "sahneler/kitap/bg_blur.webp",
           "size": 3990,
           "sha256": "9c3fbfee8b1479fb413a4833da330638700f7ab056b3822844ad3afda619ce6b"
+        },
+        {
+          "path": "sahneler/kitap/thumb.webp",
+          "size": 21192,
+          "sha256": "e63461f13ac472203f77b5868366448de49ad93d6e9bff71bb68947a07707673"
         },
         {
           "path": "sahneler/kitap/depth.png",
