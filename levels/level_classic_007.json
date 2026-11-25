@@ -1,0 +1,191 @@
+{
+  "levelId": 7,
+  "sceneId": "kis_kizak",
+  "scene": "sahneler/kis_kizak/scene.webp",
+  "depth": "sahneler/kis_kizak/depth.png",
+  "mode": "classic",
+  "objectCount": 12,
+  "timePerObjectSec": 15,
+  "silhouetteCount": 0,
+  "camouflage": "light",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "bobble_hat",
+      "sprite": "nesneler/kis_kizak/bobble_hat.png",
+      "x": 0.14,
+      "y": 0.5237,
+      "height": 0.0226,
+      "brightness": 0.927,
+      "tint": [
+        1.025,
+        0.994,
+        0.981
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "snow_globe",
+      "sprite": "nesneler/kis_kizak/snow_globe.png",
+      "x": 0.39,
+      "y": 0.3051,
+      "height": 0.0198,
+      "brightness": 0.863,
+      "tint": [
+        1.089,
+        0.991,
+        0.92
+      ],
+      "shadow": 0.3
+    },
+    {
+      "id": "gift_box",
+      "sprite": "nesneler/kis_kizak/gift_box.png",
+      "x": 0.45,
+      "y": 0.6333,
+      "height": 0.0234,
+      "brightness": 0.917,
+      "tint": [
+        1.061,
+        0.984,
+        0.955
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "earmuffs",
+      "sprite": "nesneler/kis_kizak/earmuffs.png",
+      "x": 0.22,
+      "y": 0.654,
+      "height": 0.022,
+      "brightness": 0.939,
+      "tint": [
+        1.046,
+        0.983,
+        0.971
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "honey_jar",
+      "sprite": "nesneler/kis_kizak/honey_jar.png",
+      "x": 0.66,
+      "y": 0.4204,
+      "height": 0.0192,
+      "brightness": 0.914,
+      "tint": [
+        1.066,
+        0.987,
+        0.947
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "hockey_stick",
+      "sprite": "nesneler/kis_kizak/hockey_stick.png",
+      "x": 0.4,
+      "y": 0.5379,
+      "height": 0.0342,
+      "brightness": 1.013,
+      "tint": [
+        1.01,
+        0.995,
+        0.995
+      ],
+      "shadow": 0.39
+    },
+    {
+      "id": "thermos",
+      "sprite": "nesneler/kis_kizak/thermos.png",
+      "x": 0.62,
+      "y": 0.2845,
+      "height": 0.021,
+      "brightness": 0.911,
+      "tint": [
+        1.039,
+        0.981,
+        0.981
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "nutcracker",
+      "sprite": "nesneler/kis_kizak/nutcracker.png",
+      "x": 0.3,
+      "y": 0.4511,
+      "height": 0.0277,
+      "brightness": 0.889,
+      "tint": [
+        1.108,
+        0.993,
+        0.899
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "skating_trophy",
+      "sprite": "nesneler/kis_kizak/skating_trophy.png",
+      "x": 0.62,
+      "y": 0.5885,
+      "height": 0.0231,
+      "brightness": 1.02,
+      "tint": [
+        1.016,
+        0.996,
+        0.988
+      ],
+      "shadow": 0.4
+    },
+    {
+      "id": "christmas_bauble",
+      "sprite": "nesneler/kis_kizak/christmas_bauble.png",
+      "x": 0.595,
+      "y": 0.6809,
+      "height": 0.0222,
+      "brightness": 1.017,
+      "tint": [
+        1.014,
+        1.0,
+        0.986
+      ],
+      "shadow": 0.39
+    },
+    {
+      "id": "gingerbread_man",
+      "sprite": "nesneler/kis_kizak/gingerbread_man.png",
+      "x": 0.76,
+      "y": 0.5052,
+      "height": 0.0197,
+      "brightness": 0.938,
+      "tint": [
+        1.087,
+        0.984,
+        0.929
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "snowshoes",
+      "sprite": "nesneler/kis_kizak/snowshoes.png",
+      "x": 0.75,
+      "y": 0.3048,
+      "height": 0.0265,
+      "brightness": 0.983,
+      "tint": [
+        0.994,
+        0.995,
+        1.012
+      ],
+      "shadow": 0.37
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.77,
+    "y": 0.385,
+    "height": 0.02
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "levelId": 4,
+  "sceneId": "gol_kesit",
+  "scene": "sahneler/gol_kesit/scene.webp",
+  "depth": "sahneler/gol_kesit/depth.png",
+  "mode": "classic",
+  "objectCount": 12,
+  "timePerObjectSec": 15,
+  "silhouetteCount": 0,
+  "camouflage": "light",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "binoculars",
+      "sprite": "nesneler/gol_kesit/binoculars.png",
+      "x": 0.5,
+      "y": 0.2671,
+      "height": 0.0178,
+      "brightness": 0.964,
+      "tint": [
+        1.046,
+        1.006,
+        0.948
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "flannel_shirt",
+      "sprite": "nesneler/gol_kesit/flannel_shirt.png",
+      "x": 0.3,
+      "y": 0.3053,
+      "height": 0.0194,
+      "brightness": 0.957,
+      "tint": [
+        1.093,
+        0.992,
+        0.915
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "camping_mug",
+      "sprite": "nesneler/gol_kesit/camping_mug.png",
+      "x": 0.7,
+      "y": 0.3089,
+      "height": 0.0143,
+      "brightness": 1.008,
+      "tint": [
+        1.043,
+        0.997,
+        0.96
+      ],
+      "shadow": 0.38
+    },
+    {
+      "id": "life_jacket",
+      "sprite": "nesneler/gol_kesit/life_jacket.png",
+      "x": 0.81,
+      "y": 0.307,
+      "height": 0.0221,
+      "brightness": 1.02,
+      "tint": [
+        1.0,
+        0.999,
+        1.001
+      ],
+      "shadow": 0.42
+    },
+    {
+      "id": "kayak_paddle",
+      "sprite": "nesneler/gol_kesit/kayak_paddle.png",
+      "x": 0.585,
+      "y": 0.3607,
+      "height": 0.0346,
+      "brightness": 0.912,
+      "tint": [
+        1.074,
+        0.994,
+        0.932
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "picnic_blanket",
+      "sprite": "nesneler/gol_kesit/picnic_blanket.png",
+      "x": 0.16,
+      "y": 0.4072,
+      "height": 0.0217,
+      "brightness": 1.02,
+      "tint": [
+        1.072,
+        1.021,
+        0.907
+      ],
+      "shadow": 0.39
+    },
+    {
+      "id": "rubber_duck",
+      "sprite": "nesneler/gol_kesit/rubber_duck.png",
+      "x": 0.84,
+      "y": 0.4643,
+      "height": 0.0194,
+      "brightness": 1.02,
+      "tint": [
+        0.999,
+        1.044,
+        0.957
+      ],
+      "shadow": 0.41
+    },
+    {
+      "id": "sun_hat",
+      "sprite": "nesneler/gol_kesit/sun_hat.png",
+      "x": 0.34,
+      "y": 0.771,
+      "height": 0.0281,
+      "brightness": 0.932,
+      "tint": [
+        1.051,
+        1.023,
+        0.926
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "marble_jar",
+      "sprite": "nesneler/gol_kesit/marble_jar.png",
+      "x": 0.47,
+      "y": 0.8215,
+      "height": 0.027,
+      "brightness": 0.915,
+      "tint": [
+        1.027,
+        1.027,
+        0.945
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "purple_bottle",
+      "sprite": "nesneler/gol_kesit/purple_bottle.png",
+      "x": 0.58,
+      "y": 0.727,
+      "height": 0.0261,
+      "brightness": 0.914,
+      "tint": [
+        1.028,
+        1.034,
+        0.938
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "mussel_pearl",
+      "sprite": "nesneler/gol_kesit/mussel_pearl.png",
+      "x": 0.7,
+      "y": 0.8444,
+      "height": 0.0272,
+      "brightness": 0.939,
+      "tint": [
+        1.065,
+        1.009,
+        0.926
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "swan_figurine",
+      "sprite": "nesneler/gol_kesit/swan_figurine.png",
+      "x": 0.92,
+      "y": 0.727,
+      "height": 0.0261,
+      "brightness": 0.879,
+      "tint": [
+        1.023,
+        1.035,
+        0.942
+      ],
+      "shadow": 0.31
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.125,
+    "y": 0.225,
+    "height": 0.022
+  }
+}

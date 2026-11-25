@@ -1,0 +1,253 @@
+{
+  "levelId": 12,
+  "sceneId": "lunapark",
+  "scene": "sahneler/lunapark/scene.webp",
+  "depth": "sahneler/lunapark/depth.png",
+  "mode": "lantern",
+  "objectCount": 12,
+  "timePerObjectSec": 14,
+  "silhouetteCount": 2,
+  "camouflage": "medium",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "oyuncak_trompet",
+      "sprite": "nesneler/lunapark/oyuncak_trompet.png",
+      "x": 0.07,
+      "y": 0.1159,
+      "height": 0.0103,
+      "brightness": 0.928,
+      "tint": [
+        1.079,
+        0.985,
+        0.936
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "elma_sekeri",
+      "sprite": "nesneler/lunapark/elma_sekeri.png",
+      "x": 0.45,
+      "y": 0.0929,
+      "height": 0.0102,
+      "brightness": 0.892,
+      "tint": [
+        1.016,
+        0.987,
+        0.997
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "yoyo",
+      "sprite": "nesneler/lunapark/yoyo.png",
+      "x": 0.905,
+      "y": 0.3412,
+      "height": 0.0097,
+      "brightness": 0.944,
+      "tint": [
+        1.017,
+        0.982,
+        1.001
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "palyaco_ayakkabisi",
+      "sprite": "nesneler/lunapark/palyaco_ayakkabisi.png",
+      "x": 0.06,
+      "y": 0.3285,
+      "height": 0.011,
+      "brightness": 0.827,
+      "tint": [
+        1.091,
+        0.989,
+        0.92
+      ],
+      "shadow": 0.28
+    },
+    {
+      "id": "ruzgar_gulu",
+      "sprite": "nesneler/lunapark/ruzgar_gulu.png",
+      "x": 0.4,
+      "y": 0.3773,
+      "height": 0.0154,
+      "brightness": 0.865,
+      "tint": [
+        1.022,
+        0.995,
+        0.984
+      ],
+      "shadow": 0.3
+    },
+    {
+      "id": "kutudan_palyaco",
+      "sprite": "nesneler/lunapark/kutudan_palyaco.png",
+      "x": 0.31,
+      "y": 0.4805,
+      "height": 0.013,
+      "brightness": 0.78,
+      "tint": [
+        1.107,
+        0.987,
+        0.906
+      ],
+      "shadow": 0.27
+    },
+    {
+      "id": "topac",
+      "sprite": "nesneler/lunapark/topac.png",
+      "x": 0.62,
+      "y": 0.4493,
+      "height": 0.0114,
+      "brightness": 0.832,
+      "tint": [
+        1.077,
+        0.992,
+        0.931
+      ],
+      "shadow": 0.29
+    },
+    {
+      "id": "lobutlar",
+      "sprite": "nesneler/lunapark/lobutlar.png",
+      "x": 0.78,
+      "y": 0.5845,
+      "height": 0.0149,
+      "brightness": 0.859,
+      "tint": [
+        1.019,
+        0.988,
+        0.993
+      ],
+      "shadow": 0.3
+    },
+    {
+      "id": "dondurma",
+      "sprite": "nesneler/lunapark/dondurma.png",
+      "x": 0.462,
+      "y": 0.1462,
+      "height": 0.0117,
+      "brightness": 0.894,
+      "tint": [
+        1.004,
+        0.988,
+        1.008
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "oyuncak_davul",
+      "sprite": "nesneler/lunapark/oyuncak_davul.png",
+      "x": 0.52,
+      "y": 0.6462,
+      "height": 0.0136,
+      "brightness": 0.861,
+      "tint": [
+        1.088,
+        0.991,
+        0.921
+      ],
+      "shadow": 0.3
+    },
+    {
+      "id": "lolipop",
+      "sprite": "nesneler/lunapark/lolipop.png",
+      "x": 0.18,
+      "y": 0.6494,
+      "height": 0.0152,
+      "brightness": 0.78,
+      "tint": [
+        1.046,
+        0.99,
+        0.965
+      ],
+      "shadow": 0.24
+    },
+    {
+      "id": "zilli_maymun",
+      "sprite": "nesneler/lunapark/zilli_maymun.png",
+      "x": 0.87,
+      "y": 0.6562,
+      "height": 0.0137,
+      "brightness": 0.883,
+      "tint": [
+        1.069,
+        0.982,
+        0.949
+      ],
+      "shadow": 0.31
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.88,
+    "y": 0.25,
+    "height": 0.012
+  },
+  "sceneSize": [
+    4096,
+    10672
+  ],
+  "tiles": {
+    "lo": [
+      {
+        "path": "sahneler/lunapark/tile_lo_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          1.0,
+          0.500375
+        ]
+      },
+      {
+        "path": "sahneler/lunapark/tile_lo_1_0.webp",
+        "rect": [
+          0.0,
+          0.499625,
+          1.0,
+          0.500375
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "path": "sahneler/lunapark/tile_hi_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          1.0,
+          0.33349
+        ]
+      },
+      {
+        "path": "sahneler/lunapark/tile_hi_1_0.webp",
+        "rect": [
+          0.0,
+          0.333115,
+          1.0,
+          0.333771
+        ]
+      },
+      {
+        "path": "sahneler/lunapark/tile_hi_2_0.webp",
+        "rect": [
+          0.0,
+          0.66651,
+          1.0,
+          0.33349
+        ]
+      }
+    ]
+  },
+  "lantern": {
+    "radius": 0.22,
+    "start": [
+      0.5,
+      0.65
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "levelId": 14,
+  "sceneId": "londra",
+  "scene": "sahneler/londra/scene.webp",
+  "depth": "sahneler/londra/depth.png",
+  "mode": "lantern",
+  "objectCount": 12,
+  "timePerObjectSec": 14,
+  "silhouetteCount": 2,
+  "camouflage": "medium",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "teneke_asker",
+      "sprite": "nesneler/londra/teneke_asker.png",
+      "x": 0.13,
+      "y": 0.2742,
+      "height": 0.0216,
+      "brightness": 0.78,
+      "tint": [
+        1.072,
+        1.019,
+        0.91
+      ],
+      "shadow": 0.25
+    },
+    {
+      "id": "baca_fircasi",
+      "sprite": "nesneler/londra/baca_fircasi.png",
+      "x": 0.93,
+      "y": 0.2422,
+      "height": 0.0257,
+      "brightness": 0.783,
+      "tint": [
+        1.047,
+        0.993,
+        0.96
+      ],
+      "shadow": 0.27
+    },
+    {
+      "id": "aslan_tokmak",
+      "sprite": "nesneler/londra/aslan_tokmak.png",
+      "x": 0.12,
+      "y": 0.6084,
+      "height": 0.0233,
+      "brightness": 0.887,
+      "tint": [
+        1.017,
+        1.009,
+        0.974
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "melon_sapka",
+      "sprite": "nesneler/londra/melon_sapka.png",
+      "x": 0.19,
+      "y": 0.787,
+      "height": 0.0261,
+      "brightness": 0.849,
+      "tint": [
+        1.077,
+        0.99,
+        0.933
+      ],
+      "shadow": 0.29
+    },
+    {
+      "id": "doktor_cantasi",
+      "sprite": "nesneler/londra/doktor_cantasi.png",
+      "x": 0.31,
+      "y": 0.4532,
+      "height": 0.0236,
+      "brightness": 0.858,
+      "tint": [
+        1.073,
+        0.99,
+        0.937
+      ],
+      "shadow": 0.3
+    },
+    {
+      "id": "polis_kaski",
+      "sprite": "nesneler/londra/polis_kaski.png",
+      "x": 0.235,
+      "y": 0.524,
+      "height": 0.0219,
+      "brightness": 0.894,
+      "tint": [
+        1.089,
+        0.966,
+        0.945
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "porselen_bebek",
+      "sprite": "nesneler/londra/porselen_bebek.png",
+      "x": 0.4,
+      "y": 0.7357,
+      "height": 0.0287,
+      "brightness": 0.847,
+      "tint": [
+        1.005,
+        1.003,
+        0.992
+      ],
+      "shadow": 0.29
+    },
+    {
+      "id": "bakir_caydanlik",
+      "sprite": "nesneler/londra/bakir_caydanlik.png",
+      "x": 0.365,
+      "y": 0.6475,
+      "height": 0.0191,
+      "brightness": 0.884,
+      "tint": [
+        1.033,
+        0.995,
+        0.972
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "zencefilli_kurabiye",
+      "sprite": "nesneler/londra/zencefilli_kurabiye.png",
+      "x": 0.58,
+      "y": 0.6902,
+      "height": 0.0196,
+      "brightness": 0.853,
+      "tint": [
+        1.028,
+        1.01,
+        0.961
+      ],
+      "shadow": 0.3
+    },
+    {
+      "id": "monokl",
+      "sprite": "nesneler/londra/monokl.png",
+      "x": 0.772,
+      "y": 0.6852,
+      "height": 0.0196,
+      "brightness": 0.892,
+      "tint": [
+        1.05,
+        0.99,
+        0.96
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "baston",
+      "sprite": "nesneler/londra/baston.png",
+      "x": 0.925,
+      "y": 0.7412,
+      "height": 0.0477,
+      "brightness": 0.892,
+      "tint": [
+        1.056,
+        0.983,
+        0.961
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "para_kesesi",
+      "sprite": "nesneler/londra/para_kesesi.png",
+      "x": 0.27,
+      "y": 0.768,
+      "height": 0.0241,
+      "brightness": 0.894,
+      "tint": [
+        1.057,
+        0.992,
+        0.95
+      ],
+      "shadow": 0.32
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.5,
+    "y": 0.7,
+    "height": 0.02
+  },
+  "sceneSize": [
+    6740,
+    6144
+  ],
+  "tiles": {
+    "lo": [
+      {
+        "path": "sahneler/londra/scene_2048.webp",
+        "rect": [
+          0,
+          0,
+          1,
+          1
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "path": "sahneler/londra/tile_hi_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          0.500297,
+          0.500326
+        ]
+      },
+      {
+        "path": "sahneler/londra/tile_hi_0_1.webp",
+        "rect": [
+          0.499703,
+          0.0,
+          0.500297,
+          0.500326
+        ]
+      },
+      {
+        "path": "sahneler/londra/tile_hi_1_0.webp",
+        "rect": [
+          0.0,
+          0.499674,
+          0.500297,
+          0.500326
+        ]
+      },
+      {
+        "path": "sahneler/londra/tile_hi_1_1.webp",
+        "rect": [
+          0.499703,
+          0.499674,
+          0.500297,
+          0.500326
+        ]
+      }
+    ]
+  },
+  "lantern": {
+    "radius": 0.22,
+    "start": [
+      0.6,
+      0.45
+    ]
+  }
+}

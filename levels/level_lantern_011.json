@@ -1,0 +1,253 @@
+{
+  "levelId": 11,
+  "sceneId": "kale",
+  "scene": "sahneler/kale/scene.webp",
+  "depth": "sahneler/kale/depth.png",
+  "mode": "lantern",
+  "objectCount": 12,
+  "timePerObjectSec": 14,
+  "silhouetteCount": 2,
+  "camouflage": "medium",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "muhurlu_mektup",
+      "sprite": "nesneler/kale/muhurlu_mektup.png",
+      "x": 0.6,
+      "y": 0.0728,
+      "height": 0.0105,
+      "brightness": 0.868,
+      "tint": [
+        1.021,
+        0.996,
+        0.984
+      ],
+      "shadow": 0.3
+    },
+    {
+      "id": "lavta",
+      "sprite": "nesneler/kale/lavta.png",
+      "x": 0.66,
+      "y": 0.2264,
+      "height": 0.0152,
+      "brightness": 0.865,
+      "tint": [
+        1.062,
+        0.994,
+        0.944
+      ],
+      "shadow": 0.3
+    },
+    {
+      "id": "nal",
+      "sprite": "nesneler/kale/nal.png",
+      "x": 0.845,
+      "y": 0.313,
+      "height": 0.0099,
+      "brightness": 0.795,
+      "tint": [
+        1.12,
+        0.981,
+        0.884
+      ],
+      "shadow": 0.27
+    },
+    {
+      "id": "soytari_sapkasi",
+      "sprite": "nesneler/kale/soytari_sapkasi.png",
+      "x": 0.05,
+      "y": 0.0911,
+      "height": 0.0119,
+      "brightness": 0.884,
+      "tint": [
+        1.015,
+        0.995,
+        0.99
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "fare",
+      "sprite": "nesneler/kale/fare.png",
+      "x": 0.36,
+      "y": 0.3602,
+      "height": 0.0115,
+      "brightness": 0.818,
+      "tint": [
+        1.051,
+        0.995,
+        0.954
+      ],
+      "shadow": 0.28
+    },
+    {
+      "id": "satranc_ati",
+      "sprite": "nesneler/kale/satranc_ati.png",
+      "x": 0.45,
+      "y": 0.4114,
+      "height": 0.0132,
+      "brightness": 0.844,
+      "tint": [
+        0.995,
+        1.003,
+        1.002
+      ],
+      "shadow": 0.29
+    },
+    {
+      "id": "demir_eldiven",
+      "sprite": "nesneler/kale/demir_eldiven.png",
+      "x": 0.435,
+      "y": 0.5202,
+      "height": 0.0136,
+      "brightness": 0.844,
+      "tint": [
+        1.063,
+        0.993,
+        0.944
+      ],
+      "shadow": 0.29
+    },
+    {
+      "id": "topuz",
+      "sprite": "nesneler/kale/topuz.png",
+      "x": 0.84,
+      "y": 0.5716,
+      "height": 0.0169,
+      "brightness": 0.895,
+      "tint": [
+        1.12,
+        0.991,
+        0.889
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "kafatasi",
+      "sprite": "nesneler/kale/kafatasi.png",
+      "x": 0.06,
+      "y": 0.5609,
+      "height": 0.0122,
+      "brightness": 0.812,
+      "tint": [
+        1.048,
+        1.023,
+        0.929
+      ],
+      "shadow": 0.28
+    },
+    {
+      "id": "bira_kupasi",
+      "sprite": "nesneler/kale/bira_kupasi.png",
+      "x": 0.09,
+      "y": 0.6719,
+      "height": 0.0142,
+      "brightness": 0.89,
+      "tint": [
+        1.038,
+        1.006,
+        0.956
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "ekmek",
+      "sprite": "nesneler/kale/ekmek.png",
+      "x": 0.4,
+      "y": 0.7865,
+      "height": 0.0131,
+      "brightness": 0.888,
+      "tint": [
+        1.043,
+        1.001,
+        0.956
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "sadak",
+      "sprite": "nesneler/kale/sadak.png",
+      "x": 0.965,
+      "y": 0.7423,
+      "height": 0.0194,
+      "brightness": 0.846,
+      "tint": [
+        1.014,
+        1.005,
+        0.981
+      ],
+      "shadow": 0.29
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.965,
+    "y": 0.222,
+    "height": 0.012
+  },
+  "sceneSize": [
+    4096,
+    10264
+  ],
+  "tiles": {
+    "lo": [
+      {
+        "path": "sahneler/kale/tile_lo_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          1.0,
+          0.50039
+        ]
+      },
+      {
+        "path": "sahneler/kale/tile_lo_1_0.webp",
+        "rect": [
+          0.0,
+          0.49961,
+          1.0,
+          0.50039
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "path": "sahneler/kale/tile_hi_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          1.0,
+          0.333496
+        ]
+      },
+      {
+        "path": "sahneler/kale/tile_hi_1_0.webp",
+        "rect": [
+          0.0,
+          0.333106,
+          1.0,
+          0.333788
+        ]
+      },
+      {
+        "path": "sahneler/kale/tile_hi_2_0.webp",
+        "rect": [
+          0.0,
+          0.666504,
+          1.0,
+          0.333496
+        ]
+      }
+    ]
+  },
+  "lantern": {
+    "radius": 0.22,
+    "start": [
+      0.7,
+      0.42
+    ]
+  }
+}

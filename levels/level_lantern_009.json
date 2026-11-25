@@ -1,0 +1,198 @@
+{
+  "levelId": 9,
+  "sceneId": "buyucu",
+  "scene": "sahneler/buyucu/scene.webp",
+  "depth": "sahneler/buyucu/depth.png",
+  "mode": "lantern",
+  "objectCount": 12,
+  "timePerObjectSec": 17,
+  "silhouetteCount": 0,
+  "camouflage": "light",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "kara_kedi",
+      "sprite": "nesneler/buyucu/kara_kedi.png",
+      "x": 0.46,
+      "y": 0.1655,
+      "height": 0.0251,
+      "brightness": 0.837,
+      "tint": [
+        1.09,
+        0.973,
+        0.937
+      ],
+      "shadow": 0.29
+    },
+    {
+      "id": "cep_saati",
+      "sprite": "nesneler/buyucu/cep_saati.png",
+      "x": 0.6,
+      "y": 0.444,
+      "height": 0.022,
+      "brightness": 0.892,
+      "tint": [
+        1.112,
+        0.983,
+        0.905
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "kral_kurbaga",
+      "sprite": "nesneler/buyucu/kral_kurbaga.png",
+      "x": 0.2,
+      "y": 0.7748,
+      "height": 0.0304,
+      "brightness": 0.839,
+      "tint": [
+        1.12,
+        0.976,
+        0.9
+      ],
+      "shadow": 0.29
+    },
+    {
+      "id": "hilal_kolye",
+      "sprite": "nesneler/buyucu/hilal_kolye.png",
+      "x": 0.36,
+      "y": 0.2419,
+      "height": 0.0202,
+      "brightness": 0.78,
+      "tint": [
+        1.12,
+        0.955,
+        0.858
+      ],
+      "shadow": 0.25
+    },
+    {
+      "id": "kazan",
+      "sprite": "nesneler/buyucu/kazan.png",
+      "x": 0.75,
+      "y": 0.6008,
+      "height": 0.0285,
+      "brightness": 0.823,
+      "tint": [
+        1.12,
+        0.977,
+        0.871
+      ],
+      "shadow": 0.28
+    },
+    {
+      "id": "ejder_yumurtasi",
+      "sprite": "nesneler/buyucu/ejder_yumurtasi.png",
+      "x": 0.32,
+      "y": 0.4524,
+      "height": 0.0252,
+      "brightness": 0.866,
+      "tint": [
+        1.12,
+        0.991,
+        0.864
+      ],
+      "shadow": 0.3
+    },
+    {
+      "id": "mantar",
+      "sprite": "nesneler/buyucu/mantar.png",
+      "x": 0.58,
+      "y": 0.8304,
+      "height": 0.0291,
+      "brightness": 0.811,
+      "tint": [
+        1.12,
+        0.978,
+        0.881
+      ],
+      "shadow": 0.28
+    },
+    {
+      "id": "kanatli_anahtar",
+      "sprite": "nesneler/buyucu/kanatli_anahtar.png",
+      "x": 0.585,
+      "y": 0.2392,
+      "height": 0.0216,
+      "brightness": 0.847,
+      "tint": [
+        1.022,
+        0.984,
+        0.994
+      ],
+      "shadow": 0.29
+    },
+    {
+      "id": "supurge",
+      "sprite": "nesneler/buyucu/supurge.png",
+      "x": 0.69,
+      "y": 0.377,
+      "height": 0.0461,
+      "brightness": 0.879,
+      "tint": [
+        1.087,
+        0.987,
+        0.926
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "run_tasi",
+      "sprite": "nesneler/buyucu/run_tasi.png",
+      "x": 0.35,
+      "y": 0.8065,
+      "height": 0.0271,
+      "brightness": 0.818,
+      "tint": [
+        1.12,
+        0.981,
+        0.85
+      ],
+      "shadow": 0.28
+    },
+    {
+      "id": "sihirli_degnek",
+      "sprite": "nesneler/buyucu/sihirli_degnek.png",
+      "x": 0.92,
+      "y": 0.3831,
+      "height": 0.0338,
+      "brightness": 0.867,
+      "tint": [
+        1.117,
+        0.976,
+        0.906
+      ],
+      "shadow": 0.3
+    },
+    {
+      "id": "buyucu_sapkasi",
+      "sprite": "nesneler/buyucu/buyucu_sapkasi.png",
+      "x": 0.12,
+      "y": 0.585,
+      "height": 0.03,
+      "brightness": 0.872,
+      "tint": [
+        1.102,
+        0.964,
+        0.934
+      ],
+      "shadow": 0.3
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.2,
+    "y": 0.26,
+    "height": 0.02
+  },
+  "lantern": {
+    "radius": 0.22,
+    "start": [
+      0.47,
+      0.58
+    ]
+  }
+}

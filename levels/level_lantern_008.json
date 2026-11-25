@@ -1,0 +1,198 @@
+{
+  "levelId": 8,
+  "sceneId": "muze",
+  "scene": "sahneler/muze/scene.webp",
+  "depth": "sahneler/muze/depth.png",
+  "mode": "lantern",
+  "objectCount": 12,
+  "timePerObjectSec": 17,
+  "silhouetteCount": 0,
+  "camouflage": "light",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "viking_migferi",
+      "sprite": "nesneler/muze/viking_migferi.png",
+      "x": 0.38,
+      "y": 0.2541,
+      "height": 0.0217,
+      "brightness": 0.913,
+      "tint": [
+        1.078,
+        0.993,
+        0.929
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "fanus_kolibri",
+      "sprite": "nesneler/muze/fanus_kolibri.png",
+      "x": 0.48,
+      "y": 0.2989,
+      "height": 0.0222,
+      "brightness": 0.895,
+      "tint": [
+        1.04,
+        0.998,
+        0.962
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "yunan_bust",
+      "sprite": "nesneler/muze/yunan_bust.png",
+      "x": 0.2,
+      "y": 0.3174,
+      "height": 0.0252,
+      "brightness": 0.897,
+      "tint": [
+        1.12,
+        0.992,
+        0.86
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "el_feneri",
+      "sprite": "nesneler/muze/el_feneri.png",
+      "x": 0.95,
+      "y": 0.2896,
+      "height": 0.0207,
+      "brightness": 0.926,
+      "tint": [
+        1.087,
+        0.989,
+        0.925
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "anahtarlar",
+      "sprite": "nesneler/muze/anahtarlar.png",
+      "x": 0.29,
+      "y": 0.36,
+      "height": 0.0199,
+      "brightness": 0.875,
+      "tint": [
+        1.09,
+        0.991,
+        0.918
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "buyutec",
+      "sprite": "nesneler/muze/buyutec.png",
+      "x": 0.1,
+      "y": 0.478,
+      "height": 0.0239,
+      "brightness": 0.898,
+      "tint": [
+        1.116,
+        0.994,
+        0.891
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "yesim_maske",
+      "sprite": "nesneler/muze/yesim_maske.png",
+      "x": 0.22,
+      "y": 0.4788,
+      "height": 0.0224,
+      "brightness": 0.963,
+      "tint": [
+        1.078,
+        1.007,
+        0.915
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "trilobit",
+      "sprite": "nesneler/muze/trilobit.png",
+      "x": 0.55,
+      "y": 0.4596,
+      "height": 0.0207,
+      "brightness": 0.889,
+      "tint": [
+        1.056,
+        0.995,
+        0.949
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "bronz_sikkeler",
+      "sprite": "nesneler/muze/bronz_sikkeler.png",
+      "x": 0.66,
+      "y": 0.4661,
+      "height": 0.0178,
+      "brightness": 0.847,
+      "tint": [
+        1.018,
+        1.006,
+        0.977
+      ],
+      "shadow": 0.29
+    },
+    {
+      "id": "divit",
+      "sprite": "nesneler/muze/divit.png",
+      "x": 0.8,
+      "y": 0.6331,
+      "height": 0.0238,
+      "brightness": 0.948,
+      "tint": [
+        1.107,
+        0.992,
+        0.902
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "goktasi",
+      "sprite": "nesneler/muze/goktasi.png",
+      "x": 0.75,
+      "y": 0.7663,
+      "height": 0.0233,
+      "brightness": 0.893,
+      "tint": [
+        1.092,
+        0.976,
+        0.932
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "kehribar",
+      "sprite": "nesneler/muze/kehribar.png",
+      "x": 0.62,
+      "y": 0.7343,
+      "height": 0.0214,
+      "brightness": 0.872,
+      "tint": [
+        1.12,
+        0.985,
+        0.882
+      ],
+      "shadow": 0.3
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.08,
+    "y": 0.285,
+    "height": 0.02
+  },
+  "lantern": {
+    "radius": 0.22,
+    "start": [
+      0.38,
+      0.66
+    ]
+  }
+}

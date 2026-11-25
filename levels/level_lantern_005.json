@@ -1,0 +1,170 @@
+{
+  "levelId": 5,
+  "sceneId": "kutuk",
+  "scene": "sahneler/kutuk/scene.webp",
+  "depth": "sahneler/kutuk/depth.png",
+  "mode": "lantern",
+  "objectCount": 10,
+  "timePerObjectSec": 17,
+  "silhouetteCount": 0,
+  "camouflage": "none",
+  "objectScale": 1,
+  "isBreather": true,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "spectacles",
+      "sprite": "nesneler/kutuk/spectacles.png",
+      "x": 0.545,
+      "y": 0.2117,
+      "height": 0.0126,
+      "brightness": 0.878,
+      "tint": [
+        1.12,
+        0.973,
+        0.863
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "mitten",
+      "sprite": "nesneler/kutuk/mitten.png",
+      "x": 0.435,
+      "y": 0.2956,
+      "height": 0.0187,
+      "brightness": 0.861,
+      "tint": [
+        1.12,
+        0.972,
+        0.853
+      ],
+      "shadow": 0.3
+    },
+    {
+      "id": "teapot",
+      "sprite": "nesneler/kutuk/teapot.png",
+      "x": 0.625,
+      "y": 0.2743,
+      "height": 0.0175,
+      "brightness": 0.797,
+      "tint": [
+        1.12,
+        0.972,
+        0.85
+      ],
+      "shadow": 0.27
+    },
+    {
+      "id": "satchel",
+      "sprite": "nesneler/kutuk/satchel.png",
+      "x": 0.09,
+      "y": 0.4523,
+      "height": 0.0195,
+      "brightness": 0.9,
+      "tint": [
+        1.12,
+        0.982,
+        0.892
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "accordion",
+      "sprite": "nesneler/kutuk/accordion.png",
+      "x": 0.47,
+      "y": 0.6797,
+      "height": 0.0206,
+      "brightness": 0.87,
+      "tint": [
+        1.12,
+        0.995,
+        0.873
+      ],
+      "shadow": 0.3
+    },
+    {
+      "id": "toy_sailboat",
+      "sprite": "nesneler/kutuk/toy_sailboat.png",
+      "x": 0.635,
+      "y": 0.689,
+      "height": 0.0219,
+      "brightness": 0.872,
+      "tint": [
+        1.108,
+        0.99,
+        0.902
+      ],
+      "shadow": 0.3
+    },
+    {
+      "id": "spinning_top",
+      "sprite": "nesneler/kutuk/spinning_top.png",
+      "x": 0.145,
+      "y": 0.6145,
+      "height": 0.019,
+      "brightness": 0.871,
+      "tint": [
+        1.12,
+        0.986,
+        0.883
+      ],
+      "shadow": 0.3
+    },
+    {
+      "id": "watering_can",
+      "sprite": "nesneler/kutuk/watering_can.png",
+      "x": 0.7,
+      "y": 0.4303,
+      "height": 0.0194,
+      "brightness": 0.853,
+      "tint": [
+        1.12,
+        0.977,
+        0.85
+      ],
+      "shadow": 0.3
+    },
+    {
+      "id": "butterfly_net",
+      "sprite": "nesneler/kutuk/butterfly_net.png",
+      "x": 0.19,
+      "y": 0.2204,
+      "height": 0.0253,
+      "brightness": 0.889,
+      "tint": [
+        1.12,
+        0.98,
+        0.878
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "map_scroll",
+      "sprite": "nesneler/kutuk/map_scroll.png",
+      "x": 0.43,
+      "y": 0.1982,
+      "height": 0.0137,
+      "brightness": 0.871,
+      "tint": [
+        1.12,
+        0.964,
+        0.85
+      ],
+      "shadow": 0.3
+    }
+  ],
+  "peek": {
+    "sprite": "peek/oturan.png",
+    "x": 0.9,
+    "y": 0.405,
+    "height": 0.022
+  },
+  "lantern": {
+    "radius": 0.22,
+    "start": [
+      0.4,
+      0.5
+    ]
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "levelId": 5,
+  "sceneId": "kule",
+  "scene": "sahneler/kule/scene.webp",
+  "depth": "sahneler/kule/depth.png",
+  "mode": "classic",
+  "objectCount": 10,
+  "timePerObjectSec": 15,
+  "silhouetteCount": 0,
+  "camouflage": "none",
+  "objectScale": 1,
+  "isBreather": true,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "kite",
+      "sprite": "nesneler/kule/kite.png",
+      "x": 0.43,
+      "y": 0.111,
+      "height": 0.028,
+      "brightness": 0.859,
+      "tint": [
+        1.096,
+        1.0,
+        0.903
+      ],
+      "shadow": 0.3
+    },
+    {
+      "id": "top_hat",
+      "sprite": "nesneler/kule/top_hat.png",
+      "x": 0.27,
+      "y": 0.5738,
+      "height": 0.0224,
+      "brightness": 0.888,
+      "tint": [
+        1.12,
+        0.995,
+        0.876
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "music_box",
+      "sprite": "nesneler/kule/music_box.png",
+      "x": 0.465,
+      "y": 0.5559,
+      "height": 0.0182,
+      "brightness": 0.884,
+      "tint": [
+        1.12,
+        0.991,
+        0.85
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "trumpet",
+      "sprite": "nesneler/kule/trumpet.png",
+      "x": 0.765,
+      "y": 0.4365,
+      "height": 0.021,
+      "brightness": 1.02,
+      "tint": [
+        1.077,
+        0.987,
+        0.936
+      ],
+      "shadow": 0.42
+    },
+    {
+      "id": "windup_mouse",
+      "sprite": "nesneler/kule/windup_mouse.png",
+      "x": 0.4,
+      "y": 0.7666,
+      "height": 0.0168,
+      "brightness": 0.96,
+      "tint": [
+        1.108,
+        0.986,
+        0.906
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "monocle",
+      "sprite": "nesneler/kule/monocle.png",
+      "x": 0.665,
+      "y": 0.2466,
+      "height": 0.0168,
+      "brightness": 0.965,
+      "tint": [
+        1.086,
+        0.991,
+        0.923
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "lollipop",
+      "sprite": "nesneler/kule/lollipop.png",
+      "x": 0.7,
+      "y": 0.7538,
+      "height": 0.0224,
+      "brightness": 0.927,
+      "tint": [
+        1.12,
+        1.018,
+        0.851
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "quill_inkwell",
+      "sprite": "nesneler/kule/quill_inkwell.png",
+      "x": 0.4,
+      "y": 0.4429,
+      "height": 0.0182,
+      "brightness": 0.859,
+      "tint": [
+        1.12,
+        0.988,
+        0.859
+      ],
+      "shadow": 0.3
+    },
+    {
+      "id": "toy_horse",
+      "sprite": "nesneler/kule/toy_horse.png",
+      "x": 0.63,
+      "y": 0.4768,
+      "height": 0.0224,
+      "brightness": 0.982,
+      "tint": [
+        1.102,
+        1.0,
+        0.899
+      ],
+      "shadow": 0.37
+    },
+    {
+      "id": "thread_spool",
+      "sprite": "nesneler/kule/thread_spool.png",
+      "x": 0.49,
+      "y": 0.7186,
+      "height": 0.0168,
+      "brightness": 0.939,
+      "tint": [
+        1.12,
+        1.003,
+        0.85
+      ],
+      "shadow": 0.34
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.61,
+    "y": 0.395,
+    "height": 0.02
+  }
+}

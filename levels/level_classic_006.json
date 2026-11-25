@@ -1,0 +1,191 @@
+{
+  "levelId": 6,
+  "sceneId": "lizbon",
+  "scene": "sahneler/lizbon/scene.webp",
+  "depth": "sahneler/lizbon/depth.png",
+  "mode": "classic",
+  "objectCount": 12,
+  "timePerObjectSec": 15,
+  "silhouetteCount": 0,
+  "camouflage": "light",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "ceramic_rooster",
+      "sprite": "nesneler/lizbon/ceramic_rooster.png",
+      "x": 0.88,
+      "y": 0.1574,
+      "height": 0.0152,
+      "brightness": 0.844,
+      "tint": [
+        1.051,
+        0.992,
+        0.957
+      ],
+      "shadow": 0.29
+    },
+    {
+      "id": "sugar_bowl",
+      "sprite": "nesneler/lizbon/sugar_bowl.png",
+      "x": 0.45,
+      "y": 0.3053,
+      "height": 0.0135,
+      "brightness": 0.826,
+      "tint": [
+        1.054,
+        0.987,
+        0.959
+      ],
+      "shadow": 0.28
+    },
+    {
+      "id": "custard_tarts",
+      "sprite": "nesneler/lizbon/custard_tarts.png",
+      "x": 0.93,
+      "y": 0.3112,
+      "height": 0.0136,
+      "brightness": 0.836,
+      "tint": [
+        1.065,
+        0.991,
+        0.944
+      ],
+      "shadow": 0.29
+    },
+    {
+      "id": "lifebuoy",
+      "sprite": "nesneler/lizbon/lifebuoy.png",
+      "x": 0.835,
+      "y": 0.5076,
+      "height": 0.0247,
+      "brightness": 0.911,
+      "tint": [
+        1.074,
+        0.998,
+        0.928
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "beach_umbrella",
+      "sprite": "nesneler/lizbon/beach_umbrella.png",
+      "x": 0.745,
+      "y": 0.4172,
+      "height": 0.0356,
+      "brightness": 0.919,
+      "tint": [
+        1.042,
+        0.99,
+        0.969
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "patent_shoes",
+      "sprite": "nesneler/lizbon/patent_shoes.png",
+      "x": 0.44,
+      "y": 0.4955,
+      "height": 0.019,
+      "brightness": 0.919,
+      "tint": [
+        1.022,
+        0.993,
+        0.985
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "portuguese_guitar",
+      "sprite": "nesneler/lizbon/portuguese_guitar.png",
+      "x": 0.455,
+      "y": 0.6115,
+      "height": 0.0331,
+      "brightness": 0.917,
+      "tint": [
+        1.054,
+        0.995,
+        0.952
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "wine_demijohn",
+      "sprite": "nesneler/lizbon/wine_demijohn.png",
+      "x": 0.71,
+      "y": 0.6509,
+      "height": 0.0341,
+      "brightness": 0.913,
+      "tint": [
+        1.044,
+        0.986,
+        0.97
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "sardine_tins",
+      "sprite": "nesneler/lizbon/sardine_tins.png",
+      "x": 0.86,
+      "y": 0.6557,
+      "height": 0.0186,
+      "brightness": 0.977,
+      "tint": [
+        1.025,
+        0.991,
+        0.984
+      ],
+      "shadow": 0.36
+    },
+    {
+      "id": "cabbage_bowl",
+      "sprite": "nesneler/lizbon/cabbage_bowl.png",
+      "x": 0.12,
+      "y": 0.5828,
+      "height": 0.0205,
+      "brightness": 0.934,
+      "tint": [
+        1.072,
+        0.987,
+        0.942
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "scooter_helmet",
+      "sprite": "nesneler/lizbon/scooter_helmet.png",
+      "x": 0.33,
+      "y": 0.6595,
+      "height": 0.0249,
+      "brightness": 0.939,
+      "tint": [
+        1.054,
+        0.998,
+        0.948
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "cork_handbag",
+      "sprite": "nesneler/lizbon/cork_handbag.png",
+      "x": 0.19,
+      "y": 0.6442,
+      "height": 0.0215,
+      "brightness": 0.853,
+      "tint": [
+        1.077,
+        0.998,
+        0.925
+      ],
+      "shadow": 0.3
+    }
+  ],
+  "peek": {
+    "sprite": "peek/el_sallayan.png",
+    "x": 0.92,
+    "y": 0.235,
+    "height": 0.025
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "levelId": 15,
+  "sceneId": "japon_tapinak",
+  "scene": "sahneler/japon_tapinak/scene.webp",
+  "depth": "sahneler/japon_tapinak/depth.png",
+  "mode": "lantern",
+  "objectCount": 10,
+  "timePerObjectSec": 14,
+  "silhouetteCount": 2,
+  "camouflage": "light",
+  "objectScale": 1,
+  "isBreather": true,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "bento_kutusu",
+      "sprite": "nesneler/japon_tapinak/bento_kutusu.png",
+      "x": 0.28,
+      "y": 0.5496,
+      "height": 0.0208,
+      "brightness": 0.873,
+      "tint": [
+        1.068,
+        1.01,
+        0.921
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "geta_terlik",
+      "sprite": "nesneler/japon_tapinak/geta_terlik.png",
+      "x": 0.33,
+      "y": 0.7621,
+      "height": 0.0257,
+      "brightness": 0.893,
+      "tint": [
+        1.036,
+        1.014,
+        0.95
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "origami_turna",
+      "sprite": "nesneler/japon_tapinak/origami_turna.png",
+      "x": 0.15,
+      "y": 0.3554,
+      "height": 0.0192,
+      "brightness": 0.889,
+      "tint": [
+        1.008,
+        1.013,
+        0.979
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "kokeshi_bebek",
+      "sprite": "nesneler/japon_tapinak/kokeshi_bebek.png",
+      "x": 0.42,
+      "y": 0.6911,
+      "height": 0.0279,
+      "brightness": 0.822,
+      "tint": [
+        1.104,
+        1.004,
+        0.893
+      ],
+      "shadow": 0.28
+    },
+    {
+      "id": "sake_takimi",
+      "sprite": "nesneler/japon_tapinak/sake_takimi.png",
+      "x": 0.6,
+      "y": 0.7522,
+      "height": 0.0255,
+      "brightness": 0.895,
+      "tint": [
+        1.072,
+        0.988,
+        0.94
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "oni_maskesi",
+      "sprite": "nesneler/japon_tapinak/oni_maskesi.png",
+      "x": 0.505,
+      "y": 0.3511,
+      "height": 0.0179,
+      "brightness": 0.887,
+      "tint": [
+        1.082,
+        0.975,
+        0.943
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "sansli_kedi",
+      "sprite": "nesneler/japon_tapinak/sansli_kedi.png",
+      "x": 0.74,
+      "y": 0.2319,
+      "height": 0.0161,
+      "brightness": 0.894,
+      "tint": [
+        1.044,
+        0.998,
+        0.958
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "onigiri",
+      "sprite": "nesneler/japon_tapinak/onigiri.png",
+      "x": 0.9,
+      "y": 0.2386,
+      "height": 0.0127,
+      "brightness": 0.895,
+      "tint": [
+        1.027,
+        1.011,
+        0.962
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "ruzgar_cani",
+      "sprite": "nesneler/japon_tapinak/ruzgar_cani.png",
+      "x": 0.805,
+      "y": 0.439,
+      "height": 0.022,
+      "brightness": 0.891,
+      "tint": [
+        1.049,
+        0.994,
+        0.958
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "daruma",
+      "sprite": "nesneler/japon_tapinak/daruma.png",
+      "x": 0.1,
+      "y": 0.4404,
+      "height": 0.0192,
+      "brightness": 0.78,
+      "tint": [
+        1.12,
+        0.973,
+        0.85
+      ],
+      "shadow": 0.26
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.27,
+    "y": 0.145,
+    "height": 0.02
+  },
+  "sceneSize": [
+    6720,
+    6144
+  ],
+  "tiles": {
+    "lo": [
+      {
+        "path": "sahneler/japon_tapinak/scene_2048.webp",
+        "rect": [
+          0,
+          0,
+          1,
+          1
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "path": "sahneler/japon_tapinak/tile_hi_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          0.500298,
+          0.500326
+        ]
+      },
+      {
+        "path": "sahneler/japon_tapinak/tile_hi_0_1.webp",
+        "rect": [
+          0.499702,
+          0.0,
+          0.500298,
+          0.500326
+        ]
+      },
+      {
+        "path": "sahneler/japon_tapinak/tile_hi_1_0.webp",
+        "rect": [
+          0.0,
+          0.499674,
+          0.500298,
+          0.500326
+        ]
+      },
+      {
+        "path": "sahneler/japon_tapinak/tile_hi_1_1.webp",
+        "rect": [
+          0.499702,
+          0.499674,
+          0.500298,
+          0.500326
+        ]
+      }
+    ]
+  },
+  "lantern": {
+    "radius": 0.22,
+    "start": [
+      0.5,
+      0.58
+    ]
+  }
+}

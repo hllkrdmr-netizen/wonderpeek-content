@@ -1,0 +1,191 @@
+{
+  "levelId": 8,
+  "sceneId": "gok_adalar",
+  "scene": "sahneler/gok_adalar/scene.webp",
+  "depth": "sahneler/gok_adalar/depth.png",
+  "mode": "classic",
+  "objectCount": 12,
+  "timePerObjectSec": 15,
+  "silhouetteCount": 0,
+  "camouflage": "light",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "weather_vane",
+      "sprite": "nesneler/gok_adalar/weather_vane.png",
+      "x": 0.585,
+      "y": 0.214,
+      "height": 0.024,
+      "brightness": 1.015,
+      "tint": [
+        0.977,
+        0.998,
+        1.025
+      ],
+      "shadow": 0.39
+    },
+    {
+      "id": "anemometer",
+      "sprite": "nesneler/gok_adalar/anemometer.png",
+      "x": 0.71,
+      "y": 0.2083,
+      "height": 0.0173,
+      "brightness": 0.993,
+      "tint": [
+        1.012,
+        0.998,
+        0.99
+      ],
+      "shadow": 0.37
+    },
+    {
+      "id": "backpack",
+      "sprite": "nesneler/gok_adalar/backpack.png",
+      "x": 0.455,
+      "y": 0.3074,
+      "height": 0.0191,
+      "brightness": 0.9,
+      "tint": [
+        1.056,
+        1.015,
+        0.93
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "bird_nest",
+      "sprite": "nesneler/gok_adalar/bird_nest.png",
+      "x": 0.18,
+      "y": 0.3606,
+      "height": 0.0188,
+      "brightness": 0.966,
+      "tint": [
+        1.022,
+        1.004,
+        0.973
+      ],
+      "shadow": 0.36
+    },
+    {
+      "id": "deck_chair",
+      "sprite": "nesneler/gok_adalar/deck_chair.png",
+      "x": 0.79,
+      "y": 0.6165,
+      "height": 0.031,
+      "brightness": 0.894,
+      "tint": [
+        1.105,
+        1.002,
+        0.893
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "firefly_jar",
+      "sprite": "nesneler/gok_adalar/firefly_jar.png",
+      "x": 0.43,
+      "y": 0.7184,
+      "height": 0.0232,
+      "brightness": 0.926,
+      "tint": [
+        1.059,
+        1.011,
+        0.93
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "pilot_cap",
+      "sprite": "nesneler/gok_adalar/pilot_cap.png",
+      "x": 0.57,
+      "y": 0.5249,
+      "height": 0.0201,
+      "brightness": 0.943,
+      "tint": [
+        1.042,
+        0.997,
+        0.961
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "pinwheel",
+      "sprite": "nesneler/gok_adalar/pinwheel.png",
+      "x": 0.42,
+      "y": 0.5058,
+      "height": 0.0284,
+      "brightness": 0.958,
+      "tint": [
+        1.078,
+        1.009,
+        0.913
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "sunflower_pot",
+      "sprite": "nesneler/gok_adalar/sunflower_pot.png",
+      "x": 0.1,
+      "y": 0.6161,
+      "height": 0.0278,
+      "brightness": 0.885,
+      "tint": [
+        1.086,
+        1.007,
+        0.907
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "toy_biplane",
+      "sprite": "nesneler/gok_adalar/toy_biplane.png",
+      "x": 0.5,
+      "y": 0.4145,
+      "height": 0.0211,
+      "brightness": 0.95,
+      "tint": [
+        1.05,
+        0.999,
+        0.951
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "toy_rocket",
+      "sprite": "nesneler/gok_adalar/toy_rocket.png",
+      "x": 0.94,
+      "y": 0.2073,
+      "height": 0.0195,
+      "brightness": 0.913,
+      "tint": [
+        1.072,
+        1.008,
+        0.92
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "wind_chime",
+      "sprite": "nesneler/gok_adalar/wind_chime.png",
+      "x": 0.6,
+      "y": 0.3025,
+      "height": 0.019,
+      "brightness": 0.918,
+      "tint": [
+        1.066,
+        1.005,
+        0.929
+      ],
+      "shadow": 0.33
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.085,
+    "y": 0.255,
+    "height": 0.02
+  }
+}

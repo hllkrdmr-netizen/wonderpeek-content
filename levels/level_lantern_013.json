@@ -1,0 +1,254 @@
+{
+  "levelId": 13,
+  "sceneId": "batik_sehir",
+  "scene": "sahneler/batik_sehir/scene.webp",
+  "depth": "sahneler/batik_sehir/depth.png",
+  "mode": "lantern",
+  "objectCount": 12,
+  "timePerObjectSec": 14,
+  "silhouetteCount": 2,
+  "camouflage": "medium",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "sekstant",
+      "sprite": "nesneler/batik_sehir/sekstant.png",
+      "x": 0.22,
+      "y": 0.0761,
+      "height": 0.0118,
+      "brightness": 0.857,
+      "tint": [
+        1.1,
+        0.999,
+        0.901
+      ],
+      "shadow": 0.3
+    },
+    {
+      "id": "gozluk",
+      "sprite": "nesneler/batik_sehir/gozluk.png",
+      "x": 0.335,
+      "y": 0.0778,
+      "height": 0.0105,
+      "brightness": 0.906,
+      "tint": [
+        1.037,
+        1.001,
+        0.962
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "cam_samandira",
+      "sprite": "nesneler/batik_sehir/cam_samandira.png",
+      "x": 0.93,
+      "y": 0.0827,
+      "height": 0.0105,
+      "brightness": 0.877,
+      "tint": [
+        0.97,
+        1.007,
+        1.023
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "yengec",
+      "sprite": "nesneler/batik_sehir/yengec.png",
+      "x": 0.1,
+      "y": 0.2305,
+      "height": 0.011,
+      "brightness": 0.809,
+      "tint": [
+        0.925,
+        1.022,
+        1.054
+      ],
+      "shadow": 0.28
+    },
+    {
+      "id": "denizati",
+      "sprite": "nesneler/batik_sehir/denizati.png",
+      "x": 0.9,
+      "y": 0.4925,
+      "height": 0.015,
+      "brightness": 0.802,
+      "tint": [
+        0.94,
+        1.06,
+        1.0
+      ],
+      "shadow": 0.27
+    },
+    {
+      "id": "lir",
+      "sprite": "nesneler/batik_sehir/lir.png",
+      "x": 0.955,
+      "y": 0.5973,
+      "height": 0.0155,
+      "brightness": 0.832,
+      "tint": [
+        0.993,
+        1.012,
+        0.994
+      ],
+      "shadow": 0.29
+    },
+    {
+      "id": "deniz_kestanesi",
+      "sprite": "nesneler/batik_sehir/deniz_kestanesi.png",
+      "x": 0.47,
+      "y": 0.6046,
+      "height": 0.0108,
+      "brightness": 0.884,
+      "tint": [
+        0.85,
+        1.052,
+        1.1
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "porselen_demlik",
+      "sprite": "nesneler/batik_sehir/porselen_demlik.png",
+      "x": 0.62,
+      "y": 0.5539,
+      "height": 0.0122,
+      "brightness": 0.936,
+      "tint": [
+        1.001,
+        1.028,
+        0.971
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "yakut_yuzuk",
+      "sprite": "nesneler/batik_sehir/yakut_yuzuk.png",
+      "x": 0.1,
+      "y": 0.6413,
+      "height": 0.0094,
+      "brightness": 0.972,
+      "tint": [
+        1.084,
+        0.985,
+        0.932
+      ],
+      "shadow": 0.36
+    },
+    {
+      "id": "defne_taci",
+      "sprite": "nesneler/batik_sehir/defne_taci.png",
+      "x": 0.2,
+      "y": 0.7128,
+      "height": 0.0144,
+      "brightness": 0.891,
+      "tint": [
+        0.949,
+        1.016,
+        1.034
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "altin_tarak",
+      "sprite": "nesneler/batik_sehir/altin_tarak.png",
+      "x": 0.85,
+      "y": 0.7735,
+      "height": 0.013,
+      "brightness": 0.837,
+      "tint": [
+        0.97,
+        1.029,
+        1.002
+      ],
+      "shadow": 0.29
+    },
+    {
+      "id": "siseli_mesaj",
+      "sprite": "nesneler/batik_sehir/siseli_mesaj.png",
+      "x": 0.93,
+      "y": 0.7378,
+      "height": 0.0145,
+      "brightness": 0.907,
+      "tint": [
+        0.924,
+        1.033,
+        1.043
+      ],
+      "shadow": 0.32
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.62,
+    "y": 0.41,
+    "height": 0.012
+  },
+  "sceneSize": [
+    4096,
+    10364
+  ],
+  "tiles": {
+    "lo": [
+      {
+        "path": "sahneler/batik_sehir/tile_lo_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          1.0,
+          0.500386
+        ]
+      },
+      {
+        "path": "sahneler/batik_sehir/tile_lo_1_0.webp",
+        "rect": [
+          0.0,
+          0.499614,
+          1.0,
+          0.500386
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "path": "sahneler/batik_sehir/tile_hi_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          1.0,
+          0.333558
+        ]
+      },
+      {
+        "path": "sahneler/batik_sehir/tile_hi_1_0.webp",
+        "rect": [
+          0.0,
+          0.333173,
+          1.0,
+          0.333655
+        ]
+      },
+      {
+        "path": "sahneler/batik_sehir/tile_hi_2_0.webp",
+        "rect": [
+          0.0,
+          0.666442,
+          1.0,
+          0.333558
+        ]
+      }
+    ]
+  },
+  "lantern": {
+    "radius": 0.22,
+    "start": [
+      0.45,
+      0.68
+    ],
+    "darkness": 0.96
+  }
+}

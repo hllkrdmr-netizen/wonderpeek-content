@@ -1,0 +1,198 @@
+{
+  "levelId": 6,
+  "sceneId": "firavun",
+  "scene": "sahneler/firavun/scene.webp",
+  "depth": "sahneler/firavun/depth.png",
+  "mode": "lantern",
+  "objectCount": 12,
+  "timePerObjectSec": 17,
+  "silhouetteCount": 0,
+  "camouflage": "light",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "kobra",
+      "sprite": "nesneler/firavun/kobra.png",
+      "x": 0.66,
+      "y": 0.1931,
+      "height": 0.0238,
+      "brightness": 0.854,
+      "tint": [
+        0.994,
+        0.991,
+        1.015
+      ],
+      "shadow": 0.3
+    },
+    {
+      "id": "kedi_heykeli",
+      "sprite": "nesneler/firavun/kedi_heykeli.png",
+      "x": 0.555,
+      "y": 0.1235,
+      "height": 0.0231,
+      "brightness": 0.78,
+      "tint": [
+        1.12,
+        0.988,
+        0.869
+      ],
+      "shadow": 0.26
+    },
+    {
+      "id": "maat_tuyu",
+      "sprite": "nesneler/firavun/maat_tuyu.png",
+      "x": 0.34,
+      "y": 0.284,
+      "height": 0.022,
+      "brightness": 0.89,
+      "tint": [
+        1.089,
+        0.986,
+        0.925
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "sistrum",
+      "sprite": "nesneler/firavun/sistrum.png",
+      "x": 0.43,
+      "y": 0.2442,
+      "height": 0.0216,
+      "brightness": 0.78,
+      "tint": [
+        1.12,
+        0.977,
+        0.851
+      ],
+      "shadow": 0.26
+    },
+    {
+      "id": "sahin_kolye",
+      "sprite": "nesneler/firavun/sahin_kolye.png",
+      "x": 0.53,
+      "y": 0.4191,
+      "height": 0.0219,
+      "brightness": 0.938,
+      "tint": [
+        1.108,
+        0.989,
+        0.902
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "asa",
+      "sprite": "nesneler/firavun/asa.png",
+      "x": 0.06,
+      "y": 0.3232,
+      "height": 0.0337,
+      "brightness": 0.897,
+      "tint": [
+        1.108,
+        0.996,
+        0.896
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "papirus",
+      "sprite": "nesneler/firavun/papirus.png",
+      "x": 0.08,
+      "y": 0.4945,
+      "height": 0.021,
+      "brightness": 0.874,
+      "tint": [
+        1.12,
+        0.983,
+        0.85
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "nilufer",
+      "sprite": "nesneler/firavun/nilufer.png",
+      "x": 0.49,
+      "y": 0.5542,
+      "height": 0.0215,
+      "brightness": 0.845,
+      "tint": [
+        1.025,
+        1.01,
+        0.965
+      ],
+      "shadow": 0.29
+    },
+    {
+      "id": "senet_oyunu",
+      "sprite": "nesneler/firavun/senet_oyunu.png",
+      "x": 0.665,
+      "y": 0.5044,
+      "height": 0.0211,
+      "brightness": 0.915,
+      "tint": [
+        1.111,
+        0.999,
+        0.89
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "nil_teknesi",
+      "sprite": "nesneler/firavun/nil_teknesi.png",
+      "x": 0.75,
+      "y": 0.4567,
+      "height": 0.0267,
+      "brightness": 0.924,
+      "tint": [
+        1.073,
+        0.995,
+        0.932
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "ayna",
+      "sprite": "nesneler/firavun/ayna.png",
+      "x": 0.045,
+      "y": 0.8313,
+      "height": 0.0273,
+      "brightness": 0.827,
+      "tint": [
+        1.085,
+        0.984,
+        0.93
+      ],
+      "shadow": 0.28
+    },
+    {
+      "id": "surme_kabi",
+      "sprite": "nesneler/firavun/surme_kabi.png",
+      "x": 0.035,
+      "y": 0.6504,
+      "height": 0.0192,
+      "brightness": 0.913,
+      "tint": [
+        1.08,
+        0.988,
+        0.932
+      ],
+      "shadow": 0.33
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.77,
+    "y": 0.302,
+    "height": 0.02
+  },
+  "lantern": {
+    "radius": 0.22,
+    "start": [
+      0.85,
+      0.66
+    ]
+  }
+}

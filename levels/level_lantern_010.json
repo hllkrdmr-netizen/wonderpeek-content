@@ -1,0 +1,170 @@
+{
+  "levelId": 10,
+  "sceneId": "istasyon",
+  "scene": "sahneler/istasyon/scene.webp",
+  "depth": "sahneler/istasyon/depth.png",
+  "mode": "lantern",
+  "objectCount": 10,
+  "timePerObjectSec": 17,
+  "silhouetteCount": 0,
+  "camouflage": "none",
+  "objectScale": 1,
+  "isBreather": true,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "guvercin",
+      "sprite": "nesneler/istasyon/guvercin.png",
+      "x": 0.24,
+      "y": 0.1894,
+      "height": 0.0211,
+      "brightness": 0.848,
+      "tint": [
+        0.967,
+        1.04,
+        0.993
+      ],
+      "shadow": 0.29
+    },
+    {
+      "id": "yag_kabi",
+      "sprite": "nesneler/istasyon/yag_kabi.png",
+      "x": 0.79,
+      "y": 0.3743,
+      "height": 0.0215,
+      "brightness": 0.836,
+      "tint": [
+        1.079,
+        0.978,
+        0.943
+      ],
+      "shadow": 0.29
+    },
+    {
+      "id": "oyuncak_ayi",
+      "sprite": "nesneler/istasyon/oyuncak_ayi.png",
+      "x": 0.12,
+      "y": 0.6544,
+      "height": 0.0272,
+      "brightness": 0.846,
+      "tint": [
+        1.111,
+        0.998,
+        0.891
+      ],
+      "shadow": 0.29
+    },
+    {
+      "id": "eldivenler",
+      "sprite": "nesneler/istasyon/eldivenler.png",
+      "x": 0.12,
+      "y": 0.3344,
+      "height": 0.0211,
+      "brightness": 0.827,
+      "tint": [
+        1.053,
+        1.031,
+        0.916
+      ],
+      "shadow": 0.28
+    },
+    {
+      "id": "kutu_kamera",
+      "sprite": "nesneler/istasyon/kutu_kamera.png",
+      "x": 0.38,
+      "y": 0.4589,
+      "height": 0.0222,
+      "brightness": 0.867,
+      "tint": [
+        1.032,
+        1.007,
+        0.961
+      ],
+      "shadow": 0.3
+    },
+    {
+      "id": "ingiliz_anahtari",
+      "sprite": "nesneler/istasyon/ingiliz_anahtari.png",
+      "x": 0.3,
+      "y": 0.8322,
+      "height": 0.0256,
+      "brightness": 0.86,
+      "tint": [
+        1.12,
+        1.01,
+        0.87
+      ],
+      "shadow": 0.3
+    },
+    {
+      "id": "semsiye",
+      "sprite": "nesneler/istasyon/semsiye.png",
+      "x": 0.51,
+      "y": 0.4507,
+      "height": 0.0385,
+      "brightness": 0.864,
+      "tint": [
+        1.002,
+        1.014,
+        0.983
+      ],
+      "shadow": 0.3
+    },
+    {
+      "id": "duduk",
+      "sprite": "nesneler/istasyon/duduk.png",
+      "x": 0.64,
+      "y": 0.6106,
+      "height": 0.0189,
+      "brightness": 0.868,
+      "tint": [
+        1.048,
+        0.993,
+        0.959
+      ],
+      "shadow": 0.3
+    },
+    {
+      "id": "kondoktor_sapkasi",
+      "sprite": "nesneler/istasyon/kondoktor_sapkasi.png",
+      "x": 0.45,
+      "y": 0.3302,
+      "height": 0.0197,
+      "brightness": 0.894,
+      "tint": [
+        0.979,
+        1.022,
+        1.0
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "bilet_zimbasi",
+      "sprite": "nesneler/istasyon/bilet_zimbasi.png",
+      "x": 0.215,
+      "y": 0.6898,
+      "height": 0.0243,
+      "brightness": 0.883,
+      "tint": [
+        1.102,
+        0.992,
+        0.905
+      ],
+      "shadow": 0.31
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.22,
+    "y": 0.29,
+    "height": 0.02
+  },
+  "lantern": {
+    "radius": 0.22,
+    "start": [
+      0.7,
+      0.22
+    ]
+  }
+}

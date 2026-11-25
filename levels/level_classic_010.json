@@ -1,0 +1,163 @@
+{
+  "levelId": 10,
+  "sceneId": "venedik",
+  "scene": "sahneler/venedik/scene.webp",
+  "depth": "sahneler/venedik/depth.png",
+  "mode": "classic",
+  "objectCount": 10,
+  "timePerObjectSec": 15,
+  "silhouetteCount": 0,
+  "camouflage": "none",
+  "objectScale": 1,
+  "isBreather": true,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "spaghetti",
+      "sprite": "nesneler/venedik/spaghetti.png",
+      "x": 0.31,
+      "y": 0.5961,
+      "height": 0.0217,
+      "brightness": 0.939,
+      "tint": [
+        1.074,
+        0.984,
+        0.942
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "straw_hat",
+      "sprite": "nesneler/venedik/straw_hat.png",
+      "x": 0.36,
+      "y": 0.3252,
+      "height": 0.0196,
+      "brightness": 0.928,
+      "tint": [
+        1.072,
+        0.98,
+        0.948
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "velvet_cushion",
+      "sprite": "nesneler/venedik/velvet_cushion.png",
+      "x": 0.36,
+      "y": 0.6946,
+      "height": 0.0268,
+      "brightness": 0.984,
+      "tint": [
+        1.057,
+        0.988,
+        0.954
+      ],
+      "shadow": 0.37
+    },
+    {
+      "id": "mandolin",
+      "sprite": "nesneler/venedik/mandolin.png",
+      "x": 0.57,
+      "y": 0.7179,
+      "height": 0.0341,
+      "brightness": 0.933,
+      "tint": [
+        1.046,
+        0.992,
+        0.962
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "gelato",
+      "sprite": "nesneler/venedik/gelato.png",
+      "x": 0.84,
+      "y": 0.5743,
+      "height": 0.0214,
+      "brightness": 0.842,
+      "tint": [
+        1.12,
+        0.986,
+        0.893
+      ],
+      "shadow": 0.29
+    },
+    {
+      "id": "globe",
+      "sprite": "nesneler/venedik/globe.png",
+      "x": 0.73,
+      "y": 0.243,
+      "height": 0.018,
+      "brightness": 0.896,
+      "tint": [
+        1.082,
+        0.978,
+        0.941
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "moka_pot",
+      "sprite": "nesneler/venedik/moka_pot.png",
+      "x": 0.4,
+      "y": 0.7736,
+      "height": 0.0248,
+      "brightness": 0.964,
+      "tint": [
+        1.051,
+        0.996,
+        0.954
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "tambourine",
+      "sprite": "nesneler/venedik/tambourine.png",
+      "x": 0.6,
+      "y": 0.4454,
+      "height": 0.0192,
+      "brightness": 0.954,
+      "tint": [
+        1.072,
+        0.987,
+        0.942
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "murano_fish",
+      "sprite": "nesneler/venedik/murano_fish.png",
+      "x": 0.55,
+      "y": 0.2818,
+      "height": 0.0164,
+      "brightness": 0.97,
+      "tint": [
+        1.077,
+        0.994,
+        0.929
+      ],
+      "shadow": 0.36
+    },
+    {
+      "id": "opera_gloves",
+      "sprite": "nesneler/venedik/opera_gloves.png",
+      "x": 0.12,
+      "y": 0.5446,
+      "height": 0.0209,
+      "brightness": 0.852,
+      "tint": [
+        1.097,
+        0.978,
+        0.924
+      ],
+      "shadow": 0.3
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.88,
+    "y": 0.355,
+    "height": 0.02
+  }
+}

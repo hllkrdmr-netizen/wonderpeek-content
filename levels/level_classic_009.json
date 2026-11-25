@@ -1,0 +1,191 @@
+{
+  "levelId": 9,
+  "sceneId": "paris",
+  "scene": "sahneler/paris/scene.webp",
+  "depth": "sahneler/paris/depth.png",
+  "mode": "classic",
+  "objectCount": 12,
+  "timePerObjectSec": 15,
+  "silhouetteCount": 0,
+  "camouflage": "light",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "macaron_tower",
+      "sprite": "nesneler/paris/macaron_tower.png",
+      "x": 0.2,
+      "y": 0.5667,
+      "height": 0.0226,
+      "brightness": 0.914,
+      "tint": [
+        1.105,
+        0.983,
+        0.912
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "cheese",
+      "sprite": "nesneler/paris/cheese.png",
+      "x": 0.82,
+      "y": 0.5456,
+      "height": 0.0208,
+      "brightness": 0.891,
+      "tint": [
+        1.12,
+        0.997,
+        0.864
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "beret",
+      "sprite": "nesneler/paris/beret.png",
+      "x": 0.4,
+      "y": 0.3372,
+      "height": 0.0177,
+      "brightness": 0.986,
+      "tint": [
+        1.08,
+        0.993,
+        0.927
+      ],
+      "shadow": 0.37
+    },
+    {
+      "id": "gramophone",
+      "sprite": "nesneler/paris/gramophone.png",
+      "x": 0.33,
+      "y": 0.2308,
+      "height": 0.0184,
+      "brightness": 0.973,
+      "tint": [
+        1.046,
+        0.995,
+        0.959
+      ],
+      "shadow": 0.36
+    },
+    {
+      "id": "hatbox",
+      "sprite": "nesneler/paris/hatbox.png",
+      "x": 0.33,
+      "y": 0.7613,
+      "height": 0.0274,
+      "brightness": 0.934,
+      "tint": [
+        1.096,
+        0.999,
+        0.906
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "alarm_clock",
+      "sprite": "nesneler/paris/alarm_clock.png",
+      "x": 0.87,
+      "y": 0.3173,
+      "height": 0.0174,
+      "brightness": 0.911,
+      "tint": [
+        1.083,
+        0.991,
+        0.926
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "camera",
+      "sprite": "nesneler/paris/camera.png",
+      "x": 0.47,
+      "y": 0.629,
+      "height": 0.022,
+      "brightness": 0.999,
+      "tint": [
+        1.044,
+        0.996,
+        0.96
+      ],
+      "shadow": 0.38
+    },
+    {
+      "id": "lace_fan",
+      "sprite": "nesneler/paris/lace_fan.png",
+      "x": 0.73,
+      "y": 0.5828,
+      "height": 0.0244,
+      "brightness": 0.912,
+      "tint": [
+        1.071,
+        0.991,
+        0.938
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "opera_glasses",
+      "sprite": "nesneler/paris/opera_glasses.png",
+      "x": 0.44,
+      "y": 0.7451,
+      "height": 0.0237,
+      "brightness": 0.91,
+      "tint": [
+        1.093,
+        0.999,
+        0.908
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "rotary_phone",
+      "sprite": "nesneler/paris/rotary_phone.png",
+      "x": 0.39,
+      "y": 0.5635,
+      "height": 0.021,
+      "brightness": 0.959,
+      "tint": [
+        1.09,
+        0.993,
+        0.917
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "sealed_letter",
+      "sprite": "nesneler/paris/sealed_letter.png",
+      "x": 0.36,
+      "y": 0.6544,
+      "height": 0.0192,
+      "brightness": 1.02,
+      "tint": [
+        1.041,
+        0.991,
+        0.968
+      ],
+      "shadow": 0.41
+    },
+    {
+      "id": "ballet_slippers",
+      "sprite": "nesneler/paris/ballet_slippers.png",
+      "x": 0.58,
+      "y": 0.5119,
+      "height": 0.0203,
+      "brightness": 0.977,
+      "tint": [
+        1.075,
+        0.993,
+        0.932
+      ],
+      "shadow": 0.36
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.22,
+    "y": 0.21,
+    "height": 0.02
+  }
+}

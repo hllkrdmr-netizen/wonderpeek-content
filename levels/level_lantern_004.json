@@ -1,0 +1,198 @@
+{
+  "levelId": 4,
+  "sceneId": "fener_koy",
+  "scene": "sahneler/fener_koy/scene.webp",
+  "depth": "sahneler/fener_koy/depth.png",
+  "mode": "lantern",
+  "objectCount": 12,
+  "timePerObjectSec": 17,
+  "silhouetteCount": 0,
+  "camouflage": "light",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "golden_key",
+      "sprite": "nesneler/fener_koy/golden_key.png",
+      "x": 0.3,
+      "y": 0.653,
+      "height": 0.024,
+      "brightness": 0.991,
+      "tint": [
+        1.12,
+        0.993,
+        0.885
+      ],
+      "shadow": 0.37
+    },
+    {
+      "id": "violin",
+      "sprite": "nesneler/fener_koy/violin.png",
+      "x": 0.335,
+      "y": 0.4661,
+      "height": 0.0238,
+      "brightness": 1.02,
+      "tint": [
+        0.992,
+        1.053,
+        0.955
+      ],
+      "shadow": 0.39
+    },
+    {
+      "id": "rocking_chair",
+      "sprite": "nesneler/fener_koy/rocking_chair.png",
+      "x": 0.8,
+      "y": 0.3116,
+      "height": 0.0209,
+      "brightness": 0.954,
+      "tint": [
+        1.117,
+        1.002,
+        0.882
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "red_rose",
+      "sprite": "nesneler/fener_koy/red_rose.png",
+      "x": 0.63,
+      "y": 0.5929,
+      "height": 0.0282,
+      "brightness": 0.873,
+      "tint": [
+        1.069,
+        1.026,
+        0.905
+      ],
+      "shadow": 0.3
+    },
+    {
+      "id": "pocket_compass",
+      "sprite": "nesneler/fener_koy/pocket_compass.png",
+      "x": 0.4,
+      "y": 0.5956,
+      "height": 0.0188,
+      "brightness": 1.001,
+      "tint": [
+        1.12,
+        0.996,
+        0.85
+      ],
+      "shadow": 0.38
+    },
+    {
+      "id": "scarf",
+      "sprite": "nesneler/fener_koy/scarf.png",
+      "x": 0.62,
+      "y": 0.3152,
+      "height": 0.0195,
+      "brightness": 0.974,
+      "tint": [
+        1.083,
+        1.017,
+        0.9
+      ],
+      "shadow": 0.36
+    },
+    {
+      "id": "perfume_bottle",
+      "sprite": "nesneler/fener_koy/perfume_bottle.png",
+      "x": 0.86,
+      "y": 0.5351,
+      "height": 0.0199,
+      "brightness": 0.999,
+      "tint": [
+        1.12,
+        1.007,
+        0.85
+      ],
+      "shadow": 0.38
+    },
+    {
+      "id": "birdcage",
+      "sprite": "nesneler/fener_koy/birdcage.png",
+      "x": 0.3,
+      "y": 0.3758,
+      "height": 0.0244,
+      "brightness": 0.87,
+      "tint": [
+        1.12,
+        1.008,
+        0.872
+      ],
+      "shadow": 0.3
+    },
+    {
+      "id": "paint_palette",
+      "sprite": "nesneler/fener_koy/paint_palette.png",
+      "x": 0.48,
+      "y": 0.6737,
+      "height": 0.0226,
+      "brightness": 0.965,
+      "tint": [
+        1.086,
+        1.008,
+        0.906
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "lavender_vase",
+      "sprite": "nesneler/fener_koy/lavender_vase.png",
+      "x": 0.555,
+      "y": 0.493,
+      "height": 0.024,
+      "brightness": 0.997,
+      "tint": [
+        1.12,
+        1.012,
+        0.863
+      ],
+      "shadow": 0.37
+    },
+    {
+      "id": "magnifying_glass",
+      "sprite": "nesneler/fener_koy/magnifying_glass.png",
+      "x": 0.27,
+      "y": 0.78,
+      "height": 0.0201,
+      "brightness": 1.02,
+      "tint": [
+        1.12,
+        0.995,
+        0.881
+      ],
+      "shadow": 0.42
+    },
+    {
+      "id": "toy_wagon",
+      "sprite": "nesneler/fener_koy/toy_wagon.png",
+      "x": 0.76,
+      "y": 0.5727,
+      "height": 0.0186,
+      "brightness": 1.02,
+      "tint": [
+        1.087,
+        1.011,
+        0.902
+      ],
+      "shadow": 0.4
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.43,
+    "y": 0.375,
+    "height": 0.022
+  },
+  "lantern": {
+    "radius": 0.22,
+    "start": [
+      0.14,
+      0.25
+    ]
+  }
+}

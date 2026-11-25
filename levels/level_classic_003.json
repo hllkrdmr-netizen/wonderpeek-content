@@ -1,0 +1,135 @@
+{
+  "levelId": 3,
+  "sceneId": "fener",
+  "scene": "sahneler/fener/scene.webp",
+  "depth": "sahneler/fener/depth.png",
+  "mode": "classic",
+  "objectCount": 8,
+  "timePerObjectSec": 20,
+  "silhouetteCount": 0,
+  "camouflage": "none",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "oil_can",
+      "sprite": "nesneler/fener/oil_can.png",
+      "x": 0.615,
+      "y": 0.225,
+      "height": 0.0221,
+      "brightness": 0.91,
+      "tint": [
+        1.08,
+        0.989,
+        0.931
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "kettle",
+      "sprite": "nesneler/fener/kettle.png",
+      "x": 0.555,
+      "y": 0.4608,
+      "height": 0.0223,
+      "brightness": 0.896,
+      "tint": [
+        1.12,
+        0.992,
+        0.876
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "anchor",
+      "sprite": "nesneler/fener/anchor.png",
+      "x": 0.27,
+      "y": 0.7438,
+      "height": 0.0323,
+      "brightness": 0.935,
+      "tint": [
+        1.079,
+        0.994,
+        0.926
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "enamel_mug",
+      "sprite": "nesneler/fener/enamel_mug.png",
+      "x": 0.672,
+      "y": 0.2846,
+      "height": 0.0169,
+      "brightness": 1.02,
+      "tint": [
+        1.048,
+        0.994,
+        0.958
+      ],
+      "shadow": 0.41
+    },
+    {
+      "id": "rain_hat",
+      "sprite": "nesneler/fener/rain_hat.png",
+      "x": 0.8,
+      "y": 0.401,
+      "height": 0.0219,
+      "brightness": 0.965,
+      "tint": [
+        1.082,
+        0.995,
+        0.923
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "diving_helmet",
+      "sprite": "nesneler/fener/diving_helmet.png",
+      "x": 0.36,
+      "y": 0.598,
+      "height": 0.0279,
+      "brightness": 0.906,
+      "tint": [
+        1.107,
+        0.994,
+        0.899
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "harmonica",
+      "sprite": "nesneler/fener/harmonica.png",
+      "x": 0.24,
+      "y": 0.5476,
+      "height": 0.0168,
+      "brightness": 0.88,
+      "tint": [
+        1.119,
+        0.997,
+        0.884
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "rubber_boot",
+      "sprite": "nesneler/fener/rubber_boot.png",
+      "x": 0.56,
+      "y": 0.6616,
+      "height": 0.0268,
+      "brightness": 0.854,
+      "tint": [
+        1.12,
+        0.983,
+        0.889
+      ],
+      "shadow": 0.3
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.315,
+    "y": 0.42,
+    "height": 0.022
+  }
+}

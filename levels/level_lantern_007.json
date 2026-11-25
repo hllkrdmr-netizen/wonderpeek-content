@@ -1,0 +1,198 @@
+{
+  "levelId": 7,
+  "sceneId": "korsan",
+  "scene": "sahneler/korsan/scene.webp",
+  "depth": "sahneler/korsan/depth.png",
+  "mode": "lantern",
+  "objectCount": 12,
+  "timePerObjectSec": 17,
+  "silhouetteCount": 0,
+  "camouflage": "light",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "goz_bandi",
+      "sprite": "nesneler/korsan/goz_bandi.png",
+      "x": 0.55,
+      "y": 0.2754,
+      "height": 0.0192,
+      "brightness": 0.928,
+      "tint": [
+        1.047,
+        0.996,
+        0.957
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "korsan_sapkasi",
+      "sprite": "nesneler/korsan/korsan_sapkasi.png",
+      "x": 0.66,
+      "y": 0.284,
+      "height": 0.022,
+      "brightness": 0.912,
+      "tint": [
+        0.95,
+        1.006,
+        1.044
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "anahtar",
+      "sprite": "nesneler/korsan/anahtar.png",
+      "x": 0.49,
+      "y": 0.2157,
+      "height": 0.0187,
+      "brightness": 0.78,
+      "tint": [
+        1.047,
+        0.992,
+        0.962
+      ],
+      "shadow": 0.27
+    },
+    {
+      "id": "papagan",
+      "sprite": "nesneler/korsan/papagan.png",
+      "x": 0.2,
+      "y": 0.2627,
+      "height": 0.0246,
+      "brightness": 0.919,
+      "tint": [
+        1.12,
+        0.975,
+        0.9
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "pala",
+      "sprite": "nesneler/korsan/pala.png",
+      "x": 0.36,
+      "y": 0.2365,
+      "height": 0.027,
+      "brightness": 0.909,
+      "tint": [
+        1.113,
+        0.994,
+        0.893
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "sisede_gemi",
+      "sprite": "nesneler/korsan/sisede_gemi.png",
+      "x": 0.68,
+      "y": 0.488,
+      "height": 0.024,
+      "brightness": 0.925,
+      "tint": [
+        0.915,
+        1.034,
+        1.051
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "capa",
+      "sprite": "nesneler/korsan/capa.png",
+      "x": 0.8,
+      "y": 0.4915,
+      "height": 0.0271,
+      "brightness": 0.917,
+      "tint": [
+        1.046,
+        0.997,
+        0.957
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "dumen",
+      "sprite": "nesneler/korsan/dumen.png",
+      "x": 0.88,
+      "y": 0.4318,
+      "height": 0.0264,
+      "brightness": 0.944,
+      "tint": [
+        1.107,
+        0.983,
+        0.91
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "gemi_cani",
+      "sprite": "nesneler/korsan/gemi_cani.png",
+      "x": 0.06,
+      "y": 0.3885,
+      "height": 0.023,
+      "brightness": 0.938,
+      "tint": [
+        1.12,
+        0.979,
+        0.87
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "barut_boynuzu",
+      "sprite": "nesneler/korsan/barut_boynuzu.png",
+      "x": 0.35,
+      "y": 0.4581,
+      "height": 0.0237,
+      "brightness": 0.932,
+      "tint": [
+        1.098,
+        1.001,
+        0.901
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "tabanca",
+      "sprite": "nesneler/korsan/tabanca.png",
+      "x": 0.1,
+      "y": 0.7716,
+      "height": 0.0267,
+      "brightness": 0.928,
+      "tint": [
+        1.12,
+        0.985,
+        0.865
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "kanca",
+      "sprite": "nesneler/korsan/kanca.png",
+      "x": 0.95,
+      "y": 0.6588,
+      "height": 0.0224,
+      "brightness": 0.87,
+      "tint": [
+        1.084,
+        0.986,
+        0.93
+      ],
+      "shadow": 0.3
+    }
+  ],
+  "peek": {
+    "sprite": "peek/uyuyan.png",
+    "x": 0.075,
+    "y": 0.235,
+    "height": 0.02
+  },
+  "lantern": {
+    "radius": 0.22,
+    "start": [
+      0.42,
+      0.64
+    ]
+  }
+}
