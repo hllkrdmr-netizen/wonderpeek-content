@@ -1,0 +1,377 @@
+{
+  "levelId": 1,
+  "sceneId": "saatci",
+  "scene": "sahneler/saatci/scene.webp",
+  "depth": "sahneler/saatci/depth.png",
+  "mode": "closeup",
+  "objectCount": 8,
+  "timePerObjectSec": 22,
+  "silhouetteCount": 0,
+  "camouflage": "none",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": false,
+  "objects": [
+    {
+      "id": "kum_saati",
+      "sprite": "nesneler/saatci/kum_saati.png",
+      "x": 0.435,
+      "y": 0.3768,
+      "height": 0.0143,
+      "brightness": 0.881,
+      "tint": [
+        1.112,
+        0.984,
+        0.904
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "mekanik_kus",
+      "sprite": "nesneler/saatci/mekanik_kus.png",
+      "x": 0.845,
+      "y": 0.3955,
+      "height": 0.013,
+      "brightness": 1.012,
+      "tint": [
+        1.086,
+        0.991,
+        0.923
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "cep_saati",
+      "sprite": "nesneler/saatci/cep_saati.png",
+      "x": 0.52,
+      "y": 0.6347,
+      "height": 0.0127,
+      "brightness": 1.02,
+      "tint": [
+        1.046,
+        1.011,
+        0.944
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "pusula",
+      "sprite": "nesneler/saatci/pusula.png",
+      "x": 0.545,
+      "y": 0.2852,
+      "height": 0.0096,
+      "brightness": 1.02,
+      "tint": [
+        1.067,
+        1.002,
+        0.931
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "monokl",
+      "sprite": "nesneler/saatci/monokl.png",
+      "x": 0.22,
+      "y": 0.6161,
+      "height": 0.0118,
+      "brightness": 0.997,
+      "tint": [
+        1.056,
+        0.998,
+        0.946
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "yagdanlik",
+      "sprite": "nesneler/saatci/yagdanlik.png",
+      "x": 0.865,
+      "y": 0.5285,
+      "height": 0.0129,
+      "brightness": 0.935,
+      "tint": [
+        1.12,
+        0.982,
+        0.895
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "enfiye_kutusu",
+      "sprite": "nesneler/saatci/enfiye_kutusu.png",
+      "x": 0.875,
+      "y": 0.6552,
+      "height": 0.0096,
+      "brightness": 0.916,
+      "tint": [
+        1.104,
+        0.991,
+        0.904
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "saat_anahtari",
+      "sprite": "nesneler/saatci/saat_anahtari.png",
+      "x": 0.36,
+      "y": 0.6225,
+      "height": 0.011,
+      "brightness": 0.976,
+      "tint": [
+        1.023,
+        1.016,
+        0.96
+      ],
+      "shadow": 0.32
+    }
+  ],
+  "peek": {
+    "sprite": "peek/buyutecli.png",
+    "x": 0.255,
+    "y": 0.455,
+    "height": 0.03
+  },
+  "magnifier": {
+    "diameter": 0.4,
+    "zoom": 3,
+    "start": [
+      0.5,
+      0.45
+    ],
+    "frame": "arayuz/buyutec.webp",
+    "frameHole": [
+      0.3803,
+      0.3503,
+      0.2927
+    ],
+    "frameGrip": {
+      "ring": 0.3855,
+      "handle": [
+        0.2342,
+        0.2927,
+        0.6017,
+        0.694
+      ],
+      "handleHalf": 0.0628
+    },
+    "tiles": [
+      {
+        "path": "sahneler/saatci/lens_0_0.webp",
+        "rect": [
+          0,
+          0,
+          0.250488,
+          0.166992
+        ]
+      },
+      {
+        "path": "sahneler/saatci/lens_0_1.webp",
+        "rect": [
+          0.249512,
+          0,
+          0.250977,
+          0.166992
+        ]
+      },
+      {
+        "path": "sahneler/saatci/lens_0_2.webp",
+        "rect": [
+          0.499512,
+          0,
+          0.250977,
+          0.166992
+        ]
+      },
+      {
+        "path": "sahneler/saatci/lens_0_3.webp",
+        "rect": [
+          0.749512,
+          0,
+          0.250488,
+          0.166992
+        ]
+      },
+      {
+        "path": "sahneler/saatci/lens_1_0.webp",
+        "rect": [
+          0,
+          0.166341,
+          0.250488,
+          0.167318
+        ]
+      },
+      {
+        "path": "sahneler/saatci/lens_1_1.webp",
+        "rect": [
+          0.249512,
+          0.166341,
+          0.250977,
+          0.167318
+        ]
+      },
+      {
+        "path": "sahneler/saatci/lens_1_2.webp",
+        "rect": [
+          0.499512,
+          0.166341,
+          0.250977,
+          0.167318
+        ]
+      },
+      {
+        "path": "sahneler/saatci/lens_1_3.webp",
+        "rect": [
+          0.749512,
+          0.166341,
+          0.250488,
+          0.167318
+        ]
+      },
+      {
+        "path": "sahneler/saatci/lens_2_0.webp",
+        "rect": [
+          0,
+          0.333008,
+          0.250488,
+          0.167318
+        ]
+      },
+      {
+        "path": "sahneler/saatci/lens_2_1.webp",
+        "rect": [
+          0.249512,
+          0.333008,
+          0.250977,
+          0.167318
+        ]
+      },
+      {
+        "path": "sahneler/saatci/lens_2_2.webp",
+        "rect": [
+          0.499512,
+          0.333008,
+          0.250977,
+          0.167318
+        ]
+      },
+      {
+        "path": "sahneler/saatci/lens_2_3.webp",
+        "rect": [
+          0.749512,
+          0.333008,
+          0.250488,
+          0.167318
+        ]
+      },
+      {
+        "path": "sahneler/saatci/lens_3_0.webp",
+        "rect": [
+          0,
+          0.499674,
+          0.250488,
+          0.167318
+        ]
+      },
+      {
+        "path": "sahneler/saatci/lens_3_1.webp",
+        "rect": [
+          0.249512,
+          0.499674,
+          0.250977,
+          0.167318
+        ]
+      },
+      {
+        "path": "sahneler/saatci/lens_3_2.webp",
+        "rect": [
+          0.499512,
+          0.499674,
+          0.250977,
+          0.167318
+        ]
+      },
+      {
+        "path": "sahneler/saatci/lens_3_3.webp",
+        "rect": [
+          0.749512,
+          0.499674,
+          0.250488,
+          0.167318
+        ]
+      },
+      {
+        "path": "sahneler/saatci/lens_4_0.webp",
+        "rect": [
+          0,
+          0.666341,
+          0.250488,
+          0.167318
+        ]
+      },
+      {
+        "path": "sahneler/saatci/lens_4_1.webp",
+        "rect": [
+          0.249512,
+          0.666341,
+          0.250977,
+          0.167318
+        ]
+      },
+      {
+        "path": "sahneler/saatci/lens_4_2.webp",
+        "rect": [
+          0.499512,
+          0.666341,
+          0.250977,
+          0.167318
+        ]
+      },
+      {
+        "path": "sahneler/saatci/lens_4_3.webp",
+        "rect": [
+          0.749512,
+          0.666341,
+          0.250488,
+          0.167318
+        ]
+      },
+      {
+        "path": "sahneler/saatci/lens_5_0.webp",
+        "rect": [
+          0,
+          0.833008,
+          0.250488,
+          0.166992
+        ]
+      },
+      {
+        "path": "sahneler/saatci/lens_5_1.webp",
+        "rect": [
+          0.249512,
+          0.833008,
+          0.250977,
+          0.166992
+        ]
+      },
+      {
+        "path": "sahneler/saatci/lens_5_2.webp",
+        "rect": [
+          0.499512,
+          0.833008,
+          0.250977,
+          0.166992
+        ]
+      },
+      {
+        "path": "sahneler/saatci/lens_5_3.webp",
+        "rect": [
+          0.749512,
+          0.833008,
+          0.250488,
+          0.166992
+        ]
+      }
+    ]
+  }
+}

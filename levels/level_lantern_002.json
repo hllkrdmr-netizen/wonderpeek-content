@@ -1,0 +1,142 @@
+{
+  "levelId": 2,
+  "sceneId": "maden",
+  "scene": "sahneler/maden/scene.webp",
+  "depth": "sahneler/maden/depth.png",
+  "mode": "lantern",
+  "objectCount": 8,
+  "timePerObjectSec": 22,
+  "silhouetteCount": 0,
+  "camouflage": "none",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "canary_cage",
+      "sprite": "nesneler/maden/canary_cage.png",
+      "x": 0.12,
+      "y": 0.766,
+      "height": 0.018,
+      "brightness": 0.818,
+      "tint": [
+        1.061,
+        0.964,
+        0.974
+      ],
+      "shadow": 0.28
+    },
+    {
+      "id": "knitted_bear",
+      "sprite": "nesneler/maden/knitted_bear.png",
+      "x": 0.9,
+      "y": 0.397,
+      "height": 0.016,
+      "brightness": 0.839,
+      "tint": [
+        1.103,
+        0.988,
+        0.909
+      ],
+      "shadow": 0.29
+    },
+    {
+      "id": "peppermint_jar",
+      "sprite": "nesneler/maden/peppermint_jar.png",
+      "x": 0.345,
+      "y": 0.3825,
+      "height": 0.013,
+      "brightness": 0.841,
+      "tint": [
+        1.112,
+        0.989,
+        0.898
+      ],
+      "shadow": 0.29
+    },
+    {
+      "id": "red_mittens",
+      "sprite": "nesneler/maden/red_mittens.png",
+      "x": 0.7,
+      "y": 0.3035,
+      "height": 0.013,
+      "brightness": 0.855,
+      "tint": [
+        1.114,
+        0.987,
+        0.899
+      ],
+      "shadow": 0.3
+    },
+    {
+      "id": "miner_helmet",
+      "sprite": "nesneler/maden/miner_helmet.png",
+      "x": 0.8,
+      "y": 0.473,
+      "height": 0.014,
+      "brightness": 0.841,
+      "tint": [
+        1.081,
+        0.989,
+        0.931
+      ],
+      "shadow": 0.29
+    },
+    {
+      "id": "yellow_raincoat",
+      "sprite": "nesneler/maden/yellow_raincoat.png",
+      "x": 0.05,
+      "y": 0.681,
+      "height": 0.018,
+      "brightness": 0.871,
+      "tint": [
+        1.096,
+        0.988,
+        0.916
+      ],
+      "shadow": 0.3
+    },
+    {
+      "id": "silver_ladle",
+      "sprite": "nesneler/maden/silver_ladle.png",
+      "x": 0.17,
+      "y": 0.288,
+      "height": 0.016,
+      "brightness": 0.835,
+      "tint": [
+        1.11,
+        0.98,
+        0.91
+      ],
+      "shadow": 0.29
+    },
+    {
+      "id": "wash_basin",
+      "sprite": "nesneler/maden/wash_basin.png",
+      "x": 0.38,
+      "y": 0.7105,
+      "height": 0.015,
+      "brightness": 0.841,
+      "tint": [
+        1.026,
+        0.995,
+        0.979
+      ],
+      "shadow": 0.29
+    }
+  ],
+  "peek": {
+    "sprite": "peek/uyuyan.png",
+    "x": 0.7,
+    "y": 0.4,
+    "height": 0.02
+  },
+  "lantern": {
+    "radius": 0.22,
+    "start": [
+      0.6,
+      0.12
+    ]
+  }
+}

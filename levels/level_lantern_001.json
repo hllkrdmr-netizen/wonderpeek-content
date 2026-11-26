@@ -1,0 +1,142 @@
+{
+  "levelId": 1,
+  "sceneId": "gece_sokak",
+  "scene": "sahneler/gece_sokak/scene.webp",
+  "depth": "sahneler/gece_sokak/depth.png",
+  "mode": "lantern",
+  "objectCount": 8,
+  "timePerObjectSec": 22,
+  "silhouetteCount": 0,
+  "camouflage": "none",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": false,
+  "objects": [
+    {
+      "id": "baykus",
+      "sprite": "nesneler/gece_sokak/baykus.png",
+      "x": 0.36,
+      "y": 0.249,
+      "height": 0.0261,
+      "brightness": 0.901,
+      "tint": [
+        1.12,
+        0.981,
+        0.899
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "mum",
+      "sprite": "nesneler/gece_sokak/mum.png",
+      "x": 0.3,
+      "y": 0.6862,
+      "height": 0.0276,
+      "brightness": 0.994,
+      "tint": [
+        1.059,
+        0.994,
+        0.947
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "kese",
+      "sprite": "nesneler/gece_sokak/kese.png",
+      "x": 0.7,
+      "y": 0.522,
+      "height": 0.026,
+      "brightness": 0.945,
+      "tint": [
+        1.004,
+        0.99,
+        1.006
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "oyuncak_tekne",
+      "sprite": "nesneler/gece_sokak/oyuncak_tekne.png",
+      "x": 0.87,
+      "y": 0.6725,
+      "height": 0.031,
+      "brightness": 0.89,
+      "tint": [
+        1.07,
+        0.983,
+        0.947
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "mektup",
+      "sprite": "nesneler/gece_sokak/mektup.png",
+      "x": 0.52,
+      "y": 0.5809,
+      "height": 0.0182,
+      "brightness": 0.974,
+      "tint": [
+        0.99,
+        0.988,
+        1.022
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "zil",
+      "sprite": "nesneler/gece_sokak/zil.png",
+      "x": 0.37,
+      "y": 0.6003,
+      "height": 0.0234,
+      "brightness": 0.948,
+      "tint": [
+        1.049,
+        0.999,
+        0.952
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "durbun",
+      "sprite": "nesneler/gece_sokak/durbun.png",
+      "x": 0.6,
+      "y": 0.4954,
+      "height": 0.0192,
+      "brightness": 0.944,
+      "tint": [
+        1.015,
+        0.992,
+        0.993
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "gozluk",
+      "sprite": "nesneler/gece_sokak/gozluk.png",
+      "x": 0.745,
+      "y": 0.6174,
+      "height": 0.0151,
+      "brightness": 0.864,
+      "tint": [
+        1.033,
+        0.984,
+        0.983
+      ],
+      "shadow": 0.32
+    }
+  ],
+  "peek": {
+    "sprite": "peek/uyuyan.png",
+    "x": 0.905,
+    "y": 0.345,
+    "height": 0.022
+  },
+  "lantern": {
+    "radius": 0.22,
+    "start": [
+      0.5,
+      0.42
+    ]
+  }
+}

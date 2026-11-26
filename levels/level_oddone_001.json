@@ -1,0 +1,107 @@
+{
+  "levelId": 1,
+  "sceneId": "balikci_limani",
+  "scene": "sahneler/balikci_limani/scene.webp",
+  "depth": "sahneler/balikci_limani/depth.png",
+  "mode": "oddone",
+  "objectCount": 6,
+  "timePerObjectSec": 30,
+  "silhouetteCount": 0,
+  "camouflage": "none",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": false,
+  "objects": [
+    {
+      "id": "penguen",
+      "sprite": "nesneler/balikci_limani/penguen.png",
+      "x": 0.73,
+      "y": 0.5612,
+      "height": 0.0416,
+      "brightness": 0.9,
+      "tint": [
+        1.056,
+        0.988,
+        0.956
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "kardan_adam",
+      "sprite": "nesneler/balikci_limani/kardan_adam.png",
+      "x": 0.47,
+      "y": 0.4057,
+      "height": 0.0385,
+      "brightness": 0.957,
+      "tint": [
+        1.059,
+        0.996,
+        0.945
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "flamingo",
+      "sprite": "nesneler/balikci_limani/flamingo.png",
+      "x": 0.9,
+      "y": 0.2671,
+      "height": 0.0357,
+      "brightness": 0.935,
+      "tint": [
+        1.026,
+        1.002,
+        0.972
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "deve",
+      "sprite": "nesneler/balikci_limani/deve.png",
+      "x": 0.57,
+      "y": 0.2461,
+      "height": 0.0317,
+      "brightness": 0.965,
+      "tint": [
+        1.058,
+        0.996,
+        0.946
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "sovalye_migferi",
+      "sprite": "nesneler/balikci_limani/sovalye_migferi.png",
+      "x": 0.33,
+      "y": 0.493,
+      "height": 0.0241,
+      "brightness": 0.911,
+      "tint": [
+        1.105,
+        0.992,
+        0.903
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "yilbasi_agaci",
+      "sprite": "nesneler/balikci_limani/yilbasi_agaci.png",
+      "x": 0.21,
+      "y": 0.3494,
+      "height": 0.0411,
+      "brightness": 0.93,
+      "tint": [
+        1.053,
+        0.987,
+        0.96
+      ],
+      "shadow": 0.32
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.785,
+    "y": 0.252,
+    "height": 0.02
+  }
+}

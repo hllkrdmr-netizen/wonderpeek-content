@@ -1,0 +1,135 @@
+{
+  "levelId": 2,
+  "sceneId": "antikaci",
+  "scene": "sahneler/antikaci/scene.webp",
+  "depth": "sahneler/antikaci/depth.png",
+  "mode": "classic",
+  "objectCount": 8,
+  "timePerObjectSec": 20,
+  "silhouetteCount": 0,
+  "camouflage": "none",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "chess_pieces",
+      "sprite": "nesneler/antikaci/chess_pieces.png",
+      "x": 0.497,
+      "y": 0.5201,
+      "height": 0.0258,
+      "brightness": 0.96,
+      "tint": [
+        1.101,
+        0.996,
+        0.903
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "jeweled_egg",
+      "sprite": "nesneler/antikaci/jeweled_egg.png",
+      "x": 0.452,
+      "y": 0.5996,
+      "height": 0.0248,
+      "brightness": 0.913,
+      "tint": [
+        1.11,
+        0.979,
+        0.911
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "ring_box",
+      "sprite": "nesneler/antikaci/ring_box.png",
+      "x": 0.612,
+      "y": 0.6027,
+      "height": 0.0186,
+      "brightness": 1.02,
+      "tint": [
+        1.089,
+        0.988,
+        0.923
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "perfume_atomizer",
+      "sprite": "nesneler/antikaci/perfume_atomizer.png",
+      "x": 0.808,
+      "y": 0.6006,
+      "height": 0.0248,
+      "brightness": 0.863,
+      "tint": [
+        1.076,
+        1.004,
+        0.92
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "kid_gloves",
+      "sprite": "nesneler/antikaci/kid_gloves.png",
+      "x": 0.268,
+      "y": 0.2366,
+      "height": 0.0208,
+      "brightness": 0.923,
+      "tint": [
+        1.12,
+        0.965,
+        0.91
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "cherub",
+      "sprite": "nesneler/antikaci/cherub.png",
+      "x": 0.222,
+      "y": 0.116,
+      "height": 0.024,
+      "brightness": 0.886,
+      "tint": [
+        1.103,
+        0.997,
+        0.901
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "walking_cane",
+      "sprite": "nesneler/antikaci/walking_cane.png",
+      "x": 0.372,
+      "y": 0.6904,
+      "height": 0.0511,
+      "brightness": 0.966,
+      "tint": [
+        1.1,
+        0.987,
+        0.912
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "lace_parasol",
+      "sprite": "nesneler/antikaci/lace_parasol.png",
+      "x": 0.705,
+      "y": 0.6239,
+      "height": 0.0423,
+      "brightness": 0.963,
+      "tint": [
+        1.088,
+        0.99,
+        0.922
+      ],
+      "shadow": 0.32
+    }
+  ],
+  "peek": {
+    "sprite": "peek/oturan.png",
+    "x": 0.655,
+    "y": 0.296,
+    "height": 0.022
+  }
+}

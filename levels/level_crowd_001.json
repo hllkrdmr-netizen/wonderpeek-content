@@ -1,0 +1,183 @@
+{
+  "levelId": 1,
+  "sceneId": "festival",
+  "scene": "sahneler/festival/scene.webp",
+  "depth": "sahneler/festival/depth.png",
+  "mode": "crowd",
+  "objectCount": 8,
+  "timePerObjectSec": 25,
+  "silhouetteCount": 0,
+  "camouflage": "none",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": false,
+  "objects": [
+    {
+      "id": "trompetci",
+      "sprite": "nesneler/festival/trompetci.png",
+      "x": 0.43,
+      "y": 0.6563,
+      "height": 0.0973,
+      "brightness": 0.962,
+      "tint": [
+        1.085,
+        0.985,
+        0.93
+      ],
+      "shadow": 0.32,
+      "trayCrop": [
+        0.0431,
+        0.0,
+        0.7608,
+        0.4492
+      ]
+    },
+    {
+      "id": "semsiyeli_kadin",
+      "sprite": "nesneler/festival/semsiyeli_kadin.png",
+      "x": 0.625,
+      "y": 0.5595,
+      "height": 0.081,
+      "brightness": 0.971,
+      "tint": [
+        1.075,
+        0.99,
+        0.935
+      ],
+      "shadow": 0.32,
+      "trayCrop": [
+        0.1274,
+        0.0,
+        0.7406,
+        0.4473
+      ]
+    },
+    {
+      "id": "turist",
+      "sprite": "nesneler/festival/turist.png",
+      "x": 0.7,
+      "y": 0.4439,
+      "height": 0.0522,
+      "brightness": 0.952,
+      "tint": [
+        1.063,
+        0.991,
+        0.946
+      ],
+      "shadow": 0.32,
+      "trayCrop": [
+        0.0938,
+        0.0,
+        0.7009,
+        0.4499
+      ]
+    },
+    {
+      "id": "postaci",
+      "sprite": "nesneler/festival/postaci.png",
+      "x": 0.27,
+      "y": 0.4936,
+      "height": 0.0628,
+      "brightness": 0.929,
+      "tint": [
+        1.083,
+        0.991,
+        0.926
+      ],
+      "shadow": 0.32,
+      "trayCrop": [
+        0.2009,
+        0.0,
+        0.6681,
+        0.4487
+      ]
+    },
+    {
+      "id": "garson",
+      "sprite": "nesneler/festival/garson.png",
+      "x": 0.83,
+      "y": 0.5659,
+      "height": 0.0781,
+      "brightness": 0.98,
+      "tint": [
+        1.079,
+        0.992,
+        0.929
+      ],
+      "shadow": 0.32,
+      "trayCrop": [
+        0.1167,
+        0.0,
+        0.675,
+        0.45
+      ]
+    },
+    {
+      "id": "firinci",
+      "sprite": "nesneler/festival/firinci.png",
+      "x": 0.195,
+      "y": 0.5614,
+      "height": 0.0772,
+      "brightness": 0.927,
+      "tint": [
+        1.096,
+        0.99,
+        0.915
+      ],
+      "shadow": 0.32,
+      "trayCrop": [
+        0.0981,
+        0.0,
+        0.7336,
+        0.4499
+      ]
+    },
+    {
+      "id": "kedili_kiz",
+      "sprite": "nesneler/festival/kedili_kiz.png",
+      "x": 0.615,
+      "y": 0.378,
+      "height": 0.034,
+      "brightness": 0.961,
+      "tint": [
+        1.052,
+        0.991,
+        0.957
+      ],
+      "shadow": 0.32,
+      "trayCrop": [
+        0.0821,
+        0.0,
+        0.7436,
+        0.4489
+      ]
+    },
+    {
+      "id": "ressam",
+      "sprite": "nesneler/festival/ressam.png",
+      "x": 0.36,
+      "y": 0.4122,
+      "height": 0.0455,
+      "brightness": 0.926,
+      "tint": [
+        1.091,
+        0.989,
+        0.92
+      ],
+      "shadow": 0.32,
+      "trayCrop": [
+        0.05,
+        0.0,
+        0.765,
+        0.45
+      ]
+    }
+  ],
+  "peek": {
+    "sprite": "peek/el_sallayan.png",
+    "x": 0.12,
+    "y": 0.262,
+    "height": 0.024
+  }
+}
