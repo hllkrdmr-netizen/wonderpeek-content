@@ -1,0 +1,350 @@
+{
+  "levelId": 14,
+  "sceneId": "riad",
+  "scene": "sahneler/riad/scene.webp",
+  "depth": "sahneler/riad/depth.png",
+  "mode": "classic",
+  "objectCount": 15,
+  "timePerObjectSec": 13,
+  "silhouetteCount": 3,
+  "camouflage": "medium",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "moroccan_teapot",
+      "sprite": "nesneler/riad/moroccan_teapot.png",
+      "x": 0.42,
+      "y": 0.1263,
+      "height": 0.0175,
+      "brightness": 0.904,
+      "tint": [
+        1.116,
+        0.967,
+        0.917
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "straw_fedora",
+      "sprite": "nesneler/riad/straw_fedora.png",
+      "x": 0.6,
+      "y": 0.1325,
+      "height": 0.019,
+      "brightness": 0.938,
+      "tint": [
+        1.082,
+        0.986,
+        0.932
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "olive_bowl",
+      "sprite": "nesneler/riad/olive_bowl.png",
+      "x": 0.3,
+      "y": 0.2854,
+      "height": 0.0152,
+      "brightness": 0.913,
+      "tint": [
+        1.12,
+        0.982,
+        0.879
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "spice_bowl",
+      "sprite": "nesneler/riad/spice_bowl.png",
+      "x": 0.66,
+      "y": 0.2887,
+      "height": 0.0167,
+      "brightness": 0.947,
+      "tint": [
+        1.12,
+        0.981,
+        0.898
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "silver_mirror",
+      "sprite": "nesneler/riad/silver_mirror.png",
+      "x": 0.8,
+      "y": 0.2558,
+      "height": 0.0184,
+      "brightness": 0.871,
+      "tint": [
+        1.12,
+        0.992,
+        0.869
+      ],
+      "shadow": 0.3
+    },
+    {
+      "id": "velvet_pouch",
+      "sprite": "nesneler/riad/velvet_pouch.png",
+      "x": 0.47,
+      "y": 0.2974,
+      "height": 0.0151,
+      "brightness": 0.926,
+      "tint": [
+        1.08,
+        0.987,
+        0.933
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "bead_strand",
+      "sprite": "nesneler/riad/bead_strand.png",
+      "x": 0.22,
+      "y": 0.4872,
+      "height": 0.0157,
+      "brightness": 0.887,
+      "tint": [
+        1.12,
+        0.984,
+        0.894
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "ebony_elephant",
+      "sprite": "nesneler/riad/ebony_elephant.png",
+      "x": 0.47,
+      "y": 0.4894,
+      "height": 0.0171,
+      "brightness": 0.909,
+      "tint": [
+        1.096,
+        0.994,
+        0.91
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "camel_figurine",
+      "sprite": "nesneler/riad/camel_figurine.png",
+      "x": 0.7,
+      "y": 0.4671,
+      "height": 0.0158,
+      "brightness": 0.921,
+      "tint": [
+        1.104,
+        0.991,
+        0.905
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "tagine_pot",
+      "sprite": "nesneler/riad/tagine_pot.png",
+      "x": 0.62,
+      "y": 0.6168,
+      "height": 0.0164,
+      "brightness": 0.903,
+      "tint": [
+        1.12,
+        0.993,
+        0.873
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "leather_pouf",
+      "sprite": "nesneler/riad/leather_pouf.png",
+      "x": 0.28,
+      "y": 0.6385,
+      "height": 0.019,
+      "brightness": 0.865,
+      "tint": [
+        1.12,
+        0.971,
+        0.875
+      ],
+      "shadow": 0.3
+    },
+    {
+      "id": "goblet_drum",
+      "sprite": "nesneler/riad/goblet_drum.png",
+      "x": 0.78,
+      "y": 0.6555,
+      "height": 0.0189,
+      "brightness": 0.897,
+      "tint": [
+        1.12,
+        0.979,
+        0.883
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "fig_plate",
+      "sprite": "nesneler/riad/fig_plate.png",
+      "x": 0.4,
+      "y": 0.7371,
+      "height": 0.0158,
+      "brightness": 0.948,
+      "tint": [
+        1.058,
+        0.999,
+        0.943
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "babouche_slippers",
+      "sprite": "nesneler/riad/babouche_slippers.png",
+      "x": 0.76,
+      "y": 0.7766,
+      "height": 0.0169,
+      "brightness": 0.983,
+      "tint": [
+        1.072,
+        0.994,
+        0.934
+      ],
+      "shadow": 0.37
+    },
+    {
+      "id": "dove_cage",
+      "sprite": "nesneler/riad/dove_cage.png",
+      "x": 0.3,
+      "y": 0.7796,
+      "height": 0.0207,
+      "brightness": 0.934,
+      "tint": [
+        1.074,
+        1.001,
+        0.925
+      ],
+      "shadow": 0.34
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.55,
+    "y": 0.7,
+    "height": 0.02
+  },
+  "sceneTiles": {
+    "size": [
+      2730,
+      4095
+    ],
+    "preview": "sahneler/riad/game/preview.webp",
+    "tiles": [
+      {
+        "path": "sahneler/riad/game/t_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          0.334066,
+          0.250549
+        ]
+      },
+      {
+        "path": "sahneler/riad/game/t_0_1.webp",
+        "rect": [
+          0.332601,
+          0.0,
+          0.334799,
+          0.250549
+        ]
+      },
+      {
+        "path": "sahneler/riad/game/t_0_2.webp",
+        "rect": [
+          0.665934,
+          0.0,
+          0.334066,
+          0.250549
+        ]
+      },
+      {
+        "path": "sahneler/riad/game/t_1_0.webp",
+        "rect": [
+          0.0,
+          0.249573,
+          0.334066,
+          0.251038
+        ]
+      },
+      {
+        "path": "sahneler/riad/game/t_1_1.webp",
+        "rect": [
+          0.332601,
+          0.249573,
+          0.334799,
+          0.251038
+        ]
+      },
+      {
+        "path": "sahneler/riad/game/t_1_2.webp",
+        "rect": [
+          0.665934,
+          0.249573,
+          0.334066,
+          0.251038
+        ]
+      },
+      {
+        "path": "sahneler/riad/game/t_2_0.webp",
+        "rect": [
+          0.0,
+          0.499634,
+          0.334066,
+          0.250794
+        ]
+      },
+      {
+        "path": "sahneler/riad/game/t_2_1.webp",
+        "rect": [
+          0.332601,
+          0.499634,
+          0.334799,
+          0.250794
+        ]
+      },
+      {
+        "path": "sahneler/riad/game/t_2_2.webp",
+        "rect": [
+          0.665934,
+          0.499634,
+          0.334066,
+          0.250794
+        ]
+      },
+      {
+        "path": "sahneler/riad/game/t_3_0.webp",
+        "rect": [
+          0.0,
+          0.749451,
+          0.334066,
+          0.250549
+        ]
+      },
+      {
+        "path": "sahneler/riad/game/t_3_1.webp",
+        "rect": [
+          0.332601,
+          0.749451,
+          0.334799,
+          0.250549
+        ]
+      },
+      {
+        "path": "sahneler/riad/game/t_3_2.webp",
+        "rect": [
+          0.665934,
+          0.749451,
+          0.334066,
+          0.250549
+        ]
+      }
+    ]
+  }
+}

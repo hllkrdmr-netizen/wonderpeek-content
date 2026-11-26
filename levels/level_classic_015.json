@@ -1,0 +1,294 @@
+{
+  "levelId": 15,
+  "sceneId": "kis_kutup",
+  "scene": "sahneler/kis_kutup/scene.webp",
+  "depth": "sahneler/kis_kutup/depth.png",
+  "mode": "classic",
+  "objectCount": 11,
+  "timePerObjectSec": 14,
+  "silhouetteCount": 2,
+  "camouflage": "light",
+  "objectScale": 1,
+  "isBreather": true,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "trapper_hat",
+      "sprite": "nesneler/kis_kutup/trapper_hat.png",
+      "x": 0.42,
+      "y": 0.2947,
+      "height": 0.0146,
+      "brightness": 0.925,
+      "tint": [
+        1.096,
+        0.996,
+        0.909
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "glass_float",
+      "sprite": "nesneler/kis_kutup/glass_float.png",
+      "x": 0.72,
+      "y": 0.3287,
+      "height": 0.0125,
+      "brightness": 0.941,
+      "tint": [
+        0.905,
+        0.988,
+        1.107
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "toy_seaplane",
+      "sprite": "nesneler/kis_kutup/toy_seaplane.png",
+      "x": 0.76,
+      "y": 0.4205,
+      "height": 0.0189,
+      "brightness": 1.002,
+      "tint": [
+        1.008,
+        0.986,
+        1.006
+      ],
+      "shadow": 0.38
+    },
+    {
+      "id": "milk_churn",
+      "sprite": "nesneler/kis_kutup/milk_churn.png",
+      "x": 0.14,
+      "y": 0.4509,
+      "height": 0.0222,
+      "brightness": 0.915,
+      "tint": [
+        1.094,
+        0.994,
+        0.912
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "wooden_cup",
+      "sprite": "nesneler/kis_kutup/wooden_cup.png",
+      "x": 0.5,
+      "y": 0.3791,
+      "height": 0.0117,
+      "brightness": 0.953,
+      "tint": [
+        1.023,
+        0.988,
+        0.989
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "wool_socks",
+      "sprite": "nesneler/kis_kutup/wool_socks.png",
+      "x": 0.28,
+      "y": 0.4971,
+      "height": 0.0157,
+      "brightness": 0.955,
+      "tint": [
+        1.083,
+        0.975,
+        0.942
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "nordic_sweater",
+      "sprite": "nesneler/kis_kutup/nordic_sweater.png",
+      "x": 0.14,
+      "y": 0.5729,
+      "height": 0.0242,
+      "brightness": 0.902,
+      "tint": [
+        1.081,
+        0.961,
+        0.958
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "jam_jar",
+      "sprite": "nesneler/kis_kutup/jam_jar.png",
+      "x": 0.91,
+      "y": 0.5725,
+      "height": 0.0151,
+      "brightness": 0.943,
+      "tint": [
+        1.067,
+        0.977,
+        0.956
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "yarn_balls",
+      "sprite": "nesneler/kis_kutup/yarn_balls.png",
+      "x": 0.45,
+      "y": 0.6405,
+      "height": 0.019,
+      "brightness": 1.02,
+      "tint": [
+        1.032,
+        0.988,
+        0.98
+      ],
+      "shadow": 0.4
+    },
+    {
+      "id": "cinnamon_bun",
+      "sprite": "nesneler/kis_kutup/cinnamon_bun.png",
+      "x": 0.65,
+      "y": 0.6918,
+      "height": 0.0163,
+      "brightness": 1.02,
+      "tint": [
+        1.01,
+        0.984,
+        1.007
+      ],
+      "shadow": 0.41
+    },
+    {
+      "id": "felt_stocking",
+      "sprite": "nesneler/kis_kutup/felt_stocking.png",
+      "x": 0.06,
+      "y": 0.6488,
+      "height": 0.0223,
+      "brightness": 0.896,
+      "tint": [
+        1.027,
+        0.976,
+        0.996
+      ],
+      "shadow": 0.32
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.55,
+    "y": 0.555,
+    "height": 0.022
+  },
+  "sceneTiles": {
+    "size": [
+      2730,
+      4095
+    ],
+    "preview": "sahneler/kis_kutup/game/preview.webp",
+    "tiles": [
+      {
+        "path": "sahneler/kis_kutup/game/t_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          0.334066,
+          0.250549
+        ]
+      },
+      {
+        "path": "sahneler/kis_kutup/game/t_0_1.webp",
+        "rect": [
+          0.332601,
+          0.0,
+          0.334799,
+          0.250549
+        ]
+      },
+      {
+        "path": "sahneler/kis_kutup/game/t_0_2.webp",
+        "rect": [
+          0.665934,
+          0.0,
+          0.334066,
+          0.250549
+        ]
+      },
+      {
+        "path": "sahneler/kis_kutup/game/t_1_0.webp",
+        "rect": [
+          0.0,
+          0.249573,
+          0.334066,
+          0.251038
+        ]
+      },
+      {
+        "path": "sahneler/kis_kutup/game/t_1_1.webp",
+        "rect": [
+          0.332601,
+          0.249573,
+          0.334799,
+          0.251038
+        ]
+      },
+      {
+        "path": "sahneler/kis_kutup/game/t_1_2.webp",
+        "rect": [
+          0.665934,
+          0.249573,
+          0.334066,
+          0.251038
+        ]
+      },
+      {
+        "path": "sahneler/kis_kutup/game/t_2_0.webp",
+        "rect": [
+          0.0,
+          0.499634,
+          0.334066,
+          0.250794
+        ]
+      },
+      {
+        "path": "sahneler/kis_kutup/game/t_2_1.webp",
+        "rect": [
+          0.332601,
+          0.499634,
+          0.334799,
+          0.250794
+        ]
+      },
+      {
+        "path": "sahneler/kis_kutup/game/t_2_2.webp",
+        "rect": [
+          0.665934,
+          0.499634,
+          0.334066,
+          0.250794
+        ]
+      },
+      {
+        "path": "sahneler/kis_kutup/game/t_3_0.webp",
+        "rect": [
+          0.0,
+          0.749451,
+          0.334066,
+          0.250549
+        ]
+      },
+      {
+        "path": "sahneler/kis_kutup/game/t_3_1.webp",
+        "rect": [
+          0.332601,
+          0.749451,
+          0.334799,
+          0.250549
+        ]
+      },
+      {
+        "path": "sahneler/kis_kutup/game/t_3_2.webp",
+        "rect": [
+          0.665934,
+          0.749451,
+          0.334066,
+          0.250549
+        ]
+      }
+    ]
+  }
+}

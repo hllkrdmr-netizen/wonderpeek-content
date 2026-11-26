@@ -1,0 +1,336 @@
+{
+  "levelId": 12,
+  "sceneId": "botanik",
+  "scene": "sahneler/botanik/scene.webp",
+  "depth": "sahneler/botanik/depth.png",
+  "mode": "classic",
+  "objectCount": 14,
+  "timePerObjectSec": 14,
+  "silhouetteCount": 2,
+  "camouflage": "medium",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "birdhouse",
+      "sprite": "nesneler/botanik/birdhouse.png",
+      "x": 0.2,
+      "y": 0.2966,
+      "height": 0.0167,
+      "brightness": 0.85,
+      "tint": [
+        1.088,
+        1.006,
+        0.906
+      ],
+      "shadow": 0.29
+    },
+    {
+      "id": "hummingbird_feeder",
+      "sprite": "nesneler/botanik/hummingbird_feeder.png",
+      "x": 0.46,
+      "y": 0.268,
+      "height": 0.0141,
+      "brightness": 0.941,
+      "tint": [
+        1.071,
+        1.002,
+        0.927
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "picnic_hamper",
+      "sprite": "nesneler/botanik/picnic_hamper.png",
+      "x": 0.72,
+      "y": 0.251,
+      "height": 0.0139,
+      "brightness": 0.882,
+      "tint": [
+        1.094,
+        1.003,
+        0.903
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "butterfly_net",
+      "sprite": "nesneler/botanik/butterfly_net.png",
+      "x": 0.33,
+      "y": 0.1791,
+      "height": 0.0178,
+      "brightness": 0.9,
+      "tint": [
+        1.077,
+        1.024,
+        0.899
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "sundial",
+      "sprite": "nesneler/botanik/sundial.png",
+      "x": 0.17,
+      "y": 0.4608,
+      "height": 0.0183,
+      "brightness": 0.942,
+      "tint": [
+        1.08,
+        1.0,
+        0.92
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "strawberry_basket",
+      "sprite": "nesneler/botanik/strawberry_basket.png",
+      "x": 0.84,
+      "y": 0.3845,
+      "height": 0.0151,
+      "brightness": 0.906,
+      "tint": [
+        1.075,
+        1.006,
+        0.919
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "garden_gnome",
+      "sprite": "nesneler/botanik/garden_gnome.png",
+      "x": 0.53,
+      "y": 0.4807,
+      "height": 0.0185,
+      "brightness": 0.933,
+      "tint": [
+        1.056,
+        0.999,
+        0.945
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "ceramic_frog",
+      "sprite": "nesneler/botanik/ceramic_frog.png",
+      "x": 0.37,
+      "y": 0.5405,
+      "height": 0.015,
+      "brightness": 1.019,
+      "tint": [
+        1.02,
+        1.007,
+        0.973
+      ],
+      "shadow": 0.39
+    },
+    {
+      "id": "sleeping_cat",
+      "sprite": "nesneler/botanik/sleeping_cat.png",
+      "x": 0.58,
+      "y": 0.6035,
+      "height": 0.0169,
+      "brightness": 0.979,
+      "tint": [
+        1.042,
+        1.003,
+        0.956
+      ],
+      "shadow": 0.36
+    },
+    {
+      "id": "pumpkin",
+      "sprite": "nesneler/botanik/pumpkin.png",
+      "x": 0.23,
+      "y": 0.6772,
+      "height": 0.0175,
+      "brightness": 0.946,
+      "tint": [
+        1.067,
+        0.993,
+        0.94
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "trowel_fork",
+      "sprite": "nesneler/botanik/trowel_fork.png",
+      "x": 0.8,
+      "y": 0.6713,
+      "height": 0.0175,
+      "brightness": 0.902,
+      "tint": [
+        1.101,
+        1.004,
+        0.895
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "garden_boots",
+      "sprite": "nesneler/botanik/garden_boots.png",
+      "x": 0.35,
+      "y": 0.7017,
+      "height": 0.0207,
+      "brightness": 0.942,
+      "tint": [
+        1.055,
+        1.028,
+        0.917
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "beehive_skep",
+      "sprite": "nesneler/botanik/beehive_skep.png",
+      "x": 0.2,
+      "y": 0.7516,
+      "height": 0.0227,
+      "brightness": 0.994,
+      "tint": [
+        1.046,
+        0.996,
+        0.958
+      ],
+      "shadow": 0.37
+    },
+    {
+      "id": "hose_reel",
+      "sprite": "nesneler/botanik/hose_reel.png",
+      "x": 0.72,
+      "y": 0.7536,
+      "height": 0.0227,
+      "brightness": 0.873,
+      "tint": [
+        1.086,
+        0.996,
+        0.918
+      ],
+      "shadow": 0.31
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.73,
+    "y": 0.45,
+    "height": 0.02
+  },
+  "sceneTiles": {
+    "size": [
+      2730,
+      4095
+    ],
+    "preview": "sahneler/botanik/game/preview.webp",
+    "tiles": [
+      {
+        "path": "sahneler/botanik/game/t_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          0.334066,
+          0.250549
+        ]
+      },
+      {
+        "path": "sahneler/botanik/game/t_0_1.webp",
+        "rect": [
+          0.332601,
+          0.0,
+          0.334799,
+          0.250549
+        ]
+      },
+      {
+        "path": "sahneler/botanik/game/t_0_2.webp",
+        "rect": [
+          0.665934,
+          0.0,
+          0.334066,
+          0.250549
+        ]
+      },
+      {
+        "path": "sahneler/botanik/game/t_1_0.webp",
+        "rect": [
+          0.0,
+          0.249573,
+          0.334066,
+          0.251038
+        ]
+      },
+      {
+        "path": "sahneler/botanik/game/t_1_1.webp",
+        "rect": [
+          0.332601,
+          0.249573,
+          0.334799,
+          0.251038
+        ]
+      },
+      {
+        "path": "sahneler/botanik/game/t_1_2.webp",
+        "rect": [
+          0.665934,
+          0.249573,
+          0.334066,
+          0.251038
+        ]
+      },
+      {
+        "path": "sahneler/botanik/game/t_2_0.webp",
+        "rect": [
+          0.0,
+          0.499634,
+          0.334066,
+          0.250794
+        ]
+      },
+      {
+        "path": "sahneler/botanik/game/t_2_1.webp",
+        "rect": [
+          0.332601,
+          0.499634,
+          0.334799,
+          0.250794
+        ]
+      },
+      {
+        "path": "sahneler/botanik/game/t_2_2.webp",
+        "rect": [
+          0.665934,
+          0.499634,
+          0.334066,
+          0.250794
+        ]
+      },
+      {
+        "path": "sahneler/botanik/game/t_3_0.webp",
+        "rect": [
+          0.0,
+          0.749451,
+          0.334066,
+          0.250549
+        ]
+      },
+      {
+        "path": "sahneler/botanik/game/t_3_1.webp",
+        "rect": [
+          0.332601,
+          0.749451,
+          0.334799,
+          0.250549
+        ]
+      },
+      {
+        "path": "sahneler/botanik/game/t_3_2.webp",
+        "rect": [
+          0.665934,
+          0.749451,
+          0.334066,
+          0.250549
+        ]
+      }
+    ]
+  }
+}

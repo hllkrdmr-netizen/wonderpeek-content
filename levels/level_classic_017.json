@@ -1,0 +1,364 @@
+{
+  "levelId": 17,
+  "sceneId": "raf_sehir",
+  "scene": "sahneler/raf_sehir/scene.webp",
+  "depth": "sahneler/raf_sehir/depth.png",
+  "mode": "classic",
+  "objectCount": 16,
+  "timePerObjectSec": 12,
+  "silhouetteCount": 3,
+  "camouflage": "medium",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "chef_hat",
+      "sprite": "nesneler/raf_sehir/chef_hat.png",
+      "x": 0.17,
+      "y": 0.2577,
+      "height": 0.0147,
+      "brightness": 0.96,
+      "tint": [
+        1.12,
+        0.989,
+        0.88
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "potted_cactus",
+      "sprite": "nesneler/raf_sehir/potted_cactus.png",
+      "x": 0.5,
+      "y": 0.2706,
+      "height": 0.0147,
+      "brightness": 0.929,
+      "tint": [
+        1.077,
+        1.01,
+        0.913
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "coffee_grinder",
+      "sprite": "nesneler/raf_sehir/coffee_grinder.png",
+      "x": 0.42,
+      "y": 0.1385,
+      "height": 0.013,
+      "brightness": 0.921,
+      "tint": [
+        1.079,
+        1.001,
+        0.92
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "typewriter",
+      "sprite": "nesneler/raf_sehir/typewriter.png",
+      "x": 0.8,
+      "y": 0.3019,
+      "height": 0.0162,
+      "brightness": 0.902,
+      "tint": [
+        1.12,
+        0.984,
+        0.894
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "butterfly_dome",
+      "sprite": "nesneler/raf_sehir/butterfly_dome.png",
+      "x": 0.78,
+      "y": 0.1578,
+      "height": 0.0144,
+      "brightness": 0.882,
+      "tint": [
+        1.048,
+        0.993,
+        0.96
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "fountain_pen",
+      "sprite": "nesneler/raf_sehir/fountain_pen.png",
+      "x": 0.62,
+      "y": 0.292,
+      "height": 0.0121,
+      "brightness": 0.933,
+      "tint": [
+        1.09,
+        0.989,
+        0.921
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "marble_bust",
+      "sprite": "nesneler/raf_sehir/marble_bust.png",
+      "x": 0.15,
+      "y": 0.3968,
+      "height": 0.0165,
+      "brightness": 0.868,
+      "tint": [
+        1.12,
+        0.978,
+        0.867
+      ],
+      "shadow": 0.3
+    },
+    {
+      "id": "rocking_horse",
+      "sprite": "nesneler/raf_sehir/rocking_horse.png",
+      "x": 0.28,
+      "y": 0.5152,
+      "height": 0.0197,
+      "brightness": 0.922,
+      "tint": [
+        1.085,
+        1.001,
+        0.914
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "french_horn",
+      "sprite": "nesneler/raf_sehir/french_horn.png",
+      "x": 0.45,
+      "y": 0.5166,
+      "height": 0.0169,
+      "brightness": 0.979,
+      "tint": [
+        1.077,
+        1.002,
+        0.921
+      ],
+      "shadow": 0.36
+    },
+    {
+      "id": "fishbowl",
+      "sprite": "nesneler/raf_sehir/fishbowl.png",
+      "x": 0.92,
+      "y": 0.4024,
+      "height": 0.0151,
+      "brightness": 0.935,
+      "tint": [
+        1.093,
+        1.022,
+        0.885
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "pencil_tin",
+      "sprite": "nesneler/raf_sehir/pencil_tin.png",
+      "x": 0.87,
+      "y": 0.5117,
+      "height": 0.0126,
+      "brightness": 0.981,
+      "tint": [
+        1.089,
+        0.986,
+        0.924
+      ],
+      "shadow": 0.36
+    },
+    {
+      "id": "sewing_machine",
+      "sprite": "nesneler/raf_sehir/sewing_machine.png",
+      "x": 0.2,
+      "y": 0.6364,
+      "height": 0.0173,
+      "brightness": 0.985,
+      "tint": [
+        1.103,
+        0.991,
+        0.906
+      ],
+      "shadow": 0.37
+    },
+    {
+      "id": "windup_robot",
+      "sprite": "nesneler/raf_sehir/windup_robot.png",
+      "x": 0.53,
+      "y": 0.6071,
+      "height": 0.0158,
+      "brightness": 0.909,
+      "tint": [
+        1.114,
+        0.99,
+        0.896
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "roller_skate",
+      "sprite": "nesneler/raf_sehir/roller_skate.png",
+      "x": 0.33,
+      "y": 0.7961,
+      "height": 0.0178,
+      "brightness": 1.02,
+      "tint": [
+        1.072,
+        0.991,
+        0.938
+      ],
+      "shadow": 0.4
+    },
+    {
+      "id": "beach_ball",
+      "sprite": "nesneler/raf_sehir/beach_ball.png",
+      "x": 0.85,
+      "y": 0.6178,
+      "height": 0.0143,
+      "brightness": 0.998,
+      "tint": [
+        1.101,
+        0.986,
+        0.913
+      ],
+      "shadow": 0.38
+    },
+    {
+      "id": "pea_coat",
+      "sprite": "nesneler/raf_sehir/pea_coat.png",
+      "x": 0.62,
+      "y": 0.3918,
+      "height": 0.0165,
+      "brightness": 0.991,
+      "tint": [
+        1.101,
+        0.986,
+        0.913
+      ],
+      "shadow": 0.37
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.92,
+    "y": 0.79,
+    "height": 0.02
+  },
+  "sceneTiles": {
+    "size": [
+      2730,
+      4095
+    ],
+    "preview": "sahneler/raf_sehir/game/preview.webp",
+    "tiles": [
+      {
+        "path": "sahneler/raf_sehir/game/t_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          0.334066,
+          0.250549
+        ]
+      },
+      {
+        "path": "sahneler/raf_sehir/game/t_0_1.webp",
+        "rect": [
+          0.332601,
+          0.0,
+          0.334799,
+          0.250549
+        ]
+      },
+      {
+        "path": "sahneler/raf_sehir/game/t_0_2.webp",
+        "rect": [
+          0.665934,
+          0.0,
+          0.334066,
+          0.250549
+        ]
+      },
+      {
+        "path": "sahneler/raf_sehir/game/t_1_0.webp",
+        "rect": [
+          0.0,
+          0.249573,
+          0.334066,
+          0.251038
+        ]
+      },
+      {
+        "path": "sahneler/raf_sehir/game/t_1_1.webp",
+        "rect": [
+          0.332601,
+          0.249573,
+          0.334799,
+          0.251038
+        ]
+      },
+      {
+        "path": "sahneler/raf_sehir/game/t_1_2.webp",
+        "rect": [
+          0.665934,
+          0.249573,
+          0.334066,
+          0.251038
+        ]
+      },
+      {
+        "path": "sahneler/raf_sehir/game/t_2_0.webp",
+        "rect": [
+          0.0,
+          0.499634,
+          0.334066,
+          0.250794
+        ]
+      },
+      {
+        "path": "sahneler/raf_sehir/game/t_2_1.webp",
+        "rect": [
+          0.332601,
+          0.499634,
+          0.334799,
+          0.250794
+        ]
+      },
+      {
+        "path": "sahneler/raf_sehir/game/t_2_2.webp",
+        "rect": [
+          0.665934,
+          0.499634,
+          0.334066,
+          0.250794
+        ]
+      },
+      {
+        "path": "sahneler/raf_sehir/game/t_3_0.webp",
+        "rect": [
+          0.0,
+          0.749451,
+          0.334066,
+          0.250549
+        ]
+      },
+      {
+        "path": "sahneler/raf_sehir/game/t_3_1.webp",
+        "rect": [
+          0.332601,
+          0.749451,
+          0.334799,
+          0.250549
+        ]
+      },
+      {
+        "path": "sahneler/raf_sehir/game/t_3_2.webp",
+        "rect": [
+          0.665934,
+          0.749451,
+          0.334066,
+          0.250549
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "levelId": 11,
+  "sceneId": "kis_paten",
+  "scene": "sahneler/kis_paten/scene.webp",
+  "depth": "sahneler/kis_paten/depth.png",
+  "mode": "classic",
+  "objectCount": 14,
+  "timePerObjectSec": 14,
+  "silhouetteCount": 2,
+  "camouflage": "medium",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "samovar",
+      "sprite": "nesneler/kis_paten/samovar.png",
+      "x": 0.23,
+      "y": 0.204,
+      "height": 0.018,
+      "brightness": 0.925,
+      "tint": [
+        1.1,
+        0.98,
+        0.92
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "velvet_muff",
+      "sprite": "nesneler/kis_paten/velvet_muff.png",
+      "x": 0.36,
+      "y": 0.1516,
+      "height": 0.0128,
+      "brightness": 1.02,
+      "tint": [
+        1.052,
+        0.976,
+        0.973
+      ],
+      "shadow": 0.4
+    },
+    {
+      "id": "knit_hat",
+      "sprite": "nesneler/kis_paten/knit_hat.png",
+      "x": 0.47,
+      "y": 0.2033,
+      "height": 0.0134,
+      "brightness": 0.975,
+      "tint": [
+        1.033,
+        0.982,
+        0.984
+      ],
+      "shadow": 0.36
+    },
+    {
+      "id": "hot_cocoa",
+      "sprite": "nesneler/kis_paten/hot_cocoa.png",
+      "x": 0.6,
+      "y": 0.177,
+      "height": 0.012,
+      "brightness": 0.931,
+      "tint": [
+        1.096,
+        0.976,
+        0.929
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "toy_drum",
+      "sprite": "nesneler/kis_paten/toy_drum.png",
+      "x": 0.69,
+      "y": 0.3262,
+      "height": 0.0175,
+      "brightness": 0.971,
+      "tint": [
+        1.044,
+        0.984,
+        0.972
+      ],
+      "shadow": 0.36
+    },
+    {
+      "id": "nutcracker",
+      "sprite": "nesneler/kis_paten/nutcracker.png",
+      "x": 0.84,
+      "y": 0.294,
+      "height": 0.022,
+      "brightness": 0.921,
+      "tint": [
+        1.108,
+        0.992,
+        0.9
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "porcelain_plates",
+      "sprite": "nesneler/kis_paten/porcelain_plates.png",
+      "x": 0.3,
+      "y": 0.3679,
+      "height": 0.0181,
+      "brightness": 0.911,
+      "tint": [
+        1.057,
+        0.983,
+        0.96
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "jewelry_box",
+      "sprite": "nesneler/kis_paten/jewelry_box.png",
+      "x": 0.43,
+      "y": 0.3643,
+      "height": 0.0155,
+      "brightness": 0.925,
+      "tint": [
+        1.067,
+        0.978,
+        0.955
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "nesting_doll",
+      "sprite": "nesneler/kis_paten/nesting_doll.png",
+      "x": 0.5,
+      "y": 0.5099,
+      "height": 0.0202,
+      "brightness": 0.925,
+      "tint": [
+        1.064,
+        0.982,
+        0.954
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "decanter",
+      "sprite": "nesneler/kis_paten/decanter.png",
+      "x": 0.76,
+      "y": 0.5565,
+      "height": 0.0209,
+      "brightness": 0.85,
+      "tint": [
+        1.112,
+        0.983,
+        0.905
+      ],
+      "shadow": 0.29
+    },
+    {
+      "id": "serving_cloche",
+      "sprite": "nesneler/kis_paten/serving_cloche.png",
+      "x": 0.8,
+      "y": 0.6369,
+      "height": 0.0221,
+      "brightness": 0.948,
+      "tint": [
+        1.077,
+        0.983,
+        0.94
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "gingerbread_house",
+      "sprite": "nesneler/kis_paten/gingerbread_house.png",
+      "x": 0.43,
+      "y": 0.6639,
+      "height": 0.0241,
+      "brightness": 0.929,
+      "tint": [
+        1.066,
+        0.981,
+        0.953
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "silver_harp",
+      "sprite": "nesneler/kis_paten/silver_harp.png",
+      "x": 0.57,
+      "y": 0.649,
+      "height": 0.032,
+      "brightness": 0.946,
+      "tint": [
+        1.049,
+        0.984,
+        0.967
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "bicycle",
+      "sprite": "nesneler/kis_paten/bicycle.png",
+      "x": 0.2,
+      "y": 0.7097,
+      "height": 0.0366,
+      "brightness": 0.87,
+      "tint": [
+        1.084,
+        0.981,
+        0.934
+      ],
+      "shadow": 0.3
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.14,
+    "y": 0.4,
+    "height": 0.022
+  },
+  "sceneTiles": {
+    "size": [
+      2730,
+      4095
+    ],
+    "preview": "sahneler/kis_paten/game/preview.webp",
+    "tiles": [
+      {
+        "path": "sahneler/kis_paten/game/t_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          0.334066,
+          0.250549
+        ]
+      },
+      {
+        "path": "sahneler/kis_paten/game/t_0_1.webp",
+        "rect": [
+          0.332601,
+          0.0,
+          0.334799,
+          0.250549
+        ]
+      },
+      {
+        "path": "sahneler/kis_paten/game/t_0_2.webp",
+        "rect": [
+          0.665934,
+          0.0,
+          0.334066,
+          0.250549
+        ]
+      },
+      {
+        "path": "sahneler/kis_paten/game/t_1_0.webp",
+        "rect": [
+          0.0,
+          0.249573,
+          0.334066,
+          0.251038
+        ]
+      },
+      {
+        "path": "sahneler/kis_paten/game/t_1_1.webp",
+        "rect": [
+          0.332601,
+          0.249573,
+          0.334799,
+          0.251038
+        ]
+      },
+      {
+        "path": "sahneler/kis_paten/game/t_1_2.webp",
+        "rect": [
+          0.665934,
+          0.249573,
+          0.334066,
+          0.251038
+        ]
+      },
+      {
+        "path": "sahneler/kis_paten/game/t_2_0.webp",
+        "rect": [
+          0.0,
+          0.499634,
+          0.334066,
+          0.250794
+        ]
+      },
+      {
+        "path": "sahneler/kis_paten/game/t_2_1.webp",
+        "rect": [
+          0.332601,
+          0.499634,
+          0.334799,
+          0.250794
+        ]
+      },
+      {
+        "path": "sahneler/kis_paten/game/t_2_2.webp",
+        "rect": [
+          0.665934,
+          0.499634,
+          0.334066,
+          0.250794
+        ]
+      },
+      {
+        "path": "sahneler/kis_paten/game/t_3_0.webp",
+        "rect": [
+          0.0,
+          0.749451,
+          0.334066,
+          0.250549
+        ]
+      },
+      {
+        "path": "sahneler/kis_paten/game/t_3_1.webp",
+        "rect": [
+          0.332601,
+          0.749451,
+          0.334799,
+          0.250549
+        ]
+      },
+      {
+        "path": "sahneler/kis_paten/game/t_3_2.webp",
+        "rect": [
+          0.665934,
+          0.749451,
+          0.334066,
+          0.250549
+        ]
+      }
+    ]
+  }
+}

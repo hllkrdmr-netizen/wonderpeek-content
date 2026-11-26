@@ -1,0 +1,364 @@
+{
+  "levelId": 16,
+  "sceneId": "yuzen_pazar",
+  "scene": "sahneler/yuzen_pazar/scene.webp",
+  "depth": "sahneler/yuzen_pazar/depth.png",
+  "mode": "classic",
+  "objectCount": 16,
+  "timePerObjectSec": 12,
+  "silhouetteCount": 3,
+  "camouflage": "medium",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "lacquer_box",
+      "sprite": "nesneler/yuzen_pazar/lacquer_box.png",
+      "x": 0.12,
+      "y": 0.2104,
+      "height": 0.0092,
+      "brightness": 0.895,
+      "tint": [
+        1.1,
+        0.992,
+        0.909
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "silver_bowl",
+      "sprite": "nesneler/yuzen_pazar/silver_bowl.png",
+      "x": 0.17,
+      "y": 0.3067,
+      "height": 0.0107,
+      "brightness": 0.913,
+      "tint": [
+        1.081,
+        0.992,
+        0.927
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "piggy_bank",
+      "sprite": "nesneler/yuzen_pazar/piggy_bank.png",
+      "x": 0.53,
+      "y": 0.257,
+      "height": 0.0099,
+      "brightness": 0.991,
+      "tint": [
+        1.017,
+        0.997,
+        0.986
+      ],
+      "shadow": 0.37
+    },
+    {
+      "id": "purple_scarf",
+      "sprite": "nesneler/yuzen_pazar/purple_scarf.png",
+      "x": 0.92,
+      "y": 0.2858,
+      "height": 0.0125,
+      "brightness": 0.867,
+      "tint": [
+        1.068,
+        0.998,
+        0.934
+      ],
+      "shadow": 0.3
+    },
+    {
+      "id": "sling_bag",
+      "sprite": "nesneler/yuzen_pazar/sling_bag.png",
+      "x": 0.12,
+      "y": 0.4027,
+      "height": 0.0146,
+      "brightness": 0.875,
+      "tint": [
+        1.057,
+        1.02,
+        0.923
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "takraw_ball",
+      "sprite": "nesneler/yuzen_pazar/takraw_ball.png",
+      "x": 0.47,
+      "y": 0.4684,
+      "height": 0.0131,
+      "brightness": 1.005,
+      "tint": [
+        1.083,
+        1.009,
+        0.909
+      ],
+      "shadow": 0.38
+    },
+    {
+      "id": "toy_tuktuk",
+      "sprite": "nesneler/yuzen_pazar/toy_tuktuk.png",
+      "x": 0.57,
+      "y": 0.3928,
+      "height": 0.0144,
+      "brightness": 1.001,
+      "tint": [
+        1.027,
+        0.999,
+        0.974
+      ],
+      "shadow": 0.38
+    },
+    {
+      "id": "bamboo_steamer",
+      "sprite": "nesneler/yuzen_pazar/bamboo_steamer.png",
+      "x": 0.66,
+      "y": 0.5223,
+      "height": 0.0153,
+      "brightness": 0.9,
+      "tint": [
+        1.06,
+        0.998,
+        0.942
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "tiffin_carrier",
+      "sprite": "nesneler/yuzen_pazar/tiffin_carrier.png",
+      "x": 0.7,
+      "y": 0.446,
+      "height": 0.018,
+      "brightness": 0.974,
+      "tint": [
+        1.064,
+        0.996,
+        0.939
+      ],
+      "shadow": 0.36
+    },
+    {
+      "id": "iron_wok",
+      "sprite": "nesneler/yuzen_pazar/iron_wok.png",
+      "x": 0.57,
+      "y": 0.5761,
+      "height": 0.0177,
+      "brightness": 0.953,
+      "tint": [
+        1.032,
+        1.002,
+        0.965
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "mangosteens",
+      "sprite": "nesneler/yuzen_pazar/mangosteens.png",
+      "x": 0.34,
+      "y": 0.6223,
+      "height": 0.0155,
+      "brightness": 0.917,
+      "tint": [
+        1.083,
+        0.993,
+        0.924
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "painted_fish",
+      "sprite": "nesneler/yuzen_pazar/painted_fish.png",
+      "x": 0.7,
+      "y": 0.6604,
+      "height": 0.0193,
+      "brightness": 0.811,
+      "tint": [
+        1.057,
+        0.993,
+        0.95
+      ],
+      "shadow": 0.28
+    },
+    {
+      "id": "coconut_drink",
+      "sprite": "nesneler/yuzen_pazar/coconut_drink.png",
+      "x": 0.08,
+      "y": 0.7644,
+      "height": 0.0211,
+      "brightness": 0.947,
+      "tint": [
+        1.086,
+        0.984,
+        0.93
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "flip_flops",
+      "sprite": "nesneler/yuzen_pazar/flip_flops.png",
+      "x": 0.25,
+      "y": 0.7991,
+      "height": 0.0218,
+      "brightness": 0.933,
+      "tint": [
+        1.042,
+        1.007,
+        0.951
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "silk_cushion",
+      "sprite": "nesneler/yuzen_pazar/silk_cushion.png",
+      "x": 0.75,
+      "y": 0.7874,
+      "height": 0.0252,
+      "brightness": 0.913,
+      "tint": [
+        1.055,
+        1.009,
+        0.936
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "pellet_drum",
+      "sprite": "nesneler/yuzen_pazar/pellet_drum.png",
+      "x": 0.3,
+      "y": 0.705,
+      "height": 0.0201,
+      "brightness": 1.02,
+      "tint": [
+        1.097,
+        1.01,
+        0.893
+      ],
+      "shadow": 0.39
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.8,
+    "y": 0.33,
+    "height": 0.02
+  },
+  "sceneTiles": {
+    "size": [
+      2730,
+      4095
+    ],
+    "preview": "sahneler/yuzen_pazar/game/preview.webp",
+    "tiles": [
+      {
+        "path": "sahneler/yuzen_pazar/game/t_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          0.334066,
+          0.250549
+        ]
+      },
+      {
+        "path": "sahneler/yuzen_pazar/game/t_0_1.webp",
+        "rect": [
+          0.332601,
+          0.0,
+          0.334799,
+          0.250549
+        ]
+      },
+      {
+        "path": "sahneler/yuzen_pazar/game/t_0_2.webp",
+        "rect": [
+          0.665934,
+          0.0,
+          0.334066,
+          0.250549
+        ]
+      },
+      {
+        "path": "sahneler/yuzen_pazar/game/t_1_0.webp",
+        "rect": [
+          0.0,
+          0.249573,
+          0.334066,
+          0.251038
+        ]
+      },
+      {
+        "path": "sahneler/yuzen_pazar/game/t_1_1.webp",
+        "rect": [
+          0.332601,
+          0.249573,
+          0.334799,
+          0.251038
+        ]
+      },
+      {
+        "path": "sahneler/yuzen_pazar/game/t_1_2.webp",
+        "rect": [
+          0.665934,
+          0.249573,
+          0.334066,
+          0.251038
+        ]
+      },
+      {
+        "path": "sahneler/yuzen_pazar/game/t_2_0.webp",
+        "rect": [
+          0.0,
+          0.499634,
+          0.334066,
+          0.250794
+        ]
+      },
+      {
+        "path": "sahneler/yuzen_pazar/game/t_2_1.webp",
+        "rect": [
+          0.332601,
+          0.499634,
+          0.334799,
+          0.250794
+        ]
+      },
+      {
+        "path": "sahneler/yuzen_pazar/game/t_2_2.webp",
+        "rect": [
+          0.665934,
+          0.499634,
+          0.334066,
+          0.250794
+        ]
+      },
+      {
+        "path": "sahneler/yuzen_pazar/game/t_3_0.webp",
+        "rect": [
+          0.0,
+          0.749451,
+          0.334066,
+          0.250549
+        ]
+      },
+      {
+        "path": "sahneler/yuzen_pazar/game/t_3_1.webp",
+        "rect": [
+          0.332601,
+          0.749451,
+          0.334799,
+          0.250549
+        ]
+      },
+      {
+        "path": "sahneler/yuzen_pazar/game/t_3_2.webp",
+        "rect": [
+          0.665934,
+          0.749451,
+          0.334066,
+          0.250549
+        ]
+      }
+    ]
+  }
+}

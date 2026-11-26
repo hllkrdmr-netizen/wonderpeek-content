@@ -1,0 +1,350 @@
+{
+  "levelId": 13,
+  "sceneId": "gok_kapadokya",
+  "scene": "sahneler/gok_kapadokya/scene.webp",
+  "depth": "sahneler/gok_kapadokya/depth.png",
+  "mode": "classic",
+  "objectCount": 15,
+  "timePerObjectSec": 13,
+  "silhouetteCount": 2,
+  "camouflage": "medium",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "fez_hat",
+      "sprite": "nesneler/gok_kapadokya/fez_hat.png",
+      "x": 0.3,
+      "y": 0.2766,
+      "height": 0.0168,
+      "brightness": 0.952,
+      "tint": [
+        1.086,
+        0.999,
+        0.914
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "evil_eye_charm",
+      "sprite": "nesneler/gok_kapadokya/evil_eye_charm.png",
+      "x": 0.49,
+      "y": 0.3162,
+      "height": 0.0136,
+      "brightness": 0.954,
+      "tint": [
+        1.091,
+        0.99,
+        0.919
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "ceramic_pomegranate",
+      "sprite": "nesneler/gok_kapadokya/ceramic_pomegranate.png",
+      "x": 0.215,
+      "y": 0.3772,
+      "height": 0.0157,
+      "brightness": 0.962,
+      "tint": [
+        1.076,
+        0.993,
+        0.932
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "iznik_plate",
+      "sprite": "nesneler/gok_kapadokya/iznik_plate.png",
+      "x": 0.33,
+      "y": 0.3788,
+      "height": 0.0183,
+      "brightness": 0.916,
+      "tint": [
+        1.11,
+        0.989,
+        0.901
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "velvet_slippers",
+      "sprite": "nesneler/gok_kapadokya/velvet_slippers.png",
+      "x": 0.07,
+      "y": 0.4388,
+      "height": 0.0164,
+      "brightness": 0.956,
+      "tint": [
+        1.101,
+        0.992,
+        0.907
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "turquoise_jug",
+      "sprite": "nesneler/gok_kapadokya/turquoise_jug.png",
+      "x": 0.45,
+      "y": 0.4781,
+      "height": 0.0198,
+      "brightness": 0.896,
+      "tint": [
+        1.103,
+        0.987,
+        0.91
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "silk_scarf",
+      "sprite": "nesneler/gok_kapadokya/silk_scarf.png",
+      "x": 0.63,
+      "y": 0.4305,
+      "height": 0.0191,
+      "brightness": 0.885,
+      "tint": [
+        1.074,
+        0.999,
+        0.927
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "filigree_box",
+      "sprite": "nesneler/gok_kapadokya/filigree_box.png",
+      "x": 0.78,
+      "y": 0.527,
+      "height": 0.0161,
+      "brightness": 0.886,
+      "tint": [
+        1.098,
+        0.976,
+        0.925
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "simit",
+      "sprite": "nesneler/gok_kapadokya/simit.png",
+      "x": 0.6,
+      "y": 0.5362,
+      "height": 0.0177,
+      "brightness": 0.966,
+      "tint": [
+        1.054,
+        0.995,
+        0.951
+      ],
+      "shadow": 0.36
+    },
+    {
+      "id": "turkish_delight",
+      "sprite": "nesneler/gok_kapadokya/turkish_delight.png",
+      "x": 0.28,
+      "y": 0.4971,
+      "height": 0.0157,
+      "brightness": 0.952,
+      "tint": [
+        1.096,
+        1.009,
+        0.896
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "backgammon",
+      "sprite": "nesneler/gok_kapadokya/backgammon.png",
+      "x": 0.27,
+      "y": 0.6262,
+      "height": 0.0235,
+      "brightness": 0.832,
+      "tint": [
+        1.12,
+        0.978,
+        0.879
+      ],
+      "shadow": 0.29
+    },
+    {
+      "id": "saz",
+      "sprite": "nesneler/gok_kapadokya/saz.png",
+      "x": 0.4,
+      "y": 0.6474,
+      "height": 0.0352,
+      "brightness": 0.953,
+      "tint": [
+        1.086,
+        0.981,
+        0.933
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "turkish_coffee_set",
+      "sprite": "nesneler/gok_kapadokya/turkish_coffee_set.png",
+      "x": 0.62,
+      "y": 0.6894,
+      "height": 0.0213,
+      "brightness": 0.908,
+      "tint": [
+        1.104,
+        0.991,
+        0.905
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "drop_spindle",
+      "sprite": "nesneler/gok_kapadokya/drop_spindle.png",
+      "x": 0.85,
+      "y": 0.629,
+      "height": 0.022,
+      "brightness": 0.902,
+      "tint": [
+        1.116,
+        0.969,
+        0.915
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "vintage_radio",
+      "sprite": "nesneler/gok_kapadokya/vintage_radio.png",
+      "x": 0.47,
+      "y": 0.7861,
+      "height": 0.0278,
+      "brightness": 0.98,
+      "tint": [
+        1.054,
+        0.987,
+        0.96
+      ],
+      "shadow": 0.36
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.33,
+    "y": 0.735,
+    "height": 0.022
+  },
+  "sceneTiles": {
+    "size": [
+      2730,
+      4095
+    ],
+    "preview": "sahneler/gok_kapadokya/game/preview.webp",
+    "tiles": [
+      {
+        "path": "sahneler/gok_kapadokya/game/t_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          0.334066,
+          0.250549
+        ]
+      },
+      {
+        "path": "sahneler/gok_kapadokya/game/t_0_1.webp",
+        "rect": [
+          0.332601,
+          0.0,
+          0.334799,
+          0.250549
+        ]
+      },
+      {
+        "path": "sahneler/gok_kapadokya/game/t_0_2.webp",
+        "rect": [
+          0.665934,
+          0.0,
+          0.334066,
+          0.250549
+        ]
+      },
+      {
+        "path": "sahneler/gok_kapadokya/game/t_1_0.webp",
+        "rect": [
+          0.0,
+          0.249573,
+          0.334066,
+          0.251038
+        ]
+      },
+      {
+        "path": "sahneler/gok_kapadokya/game/t_1_1.webp",
+        "rect": [
+          0.332601,
+          0.249573,
+          0.334799,
+          0.251038
+        ]
+      },
+      {
+        "path": "sahneler/gok_kapadokya/game/t_1_2.webp",
+        "rect": [
+          0.665934,
+          0.249573,
+          0.334066,
+          0.251038
+        ]
+      },
+      {
+        "path": "sahneler/gok_kapadokya/game/t_2_0.webp",
+        "rect": [
+          0.0,
+          0.499634,
+          0.334066,
+          0.250794
+        ]
+      },
+      {
+        "path": "sahneler/gok_kapadokya/game/t_2_1.webp",
+        "rect": [
+          0.332601,
+          0.499634,
+          0.334799,
+          0.250794
+        ]
+      },
+      {
+        "path": "sahneler/gok_kapadokya/game/t_2_2.webp",
+        "rect": [
+          0.665934,
+          0.499634,
+          0.334066,
+          0.250794
+        ]
+      },
+      {
+        "path": "sahneler/gok_kapadokya/game/t_3_0.webp",
+        "rect": [
+          0.0,
+          0.749451,
+          0.334066,
+          0.250549
+        ]
+      },
+      {
+        "path": "sahneler/gok_kapadokya/game/t_3_1.webp",
+        "rect": [
+          0.332601,
+          0.749451,
+          0.334799,
+          0.250549
+        ]
+      },
+      {
+        "path": "sahneler/gok_kapadokya/game/t_3_2.webp",
+        "rect": [
+          0.665934,
+          0.749451,
+          0.334066,
+          0.250549
+        ]
+      }
+    ]
+  }
+}
