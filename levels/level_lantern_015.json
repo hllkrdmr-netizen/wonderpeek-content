@@ -5,7 +5,7 @@
   "depth": "sahneler/japon_tapinak/depth.png",
   "mode": "lantern",
   "objectCount": 10,
-  "timePerObjectSec": 14,
+  "timePerObjectSec": 26,
   "silhouetteCount": 2,
   "camouflage": "light",
   "objectScale": 1,
@@ -180,8 +180,8 @@
       {
         "path": "sahneler/japon_tapinak/tile_hi_0_0.webp",
         "rect": [
-          0.0,
-          0.0,
+          0,
+          0,
           0.500298,
           0.500326
         ]
@@ -190,7 +190,7 @@
         "path": "sahneler/japon_tapinak/tile_hi_0_1.webp",
         "rect": [
           0.499702,
-          0.0,
+          0,
           0.500298,
           0.500326
         ]
@@ -198,7 +198,7 @@
       {
         "path": "sahneler/japon_tapinak/tile_hi_1_0.webp",
         "rect": [
-          0.0,
+          0,
           0.499674,
           0.500298,
           0.500326

@@ -4,8 +4,8 @@
   "scene": "sahneler/firavun/scene.webp",
   "depth": "sahneler/firavun/depth.png",
   "mode": "lantern",
-  "objectCount": 12,
-  "timePerObjectSec": 17,
+  "objectCount": 10,
+  "timePerObjectSec": 21,
   "silhouetteCount": 0,
   "camouflage": "light",
   "objectScale": 1,
@@ -124,34 +124,6 @@
         0.965
       ],
       "shadow": 0.29
-    },
-    {
-      "id": "senet_oyunu",
-      "sprite": "nesneler/firavun/senet_oyunu.png",
-      "x": 0.665,
-      "y": 0.5044,
-      "height": 0.0211,
-      "brightness": 0.915,
-      "tint": [
-        1.111,
-        0.999,
-        0.89
-      ],
-      "shadow": 0.33
-    },
-    {
-      "id": "nil_teknesi",
-      "sprite": "nesneler/firavun/nil_teknesi.png",
-      "x": 0.75,
-      "y": 0.4567,
-      "height": 0.0267,
-      "brightness": 0.924,
-      "tint": [
-        1.073,
-        0.995,
-        0.932
-      ],
-      "shadow": 0.33
     },
     {
       "id": "ayna",

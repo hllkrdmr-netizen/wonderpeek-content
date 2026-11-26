@@ -4,8 +4,8 @@
   "scene": "sahneler/korsan/scene.webp",
   "depth": "sahneler/korsan/depth.png",
   "mode": "lantern",
-  "objectCount": 12,
-  "timePerObjectSec": 17,
+  "objectCount": 10,
+  "timePerObjectSec": 21,
   "silhouetteCount": 0,
   "camouflage": "light",
   "objectScale": 1,
@@ -122,34 +122,6 @@
         1.107,
         0.983,
         0.91
-      ],
-      "shadow": 0.34
-    },
-    {
-      "id": "gemi_cani",
-      "sprite": "nesneler/korsan/gemi_cani.png",
-      "x": 0.06,
-      "y": 0.3885,
-      "height": 0.023,
-      "brightness": 0.938,
-      "tint": [
-        1.12,
-        0.979,
-        0.87
-      ],
-      "shadow": 0.34
-    },
-    {
-      "id": "barut_boynuzu",
-      "sprite": "nesneler/korsan/barut_boynuzu.png",
-      "x": 0.35,
-      "y": 0.4581,
-      "height": 0.0237,
-      "brightness": 0.932,
-      "tint": [
-        1.098,
-        1.001,
-        0.901
       ],
       "shadow": 0.34
     },

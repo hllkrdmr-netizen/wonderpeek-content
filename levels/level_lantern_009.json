@@ -4,8 +4,8 @@
   "scene": "sahneler/buyucu/scene.webp",
   "depth": "sahneler/buyucu/depth.png",
   "mode": "lantern",
-  "objectCount": 12,
-  "timePerObjectSec": 17,
+  "objectCount": 10,
+  "timePerObjectSec": 21,
   "silhouetteCount": 0,
   "camouflage": "light",
   "objectScale": 1,
@@ -152,34 +152,6 @@
         0.85
       ],
       "shadow": 0.28
-    },
-    {
-      "id": "sihirli_degnek",
-      "sprite": "nesneler/buyucu/sihirli_degnek.png",
-      "x": 0.92,
-      "y": 0.3831,
-      "height": 0.0338,
-      "brightness": 0.867,
-      "tint": [
-        1.117,
-        0.976,
-        0.906
-      ],
-      "shadow": 0.3
-    },
-    {
-      "id": "buyucu_sapkasi",
-      "sprite": "nesneler/buyucu/buyucu_sapkasi.png",
-      "x": 0.12,
-      "y": 0.585,
-      "height": 0.03,
-      "brightness": 0.872,
-      "tint": [
-        1.102,
-        0.964,
-        0.934
-      ],
-      "shadow": 0.3
     }
   ],
   "peek": {

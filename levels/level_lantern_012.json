@@ -5,7 +5,7 @@
   "depth": "sahneler/lunapark/depth.png",
   "mode": "lantern",
   "objectCount": 12,
-  "timePerObjectSec": 14,
+  "timePerObjectSec": 22,
   "silhouetteCount": 2,
   "camouflage": "medium",
   "objectScale": 1,
@@ -197,18 +197,18 @@
       {
         "path": "sahneler/lunapark/tile_lo_0_0.webp",
         "rect": [
-          0.0,
-          0.0,
-          1.0,
+          0,
+          0,
+          1,
           0.500375
         ]
       },
       {
         "path": "sahneler/lunapark/tile_lo_1_0.webp",
         "rect": [
-          0.0,
+          0,
           0.499625,
-          1.0,
+          1,
           0.500375
         ]
       }
@@ -217,27 +217,27 @@
       {
         "path": "sahneler/lunapark/tile_hi_0_0.webp",
         "rect": [
-          0.0,
-          0.0,
-          1.0,
+          0,
+          0,
+          1,
           0.33349
         ]
       },
       {
         "path": "sahneler/lunapark/tile_hi_1_0.webp",
         "rect": [
-          0.0,
+          0,
           0.333115,
-          1.0,
+          1,
           0.333771
         ]
       },
       {
         "path": "sahneler/lunapark/tile_hi_2_0.webp",
         "rect": [
-          0.0,
+          0,
           0.66651,
-          1.0,
+          1,
           0.33349
         ]
       }

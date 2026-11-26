@@ -5,7 +5,7 @@
   "depth": "sahneler/batik_sehir/depth.png",
   "mode": "lantern",
   "objectCount": 12,
-  "timePerObjectSec": 14,
+  "timePerObjectSec": 22,
   "silhouetteCount": 2,
   "camouflage": "medium",
   "objectScale": 1,
@@ -79,7 +79,7 @@
       "tint": [
         0.94,
         1.06,
-        1.0
+        1
       ],
       "shadow": 0.27
     },
@@ -197,18 +197,18 @@
       {
         "path": "sahneler/batik_sehir/tile_lo_0_0.webp",
         "rect": [
-          0.0,
-          0.0,
-          1.0,
+          0,
+          0,
+          1,
           0.500386
         ]
       },
       {
         "path": "sahneler/batik_sehir/tile_lo_1_0.webp",
         "rect": [
-          0.0,
+          0,
           0.499614,
-          1.0,
+          1,
           0.500386
         ]
       }
@@ -217,27 +217,27 @@
       {
         "path": "sahneler/batik_sehir/tile_hi_0_0.webp",
         "rect": [
-          0.0,
-          0.0,
-          1.0,
+          0,
+          0,
+          1,
           0.333558
         ]
       },
       {
         "path": "sahneler/batik_sehir/tile_hi_1_0.webp",
         "rect": [
-          0.0,
+          0,
           0.333173,
-          1.0,
+          1,
           0.333655
         ]
       },
       {
         "path": "sahneler/batik_sehir/tile_hi_2_0.webp",
         "rect": [
-          0.0,
+          0,
           0.666442,
-          1.0,
+          1,
           0.333558
         ]
       }

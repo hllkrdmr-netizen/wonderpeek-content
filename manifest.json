@@ -1254,15 +1254,15 @@
       "id": 4,
       "mode": "lantern",
       "thumb": "sahneler/fener_koy/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "level": "levels/level_lantern_004.json",
-      "size": 7191336,
+      "size": 6855992,
       "files": [
         {
           "path": "levels/level_lantern_004.json",
-          "size": 3766,
-          "sha256": "34dee8616e6a994fbfcb6816bd2aef8395b1180fa05b81c5939d2b0962c630da"
+          "size": 3224,
+          "sha256": "2de3c25682632cd0ece8b4e9d0738c26a6480780e5772b3f618c8ef84ea9a16f"
         },
         {
           "path": "sahneler/fener_koy/scene.webp",
@@ -1367,20 +1367,6 @@
           "sha256": "dea64760a80943e33a143d0bbd6b878f692c5864034d8a836d7e6f63b5f5b374",
           "width": 274,
           "height": 335
-        },
-        {
-          "path": "nesneler/fener_koy/magnifying_glass.png",
-          "size": 145595,
-          "sha256": "5993263ca80d3537e09dda92958a9954c2d44f76b239a858f18bf50bf9ff19d2",
-          "width": 326,
-          "height": 299
-        },
-        {
-          "path": "nesneler/fener_koy/toy_wagon.png",
-          "size": 189207,
-          "sha256": "df7293a530825fa94efb6636340a93b5ce0c849b0bba79ba59099e9dbfbf47f4",
-          "width": 317,
-          "height": 318
         }
       ]
     },
@@ -1388,15 +1374,15 @@
       "id": 5,
       "mode": "lantern",
       "thumb": "sahneler/kutuk/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "level": "levels/level_lantern_005.json",
-      "size": 7762701,
+      "size": 7409841,
       "files": [
         {
           "path": "levels/level_lantern_005.json",
-          "size": 3152,
-          "sha256": "349d0143da72c3516bea9269f59f4535f097bd62aaf234e26617ebb040f1e728"
+          "size": 2620,
+          "sha256": "59f34941da972872bde7fb4b5a09f9620396e8ca2715910739fd6f192a5bd149"
         },
         {
           "path": "sahneler/kutuk/scene.webp",
@@ -1487,20 +1473,6 @@
           "sha256": "fbce05fdff3a70d5570efb7711e4a48450b76eb0f987366ea31cfd962970811e",
           "width": 341,
           "height": 321
-        },
-        {
-          "path": "nesneler/kutuk/butterfly_net.png",
-          "size": 199936,
-          "sha256": "4b810f811fd05d4de8821245c05f80d0627e02826b9f08bb6c8442d730cdedc6",
-          "width": 356,
-          "height": 350
-        },
-        {
-          "path": "nesneler/kutuk/map_scroll.png",
-          "size": 152392,
-          "sha256": "7b07377e8e1a5192f73ba562ed4db8342f0e5d67b4b44ca63508b37e22a9495e",
-          "width": 334,
-          "height": 269
         }
       ]
     },
@@ -1508,15 +1480,15 @@
       "id": 6,
       "mode": "lantern",
       "thumb": "sahneler/firavun/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "level": "levels/level_lantern_006.json",
-      "size": 6913169,
+      "size": 6542620,
       "files": [
         {
           "path": "levels/level_lantern_006.json",
-          "size": 3685,
-          "sha256": "1e013fc02a9168d95b6617565f769d085c40d540d2a41af469cb07a9c7118a0c"
+          "size": 3147,
+          "sha256": "66d05dbde924c06b6a9f218695ee9b5ef6e40d81b086f2f2d102b1d1abca95c2"
         },
         {
           "path": "sahneler/firavun/scene.webp",
@@ -1609,20 +1581,6 @@
           "height": 289
         },
         {
-          "path": "nesneler/firavun/senet_oyunu.png",
-          "size": 176697,
-          "sha256": "b8bd5f808f7bd046a4e76c59bf179df3a75ce7d2eaad1e2fbac0cde3bb228e75",
-          "width": 359,
-          "height": 241
-        },
-        {
-          "path": "nesneler/firavun/nil_teknesi.png",
-          "size": 193314,
-          "sha256": "fe0304c05b3080c6cd215267cf6a0fead83e6920a0a6ef2e575aac98126a6fcc",
-          "width": 309,
-          "height": 315
-        },
-        {
           "path": "nesneler/firavun/ayna.png",
           "size": 149739,
           "sha256": "fae78a1b9a36f99470898e142dc44da8d7bedeb7b3c25cbf7a974e5a6f31e173",
@@ -1642,15 +1600,15 @@
       "id": 7,
       "mode": "lantern",
       "thumb": "sahneler/korsan/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "level": "levels/level_lantern_007.json",
-      "size": 6869240,
+      "size": 6587092,
       "files": [
         {
           "path": "levels/level_lantern_007.json",
-          "size": 3658,
-          "sha256": "1133b8946021750023ef0a30669452a2e37ecf917007cc824a8e452135e320fd"
+          "size": 3125,
+          "sha256": "0bcd26dbf2aca1dd3c1877ea1024b6dfc6771319b257bb2cbbff2857b31de5d7"
         },
         {
           "path": "sahneler/korsan/scene.webp",
@@ -1743,20 +1701,6 @@
           "height": 351
         },
         {
-          "path": "nesneler/korsan/gemi_cani.png",
-          "size": 118867,
-          "sha256": "d378b18cb623916190b5ce5d24b028500871d33a7e9ad2c54dabab0f4049261d",
-          "width": 244,
-          "height": 360
-        },
-        {
-          "path": "nesneler/korsan/barut_boynuzu.png",
-          "size": 162748,
-          "sha256": "a01b697232efead6ececc3868a5811b2a31b93fba03d69ab31fd7c8db15b9ee9",
-          "width": 339,
-          "height": 272
-        },
-        {
           "path": "nesneler/korsan/tabanca.png",
           "size": 132185,
           "sha256": "32bbb127fed4ff5b64fd001d9ed42a32a6bb9e162e79616eed2f030b5b5d43b5",
@@ -1776,15 +1720,15 @@
       "id": 8,
       "mode": "lantern",
       "thumb": "sahneler/muze/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "level": "levels/level_lantern_008.json",
-      "size": 7678627,
+      "size": 7241163,
       "files": [
         {
           "path": "levels/level_lantern_008.json",
-          "size": 3677,
-          "sha256": "a9c2b33e44a57f76451cb179995f2c8655dbd22f974148fce5fbce045a0cd2c1"
+          "size": 3147,
+          "sha256": "cb1270a3c84b1b9d3d7b782bc66b83c6ab3b8df468edb021f51678b51458fec5"
         },
         {
           "path": "sahneler/muze/scene.webp",
@@ -1877,13 +1821,6 @@
           "height": 360
         },
         {
-          "path": "nesneler/muze/bronz_sikkeler.png",
-          "size": 211454,
-          "sha256": "889cf924c70daa5de6937edec76b423ddbbd74300fd3d6dea94fe38b23f243f4",
-          "width": 345,
-          "height": 257
-        },
-        {
           "path": "nesneler/muze/divit.png",
           "size": 154211,
           "sha256": "b895eda2922d1321b5f7d66b9cbea5fb2ad46dee0b4250bd7094abd73aa92fe2",
@@ -1896,13 +1833,6 @@
           "sha256": "35cb65e7186a4270d048e0a3db9bd167dbb7ee643dc2e8bea4195f49c52bb223",
           "width": 378,
           "height": 360
-        },
-        {
-          "path": "nesneler/muze/kehribar.png",
-          "size": 225480,
-          "sha256": "f981d696eed1a050b3116dfb326f7b11f047914b7d384daba1cf85825974c01f",
-          "width": 315,
-          "height": 321
         }
       ]
     },
@@ -1910,15 +1840,15 @@
       "id": 9,
       "mode": "lantern",
       "thumb": "sahneler/buyucu/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "level": "levels/level_lantern_009.json",
-      "size": 7729125,
+      "size": 7376065,
       "files": [
         {
           "path": "levels/level_lantern_009.json",
-          "size": 3714,
-          "sha256": "180abfd3b3d68e9fef8d1c79c5c00aebf354bc2196cbb3934e1618f025c54675"
+          "size": 3171,
+          "sha256": "bf8de855eb15574df53b2d17c63eb3ef031101ac7ee5b2bd1d404dbafe0e5dd0"
         },
         {
           "path": "sahneler/buyucu/scene.webp",
@@ -2023,20 +1953,6 @@
           "sha256": "daae25ce843a8489e6ebd0e6fee5bef0fa7a497f53143d12f94f195ed2ef4f83",
           "width": 317,
           "height": 327
-        },
-        {
-          "path": "nesneler/buyucu/sihirli_degnek.png",
-          "size": 111660,
-          "sha256": "5bf04901494d9173cd66d510933c6ccbb5d5b22c6afa9153fd0ff917d35f13f4",
-          "width": 317,
-          "height": 325
-        },
-        {
-          "path": "nesneler/buyucu/buyucu_sapkasi.png",
-          "size": 240857,
-          "sha256": "8146a263d4d569377a671c45c971933ba8b8dccd3524a1a2f30fb77b1d96800a",
-          "width": 371,
-          "height": 337
         }
       ]
     },
@@ -2044,15 +1960,15 @@
       "id": 10,
       "mode": "lantern",
       "thumb": "sahneler/istasyon/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "level": "levels/level_lantern_010.json",
-      "size": 6843767,
+      "size": 6415504,
       "files": [
         {
           "path": "levels/level_lantern_010.json",
-          "size": 3219,
-          "sha256": "3b8131d6e6da8ab11427df5f5e9e384f154e2f986c4b9e1d1cd280f9d0ccc665"
+          "size": 2663,
+          "sha256": "1dddd72f8275fca2b41b4845c5d158aeb6532fd72227b65581e587b56932bf02"
         },
         {
           "path": "sahneler/istasyon/scene.webp",
@@ -2143,20 +2059,6 @@
           "sha256": "64c43eefdcd9ccf624cda03d8ece8885050efce6d459f7208eff15ffb863f071",
           "width": 296,
           "height": 283
-        },
-        {
-          "path": "nesneler/istasyon/kondoktor_sapkasi.png",
-          "size": 236121,
-          "sha256": "107b3c2356c217287e981a4f69475356a60919a4744380e362e9e1b493edbf54",
-          "width": 386,
-          "height": 280
-        },
-        {
-          "path": "nesneler/istasyon/bilet_zimbasi.png",
-          "size": 191586,
-          "sha256": "df4e75a965814ae9698c124a344208705fbb4c70aa658b8318998652785547cd",
-          "width": 321,
-          "height": 332
         }
       ]
     }

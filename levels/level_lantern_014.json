@@ -5,7 +5,7 @@
   "depth": "sahneler/londra/depth.png",
   "mode": "lantern",
   "objectCount": 12,
-  "timePerObjectSec": 14,
+  "timePerObjectSec": 22,
   "silhouetteCount": 2,
   "camouflage": "medium",
   "objectScale": 1,
@@ -208,8 +208,8 @@
       {
         "path": "sahneler/londra/tile_hi_0_0.webp",
         "rect": [
-          0.0,
-          0.0,
+          0,
+          0,
           0.500297,
           0.500326
         ]
@@ -218,7 +218,7 @@
         "path": "sahneler/londra/tile_hi_0_1.webp",
         "rect": [
           0.499703,
-          0.0,
+          0,
           0.500297,
           0.500326
         ]
@@ -226,7 +226,7 @@
       {
         "path": "sahneler/londra/tile_hi_1_0.webp",
         "rect": [
-          0.0,
+          0,
           0.499674,
           0.500297,
           0.500326

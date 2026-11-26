@@ -4,8 +4,8 @@
   "scene": "sahneler/istasyon/scene.webp",
   "depth": "sahneler/istasyon/depth.png",
   "mode": "lantern",
-  "objectCount": 10,
-  "timePerObjectSec": 17,
+  "objectCount": 8,
+  "timePerObjectSec": 25,
   "silhouetteCount": 0,
   "camouflage": "none",
   "objectScale": 1,
@@ -124,34 +124,6 @@
         0.959
       ],
       "shadow": 0.3
-    },
-    {
-      "id": "kondoktor_sapkasi",
-      "sprite": "nesneler/istasyon/kondoktor_sapkasi.png",
-      "x": 0.45,
-      "y": 0.3302,
-      "height": 0.0197,
-      "brightness": 0.894,
-      "tint": [
-        0.979,
-        1.022,
-        1.0
-      ],
-      "shadow": 0.32
-    },
-    {
-      "id": "bilet_zimbasi",
-      "sprite": "nesneler/istasyon/bilet_zimbasi.png",
-      "x": 0.215,
-      "y": 0.6898,
-      "height": 0.0243,
-      "brightness": 0.883,
-      "tint": [
-        1.102,
-        0.992,
-        0.905
-      ],
-      "shadow": 0.31
     }
   ],
   "peek": {

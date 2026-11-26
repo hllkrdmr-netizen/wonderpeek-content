@@ -5,7 +5,7 @@
   "depth": "sahneler/kale/depth.png",
   "mode": "lantern",
   "objectCount": 12,
-  "timePerObjectSec": 14,
+  "timePerObjectSec": 22,
   "silhouetteCount": 2,
   "camouflage": "medium",
   "objectScale": 1,
@@ -197,18 +197,18 @@
       {
         "path": "sahneler/kale/tile_lo_0_0.webp",
         "rect": [
-          0.0,
-          0.0,
-          1.0,
+          0,
+          0,
+          1,
           0.50039
         ]
       },
       {
         "path": "sahneler/kale/tile_lo_1_0.webp",
         "rect": [
-          0.0,
+          0,
           0.49961,
-          1.0,
+          1,
           0.50039
         ]
       }
@@ -217,27 +217,27 @@
       {
         "path": "sahneler/kale/tile_hi_0_0.webp",
         "rect": [
-          0.0,
-          0.0,
-          1.0,
+          0,
+          0,
+          1,
           0.333496
         ]
       },
       {
         "path": "sahneler/kale/tile_hi_1_0.webp",
         "rect": [
-          0.0,
+          0,
           0.333106,
-          1.0,
+          1,
           0.333788
         ]
       },
       {
         "path": "sahneler/kale/tile_hi_2_0.webp",
         "rect": [
-          0.0,
+          0,
           0.666504,
-          1.0,
+          1,
           0.333496
         ]
       }

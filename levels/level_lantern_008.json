@@ -4,8 +4,8 @@
   "scene": "sahneler/muze/scene.webp",
   "depth": "sahneler/muze/depth.png",
   "mode": "lantern",
-  "objectCount": 12,
-  "timePerObjectSec": 17,
+  "objectCount": 10,
+  "timePerObjectSec": 21,
   "silhouetteCount": 0,
   "camouflage": "light",
   "objectScale": 1,
@@ -126,20 +126,6 @@
       "shadow": 0.31
     },
     {
-      "id": "bronz_sikkeler",
-      "sprite": "nesneler/muze/bronz_sikkeler.png",
-      "x": 0.66,
-      "y": 0.4661,
-      "height": 0.0178,
-      "brightness": 0.847,
-      "tint": [
-        1.018,
-        1.006,
-        0.977
-      ],
-      "shadow": 0.29
-    },
-    {
       "id": "divit",
       "sprite": "nesneler/muze/divit.png",
       "x": 0.8,
@@ -166,20 +152,6 @@
         0.932
       ],
       "shadow": 0.32
-    },
-    {
-      "id": "kehribar",
-      "sprite": "nesneler/muze/kehribar.png",
-      "x": 0.62,
-      "y": 0.7343,
-      "height": 0.0214,
-      "brightness": 0.872,
-      "tint": [
-        1.12,
-        0.985,
-        0.882
-      ],
-      "shadow": 0.3
     }
   ],
   "peek": {

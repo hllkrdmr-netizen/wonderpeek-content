@@ -4,8 +4,8 @@
   "scene": "sahneler/kutuk/scene.webp",
   "depth": "sahneler/kutuk/depth.png",
   "mode": "lantern",
-  "objectCount": 10,
-  "timePerObjectSec": 17,
+  "objectCount": 8,
+  "timePerObjectSec": 25,
   "silhouetteCount": 0,
   "camouflage": "none",
   "objectScale": 1,
@@ -121,34 +121,6 @@
       "tint": [
         1.12,
         0.977,
-        0.85
-      ],
-      "shadow": 0.3
-    },
-    {
-      "id": "butterfly_net",
-      "sprite": "nesneler/kutuk/butterfly_net.png",
-      "x": 0.19,
-      "y": 0.2204,
-      "height": 0.0253,
-      "brightness": 0.889,
-      "tint": [
-        1.12,
-        0.98,
-        0.878
-      ],
-      "shadow": 0.31
-    },
-    {
-      "id": "map_scroll",
-      "sprite": "nesneler/kutuk/map_scroll.png",
-      "x": 0.43,
-      "y": 0.1982,
-      "height": 0.0137,
-      "brightness": 0.871,
-      "tint": [
-        1.12,
-        0.964,
         0.85
       ],
       "shadow": 0.3
