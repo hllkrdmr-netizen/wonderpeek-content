@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "scene": "fener_koy",
+  "effects": [
+    {
+      "type": "sprite_path",
+      "note": "fireflies over the pond (Lantern: their tails blink over the darkness, the bodies show in the light)",
+      "sheet": "efektler/ates_bocegi.png",
+      "frames": 6,
+      "fps": 6,
+      "motion": "wander",
+      "area": [0.42, 0.6, 0.38, 0.14],
+      "count": 5,
+      "speed": 0.02,
+      "scale": 0.034,
+      "scale_var": 0.3,
+      "wobble": 0.006,
+      "phase_random": true,
+      "glow": {
+        "color": "#d9ff6b",
+        "radius": 0.015,
+        "offset": [-0.1, 0.21],
+        "curve": [0.15, 0.45, 0.85, 1, 0.6, 0.2],
+        "strength": 0.9
+      }
+    },
+    {
+      "type": "sprite_path",
+      "note": "fireflies under the tree canopy, between the two houses",
+      "sheet": "efektler/ates_bocegi.png",
+      "frames": 6,
+      "fps": 5,
+      "motion": "wander",
+      "area": [0.3, 0.24, 0.42, 0.14],
+      "count": 4,
+      "speed": 0.018,
+      "scale": 0.03,
+      "scale_var": 0.3,
+      "wobble": 0.006,
+      "phase_random": true,
+      "glow": {
+        "color": "#d9ff6b",
+        "radius": 0.014,
+        "offset": [-0.1, 0.21],
+        "curve": [0.15, 0.45, 0.85, 1, 0.6, 0.2],
+        "strength": 0.85
+      }
+    }
+  ]
+}

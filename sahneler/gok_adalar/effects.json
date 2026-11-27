@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "scene": "gok_adalar",
+  "effects": [
+    {
+      "type": "sprite_path",
+      "note": "butterflies over the flower garden in front of the cottage and by the well",
+      "sheet": "efektler/kelebek.png",
+      "frames": 6,
+      "fps": 15,
+      "motion": "wander",
+      "area": [0.14, 0.56, 0.62, 0.17],
+      "count": 3,
+      "speed": 0.035,
+      "scale": 0.055,
+      "scale_var": 0.25,
+      "wobble": 0.008,
+      "phase_random": true
+    },
+    {
+      "type": "sprite_path",
+      "note": "a flock of sparrows across the sky between the islands now and then; they stop flapping and glide for a moment",
+      "sheet": "efektler/serce.png",
+      "frames": 8,
+      "fps": 12,
+      "path": [[-0.08, 0.2], [0.3, 0.155], [0.62, 0.165], [1.08, 0.11]],
+      "every": [9, 16],
+      "count": [3, 5],
+      "spacing": 0.05,
+      "speed": 0.17,
+      "scale": 0.062,
+      "scale_var": 0.15,
+      "jitter": [0, 0.035],
+      "both_ways": true,
+      "wobble": 0.007,
+      "glide": {
+        "sheet": "efektler/serce_suzulme.png",
+        "every": [2.5, 4],
+        "duration": 0.9
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schema": 1,
+  "scene": "fener",
+  "effects": [
+    {
+      "type": "water",
+      "note": "lagoon under the dock, between the posts",
+      "polygon": [[0.31, 0.655], [0.4, 0.645], [0.5, 0.64], [0.5, 0.665], [0.47, 0.7], [0.42, 0.715], [0.36, 0.705], [0.3, 0.695]],
+      "intensity": 0.35
+    },
+    {
+      "type": "water",
+      "note": "foreground lagoon, below the red boat",
+      "polygon": [[0.46, 0.735], [0.52, 0.725], [0.62, 0.728], [0.7, 0.725], [0.76, 0.705], [0.83, 0.7], [0.88, 0.715], [0.84, 0.745], [0.76, 0.77], [0.66, 0.785], [0.56, 0.79], [0.49, 0.78], [0.455, 0.76]],
+      "intensity": 0.6
+    },
+    {
+      "type": "water",
+      "note": "right, under the white boat",
+      "polygon": [[0.76, 0.66], [0.8, 0.652], [0.9, 0.655], [0.95, 0.665], [0.93, 0.69], [0.88, 0.7], [0.8, 0.692], [0.76, 0.678]],
+      "intensity": 0.5
+    },
+    { "type": "glow", "note": "lighthouse lamp", "at": [0.655, 0.183], "radius": 0.075, "color": "#ffd28a", "period": 1.8, "strength": 0.6 },
+    { "type": "glow", "note": "lantern on the stair post", "at": [0.555, 0.528], "radius": 0.026, "color": "#ffc670", "period": 1.4, "strength": 0.6 },
+    { "type": "glow", "note": "lantern by the steps", "at": [0.655, 0.56], "radius": 0.026, "color": "#ffc670", "period": 1.6, "strength": 0.55 },
+    { "type": "glow", "note": "small lantern on the dock", "at": [0.548, 0.58], "radius": 0.02, "color": "#ffc670", "period": 1.2, "strength": 0.5 },
+    { "type": "glow", "note": "wall lamp", "at": [0.518, 0.42], "radius": 0.018, "color": "#ffcf80", "period": 1.5, "strength": 0.5 },
+    { "type": "glow", "note": "house window (not the window Peek looks out of)", "at": [0.435, 0.357], "radius": 0.03, "color": "#ffc56b", "period": 2.0, "strength": 0.35 },
+    { "type": "glow", "note": "big lantern, blurred background top left", "at": [0.065, 0.17], "radius": 0.08, "color": "#ffbe68", "period": 1.9, "strength": 0.35 },
+    {
+      "type": "rays",
+      "note": "lighthouse beam, to the left, swaying",
+      "from": [0.655, 0.183], "angle": 195, "width": 0.16, "length": 0.5, "color": "#ffe2a8", "opacity": 0.12, "sway": 6, "period": 9
+    },
+    {
+      "type": "rays",
+      "note": "sunset light from the top right",
+      "from": [0.98, 0.02], "angle": 128, "width": 0.45, "length": 0.9, "color": "#ffd9a8", "opacity": 0.07, "sway": 2, "period": 14
+    },
+    { "type": "dust", "note": "warm motes in the shell", "rect": [0.12, 0.05, 0.76, 0.42], "density": 0.45, "color": "#ffe2b0" },
+    { "type": "smoke", "note": "house chimney", "at": [0.368, 0.282], "count": 7, "rise": 0.07, "drift": 0.02, "size": 0.028, "opacity": 0.22 },
+    { "type": "splash", "note": "waves on the front rock", "at": [0.452, 0.762], "direction": -110, "spread": 50, "speed": 0.05, "count": 10 },
+    {
+      "type": "sprite_path",
+      "note": "seagulls, 2–3 at a time, across the sunset sky above the lighthouse now and then (either way)",
+      "sheet": "efektler/marti.png", "frames": 8, "fps": 12,
+      "path": [[-0.08, 0.1], [0.3, 0.065], [0.65, 0.075], [1.08, 0.05]],
+      "every": [8, 15], "count": [2, 3], "spacing": 0.06, "speed": 0.19, "scale": 0.075, "jitter": [0, 0.03], "both_ways": true, "wobble": 0.008
+    },
+    {
+      "type": "sprite_path",
+      "note": "a fish jumping out of the foreground lagoon now and then: nose up, then down, a splash where it goes back in",
+      "sheet": "efektler/balik.png", "frames": 4, "fps": 12,
+      "path": [[0.57, 0.775], [0.68, 0.772]],
+      "every": [6, 12], "count": 1, "speed": 0.1, "scale": 0.055, "arc": 0.035, "rotate_to_path": true, "fade": 0.08,
+      "jitter": [0.04, 0.004], "both_ways": true, "wobble": 0,
+      "splash_on_end": { "count": 12, "speed": 0.12, "size": 0.007, "life": 0.6 }
+    }
+  ]
+}
