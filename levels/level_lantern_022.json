@@ -1,0 +1,417 @@
+{
+  "levelId": 22,
+  "sceneId": "atlas_sehir",
+  "scene": "sahneler/atlas_sehir/scene.webp",
+  "depth": "sahneler/atlas_sehir/depth.png",
+  "mode": "lantern",
+  "objectCount": 16,
+  "timePerObjectSec": 20,
+  "silhouetteCount": 4,
+  "camouflage": "heavy",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "kum_saati",
+      "sprite": "nesneler/atlas_sehir/kum_saati.png",
+      "x": 0.13,
+      "y": 0.2601,
+      "height": 0.0159,
+      "brightness": 1.011,
+      "tint": [
+        1.059,
+        0.997,
+        0.945
+      ],
+      "shadow": 0.38
+    },
+    {
+      "id": "pusula",
+      "sprite": "nesneler/atlas_sehir/pusula.png",
+      "x": 0.3,
+      "y": 0.265,
+      "height": 0.0139,
+      "brightness": 0.843,
+      "tint": [
+        1.023,
+        0.994,
+        0.983
+      ],
+      "shadow": 0.29
+    },
+    {
+      "id": "sandal",
+      "sprite": "nesneler/atlas_sehir/sandal.png",
+      "x": 0.4,
+      "y": 0.2075,
+      "height": 0.0151,
+      "brightness": 0.893,
+      "tint": [
+        1.007,
+        0.995,
+        0.997
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "anahtarlar",
+      "sprite": "nesneler/atlas_sehir/anahtarlar.png",
+      "x": 0.84,
+      "y": 0.1686,
+      "height": 0.0127,
+      "brightness": 1.01,
+      "tint": [
+        1.046,
+        1.0,
+        0.954
+      ],
+      "shadow": 0.38
+    },
+    {
+      "id": "gozluk",
+      "sprite": "nesneler/atlas_sehir/gozluk.png",
+      "x": 0.865,
+      "y": 0.263,
+      "height": 0.0139,
+      "brightness": 0.993,
+      "tint": [
+        1.049,
+        0.998,
+        0.953
+      ],
+      "shadow": 0.37
+    },
+    {
+      "id": "akcaagac_yapragi",
+      "sprite": "nesneler/atlas_sehir/akcaagac_yapragi.png",
+      "x": 0.62,
+      "y": 0.2611,
+      "height": 0.0139,
+      "brightness": 0.969,
+      "tint": [
+        1.021,
+        0.995,
+        0.984
+      ],
+      "shadow": 0.36
+    },
+    {
+      "id": "hokka",
+      "sprite": "nesneler/atlas_sehir/hokka.png",
+      "x": 0.21,
+      "y": 0.4618,
+      "height": 0.0164,
+      "brightness": 0.981,
+      "tint": [
+        1.064,
+        0.991,
+        0.945
+      ],
+      "shadow": 0.36
+    },
+    {
+      "id": "merdiven",
+      "sprite": "nesneler/atlas_sehir/merdiven.png",
+      "x": 0.92,
+      "y": 0.3613,
+      "height": 0.0173,
+      "brightness": 0.993,
+      "tint": [
+        1.061,
+        1.003,
+        0.937
+      ],
+      "shadow": 0.37
+    },
+    {
+      "id": "mum",
+      "sprite": "nesneler/atlas_sehir/mum.png",
+      "x": 0.55,
+      "y": 0.4519,
+      "height": 0.0163,
+      "brightness": 0.964,
+      "tint": [
+        1.057,
+        0.995,
+        0.948
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "buyutec",
+      "sprite": "nesneler/atlas_sehir/buyutec.png",
+      "x": 0.8,
+      "y": 0.5264,
+      "height": 0.0172,
+      "brightness": 0.982,
+      "tint": [
+        1.037,
+        0.994,
+        0.969
+      ],
+      "shadow": 0.37
+    },
+    {
+      "id": "muhur",
+      "sprite": "nesneler/atlas_sehir/muhur.png",
+      "x": 0.683,
+      "y": 0.5711,
+      "height": 0.0178,
+      "brightness": 0.965,
+      "tint": [
+        1.024,
+        0.994,
+        0.983
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "tuy_kalem",
+      "sprite": "nesneler/atlas_sehir/tuy_kalem.png",
+      "x": 0.3,
+      "y": 0.545,
+      "height": 0.02,
+      "brightness": 0.977,
+      "tint": [
+        1.048,
+        0.996,
+        0.957
+      ],
+      "shadow": 0.36
+    },
+    {
+      "id": "kure",
+      "sprite": "nesneler/atlas_sehir/kure.png",
+      "x": 0.47,
+      "y": 0.5202,
+      "height": 0.0196,
+      "brightness": 0.962,
+      "tint": [
+        1.04,
+        0.993,
+        0.967
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "sekstant",
+      "sprite": "nesneler/atlas_sehir/sekstant.png",
+      "x": 0.11,
+      "y": 0.689,
+      "height": 0.0221,
+      "brightness": 0.988,
+      "tint": [
+        1.063,
+        0.993,
+        0.943
+      ],
+      "shadow": 0.37
+    },
+    {
+      "id": "gaz_lambasi",
+      "sprite": "nesneler/atlas_sehir/gaz_lambasi.png",
+      "x": 0.55,
+      "y": 0.6344,
+      "height": 0.0213,
+      "brightness": 0.955,
+      "tint": [
+        1.024,
+        0.996,
+        0.98
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "harita_rulo",
+      "sprite": "nesneler/atlas_sehir/harita_rulo.png",
+      "x": 0.42,
+      "y": 0.6989,
+      "height": 0.0222,
+      "brightness": 1.0,
+      "tint": [
+        1.046,
+        0.995,
+        0.959
+      ],
+      "shadow": 0.38
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.33,
+    "y": 0.12,
+    "height": 0.018
+  },
+  "sceneSize": [
+    4093,
+    3380
+  ],
+  "tiles": {
+    "lo": [
+      {
+        "path": "sahneler/atlas_sehir/game/lo.webp",
+        "rect": [
+          0,
+          0,
+          1,
+          1
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "path": "sahneler/atlas_sehir/game/t_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          0.250428,
+          0.250592
+        ]
+      },
+      {
+        "path": "sahneler/atlas_sehir/game/t_0_1.webp",
+        "rect": [
+          0.24945,
+          0.0,
+          0.250916,
+          0.250592
+        ]
+      },
+      {
+        "path": "sahneler/atlas_sehir/game/t_0_2.webp",
+        "rect": [
+          0.499389,
+          0.0,
+          0.251161,
+          0.250592
+        ]
+      },
+      {
+        "path": "sahneler/atlas_sehir/game/t_0_3.webp",
+        "rect": [
+          0.749572,
+          0.0,
+          0.250428,
+          0.250592
+        ]
+      },
+      {
+        "path": "sahneler/atlas_sehir/game/t_1_0.webp",
+        "rect": [
+          0.0,
+          0.249408,
+          0.250428,
+          0.251183
+        ]
+      },
+      {
+        "path": "sahneler/atlas_sehir/game/t_1_1.webp",
+        "rect": [
+          0.24945,
+          0.249408,
+          0.250916,
+          0.251183
+        ]
+      },
+      {
+        "path": "sahneler/atlas_sehir/game/t_1_2.webp",
+        "rect": [
+          0.499389,
+          0.249408,
+          0.251161,
+          0.251183
+        ]
+      },
+      {
+        "path": "sahneler/atlas_sehir/game/t_1_3.webp",
+        "rect": [
+          0.749572,
+          0.249408,
+          0.250428,
+          0.251183
+        ]
+      },
+      {
+        "path": "sahneler/atlas_sehir/game/t_2_0.webp",
+        "rect": [
+          0.0,
+          0.499408,
+          0.250428,
+          0.251183
+        ]
+      },
+      {
+        "path": "sahneler/atlas_sehir/game/t_2_1.webp",
+        "rect": [
+          0.24945,
+          0.499408,
+          0.250916,
+          0.251183
+        ]
+      },
+      {
+        "path": "sahneler/atlas_sehir/game/t_2_2.webp",
+        "rect": [
+          0.499389,
+          0.499408,
+          0.251161,
+          0.251183
+        ]
+      },
+      {
+        "path": "sahneler/atlas_sehir/game/t_2_3.webp",
+        "rect": [
+          0.749572,
+          0.499408,
+          0.250428,
+          0.251183
+        ]
+      },
+      {
+        "path": "sahneler/atlas_sehir/game/t_3_0.webp",
+        "rect": [
+          0.0,
+          0.749408,
+          0.250428,
+          0.250592
+        ]
+      },
+      {
+        "path": "sahneler/atlas_sehir/game/t_3_1.webp",
+        "rect": [
+          0.24945,
+          0.749408,
+          0.250916,
+          0.250592
+        ]
+      },
+      {
+        "path": "sahneler/atlas_sehir/game/t_3_2.webp",
+        "rect": [
+          0.499389,
+          0.749408,
+          0.251161,
+          0.250592
+        ]
+      },
+      {
+        "path": "sahneler/atlas_sehir/game/t_3_3.webp",
+        "rect": [
+          0.749572,
+          0.749408,
+          0.250428,
+          0.250592
+        ]
+      }
+    ]
+  },
+  "lantern": {
+    "radius": 0.2,
+    "start": [
+      0.5,
+      0.92
+    ]
+  }
+}

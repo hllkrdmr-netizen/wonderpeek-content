@@ -1,0 +1,386 @@
+{
+  "levelId": 9,
+  "sceneId": "baharat_pazari",
+  "scene": "sahneler/baharat_pazari/scene.webp",
+  "depth": "sahneler/baharat_pazari/depth.png",
+  "mode": "crowd",
+  "objectCount": 10,
+  "timePerObjectSec": 23,
+  "silhouetteCount": 0,
+  "camouflage": "light",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "ucurtmaci",
+      "sprite": "nesneler/baharat_pazari/ucurtmaci.png",
+      "x": 0.65,
+      "y": 0.3307,
+      "height": 0.0585,
+      "brightness": 0.957,
+      "tint": [
+        1.068,
+        0.984,
+        0.948
+      ],
+      "shadow": 0.35,
+      "trayCrop": [
+        0.1327,
+        0.0,
+        0.7678,
+        0.45
+      ]
+    },
+    {
+      "id": "turbanli_dede",
+      "sprite": "nesneler/baharat_pazari/turbanli_dede.png",
+      "x": 0.205,
+      "y": 0.3151,
+      "height": 0.0497,
+      "brightness": 0.936,
+      "tint": [
+        1.071,
+        0.984,
+        0.946
+      ],
+      "shadow": 0.34,
+      "trayCrop": [
+        0.0,
+        0.0,
+        1.0,
+        0.4111
+      ]
+    },
+    {
+      "id": "balonlu_adam",
+      "sprite": "nesneler/baharat_pazari/balonlu_adam.png",
+      "x": 0.47,
+      "y": 0.4555,
+      "height": 0.1289,
+      "brightness": 0.936,
+      "tint": [
+        1.078,
+        0.982,
+        0.94
+      ],
+      "shadow": 0.34,
+      "trayCrop": [
+        0.0905,
+        0.0,
+        0.8141,
+        0.45
+      ]
+    },
+    {
+      "id": "testili_kadin",
+      "sprite": "nesneler/baharat_pazari/testili_kadin.png",
+      "x": 0.16,
+      "y": 0.4945,
+      "height": 0.1509,
+      "brightness": 0.913,
+      "tint": [
+        1.08,
+        0.981,
+        0.938
+      ],
+      "shadow": 0.33,
+      "trayCrop": [
+        0.0,
+        0.0,
+        1.0,
+        0.3611
+      ]
+    },
+    {
+      "id": "turist",
+      "sprite": "nesneler/baharat_pazari/turist.png",
+      "x": 0.6,
+      "y": 0.4399,
+      "height": 0.1201,
+      "brightness": 0.935,
+      "tint": [
+        1.078,
+        0.973,
+        0.948
+      ],
+      "shadow": 0.34,
+      "trayCrop": [
+        0.0,
+        0.0,
+        1.0,
+        0.45
+      ]
+    },
+    {
+      "id": "kecili_cocuk",
+      "sprite": "nesneler/baharat_pazari/kecili_cocuk.png",
+      "x": 0.8,
+      "y": 0.5014,
+      "height": 0.1172,
+      "brightness": 0.933,
+      "tint": [
+        1.077,
+        0.979,
+        0.945
+      ],
+      "shadow": 0.34,
+      "trayCrop": [
+        0.0,
+        0.0,
+        1.0,
+        0.3806
+      ]
+    },
+    {
+      "id": "pamuk_sekerli_kiz",
+      "sprite": "nesneler/baharat_pazari/pamuk_sekerli_kiz.png",
+      "x": 0.735,
+      "y": 0.6415,
+      "height": 0.1771,
+      "brightness": 0.944,
+      "tint": [
+        1.072,
+        0.981,
+        0.947
+      ],
+      "shadow": 0.34,
+      "trayCrop": [
+        0.0,
+        0.0,
+        0.9419,
+        0.45
+      ]
+    },
+    {
+      "id": "biberli_kadin",
+      "sprite": "nesneler/baharat_pazari/biberli_kadin.png",
+      "x": 0.255,
+      "y": 0.6232,
+      "height": 0.2235,
+      "brightness": 0.921,
+      "tint": [
+        1.094,
+        0.984,
+        0.922
+      ],
+      "shadow": 0.33,
+      "trayCrop": [
+        0.0847,
+        0.0,
+        0.8571,
+        0.45
+      ]
+    },
+    {
+      "id": "narli_kiz",
+      "sprite": "nesneler/baharat_pazari/narli_kiz.png",
+      "x": 0.735,
+      "y": 0.4246,
+      "height": 0.0909,
+      "brightness": 0.958,
+      "tint": [
+        1.07,
+        0.983,
+        0.947
+      ],
+      "shadow": 0.35,
+      "trayCrop": [
+        0.0697,
+        0.0,
+        0.806,
+        0.45
+      ]
+    },
+    {
+      "id": "lokumcu_kadin",
+      "sprite": "nesneler/baharat_pazari/lokumcu_kadin.png",
+      "x": 0.38,
+      "y": 0.3307,
+      "height": 0.0585,
+      "brightness": 0.932,
+      "tint": [
+        1.06,
+        0.997,
+        0.943
+      ],
+      "shadow": 0.34,
+      "trayCrop": [
+        0.0759,
+        0.0,
+        0.7232,
+        0.45
+      ]
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.12,
+    "y": 0.2,
+    "height": 0.018
+  },
+  "sceneSize": [
+    4087,
+    3325
+  ],
+  "tiles": {
+    "lo": [
+      {
+        "path": "sahneler/baharat_pazari/game/lo.webp",
+        "rect": [
+          0,
+          0,
+          1,
+          1
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "path": "sahneler/baharat_pazari/game/t_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          0.250551,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/baharat_pazari/game/t_0_1.webp",
+        "rect": [
+          0.249572,
+          0.0,
+          0.25104,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/baharat_pazari/game/t_0_2.webp",
+        "rect": [
+          0.499633,
+          0.0,
+          0.250795,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/baharat_pazari/game/t_0_3.webp",
+        "rect": [
+          0.749449,
+          0.0,
+          0.250551,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/baharat_pazari/game/t_1_0.webp",
+        "rect": [
+          0.0,
+          0.249323,
+          0.250551,
+          0.251128
+        ]
+      },
+      {
+        "path": "sahneler/baharat_pazari/game/t_1_1.webp",
+        "rect": [
+          0.249572,
+          0.249323,
+          0.25104,
+          0.251128
+        ]
+      },
+      {
+        "path": "sahneler/baharat_pazari/game/t_1_2.webp",
+        "rect": [
+          0.499633,
+          0.249323,
+          0.250795,
+          0.251128
+        ]
+      },
+      {
+        "path": "sahneler/baharat_pazari/game/t_1_3.webp",
+        "rect": [
+          0.749449,
+          0.249323,
+          0.250551,
+          0.251128
+        ]
+      },
+      {
+        "path": "sahneler/baharat_pazari/game/t_2_0.webp",
+        "rect": [
+          0.0,
+          0.499248,
+          0.250551,
+          0.251429
+        ]
+      },
+      {
+        "path": "sahneler/baharat_pazari/game/t_2_1.webp",
+        "rect": [
+          0.249572,
+          0.499248,
+          0.25104,
+          0.251429
+        ]
+      },
+      {
+        "path": "sahneler/baharat_pazari/game/t_2_2.webp",
+        "rect": [
+          0.499633,
+          0.499248,
+          0.250795,
+          0.251429
+        ]
+      },
+      {
+        "path": "sahneler/baharat_pazari/game/t_2_3.webp",
+        "rect": [
+          0.749449,
+          0.499248,
+          0.250551,
+          0.251429
+        ]
+      },
+      {
+        "path": "sahneler/baharat_pazari/game/t_3_0.webp",
+        "rect": [
+          0.0,
+          0.749474,
+          0.250551,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/baharat_pazari/game/t_3_1.webp",
+        "rect": [
+          0.249572,
+          0.749474,
+          0.25104,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/baharat_pazari/game/t_3_2.webp",
+        "rect": [
+          0.499633,
+          0.749474,
+          0.250795,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/baharat_pazari/game/t_3_3.webp",
+        "rect": [
+          0.749449,
+          0.749474,
+          0.250551,
+          0.250526
+        ]
+      }
+    ]
+  }
+}

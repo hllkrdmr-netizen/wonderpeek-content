@@ -1,0 +1,361 @@
+{
+  "levelId": 17,
+  "sceneId": "muzik_kutusu",
+  "scene": "sahneler/muzik_kutusu/scene.webp",
+  "depth": "sahneler/muzik_kutusu/depth.png",
+  "mode": "lantern",
+  "objectCount": 12,
+  "timePerObjectSec": 22,
+  "silhouetteCount": 2,
+  "camouflage": "medium",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "kurma_anahtari",
+      "sprite": "nesneler/muzik_kutusu/kurma_anahtari.png",
+      "x": 0.95,
+      "y": 0.259,
+      "height": 0.0221,
+      "brightness": 0.818,
+      "tint": [
+        1.031,
+        0.98,
+        0.989
+      ],
+      "shadow": 0.28
+    },
+    {
+      "id": "topac",
+      "sprite": "nesneler/muzik_kutusu/topac.png",
+      "x": 0.91,
+      "y": 0.3501,
+      "height": 0.0239,
+      "brightness": 0.829,
+      "tint": [
+        1.054,
+        0.974,
+        0.973
+      ],
+      "shadow": 0.29
+    },
+    {
+      "id": "kaleydoskop",
+      "sprite": "nesneler/muzik_kutusu/kaleydoskop.png",
+      "x": 0.69,
+      "y": 0.1972,
+      "height": 0.0156,
+      "brightness": 0.867,
+      "tint": [
+        1.12,
+        0.982,
+        0.889
+      ],
+      "shadow": 0.3
+    },
+    {
+      "id": "oyuncak_ayi",
+      "sprite": "nesneler/muzik_kutusu/oyuncak_ayi.png",
+      "x": 0.13,
+      "y": 0.4025,
+      "height": 0.0249,
+      "brightness": 0.897,
+      "tint": [
+        1.053,
+        0.983,
+        0.964
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "sallanan_at",
+      "sprite": "nesneler/muzik_kutusu/sallanan_at.png",
+      "x": 0.045,
+      "y": 0.4986,
+      "height": 0.0268,
+      "brightness": 0.84,
+      "tint": [
+        1.06,
+        0.982,
+        0.958
+      ],
+      "shadow": 0.29
+    },
+    {
+      "id": "kutudan_cikan_ay",
+      "sprite": "nesneler/muzik_kutusu/kutudan_cikan_ay.png",
+      "x": 0.035,
+      "y": 0.7838,
+      "height": 0.0325,
+      "brightness": 0.898,
+      "tint": [
+        1.056,
+        0.986,
+        0.958
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "mizika",
+      "sprite": "nesneler/muzik_kutusu/mizika.png",
+      "x": 0.13,
+      "y": 0.8097,
+      "height": 0.0247,
+      "brightness": 0.791,
+      "tint": [
+        1.112,
+        0.978,
+        0.91
+      ],
+      "shadow": 0.27
+    },
+    {
+      "id": "balerin",
+      "sprite": "nesneler/muzik_kutusu/balerin.png",
+      "x": 0.36,
+      "y": 0.8234,
+      "height": 0.0333,
+      "brightness": 0.829,
+      "tint": [
+        1.12,
+        0.965,
+        0.869
+      ],
+      "shadow": 0.29
+    },
+    {
+      "id": "oyuncak_asker",
+      "sprite": "nesneler/muzik_kutusu/oyuncak_asker.png",
+      "x": 0.52,
+      "y": 0.8253,
+      "height": 0.0333,
+      "brightness": 0.909,
+      "tint": [
+        1.12,
+        0.963,
+        0.872
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "parfum_sisesi",
+      "sprite": "nesneler/muzik_kutusu/parfum_sisesi.png",
+      "x": 0.64,
+      "y": 0.8333,
+      "height": 0.0335,
+      "brightness": 0.853,
+      "tint": [
+        1.12,
+        0.964,
+        0.85
+      ],
+      "shadow": 0.3
+    },
+    {
+      "id": "oyuncak_tren",
+      "sprite": "nesneler/muzik_kutusu/oyuncak_tren.png",
+      "x": 0.83,
+      "y": 0.8184,
+      "height": 0.0332,
+      "brightness": 0.851,
+      "tint": [
+        1.12,
+        0.96,
+        0.888
+      ],
+      "shadow": 0.29
+    },
+    {
+      "id": "samdan",
+      "sprite": "nesneler/muzik_kutusu/samdan.png",
+      "x": 0.735,
+      "y": 0.8402,
+      "height": 0.0336,
+      "brightness": 0.904,
+      "tint": [
+        1.12,
+        0.972,
+        0.85
+      ],
+      "shadow": 0.32
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.115,
+    "y": 0.12,
+    "height": 0.02
+  },
+  "sceneSize": [
+    4081,
+    3908
+  ],
+  "tiles": {
+    "lo": [
+      {
+        "path": "sahneler/muzik_kutusu/game/lo.webp",
+        "rect": [
+          0,
+          0,
+          1,
+          1
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "path": "sahneler/muzik_kutusu/game/t_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          0.250429,
+          0.250512
+        ]
+      },
+      {
+        "path": "sahneler/muzik_kutusu/game/t_0_1.webp",
+        "rect": [
+          0.249449,
+          0.0,
+          0.250919,
+          0.250512
+        ]
+      },
+      {
+        "path": "sahneler/muzik_kutusu/game/t_0_2.webp",
+        "rect": [
+          0.499387,
+          0.0,
+          0.251164,
+          0.250512
+        ]
+      },
+      {
+        "path": "sahneler/muzik_kutusu/game/t_0_3.webp",
+        "rect": [
+          0.749571,
+          0.0,
+          0.250429,
+          0.250512
+        ]
+      },
+      {
+        "path": "sahneler/muzik_kutusu/game/t_1_0.webp",
+        "rect": [
+          0.0,
+          0.249488,
+          0.250429,
+          0.251024
+        ]
+      },
+      {
+        "path": "sahneler/muzik_kutusu/game/t_1_1.webp",
+        "rect": [
+          0.249449,
+          0.249488,
+          0.250919,
+          0.251024
+        ]
+      },
+      {
+        "path": "sahneler/muzik_kutusu/game/t_1_2.webp",
+        "rect": [
+          0.499387,
+          0.249488,
+          0.251164,
+          0.251024
+        ]
+      },
+      {
+        "path": "sahneler/muzik_kutusu/game/t_1_3.webp",
+        "rect": [
+          0.749571,
+          0.249488,
+          0.250429,
+          0.251024
+        ]
+      },
+      {
+        "path": "sahneler/muzik_kutusu/game/t_2_0.webp",
+        "rect": [
+          0.0,
+          0.499488,
+          0.250429,
+          0.251024
+        ]
+      },
+      {
+        "path": "sahneler/muzik_kutusu/game/t_2_1.webp",
+        "rect": [
+          0.249449,
+          0.499488,
+          0.250919,
+          0.251024
+        ]
+      },
+      {
+        "path": "sahneler/muzik_kutusu/game/t_2_2.webp",
+        "rect": [
+          0.499387,
+          0.499488,
+          0.251164,
+          0.251024
+        ]
+      },
+      {
+        "path": "sahneler/muzik_kutusu/game/t_2_3.webp",
+        "rect": [
+          0.749571,
+          0.499488,
+          0.250429,
+          0.251024
+        ]
+      },
+      {
+        "path": "sahneler/muzik_kutusu/game/t_3_0.webp",
+        "rect": [
+          0.0,
+          0.749488,
+          0.250429,
+          0.250512
+        ]
+      },
+      {
+        "path": "sahneler/muzik_kutusu/game/t_3_1.webp",
+        "rect": [
+          0.249449,
+          0.749488,
+          0.250919,
+          0.250512
+        ]
+      },
+      {
+        "path": "sahneler/muzik_kutusu/game/t_3_2.webp",
+        "rect": [
+          0.499387,
+          0.749488,
+          0.251164,
+          0.250512
+        ]
+      },
+      {
+        "path": "sahneler/muzik_kutusu/game/t_3_3.webp",
+        "rect": [
+          0.749571,
+          0.749488,
+          0.250429,
+          0.250512
+        ]
+      }
+    ]
+  },
+  "lantern": {
+    "radius": 0.22,
+    "start": [
+      0.75,
+      0.75
+    ]
+  }
+}

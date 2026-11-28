@@ -1,0 +1,270 @@
+{
+  "levelId": 4,
+  "sceneId": "vahsi_bati",
+  "scene": "sahneler/vahsi_bati/scene.webp",
+  "depth": "sahneler/vahsi_bati/depth.png",
+  "mode": "oddone",
+  "objectCount": 6,
+  "timePerObjectSec": 28,
+  "silhouetteCount": 0,
+  "camouflage": "light",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "drone",
+      "sprite": "nesneler/vahsi_bati/drone.png",
+      "x": 0.125,
+      "y": 0.1948,
+      "height": 0.0164,
+      "brightness": 0.915,
+      "tint": [
+        1.074,
+        0.993,
+        0.933
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "kulaklik",
+      "sprite": "nesneler/vahsi_bati/kulaklik.png",
+      "x": 0.48,
+      "y": 0.1792,
+      "height": 0.0155,
+      "brightness": 0.903,
+      "tint": [
+        1.118,
+        0.968,
+        0.914
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "telefon",
+      "sprite": "nesneler/vahsi_bati/telefon.png",
+      "x": 0.4,
+      "y": 0.3453,
+      "height": 0.0214,
+      "brightness": 0.879,
+      "tint": [
+        1.112,
+        0.978,
+        0.91
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "trafik_konisi",
+      "sprite": "nesneler/vahsi_bati/trafik_konisi.png",
+      "x": 0.755,
+      "y": 0.5102,
+      "height": 0.0397,
+      "brightness": 0.95,
+      "tint": [
+        1.081,
+        0.989,
+        0.93
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "laptop",
+      "sprite": "nesneler/vahsi_bati/laptop.png",
+      "x": 0.765,
+      "y": 0.7828,
+      "height": 0.0284,
+      "brightness": 0.951,
+      "tint": [
+        1.074,
+        0.993,
+        0.933
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "elektrikli_scooter",
+      "sprite": "nesneler/vahsi_bati/elektrikli_scooter.png",
+      "x": 0.19,
+      "y": 0.7895,
+      "height": 0.081,
+      "brightness": 0.968,
+      "tint": [
+        1.082,
+        0.989,
+        0.929
+      ],
+      "shadow": 0.36
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.4,
+    "y": 0.16,
+    "height": 0.02
+  },
+  "sceneSize": [
+    4092,
+    3260
+  ],
+  "tiles": {
+    "lo": [
+      {
+        "path": "sahneler/vahsi_bati/game/lo.webp",
+        "rect": [
+          0,
+          0,
+          1,
+          1
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "path": "sahneler/vahsi_bati/game/t_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          0.250489,
+          0.250613
+        ]
+      },
+      {
+        "path": "sahneler/vahsi_bati/game/t_0_1.webp",
+        "rect": [
+          0.249511,
+          0.0,
+          0.250978,
+          0.250613
+        ]
+      },
+      {
+        "path": "sahneler/vahsi_bati/game/t_0_2.webp",
+        "rect": [
+          0.499511,
+          0.0,
+          0.250978,
+          0.250613
+        ]
+      },
+      {
+        "path": "sahneler/vahsi_bati/game/t_0_3.webp",
+        "rect": [
+          0.749511,
+          0.0,
+          0.250489,
+          0.250613
+        ]
+      },
+      {
+        "path": "sahneler/vahsi_bati/game/t_1_0.webp",
+        "rect": [
+          0.0,
+          0.249387,
+          0.250489,
+          0.251227
+        ]
+      },
+      {
+        "path": "sahneler/vahsi_bati/game/t_1_1.webp",
+        "rect": [
+          0.249511,
+          0.249387,
+          0.250978,
+          0.251227
+        ]
+      },
+      {
+        "path": "sahneler/vahsi_bati/game/t_1_2.webp",
+        "rect": [
+          0.499511,
+          0.249387,
+          0.250978,
+          0.251227
+        ]
+      },
+      {
+        "path": "sahneler/vahsi_bati/game/t_1_3.webp",
+        "rect": [
+          0.749511,
+          0.249387,
+          0.250489,
+          0.251227
+        ]
+      },
+      {
+        "path": "sahneler/vahsi_bati/game/t_2_0.webp",
+        "rect": [
+          0.0,
+          0.499387,
+          0.250489,
+          0.251227
+        ]
+      },
+      {
+        "path": "sahneler/vahsi_bati/game/t_2_1.webp",
+        "rect": [
+          0.249511,
+          0.499387,
+          0.250978,
+          0.251227
+        ]
+      },
+      {
+        "path": "sahneler/vahsi_bati/game/t_2_2.webp",
+        "rect": [
+          0.499511,
+          0.499387,
+          0.250978,
+          0.251227
+        ]
+      },
+      {
+        "path": "sahneler/vahsi_bati/game/t_2_3.webp",
+        "rect": [
+          0.749511,
+          0.499387,
+          0.250489,
+          0.251227
+        ]
+      },
+      {
+        "path": "sahneler/vahsi_bati/game/t_3_0.webp",
+        "rect": [
+          0.0,
+          0.749387,
+          0.250489,
+          0.250613
+        ]
+      },
+      {
+        "path": "sahneler/vahsi_bati/game/t_3_1.webp",
+        "rect": [
+          0.249511,
+          0.749387,
+          0.250978,
+          0.250613
+        ]
+      },
+      {
+        "path": "sahneler/vahsi_bati/game/t_3_2.webp",
+        "rect": [
+          0.499511,
+          0.749387,
+          0.250978,
+          0.250613
+        ]
+      },
+      {
+        "path": "sahneler/vahsi_bati/game/t_3_3.webp",
+        "rect": [
+          0.749511,
+          0.749387,
+          0.250489,
+          0.250613
+        ]
+      }
+    ]
+  }
+}

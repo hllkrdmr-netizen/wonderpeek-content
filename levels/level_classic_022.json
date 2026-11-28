@@ -1,0 +1,410 @@
+{
+  "levelId": 22,
+  "sceneId": "keman_kutusu",
+  "scene": "sahneler/keman_kutusu/scene.webp",
+  "depth": "sahneler/keman_kutusu/depth.png",
+  "mode": "classic",
+  "objectCount": 16,
+  "timePerObjectSec": 12,
+  "silhouetteCount": 4,
+  "camouflage": "heavy",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "gul",
+      "sprite": "nesneler/keman_kutusu/gul.png",
+      "x": 0.15,
+      "y": 0.3044,
+      "height": 0.0111,
+      "brightness": 0.928,
+      "tint": [
+        1.093,
+        1.009,
+        0.898
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "silindir_sapka",
+      "sprite": "nesneler/keman_kutusu/silindir_sapka.png",
+      "x": 0.3,
+      "y": 0.2526,
+      "height": 0.0108,
+      "brightness": 1.016,
+      "tint": [
+        1.088,
+        0.992,
+        0.921
+      ],
+      "shadow": 0.39
+    },
+    {
+      "id": "nota_sehpasi",
+      "sprite": "nesneler/keman_kutusu/nota_sehpasi.png",
+      "x": 0.45,
+      "y": 0.3233,
+      "height": 0.0135,
+      "brightness": 1.0,
+      "tint": [
+        1.103,
+        1.025,
+        0.872
+      ],
+      "shadow": 0.38
+    },
+    {
+      "id": "yelpaze",
+      "sprite": "nesneler/keman_kutusu/yelpaze.png",
+      "x": 0.8,
+      "y": 0.3144,
+      "height": 0.0112,
+      "brightness": 1.02,
+      "tint": [
+        1.067,
+        0.994,
+        0.939
+      ],
+      "shadow": 0.41
+    },
+    {
+      "id": "trompet",
+      "sprite": "nesneler/keman_kutusu/trompet.png",
+      "x": 0.45,
+      "y": 0.5138,
+      "height": 0.0125,
+      "brightness": 0.971,
+      "tint": [
+        1.102,
+        0.973,
+        0.925
+      ],
+      "shadow": 0.36
+    },
+    {
+      "id": "menekse",
+      "sprite": "nesneler/keman_kutusu/menekse.png",
+      "x": 0.58,
+      "y": 0.5287,
+      "height": 0.0126,
+      "brightness": 1.015,
+      "tint": [
+        1.052,
+        0.964,
+        0.984
+      ],
+      "shadow": 0.39
+    },
+    {
+      "id": "kruvasan_tabak",
+      "sprite": "nesneler/keman_kutusu/kruvasan_tabak.png",
+      "x": 0.85,
+      "y": 0.5237,
+      "height": 0.0125,
+      "brightness": 0.998,
+      "tint": [
+        1.11,
+        0.987,
+        0.903
+      ],
+      "shadow": 0.38
+    },
+    {
+      "id": "recine",
+      "sprite": "nesneler/keman_kutusu/recine.png",
+      "x": 0.83,
+      "y": 0.4147,
+      "height": 0.0106,
+      "brightness": 0.973,
+      "tint": [
+        1.111,
+        0.99,
+        0.899
+      ],
+      "shadow": 0.36
+    },
+    {
+      "id": "sokak_lambasi",
+      "sprite": "nesneler/keman_kutusu/sokak_lambasi.png",
+      "x": 0.3,
+      "y": 0.5498,
+      "height": 0.0204,
+      "brightness": 1.02,
+      "tint": [
+        1.066,
+        0.989,
+        0.945
+      ],
+      "shadow": 0.41
+    },
+    {
+      "id": "diyapazon",
+      "sprite": "nesneler/keman_kutusu/diyapazon.png",
+      "x": 0.67,
+      "y": 0.4888,
+      "height": 0.0123,
+      "brightness": 1.02,
+      "tint": [
+        1.111,
+        0.992,
+        0.897
+      ],
+      "shadow": 0.41
+    },
+    {
+      "id": "keman_yayi",
+      "sprite": "nesneler/keman_kutusu/keman_yayi.png",
+      "x": 0.27,
+      "y": 0.6271,
+      "height": 0.0159,
+      "brightness": 1.02,
+      "tint": [
+        1.065,
+        0.995,
+        0.94
+      ],
+      "shadow": 0.42
+    },
+    {
+      "id": "cep_saati",
+      "sprite": "nesneler/keman_kutusu/cep_saati.png",
+      "x": 0.12,
+      "y": 0.6247,
+      "height": 0.0106,
+      "brightness": 0.933,
+      "tint": [
+        1.088,
+        0.986,
+        0.926
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "opera_durbunu",
+      "sprite": "nesneler/keman_kutusu/opera_durbunu.png",
+      "x": 0.6,
+      "y": 0.6546,
+      "height": 0.0107,
+      "brightness": 0.924,
+      "tint": [
+        1.038,
+        0.998,
+        0.963
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "gondol",
+      "sprite": "nesneler/keman_kutusu/gondol.png",
+      "x": 0.47,
+      "y": 0.6493,
+      "height": 0.0214,
+      "brightness": 0.959,
+      "tint": [
+        0.992,
+        1.015,
+        0.992
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "anahtar",
+      "sprite": "nesneler/keman_kutusu/anahtar.png",
+      "x": 0.805,
+      "y": 0.6467,
+      "height": 0.0107,
+      "brightness": 1.02,
+      "tint": [
+        1.074,
+        0.989,
+        0.937
+      ],
+      "shadow": 0.42
+    },
+    {
+      "id": "metronom",
+      "sprite": "nesneler/keman_kutusu/metronom.png",
+      "x": 0.93,
+      "y": 0.5586,
+      "height": 0.0128,
+      "brightness": 1.02,
+      "tint": [
+        1.113,
+        0.994,
+        0.893
+      ],
+      "shadow": 0.39
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.93,
+    "y": 0.4,
+    "height": 0.016
+  },
+  "sceneSize": [
+    3840,
+    4096
+  ],
+  "tiles": {
+    "lo": [
+      {
+        "path": "sahneler/keman_kutusu/game/lo.webp",
+        "rect": [
+          0,
+          0,
+          1,
+          1
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "path": "sahneler/keman_kutusu/game/t_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          0.250521,
+          0.250488
+        ]
+      },
+      {
+        "path": "sahneler/keman_kutusu/game/t_0_1.webp",
+        "rect": [
+          0.249479,
+          0.0,
+          0.251042,
+          0.250488
+        ]
+      },
+      {
+        "path": "sahneler/keman_kutusu/game/t_0_2.webp",
+        "rect": [
+          0.499479,
+          0.0,
+          0.251042,
+          0.250488
+        ]
+      },
+      {
+        "path": "sahneler/keman_kutusu/game/t_0_3.webp",
+        "rect": [
+          0.749479,
+          0.0,
+          0.250521,
+          0.250488
+        ]
+      },
+      {
+        "path": "sahneler/keman_kutusu/game/t_1_0.webp",
+        "rect": [
+          0.0,
+          0.249512,
+          0.250521,
+          0.250977
+        ]
+      },
+      {
+        "path": "sahneler/keman_kutusu/game/t_1_1.webp",
+        "rect": [
+          0.249479,
+          0.249512,
+          0.251042,
+          0.250977
+        ]
+      },
+      {
+        "path": "sahneler/keman_kutusu/game/t_1_2.webp",
+        "rect": [
+          0.499479,
+          0.249512,
+          0.251042,
+          0.250977
+        ]
+      },
+      {
+        "path": "sahneler/keman_kutusu/game/t_1_3.webp",
+        "rect": [
+          0.749479,
+          0.249512,
+          0.250521,
+          0.250977
+        ]
+      },
+      {
+        "path": "sahneler/keman_kutusu/game/t_2_0.webp",
+        "rect": [
+          0.0,
+          0.499512,
+          0.250521,
+          0.250977
+        ]
+      },
+      {
+        "path": "sahneler/keman_kutusu/game/t_2_1.webp",
+        "rect": [
+          0.249479,
+          0.499512,
+          0.251042,
+          0.250977
+        ]
+      },
+      {
+        "path": "sahneler/keman_kutusu/game/t_2_2.webp",
+        "rect": [
+          0.499479,
+          0.499512,
+          0.251042,
+          0.250977
+        ]
+      },
+      {
+        "path": "sahneler/keman_kutusu/game/t_2_3.webp",
+        "rect": [
+          0.749479,
+          0.499512,
+          0.250521,
+          0.250977
+        ]
+      },
+      {
+        "path": "sahneler/keman_kutusu/game/t_3_0.webp",
+        "rect": [
+          0.0,
+          0.749512,
+          0.250521,
+          0.250488
+        ]
+      },
+      {
+        "path": "sahneler/keman_kutusu/game/t_3_1.webp",
+        "rect": [
+          0.249479,
+          0.749512,
+          0.251042,
+          0.250488
+        ]
+      },
+      {
+        "path": "sahneler/keman_kutusu/game/t_3_2.webp",
+        "rect": [
+          0.499479,
+          0.749512,
+          0.251042,
+          0.250488
+        ]
+      },
+      {
+        "path": "sahneler/keman_kutusu/game/t_3_3.webp",
+        "rect": [
+          0.749479,
+          0.749512,
+          0.250521,
+          0.250488
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,354 @@
+{
+  "levelId": 20,
+  "sceneId": "cay_fincani",
+  "scene": "sahneler/cay_fincani/scene.webp",
+  "depth": "sahneler/cay_fincani/depth.png",
+  "mode": "classic",
+  "objectCount": 12,
+  "timePerObjectSec": 16,
+  "silhouetteCount": 2,
+  "camouflage": "light",
+  "objectScale": 1,
+  "isBreather": true,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "kagit_turna",
+      "sprite": "nesneler/cay_fincani/kagit_turna.png",
+      "x": 0.76,
+      "y": 0.1448,
+      "height": 0.0163,
+      "brightness": 0.966,
+      "tint": [
+        1.066,
+        0.992,
+        0.942
+      ],
+      "shadow": 0.36
+    },
+    {
+      "id": "yelpaze",
+      "sprite": "nesneler/cay_fincani/yelpaze.png",
+      "x": 0.88,
+      "y": 0.2364,
+      "height": 0.0173,
+      "brightness": 0.911,
+      "tint": [
+        1.107,
+        0.986,
+        0.907
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "seker_masasi",
+      "sprite": "nesneler/cay_fincani/seker_masasi.png",
+      "x": 0.13,
+      "y": 0.3259,
+      "height": 0.0182,
+      "brightness": 0.928,
+      "tint": [
+        1.09,
+        0.995,
+        0.914
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "bal_kasigi",
+      "sprite": "nesneler/cay_fincani/bal_kasigi.png",
+      "x": 0.64,
+      "y": 0.3159,
+      "height": 0.0181,
+      "brightness": 1.005,
+      "tint": [
+        1.057,
+        0.997,
+        0.946
+      ],
+      "shadow": 0.38
+    },
+    {
+      "id": "can_simidi",
+      "sprite": "nesneler/cay_fincani/can_simidi.png",
+      "x": 0.45,
+      "y": 0.4552,
+      "height": 0.0196,
+      "brightness": 1.007,
+      "tint": [
+        0.971,
+        1.037,
+        0.992
+      ],
+      "shadow": 0.38
+    },
+    {
+      "id": "yelkenli",
+      "sprite": "nesneler/cay_fincani/yelkenli.png",
+      "x": 0.7,
+      "y": 0.478,
+      "height": 0.0241,
+      "brightness": 0.93,
+      "tint": [
+        1.006,
+        1.014,
+        0.98
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "sut_ibrigi",
+      "sprite": "nesneler/cay_fincani/sut_ibrigi.png",
+      "x": 0.7,
+      "y": 0.3912,
+      "height": 0.0175,
+      "brightness": 0.913,
+      "tint": [
+        1.073,
+        0.994,
+        0.932
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "ahtapot",
+      "sprite": "nesneler/cay_fincani/ahtapot.png",
+      "x": 0.08,
+      "y": 0.5547,
+      "height": 0.0206,
+      "brightness": 0.895,
+      "tint": [
+        1.082,
+        0.987,
+        0.931
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "istiridye_inci",
+      "sprite": "nesneler/cay_fincani/istiridye_inci.png",
+      "x": 0.55,
+      "y": 0.5447,
+      "height": 0.0205,
+      "brightness": 0.973,
+      "tint": [
+        1.034,
+        1.004,
+        0.962
+      ],
+      "shadow": 0.36
+    },
+    {
+      "id": "cilek",
+      "sprite": "nesneler/cay_fincani/cilek.png",
+      "x": 0.66,
+      "y": 0.7122,
+      "height": 0.0255,
+      "brightness": 0.943,
+      "tint": [
+        1.078,
+        0.993,
+        0.929
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "kruvasan",
+      "sprite": "nesneler/cay_fincani/kruvasan.png",
+      "x": 0.78,
+      "y": 0.7934,
+      "height": 0.0331,
+      "brightness": 1.016,
+      "tint": [
+        1.036,
+        0.998,
+        0.966
+      ],
+      "shadow": 0.39
+    },
+    {
+      "id": "cay_kasigi",
+      "sprite": "nesneler/cay_fincani/cay_kasigi.png",
+      "x": 0.32,
+      "y": 0.8368,
+      "height": 0.0304,
+      "brightness": 1.02,
+      "tint": [
+        1.029,
+        0.993,
+        0.978
+      ],
+      "shadow": 0.42
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.24,
+    "y": 0.31,
+    "height": 0.018
+  },
+  "sceneSize": [
+    4096,
+    3947
+  ],
+  "tiles": {
+    "lo": [
+      {
+        "path": "sahneler/cay_fincani/game/lo.webp",
+        "rect": [
+          0,
+          0,
+          1,
+          1
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "path": "sahneler/cay_fincani/game/t_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          0.250488,
+          0.25057
+        ]
+      },
+      {
+        "path": "sahneler/cay_fincani/game/t_0_1.webp",
+        "rect": [
+          0.249512,
+          0.0,
+          0.250977,
+          0.25057
+        ]
+      },
+      {
+        "path": "sahneler/cay_fincani/game/t_0_2.webp",
+        "rect": [
+          0.499512,
+          0.0,
+          0.250977,
+          0.25057
+        ]
+      },
+      {
+        "path": "sahneler/cay_fincani/game/t_0_3.webp",
+        "rect": [
+          0.749512,
+          0.0,
+          0.250488,
+          0.25057
+        ]
+      },
+      {
+        "path": "sahneler/cay_fincani/game/t_1_0.webp",
+        "rect": [
+          0.0,
+          0.249557,
+          0.250488,
+          0.251077
+        ]
+      },
+      {
+        "path": "sahneler/cay_fincani/game/t_1_1.webp",
+        "rect": [
+          0.249512,
+          0.249557,
+          0.250977,
+          0.251077
+        ]
+      },
+      {
+        "path": "sahneler/cay_fincani/game/t_1_2.webp",
+        "rect": [
+          0.499512,
+          0.249557,
+          0.250977,
+          0.251077
+        ]
+      },
+      {
+        "path": "sahneler/cay_fincani/game/t_1_3.webp",
+        "rect": [
+          0.749512,
+          0.249557,
+          0.250488,
+          0.251077
+        ]
+      },
+      {
+        "path": "sahneler/cay_fincani/game/t_2_0.webp",
+        "rect": [
+          0.0,
+          0.49962,
+          0.250488,
+          0.250823
+        ]
+      },
+      {
+        "path": "sahneler/cay_fincani/game/t_2_1.webp",
+        "rect": [
+          0.249512,
+          0.49962,
+          0.250977,
+          0.250823
+        ]
+      },
+      {
+        "path": "sahneler/cay_fincani/game/t_2_2.webp",
+        "rect": [
+          0.499512,
+          0.49962,
+          0.250977,
+          0.250823
+        ]
+      },
+      {
+        "path": "sahneler/cay_fincani/game/t_2_3.webp",
+        "rect": [
+          0.749512,
+          0.49962,
+          0.250488,
+          0.250823
+        ]
+      },
+      {
+        "path": "sahneler/cay_fincani/game/t_3_0.webp",
+        "rect": [
+          0.0,
+          0.74943,
+          0.250488,
+          0.25057
+        ]
+      },
+      {
+        "path": "sahneler/cay_fincani/game/t_3_1.webp",
+        "rect": [
+          0.249512,
+          0.74943,
+          0.250977,
+          0.25057
+        ]
+      },
+      {
+        "path": "sahneler/cay_fincani/game/t_3_2.webp",
+        "rect": [
+          0.499512,
+          0.74943,
+          0.250977,
+          0.25057
+        ]
+      },
+      {
+        "path": "sahneler/cay_fincani/game/t_3_3.webp",
+        "rect": [
+          0.749512,
+          0.74943,
+          0.250488,
+          0.25057
+        ]
+      }
+    ]
+  }
+}

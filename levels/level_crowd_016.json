@@ -1,0 +1,426 @@
+{
+  "levelId": 16,
+  "sceneId": "sahil_kayik",
+  "scene": "sahneler/sahil_kayik/scene.webp",
+  "depth": "sahneler/sahil_kayik/depth.png",
+  "mode": "crowd",
+  "objectCount": 12,
+  "timePerObjectSec": 24,
+  "silhouetteCount": 3,
+  "camouflage": "medium",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "ucurtmali_cocuk",
+      "sprite": "nesneler/sahil_kayik/ucurtmali_cocuk.png",
+      "x": 0.085,
+      "y": 0.1918,
+      "height": 0.0304,
+      "brightness": 0.956,
+      "tint": [
+        0.997,
+        0.995,
+        1.008
+      ],
+      "shadow": 0.35,
+      "trayCrop": [
+        0.1814,
+        0.0,
+        0.7168,
+        0.45
+      ]
+    },
+    {
+      "id": "semsiyeli_adam",
+      "sprite": "nesneler/sahil_kayik/semsiyeli_adam.png",
+      "x": 0.24,
+      "y": 0.3277,
+      "height": 0.0547,
+      "brightness": 0.956,
+      "tint": [
+        1.057,
+        0.999,
+        0.944
+      ],
+      "shadow": 0.35,
+      "trayCrop": [
+        0.152,
+        0.0,
+        0.7941,
+        0.45
+      ]
+    },
+    {
+      "id": "cankurtaran",
+      "sprite": "nesneler/sahil_kayik/cankurtaran.png",
+      "x": 0.177,
+      "y": 0.4149,
+      "height": 0.1103,
+      "brightness": 0.968,
+      "tint": [
+        1.054,
+        0.994,
+        0.951
+      ],
+      "shadow": 0.36,
+      "trayCrop": [
+        0.0054,
+        0.0,
+        0.871,
+        0.45
+      ]
+    },
+    {
+      "id": "dondurmaci",
+      "sprite": "nesneler/sahil_kayik/dondurmaci.png",
+      "x": 0.41,
+      "y": 0.3549,
+      "height": 0.1001,
+      "brightness": 0.929,
+      "tint": [
+        1.075,
+        0.99,
+        0.935
+      ],
+      "shadow": 0.33,
+      "trayCrop": [
+        0.0,
+        0.0,
+        1.0,
+        0.4389
+      ]
+    },
+    {
+      "id": "patenli_kadin",
+      "sprite": "nesneler/sahil_kayik/patenli_kadin.png",
+      "x": 0.548,
+      "y": 0.3582,
+      "height": 0.1396,
+      "brightness": 0.916,
+      "tint": [
+        1.073,
+        0.993,
+        0.935
+      ],
+      "shadow": 0.33,
+      "trayCrop": [
+        0.0435,
+        0.0,
+        0.7826,
+        0.45
+      ]
+    },
+    {
+      "id": "tandem_cift",
+      "sprite": "nesneler/sahil_kayik/tandem_cift.png",
+      "x": 0.67,
+      "y": 0.3519,
+      "height": 0.1403,
+      "brightness": 0.922,
+      "tint": [
+        1.078,
+        0.993,
+        0.929
+      ],
+      "shadow": 0.33,
+      "trayCrop": [
+        0.3079,
+        0.0,
+        0.5364,
+        0.45
+      ]
+    },
+    {
+      "id": "semsiyeli_nine",
+      "sprite": "nesneler/sahil_kayik/semsiyeli_nine.png",
+      "x": 0.77,
+      "y": 0.3581,
+      "height": 0.1198,
+      "brightness": 0.923,
+      "tint": [
+        1.078,
+        0.993,
+        0.929
+      ],
+      "shadow": 0.33,
+      "trayCrop": [
+        0.0913,
+        0.0,
+        0.7397,
+        0.45
+      ]
+    },
+    {
+      "id": "fotografci",
+      "sprite": "nesneler/sahil_kayik/fotografci.png",
+      "x": 0.832,
+      "y": 0.3603,
+      "height": 0.1154,
+      "brightness": 0.93,
+      "tint": [
+        1.075,
+        0.993,
+        0.932
+      ],
+      "shadow": 0.33,
+      "trayCrop": [
+        0.0,
+        0.0,
+        1.0,
+        0.3444
+      ]
+    },
+    {
+      "id": "lolipoplu_kiz",
+      "sprite": "nesneler/sahil_kayik/lolipoplu_kiz.png",
+      "x": 0.885,
+      "y": 0.3888,
+      "height": 0.1224,
+      "brightness": 0.949,
+      "tint": [
+        1.063,
+        0.993,
+        0.944
+      ],
+      "shadow": 0.35,
+      "trayCrop": [
+        0.0,
+        0.0,
+        1.0,
+        0.4419
+      ]
+    },
+    {
+      "id": "gazeteli_adam",
+      "sprite": "nesneler/sahil_kayik/gazeteli_adam.png",
+      "x": 0.633,
+      "y": 0.58,
+      "height": 0.16,
+      "brightness": 0.959,
+      "tint": [
+        1.078,
+        0.989,
+        0.934
+      ],
+      "shadow": 0.35,
+      "trayCrop": [
+        0.0803,
+        0.0,
+        0.5912,
+        0.45
+      ]
+    },
+    {
+      "id": "kepceli_cocuk",
+      "sprite": "nesneler/sahil_kayik/kepceli_cocuk.png",
+      "x": 0.775,
+      "y": 0.6478,
+      "height": 0.1204,
+      "brightness": 0.97,
+      "tint": [
+        1.076,
+        0.994,
+        0.93
+      ],
+      "shadow": 0.36,
+      "trayCrop": [
+        0.0188,
+        0.0,
+        0.7606,
+        0.45
+      ]
+    },
+    {
+      "id": "kumdan_kaleci",
+      "sprite": "nesneler/sahil_kayik/kumdan_kaleci.png",
+      "x": 0.41,
+      "y": 0.7275,
+      "height": 0.0949,
+      "brightness": 0.976,
+      "tint": [
+        1.084,
+        0.984,
+        0.932
+      ],
+      "shadow": 0.36,
+      "trayCrop": [
+        0.2461,
+        0.0,
+        0.429,
+        0.4474
+      ]
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.155,
+    "y": 0.115,
+    "height": 0.015
+  },
+  "sceneSize": [
+    4093,
+    3100
+  ],
+  "tiles": {
+    "lo": [
+      {
+        "path": "sahneler/sahil_kayik/game/lo.webp",
+        "rect": [
+          0,
+          0,
+          1,
+          1
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "path": "sahneler/sahil_kayik/game/t_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          0.250428,
+          0.250645
+        ]
+      },
+      {
+        "path": "sahneler/sahil_kayik/game/t_0_1.webp",
+        "rect": [
+          0.24945,
+          0.0,
+          0.250916,
+          0.250645
+        ]
+      },
+      {
+        "path": "sahneler/sahil_kayik/game/t_0_2.webp",
+        "rect": [
+          0.499389,
+          0.0,
+          0.251161,
+          0.250645
+        ]
+      },
+      {
+        "path": "sahneler/sahil_kayik/game/t_0_3.webp",
+        "rect": [
+          0.749572,
+          0.0,
+          0.250428,
+          0.250645
+        ]
+      },
+      {
+        "path": "sahneler/sahil_kayik/game/t_1_0.webp",
+        "rect": [
+          0.0,
+          0.249355,
+          0.250428,
+          0.25129
+        ]
+      },
+      {
+        "path": "sahneler/sahil_kayik/game/t_1_1.webp",
+        "rect": [
+          0.24945,
+          0.249355,
+          0.250916,
+          0.25129
+        ]
+      },
+      {
+        "path": "sahneler/sahil_kayik/game/t_1_2.webp",
+        "rect": [
+          0.499389,
+          0.249355,
+          0.251161,
+          0.25129
+        ]
+      },
+      {
+        "path": "sahneler/sahil_kayik/game/t_1_3.webp",
+        "rect": [
+          0.749572,
+          0.249355,
+          0.250428,
+          0.25129
+        ]
+      },
+      {
+        "path": "sahneler/sahil_kayik/game/t_2_0.webp",
+        "rect": [
+          0.0,
+          0.499355,
+          0.250428,
+          0.25129
+        ]
+      },
+      {
+        "path": "sahneler/sahil_kayik/game/t_2_1.webp",
+        "rect": [
+          0.24945,
+          0.499355,
+          0.250916,
+          0.25129
+        ]
+      },
+      {
+        "path": "sahneler/sahil_kayik/game/t_2_2.webp",
+        "rect": [
+          0.499389,
+          0.499355,
+          0.251161,
+          0.25129
+        ]
+      },
+      {
+        "path": "sahneler/sahil_kayik/game/t_2_3.webp",
+        "rect": [
+          0.749572,
+          0.499355,
+          0.250428,
+          0.25129
+        ]
+      },
+      {
+        "path": "sahneler/sahil_kayik/game/t_3_0.webp",
+        "rect": [
+          0.0,
+          0.749355,
+          0.250428,
+          0.250645
+        ]
+      },
+      {
+        "path": "sahneler/sahil_kayik/game/t_3_1.webp",
+        "rect": [
+          0.24945,
+          0.749355,
+          0.250916,
+          0.250645
+        ]
+      },
+      {
+        "path": "sahneler/sahil_kayik/game/t_3_2.webp",
+        "rect": [
+          0.499389,
+          0.749355,
+          0.251161,
+          0.250645
+        ]
+      },
+      {
+        "path": "sahneler/sahil_kayik/game/t_3_3.webp",
+        "rect": [
+          0.749572,
+          0.749355,
+          0.250428,
+          0.250645
+        ]
+      }
+    ]
+  }
+}

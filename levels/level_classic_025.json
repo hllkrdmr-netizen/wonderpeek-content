@@ -1,0 +1,368 @@
+{
+  "levelId": 25,
+  "sceneId": "terraryum",
+  "scene": "sahneler/terraryum/scene.webp",
+  "depth": "sahneler/terraryum/depth.png",
+  "mode": "classic",
+  "objectCount": 13,
+  "timePerObjectSec": 14,
+  "silhouetteCount": 4,
+  "camouflage": "medium",
+  "objectScale": 1,
+  "isBreather": true,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "kask",
+      "sprite": "nesneler/terraryum/kask.png",
+      "x": 0.4,
+      "y": 0.2286,
+      "height": 0.0128,
+      "brightness": 1.02,
+      "tint": [
+        0.984,
+        1.007,
+        1.01
+      ],
+      "shadow": 0.42
+    },
+    {
+      "id": "halat",
+      "sprite": "nesneler/terraryum/halat.png",
+      "x": 0.87,
+      "y": 0.2514,
+      "height": 0.0131,
+      "brightness": 0.882,
+      "tint": [
+        1.014,
+        1.007,
+        0.979
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "sirt_cantasi",
+      "sprite": "nesneler/terraryum/sirt_cantasi.png",
+      "x": 0.675,
+      "y": 0.3687,
+      "height": 0.0145,
+      "brightness": 1.02,
+      "tint": [
+        0.99,
+        1.009,
+        1.001
+      ],
+      "shadow": 0.42
+    },
+    {
+      "id": "numune_kavanozu",
+      "sprite": "nesneler/terraryum/numune_kavanozu.png",
+      "x": 0.57,
+      "y": 0.1998,
+      "height": 0.0104,
+      "brightness": 1.02,
+      "tint": [
+        0.985,
+        1.008,
+        1.007
+      ],
+      "shadow": 0.39
+    },
+    {
+      "id": "mavi_kelebek",
+      "sprite": "nesneler/terraryum/mavi_kelebek.png",
+      "x": 0.47,
+      "y": 0.4622,
+      "height": 0.0156,
+      "brightness": 0.94,
+      "tint": [
+        1.002,
+        1.039,
+        0.96
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "caydanlik",
+      "sprite": "nesneler/terraryum/caydanlik.png",
+      "x": 0.3,
+      "y": 0.5162,
+      "height": 0.0135,
+      "brightness": 0.981,
+      "tint": [
+        0.989,
+        1.009,
+        1.002
+      ],
+      "shadow": 0.36
+    },
+    {
+      "id": "kaplumbaga",
+      "sprite": "nesneler/terraryum/kaplumbaga.png",
+      "x": 0.73,
+      "y": 0.835,
+      "height": 0.02,
+      "brightness": 0.919,
+      "tint": [
+        1.013,
+        1.022,
+        0.965
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "kelebek_agi",
+      "sprite": "nesneler/terraryum/kelebek_agi.png",
+      "x": 0.1,
+      "y": 0.5489,
+      "height": 0.0222,
+      "brightness": 0.827,
+      "tint": [
+        1.009,
+        1.028,
+        0.963
+      ],
+      "shadow": 0.28
+    },
+    {
+      "id": "orkide",
+      "sprite": "nesneler/terraryum/orkide.png",
+      "x": 0.37,
+      "y": 0.5815,
+      "height": 0.017,
+      "brightness": 0.983,
+      "tint": [
+        0.986,
+        1.013,
+        1.001
+      ],
+      "shadow": 0.37
+    },
+    {
+      "id": "kano",
+      "sprite": "nesneler/terraryum/kano.png",
+      "x": 0.62,
+      "y": 0.7937,
+      "height": 0.0327,
+      "brightness": 0.968,
+      "tint": [
+        0.994,
+        1.018,
+        0.988
+      ],
+      "shadow": 0.36
+    },
+    {
+      "id": "teleskop",
+      "sprite": "nesneler/terraryum/teleskop.png",
+      "x": 0.5,
+      "y": 0.8217,
+      "height": 0.0265,
+      "brightness": 0.804,
+      "tint": [
+        1.015,
+        1.033,
+        0.952
+      ],
+      "shadow": 0.27
+    },
+    {
+      "id": "defter",
+      "sprite": "nesneler/terraryum/defter.png",
+      "x": 0.1,
+      "y": 0.7803,
+      "height": 0.0194,
+      "brightness": 0.989,
+      "tint": [
+        1.021,
+        1.01,
+        0.969
+      ],
+      "shadow": 0.37
+    },
+    {
+      "id": "hamak",
+      "sprite": "nesneler/terraryum/hamak.png",
+      "x": 0.2,
+      "y": 0.8069,
+      "height": 0.0263,
+      "brightness": 0.861,
+      "tint": [
+        1.023,
+        1.012,
+        0.965
+      ],
+      "shadow": 0.3
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.15,
+    "y": 0.7,
+    "height": 0.018
+  },
+  "sceneSize": [
+    4089,
+    3193
+  ],
+  "tiles": {
+    "lo": [
+      {
+        "path": "sahneler/terraryum/game/lo.webp",
+        "rect": [
+          0,
+          0,
+          1,
+          1
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "path": "sahneler/terraryum/game/t_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          0.250428,
+          0.250548
+        ]
+      },
+      {
+        "path": "sahneler/terraryum/game/t_0_1.webp",
+        "rect": [
+          0.24945,
+          0.0,
+          0.250917,
+          0.250548
+        ]
+      },
+      {
+        "path": "sahneler/terraryum/game/t_0_2.webp",
+        "rect": [
+          0.499389,
+          0.0,
+          0.251162,
+          0.250548
+        ]
+      },
+      {
+        "path": "sahneler/terraryum/game/t_0_3.webp",
+        "rect": [
+          0.749572,
+          0.0,
+          0.250428,
+          0.250548
+        ]
+      },
+      {
+        "path": "sahneler/terraryum/game/t_1_0.webp",
+        "rect": [
+          0.0,
+          0.249295,
+          0.250428,
+          0.251174
+        ]
+      },
+      {
+        "path": "sahneler/terraryum/game/t_1_1.webp",
+        "rect": [
+          0.24945,
+          0.249295,
+          0.250917,
+          0.251174
+        ]
+      },
+      {
+        "path": "sahneler/terraryum/game/t_1_2.webp",
+        "rect": [
+          0.499389,
+          0.249295,
+          0.251162,
+          0.251174
+        ]
+      },
+      {
+        "path": "sahneler/terraryum/game/t_1_3.webp",
+        "rect": [
+          0.749572,
+          0.249295,
+          0.250428,
+          0.251174
+        ]
+      },
+      {
+        "path": "sahneler/terraryum/game/t_2_0.webp",
+        "rect": [
+          0.0,
+          0.499217,
+          0.250428,
+          0.251488
+        ]
+      },
+      {
+        "path": "sahneler/terraryum/game/t_2_1.webp",
+        "rect": [
+          0.24945,
+          0.499217,
+          0.250917,
+          0.251488
+        ]
+      },
+      {
+        "path": "sahneler/terraryum/game/t_2_2.webp",
+        "rect": [
+          0.499389,
+          0.499217,
+          0.251162,
+          0.251488
+        ]
+      },
+      {
+        "path": "sahneler/terraryum/game/t_2_3.webp",
+        "rect": [
+          0.749572,
+          0.499217,
+          0.250428,
+          0.251488
+        ]
+      },
+      {
+        "path": "sahneler/terraryum/game/t_3_0.webp",
+        "rect": [
+          0.0,
+          0.749452,
+          0.250428,
+          0.250548
+        ]
+      },
+      {
+        "path": "sahneler/terraryum/game/t_3_1.webp",
+        "rect": [
+          0.24945,
+          0.749452,
+          0.250917,
+          0.250548
+        ]
+      },
+      {
+        "path": "sahneler/terraryum/game/t_3_2.webp",
+        "rect": [
+          0.499389,
+          0.749452,
+          0.251162,
+          0.250548
+        ]
+      },
+      {
+        "path": "sahneler/terraryum/game/t_3_3.webp",
+        "rect": [
+          0.749572,
+          0.749452,
+          0.250428,
+          0.250548
+        ]
+      }
+    ]
+  }
+}

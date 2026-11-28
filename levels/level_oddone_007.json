@@ -1,0 +1,270 @@
+{
+  "levelId": 7,
+  "sceneId": "popup_kitap",
+  "scene": "sahneler/popup_kitap/scene.webp",
+  "depth": "sahneler/popup_kitap/depth.png",
+  "mode": "oddone",
+  "objectCount": 6,
+  "timePerObjectSec": 28,
+  "silhouetteCount": 0,
+  "camouflage": "light",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "ufo",
+      "sprite": "nesneler/popup_kitap/ufo.png",
+      "x": 0.44,
+      "y": 0.1249,
+      "height": 0.0242,
+      "brightness": 0.917,
+      "tint": [
+        1.067,
+        1.003,
+        0.929
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "uydu",
+      "sprite": "nesneler/popup_kitap/uydu.png",
+      "x": 0.2,
+      "y": 0.2353,
+      "height": 0.0193,
+      "brightness": 0.948,
+      "tint": [
+        1.065,
+        0.984,
+        0.951
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "robot",
+      "sprite": "nesneler/popup_kitap/robot.png",
+      "x": 0.405,
+      "y": 0.4491,
+      "height": 0.0259,
+      "brightness": 0.937,
+      "tint": [
+        1.054,
+        0.998,
+        0.947
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "mars_araci",
+      "sprite": "nesneler/popup_kitap/mars_araci.png",
+      "x": 0.185,
+      "y": 0.548,
+      "height": 0.024,
+      "brightness": 0.926,
+      "tint": [
+        1.063,
+        1.008,
+        0.928
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "roket",
+      "sprite": "nesneler/popup_kitap/roket.png",
+      "x": 0.765,
+      "y": 0.644,
+      "height": 0.0481,
+      "brightness": 0.911,
+      "tint": [
+        1.046,
+        1.003,
+        0.95
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "astronot_kaski",
+      "sprite": "nesneler/popup_kitap/astronot_kaski.png",
+      "x": 0.7,
+      "y": 0.7321,
+      "height": 0.0258,
+      "brightness": 1.02,
+      "tint": [
+        1.055,
+        0.999,
+        0.946
+      ],
+      "shadow": 0.39
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.083,
+    "y": 0.318,
+    "height": 0.016
+  },
+  "sceneSize": [
+    4095,
+    3360
+  ],
+  "tiles": {
+    "lo": [
+      {
+        "path": "sahneler/popup_kitap/game/lo.webp",
+        "rect": [
+          0,
+          0,
+          1,
+          1
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "path": "sahneler/popup_kitap/game/t_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          0.250549,
+          0.250595
+        ]
+      },
+      {
+        "path": "sahneler/popup_kitap/game/t_0_1.webp",
+        "rect": [
+          0.249573,
+          0.0,
+          0.251038,
+          0.250595
+        ]
+      },
+      {
+        "path": "sahneler/popup_kitap/game/t_0_2.webp",
+        "rect": [
+          0.499634,
+          0.0,
+          0.250794,
+          0.250595
+        ]
+      },
+      {
+        "path": "sahneler/popup_kitap/game/t_0_3.webp",
+        "rect": [
+          0.749451,
+          0.0,
+          0.250549,
+          0.250595
+        ]
+      },
+      {
+        "path": "sahneler/popup_kitap/game/t_1_0.webp",
+        "rect": [
+          0.0,
+          0.249405,
+          0.250549,
+          0.25119
+        ]
+      },
+      {
+        "path": "sahneler/popup_kitap/game/t_1_1.webp",
+        "rect": [
+          0.249573,
+          0.249405,
+          0.251038,
+          0.25119
+        ]
+      },
+      {
+        "path": "sahneler/popup_kitap/game/t_1_2.webp",
+        "rect": [
+          0.499634,
+          0.249405,
+          0.250794,
+          0.25119
+        ]
+      },
+      {
+        "path": "sahneler/popup_kitap/game/t_1_3.webp",
+        "rect": [
+          0.749451,
+          0.249405,
+          0.250549,
+          0.25119
+        ]
+      },
+      {
+        "path": "sahneler/popup_kitap/game/t_2_0.webp",
+        "rect": [
+          0.0,
+          0.499405,
+          0.250549,
+          0.25119
+        ]
+      },
+      {
+        "path": "sahneler/popup_kitap/game/t_2_1.webp",
+        "rect": [
+          0.249573,
+          0.499405,
+          0.251038,
+          0.25119
+        ]
+      },
+      {
+        "path": "sahneler/popup_kitap/game/t_2_2.webp",
+        "rect": [
+          0.499634,
+          0.499405,
+          0.250794,
+          0.25119
+        ]
+      },
+      {
+        "path": "sahneler/popup_kitap/game/t_2_3.webp",
+        "rect": [
+          0.749451,
+          0.499405,
+          0.250549,
+          0.25119
+        ]
+      },
+      {
+        "path": "sahneler/popup_kitap/game/t_3_0.webp",
+        "rect": [
+          0.0,
+          0.749405,
+          0.250549,
+          0.250595
+        ]
+      },
+      {
+        "path": "sahneler/popup_kitap/game/t_3_1.webp",
+        "rect": [
+          0.249573,
+          0.749405,
+          0.251038,
+          0.250595
+        ]
+      },
+      {
+        "path": "sahneler/popup_kitap/game/t_3_2.webp",
+        "rect": [
+          0.499634,
+          0.749405,
+          0.250794,
+          0.250595
+        ]
+      },
+      {
+        "path": "sahneler/popup_kitap/game/t_3_3.webp",
+        "rect": [
+          0.749451,
+          0.749405,
+          0.250549,
+          0.250595
+        ]
+      }
+    ]
+  }
+}

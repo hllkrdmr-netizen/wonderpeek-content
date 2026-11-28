@@ -1,0 +1,426 @@
+{
+  "levelId": 14,
+  "sceneId": "atlas_liman",
+  "scene": "sahneler/atlas_liman/scene.webp",
+  "depth": "sahneler/atlas_liman/depth.png",
+  "mode": "crowd",
+  "objectCount": 12,
+  "timePerObjectSec": 24,
+  "silhouetteCount": 3,
+  "camouflage": "medium",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "gezgin",
+      "sprite": "nesneler/atlas_liman/gezgin.png",
+      "x": 0.3,
+      "y": 0.3313,
+      "height": 0.0173,
+      "brightness": 0.953,
+      "tint": [
+        1.089,
+        0.985,
+        0.926
+      ],
+      "shadow": 0.35,
+      "trayCrop": [
+        0.044,
+        0.0,
+        0.8077,
+        0.4482
+      ]
+    },
+    {
+      "id": "denizci",
+      "sprite": "nesneler/atlas_liman/denizci.png",
+      "x": 0.835,
+      "y": 0.3313,
+      "height": 0.0173,
+      "brightness": 0.852,
+      "tint": [
+        1.093,
+        0.998,
+        0.908
+      ],
+      "shadow": 0.3,
+      "trayCrop": [
+        0.123,
+        0.0,
+        0.8556,
+        0.4494
+      ]
+    },
+    {
+      "id": "lale_satici",
+      "sprite": "nesneler/atlas_liman/lale_satici.png",
+      "x": 0.12,
+      "y": 0.4715,
+      "height": 0.037,
+      "brightness": 0.979,
+      "tint": [
+        1.091,
+        0.993,
+        0.916
+      ],
+      "shadow": 0.36,
+      "trayCrop": [
+        0.0432,
+        0.0,
+        0.8486,
+        0.4486
+      ]
+    },
+    {
+      "id": "bisikletli_kadin",
+      "sprite": "nesneler/atlas_liman/bisikletli_kadin.png",
+      "x": 0.275,
+      "y": 0.4412,
+      "height": 0.0275,
+      "brightness": 0.95,
+      "tint": [
+        1.061,
+        0.992,
+        0.948
+      ],
+      "shadow": 0.35,
+      "trayCrop": [
+        0.2,
+        0.0,
+        0.5368,
+        0.45
+      ]
+    },
+    {
+      "id": "hamal",
+      "sprite": "nesneler/atlas_liman/hamal.png",
+      "x": 0.375,
+      "y": 0.4884,
+      "height": 0.0331,
+      "brightness": 0.926,
+      "tint": [
+        1.082,
+        0.997,
+        0.921
+      ],
+      "shadow": 0.33,
+      "trayCrop": [
+        0.2181,
+        0.0,
+        0.3956,
+        0.4472
+      ]
+    },
+    {
+      "id": "balikci",
+      "sprite": "nesneler/atlas_liman/balikci.png",
+      "x": 0.59,
+      "y": 0.4295,
+      "height": 0.0311,
+      "brightness": 0.979,
+      "tint": [
+        1.048,
+        0.998,
+        0.953
+      ],
+      "shadow": 0.36,
+      "trayCrop": [
+        0.0278,
+        0.0,
+        0.8222,
+        0.4471
+      ]
+    },
+    {
+      "id": "dondurmaci",
+      "sprite": "nesneler/atlas_liman/dondurmaci.png",
+      "x": 0.655,
+      "y": 0.5099,
+      "height": 0.0401,
+      "brightness": 0.946,
+      "tint": [
+        1.066,
+        0.993,
+        0.941
+      ],
+      "shadow": 0.34,
+      "trayCrop": [
+        0.2444,
+        0.0,
+        0.4823,
+        0.4478
+      ]
+    },
+    {
+      "id": "kaptan",
+      "sprite": "nesneler/atlas_liman/kaptan.png",
+      "x": 0.43,
+      "y": 0.5416,
+      "height": 0.0468,
+      "brightness": 0.899,
+      "tint": [
+        1.072,
+        0.994,
+        0.934
+      ],
+      "shadow": 0.32,
+      "trayCrop": [
+        0.104,
+        0.0,
+        0.8439,
+        0.4479
+      ]
+    },
+    {
+      "id": "ucurtmali_kiz",
+      "sprite": "nesneler/atlas_liman/ucurtmali_kiz.png",
+      "x": 0.81,
+      "y": 0.5782,
+      "height": 0.0437,
+      "brightness": 1.02,
+      "tint": [
+        1.051,
+        0.998,
+        0.951
+      ],
+      "shadow": 0.42,
+      "trayCrop": [
+        0.2018,
+        0.0,
+        0.6697,
+        0.4479
+      ]
+    },
+    {
+      "id": "guvercinli_nine",
+      "sprite": "nesneler/atlas_liman/guvercinli_nine.png",
+      "x": 0.16,
+      "y": 0.6711,
+      "height": 0.0479,
+      "brightness": 0.981,
+      "tint": [
+        1.068,
+        0.992,
+        0.94
+      ],
+      "shadow": 0.36,
+      "trayCrop": [
+        0.1439,
+        0.0,
+        0.4604,
+        0.4476
+      ]
+    },
+    {
+      "id": "ressam",
+      "sprite": "nesneler/atlas_liman/ressam.png",
+      "x": 0.88,
+      "y": 0.6301,
+      "height": 0.0498,
+      "brightness": 1.02,
+      "tint": [
+        1.065,
+        0.996,
+        0.94
+      ],
+      "shadow": 0.41,
+      "trayCrop": [
+        0.256,
+        0.0,
+        0.54,
+        0.447
+      ]
+    },
+    {
+      "id": "kayikli_cocuk",
+      "sprite": "nesneler/atlas_liman/kayikli_cocuk.png",
+      "x": 0.715,
+      "y": 0.6492,
+      "height": 0.0456,
+      "brightness": 1.02,
+      "tint": [
+        1.014,
+        1.013,
+        0.973
+      ],
+      "shadow": 0.42,
+      "trayCrop": [
+        0.0252,
+        0.0,
+        0.8302,
+        0.4475
+      ]
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.53,
+    "y": 0.505,
+    "height": 0.018
+  },
+  "sceneSize": [
+    4087,
+    3719
+  ],
+  "tiles": {
+    "lo": [
+      {
+        "path": "sahneler/atlas_liman/game/lo.webp",
+        "rect": [
+          0,
+          0,
+          1,
+          1
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "path": "sahneler/atlas_liman/game/t_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          0.250551,
+          0.250605
+        ]
+      },
+      {
+        "path": "sahneler/atlas_liman/game/t_0_1.webp",
+        "rect": [
+          0.249572,
+          0.0,
+          0.25104,
+          0.250605
+        ]
+      },
+      {
+        "path": "sahneler/atlas_liman/game/t_0_2.webp",
+        "rect": [
+          0.499633,
+          0.0,
+          0.250795,
+          0.250605
+        ]
+      },
+      {
+        "path": "sahneler/atlas_liman/game/t_0_3.webp",
+        "rect": [
+          0.749449,
+          0.0,
+          0.250551,
+          0.250605
+        ]
+      },
+      {
+        "path": "sahneler/atlas_liman/game/t_1_0.webp",
+        "rect": [
+          0.0,
+          0.249529,
+          0.250551,
+          0.251143
+        ]
+      },
+      {
+        "path": "sahneler/atlas_liman/game/t_1_1.webp",
+        "rect": [
+          0.249572,
+          0.249529,
+          0.25104,
+          0.251143
+        ]
+      },
+      {
+        "path": "sahneler/atlas_liman/game/t_1_2.webp",
+        "rect": [
+          0.499633,
+          0.249529,
+          0.250795,
+          0.251143
+        ]
+      },
+      {
+        "path": "sahneler/atlas_liman/game/t_1_3.webp",
+        "rect": [
+          0.749449,
+          0.249529,
+          0.250551,
+          0.251143
+        ]
+      },
+      {
+        "path": "sahneler/atlas_liman/game/t_2_0.webp",
+        "rect": [
+          0.0,
+          0.499597,
+          0.250551,
+          0.250874
+        ]
+      },
+      {
+        "path": "sahneler/atlas_liman/game/t_2_1.webp",
+        "rect": [
+          0.249572,
+          0.499597,
+          0.25104,
+          0.250874
+        ]
+      },
+      {
+        "path": "sahneler/atlas_liman/game/t_2_2.webp",
+        "rect": [
+          0.499633,
+          0.499597,
+          0.250795,
+          0.250874
+        ]
+      },
+      {
+        "path": "sahneler/atlas_liman/game/t_2_3.webp",
+        "rect": [
+          0.749449,
+          0.499597,
+          0.250551,
+          0.250874
+        ]
+      },
+      {
+        "path": "sahneler/atlas_liman/game/t_3_0.webp",
+        "rect": [
+          0.0,
+          0.749395,
+          0.250551,
+          0.250605
+        ]
+      },
+      {
+        "path": "sahneler/atlas_liman/game/t_3_1.webp",
+        "rect": [
+          0.249572,
+          0.749395,
+          0.25104,
+          0.250605
+        ]
+      },
+      {
+        "path": "sahneler/atlas_liman/game/t_3_2.webp",
+        "rect": [
+          0.499633,
+          0.749395,
+          0.250795,
+          0.250605
+        ]
+      },
+      {
+        "path": "sahneler/atlas_liman/game/t_3_3.webp",
+        "rect": [
+          0.749449,
+          0.749395,
+          0.250551,
+          0.250605
+        ]
+      }
+    ]
+  }
+}

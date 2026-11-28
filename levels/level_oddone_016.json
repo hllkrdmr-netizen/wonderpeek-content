@@ -1,0 +1,298 @@
+{
+  "levelId": 16,
+  "sceneId": "buzkiran",
+  "scene": "sahneler/buzkiran/scene.webp",
+  "depth": "sahneler/buzkiran/depth.png",
+  "mode": "oddone",
+  "objectCount": 8,
+  "timePerObjectSec": 30,
+  "silhouetteCount": 3,
+  "camouflage": "medium",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "flamingo_simit",
+      "sprite": "nesneler/buzkiran/flamingo_simit.png",
+      "x": 0.16,
+      "y": 0.327,
+      "height": 0.0261,
+      "brightness": 0.999,
+      "tint": [
+        0.949,
+        0.996,
+        1.056
+      ],
+      "shadow": 0.38
+    },
+    {
+      "id": "lastik_ordek",
+      "sprite": "nesneler/buzkiran/lastik_ordek.png",
+      "x": 0.85,
+      "y": 0.2926,
+      "height": 0.0187,
+      "brightness": 0.935,
+      "tint": [
+        0.929,
+        1.001,
+        1.07
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "kaktus",
+      "sprite": "nesneler/buzkiran/kaktus.png",
+      "x": 0.6,
+      "y": 0.2276,
+      "height": 0.0187,
+      "brightness": 0.976,
+      "tint": [
+        0.96,
+        0.995,
+        1.045
+      ],
+      "shadow": 0.36
+    },
+    {
+      "id": "trafik_konisi",
+      "sprite": "nesneler/buzkiran/trafik_konisi.png",
+      "x": 0.295,
+      "y": 0.5746,
+      "height": 0.0308,
+      "brightness": 0.976,
+      "tint": [
+        0.972,
+        0.994,
+        1.034
+      ],
+      "shadow": 0.36
+    },
+    {
+      "id": "oyun_kolu",
+      "sprite": "nesneler/buzkiran/oyun_kolu.png",
+      "x": 0.86,
+      "y": 0.507,
+      "height": 0.01,
+      "brightness": 0.973,
+      "tint": [
+        0.965,
+        0.995,
+        1.04
+      ],
+      "shadow": 0.36
+    },
+    {
+      "id": "kaykay",
+      "sprite": "nesneler/buzkiran/kaykay.png",
+      "x": 0.38,
+      "y": 0.6167,
+      "height": 0.0205,
+      "brightness": 0.964,
+      "tint": [
+        0.972,
+        0.994,
+        1.034
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "tost_makinesi",
+      "sprite": "nesneler/buzkiran/tost_makinesi.png",
+      "x": 0.455,
+      "y": 0.602,
+      "height": 0.02,
+      "brightness": 1.003,
+      "tint": [
+        0.979,
+        0.994,
+        1.027
+      ],
+      "shadow": 0.38
+    },
+    {
+      "id": "yangin_tupu",
+      "sprite": "nesneler/buzkiran/yangin_tupu.png",
+      "x": 0.93,
+      "y": 0.7062,
+      "height": 0.0375,
+      "brightness": 0.966,
+      "tint": [
+        0.945,
+        0.998,
+        1.057
+      ],
+      "shadow": 0.36
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.1,
+    "y": 0.195,
+    "height": 0.012
+  },
+  "sceneSize": [
+    4095,
+    3512
+  ],
+  "tiles": {
+    "lo": [
+      {
+        "path": "sahneler/buzkiran/game/lo.webp",
+        "rect": [
+          0,
+          0,
+          1,
+          1
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "path": "sahneler/buzkiran/game/t_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          0.250549,
+          0.250569
+        ]
+      },
+      {
+        "path": "sahneler/buzkiran/game/t_0_1.webp",
+        "rect": [
+          0.249573,
+          0.0,
+          0.251038,
+          0.250569
+        ]
+      },
+      {
+        "path": "sahneler/buzkiran/game/t_0_2.webp",
+        "rect": [
+          0.499634,
+          0.0,
+          0.250794,
+          0.250569
+        ]
+      },
+      {
+        "path": "sahneler/buzkiran/game/t_0_3.webp",
+        "rect": [
+          0.749451,
+          0.0,
+          0.250549,
+          0.250569
+        ]
+      },
+      {
+        "path": "sahneler/buzkiran/game/t_1_0.webp",
+        "rect": [
+          0.0,
+          0.249431,
+          0.250549,
+          0.251139
+        ]
+      },
+      {
+        "path": "sahneler/buzkiran/game/t_1_1.webp",
+        "rect": [
+          0.249573,
+          0.249431,
+          0.251038,
+          0.251139
+        ]
+      },
+      {
+        "path": "sahneler/buzkiran/game/t_1_2.webp",
+        "rect": [
+          0.499634,
+          0.249431,
+          0.250794,
+          0.251139
+        ]
+      },
+      {
+        "path": "sahneler/buzkiran/game/t_1_3.webp",
+        "rect": [
+          0.749451,
+          0.249431,
+          0.250549,
+          0.251139
+        ]
+      },
+      {
+        "path": "sahneler/buzkiran/game/t_2_0.webp",
+        "rect": [
+          0.0,
+          0.499431,
+          0.250549,
+          0.251139
+        ]
+      },
+      {
+        "path": "sahneler/buzkiran/game/t_2_1.webp",
+        "rect": [
+          0.249573,
+          0.499431,
+          0.251038,
+          0.251139
+        ]
+      },
+      {
+        "path": "sahneler/buzkiran/game/t_2_2.webp",
+        "rect": [
+          0.499634,
+          0.499431,
+          0.250794,
+          0.251139
+        ]
+      },
+      {
+        "path": "sahneler/buzkiran/game/t_2_3.webp",
+        "rect": [
+          0.749451,
+          0.499431,
+          0.250549,
+          0.251139
+        ]
+      },
+      {
+        "path": "sahneler/buzkiran/game/t_3_0.webp",
+        "rect": [
+          0.0,
+          0.749431,
+          0.250549,
+          0.250569
+        ]
+      },
+      {
+        "path": "sahneler/buzkiran/game/t_3_1.webp",
+        "rect": [
+          0.249573,
+          0.749431,
+          0.251038,
+          0.250569
+        ]
+      },
+      {
+        "path": "sahneler/buzkiran/game/t_3_2.webp",
+        "rect": [
+          0.499634,
+          0.749431,
+          0.250794,
+          0.250569
+        ]
+      },
+      {
+        "path": "sahneler/buzkiran/game/t_3_3.webp",
+        "rect": [
+          0.749451,
+          0.749431,
+          0.250549,
+          0.250569
+        ]
+      }
+    ]
+  }
+}

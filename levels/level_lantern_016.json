@@ -1,0 +1,375 @@
+{
+  "levelId": 16,
+  "sceneId": "mantar_ormani",
+  "scene": "sahneler/mantar_ormani/scene.webp",
+  "depth": "sahneler/mantar_ormani/depth.png",
+  "mode": "lantern",
+  "objectCount": 13,
+  "timePerObjectSec": 22,
+  "silhouetteCount": 2,
+  "camouflage": "medium",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "kiraz",
+      "sprite": "nesneler/mantar_ormani/kiraz.png",
+      "x": 0.67,
+      "y": 0.1991,
+      "height": 0.0179,
+      "brightness": 0.913,
+      "tint": [
+        1.12,
+        0.994,
+        0.877
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "tuy_kalem",
+      "sprite": "nesneler/mantar_ormani/tuy_kalem.png",
+      "x": 0.565,
+      "y": 0.2841,
+      "height": 0.0218,
+      "brightness": 0.94,
+      "tint": [
+        1.039,
+        1.005,
+        0.956
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "kus_yuvasi",
+      "sprite": "nesneler/mantar_ormani/kus_yuvasi.png",
+      "x": 0.07,
+      "y": 0.2526,
+      "height": 0.0188,
+      "brightness": 0.961,
+      "tint": [
+        1.068,
+        1.018,
+        0.914
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "igne_kilic",
+      "sprite": "nesneler/mantar_ormani/igne_kilic.png",
+      "x": 0.29,
+      "y": 0.3819,
+      "height": 0.0263,
+      "brightness": 0.918,
+      "tint": [
+        1.032,
+        0.999,
+        0.969
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "altin_anahtar",
+      "sprite": "nesneler/mantar_ormani/altin_anahtar.png",
+      "x": 0.318,
+      "y": 0.5191,
+      "height": 0.0218,
+      "brightness": 0.893,
+      "tint": [
+        0.995,
+        1.004,
+        1.0
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "salyangoz",
+      "sprite": "nesneler/mantar_ormani/salyangoz.png",
+      "x": 0.42,
+      "y": 0.49,
+      "height": 0.0199,
+      "brightness": 0.89,
+      "tint": [
+        1.022,
+        1.02,
+        0.958
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "yuksuk_saksi",
+      "sprite": "nesneler/mantar_ormani/yuksuk_saksi.png",
+      "x": 0.645,
+      "y": 0.4702,
+      "height": 0.0197,
+      "brightness": 0.922,
+      "tint": [
+        1.08,
+        1.005,
+        0.916
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "atkili_ugur_bocegi",
+      "sprite": "nesneler/mantar_ormani/atkili_ugur_bocegi.png",
+      "x": 0.93,
+      "y": 0.4702,
+      "height": 0.0197,
+      "brightness": 0.899,
+      "tint": [
+        0.996,
+        1.033,
+        0.971
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "cikrik",
+      "sprite": "nesneler/mantar_ormani/cikrik.png",
+      "x": 0.06,
+      "y": 0.7596,
+      "height": 0.0308,
+      "brightness": 0.882,
+      "tint": [
+        1.059,
+        0.992,
+        0.948
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "ceviz_kayik",
+      "sprite": "nesneler/mantar_ormani/ceviz_kayik.png",
+      "x": 0.57,
+      "y": 0.8339,
+      "height": 0.0323,
+      "brightness": 0.836,
+      "tint": [
+        1.087,
+        0.997,
+        0.917
+      ],
+      "shadow": 0.29
+    },
+    {
+      "id": "gumus_tac",
+      "sprite": "nesneler/mantar_ormani/gumus_tac.png",
+      "x": 0.46,
+      "y": 0.7084,
+      "height": 0.0232,
+      "brightness": 0.977,
+      "tint": [
+        1.026,
+        1.013,
+        0.962
+      ],
+      "shadow": 0.36
+    },
+    {
+      "id": "mavi_kelebek",
+      "sprite": "nesneler/mantar_ormani/mavi_kelebek.png",
+      "x": 0.74,
+      "y": 0.6803,
+      "height": 0.0195,
+      "brightness": 0.925,
+      "tint": [
+        1.029,
+        1.025,
+        0.946
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "pirinc_zil",
+      "sprite": "nesneler/mantar_ormani/pirinc_zil.png",
+      "x": 0.89,
+      "y": 0.7076,
+      "height": 0.0248,
+      "brightness": 0.933,
+      "tint": [
+        1.044,
+        1.015,
+        0.941
+      ],
+      "shadow": 0.34
+    }
+  ],
+  "peek": {
+    "sprite": "peek/oturan.png",
+    "x": 0.24,
+    "y": 0.6,
+    "height": 0.02
+  },
+  "sceneSize": [
+    4087,
+    3325
+  ],
+  "tiles": {
+    "lo": [
+      {
+        "path": "sahneler/mantar_ormani/game/lo.webp",
+        "rect": [
+          0,
+          0,
+          1,
+          1
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "path": "sahneler/mantar_ormani/game/t_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          0.250551,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/mantar_ormani/game/t_0_1.webp",
+        "rect": [
+          0.249572,
+          0.0,
+          0.25104,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/mantar_ormani/game/t_0_2.webp",
+        "rect": [
+          0.499633,
+          0.0,
+          0.250795,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/mantar_ormani/game/t_0_3.webp",
+        "rect": [
+          0.749449,
+          0.0,
+          0.250551,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/mantar_ormani/game/t_1_0.webp",
+        "rect": [
+          0.0,
+          0.249323,
+          0.250551,
+          0.251128
+        ]
+      },
+      {
+        "path": "sahneler/mantar_ormani/game/t_1_1.webp",
+        "rect": [
+          0.249572,
+          0.249323,
+          0.25104,
+          0.251128
+        ]
+      },
+      {
+        "path": "sahneler/mantar_ormani/game/t_1_2.webp",
+        "rect": [
+          0.499633,
+          0.249323,
+          0.250795,
+          0.251128
+        ]
+      },
+      {
+        "path": "sahneler/mantar_ormani/game/t_1_3.webp",
+        "rect": [
+          0.749449,
+          0.249323,
+          0.250551,
+          0.251128
+        ]
+      },
+      {
+        "path": "sahneler/mantar_ormani/game/t_2_0.webp",
+        "rect": [
+          0.0,
+          0.499248,
+          0.250551,
+          0.251429
+        ]
+      },
+      {
+        "path": "sahneler/mantar_ormani/game/t_2_1.webp",
+        "rect": [
+          0.249572,
+          0.499248,
+          0.25104,
+          0.251429
+        ]
+      },
+      {
+        "path": "sahneler/mantar_ormani/game/t_2_2.webp",
+        "rect": [
+          0.499633,
+          0.499248,
+          0.250795,
+          0.251429
+        ]
+      },
+      {
+        "path": "sahneler/mantar_ormani/game/t_2_3.webp",
+        "rect": [
+          0.749449,
+          0.499248,
+          0.250551,
+          0.251429
+        ]
+      },
+      {
+        "path": "sahneler/mantar_ormani/game/t_3_0.webp",
+        "rect": [
+          0.0,
+          0.749474,
+          0.250551,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/mantar_ormani/game/t_3_1.webp",
+        "rect": [
+          0.249572,
+          0.749474,
+          0.25104,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/mantar_ormani/game/t_3_2.webp",
+        "rect": [
+          0.499633,
+          0.749474,
+          0.250795,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/mantar_ormani/game/t_3_3.webp",
+        "rect": [
+          0.749449,
+          0.749474,
+          0.250551,
+          0.250526
+        ]
+      }
+    ]
+  },
+  "lantern": {
+    "radius": 0.22,
+    "start": [
+      0.5,
+      0.55
+    ]
+  }
+}

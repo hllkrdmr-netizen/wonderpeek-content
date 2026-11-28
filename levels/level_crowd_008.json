@@ -1,0 +1,386 @@
+{
+  "levelId": 8,
+  "sceneId": "meksika_fiesta",
+  "scene": "sahneler/meksika_fiesta/scene.webp",
+  "depth": "sahneler/meksika_fiesta/depth.png",
+  "mode": "crowd",
+  "objectCount": 10,
+  "timePerObjectSec": 23,
+  "silhouetteCount": 0,
+  "camouflage": "light",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "kemanci",
+      "sprite": "nesneler/meksika_fiesta/kemanci.png",
+      "x": 0.15,
+      "y": 0.3104,
+      "height": 0.0792,
+      "brightness": 0.921,
+      "tint": [
+        1.06,
+        0.986,
+        0.953
+      ],
+      "shadow": 0.33,
+      "trayCrop": [
+        0.0,
+        0.0,
+        0.8308,
+        0.45
+      ]
+    },
+    {
+      "id": "baloncu",
+      "sprite": "nesneler/meksika_fiesta/baloncu.png",
+      "x": 0.83,
+      "y": 0.3259,
+      "height": 0.0882,
+      "brightness": 0.932,
+      "tint": [
+        1.054,
+        0.986,
+        0.961
+      ],
+      "shadow": 0.34,
+      "trayCrop": [
+        0.1105,
+        0.0,
+        0.8526,
+        0.45
+      ]
+    },
+    {
+      "id": "churrocu_kadin",
+      "sprite": "nesneler/meksika_fiesta/churrocu_kadin.png",
+      "x": 0.2,
+      "y": 0.4732,
+      "height": 0.1737,
+      "brightness": 0.944,
+      "tint": [
+        1.058,
+        0.984,
+        0.959
+      ],
+      "shadow": 0.34,
+      "trayCrop": [
+        0.1142,
+        0.0,
+        0.7397,
+        0.45
+      ]
+    },
+    {
+      "id": "cicekli_nine",
+      "sprite": "nesneler/meksika_fiesta/cicekli_nine.png",
+      "x": 0.555,
+      "y": 0.4189,
+      "height": 0.1422,
+      "brightness": 0.955,
+      "tint": [
+        1.06,
+        0.981,
+        0.959
+      ],
+      "shadow": 0.35,
+      "trayCrop": [
+        0.0489,
+        0.0,
+        0.8804,
+        0.45
+      ]
+    },
+    {
+      "id": "dansci_kiz",
+      "sprite": "nesneler/meksika_fiesta/dansci_kiz.png",
+      "x": 0.345,
+      "y": 0.4266,
+      "height": 0.1467,
+      "brightness": 0.943,
+      "tint": [
+        1.066,
+        0.976,
+        0.957
+      ],
+      "shadow": 0.34,
+      "trayCrop": [
+        0.2827,
+        0.0,
+        0.4821,
+        0.45
+      ]
+    },
+    {
+      "id": "misirci",
+      "sprite": "nesneler/meksika_fiesta/misirci.png",
+      "x": 0.93,
+      "y": 0.4266,
+      "height": 0.1467,
+      "brightness": 0.942,
+      "tint": [
+        1.062,
+        0.983,
+        0.955
+      ],
+      "shadow": 0.34,
+      "trayCrop": [
+        0.1933,
+        0.0,
+        0.4969,
+        0.45
+      ]
+    },
+    {
+      "id": "pinyatali_cocuk",
+      "sprite": "nesneler/meksika_fiesta/pinyatali_cocuk.png",
+      "x": 0.78,
+      "y": 0.6094,
+      "height": 0.1912,
+      "brightness": 0.952,
+      "tint": [
+        1.059,
+        0.985,
+        0.955
+      ],
+      "shadow": 0.35,
+      "trayCrop": [
+        0.0957,
+        0.0,
+        0.8617,
+        0.45
+      ]
+    },
+    {
+      "id": "gitarci",
+      "sprite": "nesneler/meksika_fiesta/gitarci.png",
+      "x": 0.34,
+      "y": 0.6359,
+      "height": 0.2682,
+      "brightness": 0.938,
+      "tint": [
+        1.073,
+        0.975,
+        0.952
+      ],
+      "shadow": 0.34,
+      "trayCrop": [
+        0.0,
+        0.0,
+        0.8182,
+        0.45
+      ]
+    },
+    {
+      "id": "trompetci",
+      "sprite": "nesneler/meksika_fiesta/trompetci.png",
+      "x": 0.06,
+      "y": 0.2949,
+      "height": 0.0702,
+      "brightness": 0.936,
+      "tint": [
+        1.056,
+        0.983,
+        0.962
+      ],
+      "shadow": 0.34,
+      "trayCrop": [
+        0.0109,
+        0.0,
+        0.8804,
+        0.45
+      ]
+    },
+    {
+      "id": "kagit_cicekli_kadin",
+      "sprite": "nesneler/meksika_fiesta/kagit_cicekli_kadin.png",
+      "x": 0.585,
+      "y": 0.3065,
+      "height": 0.0769,
+      "brightness": 0.947,
+      "tint": [
+        1.061,
+        0.984,
+        0.955
+      ],
+      "shadow": 0.34,
+      "trayCrop": [
+        0.2167,
+        0.0,
+        0.675,
+        0.45
+      ]
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.62,
+    "y": 0.2,
+    "height": 0.015
+  },
+  "sceneSize": [
+    4087,
+    3325
+  ],
+  "tiles": {
+    "lo": [
+      {
+        "path": "sahneler/meksika_fiesta/game/lo.webp",
+        "rect": [
+          0,
+          0,
+          1,
+          1
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "path": "sahneler/meksika_fiesta/game/t_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          0.250551,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/meksika_fiesta/game/t_0_1.webp",
+        "rect": [
+          0.249572,
+          0.0,
+          0.25104,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/meksika_fiesta/game/t_0_2.webp",
+        "rect": [
+          0.499633,
+          0.0,
+          0.250795,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/meksika_fiesta/game/t_0_3.webp",
+        "rect": [
+          0.749449,
+          0.0,
+          0.250551,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/meksika_fiesta/game/t_1_0.webp",
+        "rect": [
+          0.0,
+          0.249323,
+          0.250551,
+          0.251128
+        ]
+      },
+      {
+        "path": "sahneler/meksika_fiesta/game/t_1_1.webp",
+        "rect": [
+          0.249572,
+          0.249323,
+          0.25104,
+          0.251128
+        ]
+      },
+      {
+        "path": "sahneler/meksika_fiesta/game/t_1_2.webp",
+        "rect": [
+          0.499633,
+          0.249323,
+          0.250795,
+          0.251128
+        ]
+      },
+      {
+        "path": "sahneler/meksika_fiesta/game/t_1_3.webp",
+        "rect": [
+          0.749449,
+          0.249323,
+          0.250551,
+          0.251128
+        ]
+      },
+      {
+        "path": "sahneler/meksika_fiesta/game/t_2_0.webp",
+        "rect": [
+          0.0,
+          0.499248,
+          0.250551,
+          0.251429
+        ]
+      },
+      {
+        "path": "sahneler/meksika_fiesta/game/t_2_1.webp",
+        "rect": [
+          0.249572,
+          0.499248,
+          0.25104,
+          0.251429
+        ]
+      },
+      {
+        "path": "sahneler/meksika_fiesta/game/t_2_2.webp",
+        "rect": [
+          0.499633,
+          0.499248,
+          0.250795,
+          0.251429
+        ]
+      },
+      {
+        "path": "sahneler/meksika_fiesta/game/t_2_3.webp",
+        "rect": [
+          0.749449,
+          0.499248,
+          0.250551,
+          0.251429
+        ]
+      },
+      {
+        "path": "sahneler/meksika_fiesta/game/t_3_0.webp",
+        "rect": [
+          0.0,
+          0.749474,
+          0.250551,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/meksika_fiesta/game/t_3_1.webp",
+        "rect": [
+          0.249572,
+          0.749474,
+          0.25104,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/meksika_fiesta/game/t_3_2.webp",
+        "rect": [
+          0.499633,
+          0.749474,
+          0.250795,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/meksika_fiesta/game/t_3_3.webp",
+        "rect": [
+          0.749449,
+          0.749474,
+          0.250551,
+          0.250526
+        ]
+      }
+    ]
+  }
+}

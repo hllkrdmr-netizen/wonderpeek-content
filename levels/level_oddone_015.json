@@ -1,0 +1,270 @@
+{
+  "levelId": 15,
+  "sceneId": "cep_saati_sehir",
+  "scene": "sahneler/cep_saati_sehir/scene.webp",
+  "depth": "sahneler/cep_saati_sehir/depth.png",
+  "mode": "oddone",
+  "objectCount": 6,
+  "timePerObjectSec": 34,
+  "silhouetteCount": 2,
+  "camouflage": "light",
+  "objectScale": 1,
+  "isBreather": true,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "gunes_paneli",
+      "sprite": "nesneler/cep_saati_sehir/gunes_paneli.png",
+      "x": 0.3,
+      "y": 0.2753,
+      "height": 0.0294,
+      "brightness": 0.905,
+      "tint": [
+        1.051,
+        0.984,
+        0.965
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "bubble_tea",
+      "sprite": "nesneler/cep_saati_sehir/bubble_tea.png",
+      "x": 0.13,
+      "y": 0.2149,
+      "height": 0.0203,
+      "brightness": 0.995,
+      "tint": [
+        1.051,
+        0.984,
+        0.965
+      ],
+      "shadow": 0.37
+    },
+    {
+      "id": "alisveris_arabasi",
+      "sprite": "nesneler/cep_saati_sehir/alisveris_arabasi.png",
+      "x": 0.555,
+      "y": 0.5188,
+      "height": 0.0323,
+      "brightness": 0.912,
+      "tint": [
+        1.078,
+        0.988,
+        0.934
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "robot_supurge",
+      "sprite": "nesneler/cep_saati_sehir/robot_supurge.png",
+      "x": 0.87,
+      "y": 0.5275,
+      "height": 0.015,
+      "brightness": 0.902,
+      "tint": [
+        1.076,
+        1.001,
+        0.923
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "armut_koltuk",
+      "sprite": "nesneler/cep_saati_sehir/armut_koltuk.png",
+      "x": 0.625,
+      "y": 0.656,
+      "height": 0.068,
+      "brightness": 0.964,
+      "tint": [
+        1.067,
+        0.995,
+        0.938
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "sisme_dinozor",
+      "sprite": "nesneler/cep_saati_sehir/sisme_dinozor.png",
+      "x": 0.835,
+      "y": 0.7879,
+      "height": 0.0601,
+      "brightness": 0.894,
+      "tint": [
+        1.074,
+        0.997,
+        0.929
+      ],
+      "shadow": 0.32
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.345,
+    "y": 0.385,
+    "height": 0.018
+  },
+  "sceneSize": [
+    4093,
+    3100
+  ],
+  "tiles": {
+    "lo": [
+      {
+        "path": "sahneler/cep_saati_sehir/game/lo.webp",
+        "rect": [
+          0,
+          0,
+          1,
+          1
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "path": "sahneler/cep_saati_sehir/game/t_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          0.250428,
+          0.250645
+        ]
+      },
+      {
+        "path": "sahneler/cep_saati_sehir/game/t_0_1.webp",
+        "rect": [
+          0.24945,
+          0.0,
+          0.250916,
+          0.250645
+        ]
+      },
+      {
+        "path": "sahneler/cep_saati_sehir/game/t_0_2.webp",
+        "rect": [
+          0.499389,
+          0.0,
+          0.251161,
+          0.250645
+        ]
+      },
+      {
+        "path": "sahneler/cep_saati_sehir/game/t_0_3.webp",
+        "rect": [
+          0.749572,
+          0.0,
+          0.250428,
+          0.250645
+        ]
+      },
+      {
+        "path": "sahneler/cep_saati_sehir/game/t_1_0.webp",
+        "rect": [
+          0.0,
+          0.249355,
+          0.250428,
+          0.25129
+        ]
+      },
+      {
+        "path": "sahneler/cep_saati_sehir/game/t_1_1.webp",
+        "rect": [
+          0.24945,
+          0.249355,
+          0.250916,
+          0.25129
+        ]
+      },
+      {
+        "path": "sahneler/cep_saati_sehir/game/t_1_2.webp",
+        "rect": [
+          0.499389,
+          0.249355,
+          0.251161,
+          0.25129
+        ]
+      },
+      {
+        "path": "sahneler/cep_saati_sehir/game/t_1_3.webp",
+        "rect": [
+          0.749572,
+          0.249355,
+          0.250428,
+          0.25129
+        ]
+      },
+      {
+        "path": "sahneler/cep_saati_sehir/game/t_2_0.webp",
+        "rect": [
+          0.0,
+          0.499355,
+          0.250428,
+          0.25129
+        ]
+      },
+      {
+        "path": "sahneler/cep_saati_sehir/game/t_2_1.webp",
+        "rect": [
+          0.24945,
+          0.499355,
+          0.250916,
+          0.25129
+        ]
+      },
+      {
+        "path": "sahneler/cep_saati_sehir/game/t_2_2.webp",
+        "rect": [
+          0.499389,
+          0.499355,
+          0.251161,
+          0.25129
+        ]
+      },
+      {
+        "path": "sahneler/cep_saati_sehir/game/t_2_3.webp",
+        "rect": [
+          0.749572,
+          0.499355,
+          0.250428,
+          0.25129
+        ]
+      },
+      {
+        "path": "sahneler/cep_saati_sehir/game/t_3_0.webp",
+        "rect": [
+          0.0,
+          0.749355,
+          0.250428,
+          0.250645
+        ]
+      },
+      {
+        "path": "sahneler/cep_saati_sehir/game/t_3_1.webp",
+        "rect": [
+          0.24945,
+          0.749355,
+          0.250916,
+          0.250645
+        ]
+      },
+      {
+        "path": "sahneler/cep_saati_sehir/game/t_3_2.webp",
+        "rect": [
+          0.499389,
+          0.749355,
+          0.251161,
+          0.250645
+        ]
+      },
+      {
+        "path": "sahneler/cep_saati_sehir/game/t_3_3.webp",
+        "rect": [
+          0.749572,
+          0.749355,
+          0.250428,
+          0.250645
+        ]
+      }
+    ]
+  }
+}

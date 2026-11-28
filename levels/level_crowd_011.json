@@ -1,0 +1,426 @@
+{
+  "levelId": 11,
+  "sceneId": "saat_kasabasi",
+  "scene": "sahneler/saat_kasabasi/scene.webp",
+  "depth": "sahneler/saat_kasabasi/depth.png",
+  "mode": "crowd",
+  "objectCount": 12,
+  "timePerObjectSec": 24,
+  "silhouetteCount": 2,
+  "camouflage": "medium",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "fenerci",
+      "sprite": "nesneler/saat_kasabasi/fenerci.png",
+      "x": 0.578,
+      "y": 0.1426,
+      "height": 0.0307,
+      "brightness": 0.97,
+      "tint": [
+        1.023,
+        0.984,
+        0.994
+      ],
+      "shadow": 0.36,
+      "trayCrop": [
+        0.0,
+        0.0,
+        0.9701,
+        0.45
+      ]
+    },
+    {
+      "id": "semsiyeli_hanim",
+      "sprite": "nesneler/saat_kasabasi/semsiyeli_hanim.png",
+      "x": 0.42,
+      "y": 0.2608,
+      "height": 0.0343,
+      "brightness": 0.976,
+      "tint": [
+        1.106,
+        0.985,
+        0.909
+      ],
+      "shadow": 0.36,
+      "trayCrop": [
+        0.2098,
+        0.0,
+        0.7232,
+        0.45
+      ]
+    },
+    {
+      "id": "balerin",
+      "sprite": "nesneler/saat_kasabasi/balerin.png",
+      "x": 0.925,
+      "y": 0.2803,
+      "height": 0.0314,
+      "brightness": 0.959,
+      "tint": [
+        1.12,
+        0.958,
+        0.911
+      ],
+      "shadow": 0.35,
+      "trayCrop": [
+        0.1574,
+        0.0,
+        0.75,
+        0.45
+      ]
+    },
+    {
+      "id": "laternaci",
+      "sprite": "nesneler/saat_kasabasi/laternaci.png",
+      "x": 0.075,
+      "y": 0.4253,
+      "height": 0.0393,
+      "brightness": 0.95,
+      "tint": [
+        1.063,
+        0.977,
+        0.96
+      ],
+      "shadow": 0.35,
+      "trayCrop": [
+        0.1076,
+        0.0,
+        0.7265,
+        0.45
+      ]
+    },
+    {
+      "id": "saatci",
+      "sprite": "nesneler/saat_kasabasi/saatci.png",
+      "x": 0.2,
+      "y": 0.5435,
+      "height": 0.0429,
+      "brightness": 0.979,
+      "tint": [
+        1.064,
+        0.988,
+        0.949
+      ],
+      "shadow": 0.36,
+      "trayCrop": [
+        0.0,
+        0.0,
+        1.0,
+        0.4333
+      ]
+    },
+    {
+      "id": "menekseli_beyefendi",
+      "sprite": "nesneler/saat_kasabasi/menekseli_beyefendi.png",
+      "x": 0.62,
+      "y": 0.4253,
+      "height": 0.0393,
+      "brightness": 0.995,
+      "tint": [
+        1.086,
+        0.982,
+        0.932
+      ],
+      "shadow": 0.37,
+      "trayCrop": [
+        0.0061,
+        0.0,
+        0.9939,
+        0.45
+      ]
+    },
+    {
+      "id": "gazeteci_cocuk",
+      "sprite": "nesneler/saat_kasabasi/gazeteci_cocuk.png",
+      "x": 0.3,
+      "y": 0.6443,
+      "height": 0.0414,
+      "brightness": 0.962,
+      "tint": [
+        1.074,
+        0.978,
+        0.948
+      ],
+      "shadow": 0.35,
+      "trayCrop": [
+        0.0,
+        0.0,
+        1.0,
+        0.45
+      ]
+    },
+    {
+      "id": "cicekci_kiz",
+      "sprite": "nesneler/saat_kasabasi/cicekci_kiz.png",
+      "x": 0.73,
+      "y": 0.7282,
+      "height": 0.0437,
+      "brightness": 1.005,
+      "tint": [
+        1.093,
+        0.972,
+        0.936
+      ],
+      "shadow": 0.38,
+      "trayCrop": [
+        0.0508,
+        0.0,
+        0.8223,
+        0.45
+      ]
+    },
+    {
+      "id": "durbunlu_dede",
+      "sprite": "nesneler/saat_kasabasi/durbunlu_dede.png",
+      "x": 0.67,
+      "y": 0.1328,
+      "height": 0.0304,
+      "brightness": 0.857,
+      "tint": [
+        1.022,
+        0.973,
+        1.005
+      ],
+      "shadow": 0.3,
+      "trayCrop": [
+        0.0337,
+        0.0,
+        0.9101,
+        0.45
+      ]
+    },
+    {
+      "id": "postaci",
+      "sprite": "nesneler/saat_kasabasi/postaci.png",
+      "x": 0.15,
+      "y": 0.317,
+      "height": 0.036,
+      "brightness": 0.939,
+      "tint": [
+        1.069,
+        0.98,
+        0.95
+      ],
+      "shadow": 0.34,
+      "trayCrop": [
+        0.1015,
+        0.0,
+        0.8223,
+        0.45
+      ]
+    },
+    {
+      "id": "firinci",
+      "sprite": "nesneler/saat_kasabasi/firinci.png",
+      "x": 0.6,
+      "y": 0.6962,
+      "height": 0.0476,
+      "brightness": 0.998,
+      "tint": [
+        1.087,
+        0.978,
+        0.935
+      ],
+      "shadow": 0.38,
+      "trayCrop": [
+        0.1245,
+        0.0,
+        0.6722,
+        0.45
+      ]
+    },
+    {
+      "id": "kanisli_hanim",
+      "sprite": "nesneler/saat_kasabasi/kanisli_hanim.png",
+      "x": 0.8,
+      "y": 0.5484,
+      "height": 0.0431,
+      "brightness": 1.02,
+      "tint": [
+        1.052,
+        0.99,
+        0.958
+      ],
+      "shadow": 0.4,
+      "trayCrop": [
+        0.037,
+        0.0,
+        0.6,
+        0.45
+      ]
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.775,
+    "y": 0.43,
+    "height": 0.014
+  },
+  "sceneSize": [
+    4087,
+    3325
+  ],
+  "tiles": {
+    "lo": [
+      {
+        "path": "sahneler/saat_kasabasi/game/lo.webp",
+        "rect": [
+          0,
+          0,
+          1,
+          1
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "path": "sahneler/saat_kasabasi/game/t_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          0.250551,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/saat_kasabasi/game/t_0_1.webp",
+        "rect": [
+          0.249572,
+          0.0,
+          0.25104,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/saat_kasabasi/game/t_0_2.webp",
+        "rect": [
+          0.499633,
+          0.0,
+          0.250795,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/saat_kasabasi/game/t_0_3.webp",
+        "rect": [
+          0.749449,
+          0.0,
+          0.250551,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/saat_kasabasi/game/t_1_0.webp",
+        "rect": [
+          0.0,
+          0.249323,
+          0.250551,
+          0.251128
+        ]
+      },
+      {
+        "path": "sahneler/saat_kasabasi/game/t_1_1.webp",
+        "rect": [
+          0.249572,
+          0.249323,
+          0.25104,
+          0.251128
+        ]
+      },
+      {
+        "path": "sahneler/saat_kasabasi/game/t_1_2.webp",
+        "rect": [
+          0.499633,
+          0.249323,
+          0.250795,
+          0.251128
+        ]
+      },
+      {
+        "path": "sahneler/saat_kasabasi/game/t_1_3.webp",
+        "rect": [
+          0.749449,
+          0.249323,
+          0.250551,
+          0.251128
+        ]
+      },
+      {
+        "path": "sahneler/saat_kasabasi/game/t_2_0.webp",
+        "rect": [
+          0.0,
+          0.499248,
+          0.250551,
+          0.251429
+        ]
+      },
+      {
+        "path": "sahneler/saat_kasabasi/game/t_2_1.webp",
+        "rect": [
+          0.249572,
+          0.499248,
+          0.25104,
+          0.251429
+        ]
+      },
+      {
+        "path": "sahneler/saat_kasabasi/game/t_2_2.webp",
+        "rect": [
+          0.499633,
+          0.499248,
+          0.250795,
+          0.251429
+        ]
+      },
+      {
+        "path": "sahneler/saat_kasabasi/game/t_2_3.webp",
+        "rect": [
+          0.749449,
+          0.499248,
+          0.250551,
+          0.251429
+        ]
+      },
+      {
+        "path": "sahneler/saat_kasabasi/game/t_3_0.webp",
+        "rect": [
+          0.0,
+          0.749474,
+          0.250551,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/saat_kasabasi/game/t_3_1.webp",
+        "rect": [
+          0.249572,
+          0.749474,
+          0.25104,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/saat_kasabasi/game/t_3_2.webp",
+        "rect": [
+          0.499633,
+          0.749474,
+          0.250795,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/saat_kasabasi/game/t_3_3.webp",
+        "rect": [
+          0.749449,
+          0.749474,
+          0.250551,
+          0.250526
+        ]
+      }
+    ]
+  }
+}

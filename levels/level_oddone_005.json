@@ -1,0 +1,270 @@
+{
+  "levelId": 5,
+  "sceneId": "mercan_resif",
+  "scene": "sahneler/mercan_resif/scene.webp",
+  "depth": "sahneler/mercan_resif/depth.png",
+  "mode": "oddone",
+  "objectCount": 6,
+  "timePerObjectSec": 32,
+  "silhouetteCount": 0,
+  "camouflage": "none",
+  "objectScale": 1,
+  "isBreather": true,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "kus_kafesi",
+      "sprite": "nesneler/mercan_resif/kus_kafesi.png",
+      "x": 0.255,
+      "y": 0.2832,
+      "height": 0.0537,
+      "brightness": 0.926,
+      "tint": [
+        0.938,
+        1.025,
+        1.038
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "aycicegi",
+      "sprite": "nesneler/mercan_resif/aycicegi.png",
+      "x": 0.565,
+      "y": 0.2342,
+      "height": 0.0556,
+      "brightness": 0.914,
+      "tint": [
+        0.902,
+        1.016,
+        1.082
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "tost_makinesi",
+      "sprite": "nesneler/mercan_resif/tost_makinesi.png",
+      "x": 0.535,
+      "y": 0.4952,
+      "height": 0.0656,
+      "brightness": 0.933,
+      "tint": [
+        1.027,
+        0.999,
+        0.974
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "bisiklet",
+      "sprite": "nesneler/mercan_resif/bisiklet.png",
+      "x": 0.73,
+      "y": 0.4422,
+      "height": 0.0956,
+      "brightness": 0.971,
+      "tint": [
+        1.017,
+        1.005,
+        0.978
+      ],
+      "shadow": 0.36
+    },
+    {
+      "id": "dogum_gunu_pastasi",
+      "sprite": "nesneler/mercan_resif/dogum_gunu_pastasi.png",
+      "x": 0.27,
+      "y": 0.6519,
+      "height": 0.0762,
+      "brightness": 0.936,
+      "tint": [
+        1.062,
+        0.991,
+        0.948
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "sallanan_sandalye",
+      "sprite": "nesneler/mercan_resif/sallanan_sandalye.png",
+      "x": 0.805,
+      "y": 0.7893,
+      "height": 0.1214,
+      "brightness": 0.944,
+      "tint": [
+        1.061,
+        0.984,
+        0.956
+      ],
+      "shadow": 0.34
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.905,
+    "y": 0.705,
+    "height": 0.02
+  },
+  "sceneSize": [
+    4092,
+    3260
+  ],
+  "tiles": {
+    "lo": [
+      {
+        "path": "sahneler/mercan_resif/game/lo.webp",
+        "rect": [
+          0,
+          0,
+          1,
+          1
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "path": "sahneler/mercan_resif/game/t_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          0.250489,
+          0.250613
+        ]
+      },
+      {
+        "path": "sahneler/mercan_resif/game/t_0_1.webp",
+        "rect": [
+          0.249511,
+          0.0,
+          0.250978,
+          0.250613
+        ]
+      },
+      {
+        "path": "sahneler/mercan_resif/game/t_0_2.webp",
+        "rect": [
+          0.499511,
+          0.0,
+          0.250978,
+          0.250613
+        ]
+      },
+      {
+        "path": "sahneler/mercan_resif/game/t_0_3.webp",
+        "rect": [
+          0.749511,
+          0.0,
+          0.250489,
+          0.250613
+        ]
+      },
+      {
+        "path": "sahneler/mercan_resif/game/t_1_0.webp",
+        "rect": [
+          0.0,
+          0.249387,
+          0.250489,
+          0.251227
+        ]
+      },
+      {
+        "path": "sahneler/mercan_resif/game/t_1_1.webp",
+        "rect": [
+          0.249511,
+          0.249387,
+          0.250978,
+          0.251227
+        ]
+      },
+      {
+        "path": "sahneler/mercan_resif/game/t_1_2.webp",
+        "rect": [
+          0.499511,
+          0.249387,
+          0.250978,
+          0.251227
+        ]
+      },
+      {
+        "path": "sahneler/mercan_resif/game/t_1_3.webp",
+        "rect": [
+          0.749511,
+          0.249387,
+          0.250489,
+          0.251227
+        ]
+      },
+      {
+        "path": "sahneler/mercan_resif/game/t_2_0.webp",
+        "rect": [
+          0.0,
+          0.499387,
+          0.250489,
+          0.251227
+        ]
+      },
+      {
+        "path": "sahneler/mercan_resif/game/t_2_1.webp",
+        "rect": [
+          0.249511,
+          0.499387,
+          0.250978,
+          0.251227
+        ]
+      },
+      {
+        "path": "sahneler/mercan_resif/game/t_2_2.webp",
+        "rect": [
+          0.499511,
+          0.499387,
+          0.250978,
+          0.251227
+        ]
+      },
+      {
+        "path": "sahneler/mercan_resif/game/t_2_3.webp",
+        "rect": [
+          0.749511,
+          0.499387,
+          0.250489,
+          0.251227
+        ]
+      },
+      {
+        "path": "sahneler/mercan_resif/game/t_3_0.webp",
+        "rect": [
+          0.0,
+          0.749387,
+          0.250489,
+          0.250613
+        ]
+      },
+      {
+        "path": "sahneler/mercan_resif/game/t_3_1.webp",
+        "rect": [
+          0.249511,
+          0.749387,
+          0.250978,
+          0.250613
+        ]
+      },
+      {
+        "path": "sahneler/mercan_resif/game/t_3_2.webp",
+        "rect": [
+          0.499511,
+          0.749387,
+          0.250978,
+          0.250613
+        ]
+      },
+      {
+        "path": "sahneler/mercan_resif/game/t_3_3.webp",
+        "rect": [
+          0.749511,
+          0.749387,
+          0.250489,
+          0.250613
+        ]
+      }
+    ]
+  }
+}

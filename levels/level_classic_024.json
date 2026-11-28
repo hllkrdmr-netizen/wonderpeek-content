@@ -1,0 +1,410 @@
+{
+  "levelId": 24,
+  "sceneId": "istanbul_diorama",
+  "scene": "sahneler/istanbul_diorama/scene.webp",
+  "depth": "sahneler/istanbul_diorama/depth.png",
+  "mode": "classic",
+  "objectCount": 16,
+  "timePerObjectSec": 12,
+  "silhouetteCount": 5,
+  "camouflage": "heavy",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "kedi",
+      "sprite": "nesneler/istanbul_diorama/kedi.png",
+      "x": 0.15,
+      "y": 0.1952,
+      "height": 0.0095,
+      "brightness": 0.83,
+      "tint": [
+        1.074,
+        0.972,
+        0.954
+      ],
+      "shadow": 0.29
+    },
+    {
+      "id": "marti",
+      "sprite": "nesneler/istanbul_diorama/marti.png",
+      "x": 0.56,
+      "y": 0.2301,
+      "height": 0.0098,
+      "brightness": 1.014,
+      "tint": [
+        1.059,
+        0.961,
+        0.98
+      ],
+      "shadow": 0.39
+    },
+    {
+      "id": "cay_bardagi",
+      "sprite": "nesneler/istanbul_diorama/cay_bardagi.png",
+      "x": 0.3,
+      "y": 0.3252,
+      "height": 0.0097,
+      "brightness": 0.988,
+      "tint": [
+        1.093,
+        0.979,
+        0.928
+      ],
+      "shadow": 0.37
+    },
+    {
+      "id": "simit",
+      "sprite": "nesneler/istanbul_diorama/simit.png",
+      "x": 0.14,
+      "y": 0.463,
+      "height": 0.0101,
+      "brightness": 1.02,
+      "tint": [
+        1.058,
+        0.988,
+        0.953
+      ],
+      "shadow": 0.4
+    },
+    {
+      "id": "sokak_lambasi",
+      "sprite": "nesneler/istanbul_diorama/sokak_lambasi.png",
+      "x": 0.86,
+      "y": 0.328,
+      "height": 0.0141,
+      "brightness": 1.014,
+      "tint": [
+        0.935,
+        0.975,
+        1.09
+      ],
+      "shadow": 0.39
+    },
+    {
+      "id": "tramvay",
+      "sprite": "nesneler/istanbul_diorama/tramvay.png",
+      "x": 0.8,
+      "y": 0.4682,
+      "height": 0.0136,
+      "brightness": 1.02,
+      "tint": [
+        1.006,
+        0.984,
+        1.011
+      ],
+      "shadow": 0.42
+    },
+    {
+      "id": "bisiklet",
+      "sprite": "nesneler/istanbul_diorama/bisiklet.png",
+      "x": 0.258,
+      "y": 0.4901,
+      "height": 0.0138,
+      "brightness": 0.95,
+      "tint": [
+        1.055,
+        0.99,
+        0.956
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "can_simidi",
+      "sprite": "nesneler/istanbul_diorama/can_simidi.png",
+      "x": 0.7,
+      "y": 0.52,
+      "height": 0.0101,
+      "brightness": 1.02,
+      "tint": [
+        1.012,
+        0.988,
+        1.0
+      ],
+      "shadow": 0.42
+    },
+    {
+      "id": "balik_agi",
+      "sprite": "nesneler/istanbul_diorama/balik_agi.png",
+      "x": 0.31,
+      "y": 0.5259,
+      "height": 0.0121,
+      "brightness": 0.995,
+      "tint": [
+        1.045,
+        0.985,
+        0.97
+      ],
+      "shadow": 0.37
+    },
+    {
+      "id": "kaplumbaga",
+      "sprite": "nesneler/istanbul_diorama/kaplumbaga.png",
+      "x": 0.92,
+      "y": 0.5429,
+      "height": 0.0102,
+      "brightness": 1.009,
+      "tint": [
+        1.021,
+        0.993,
+        0.986
+      ],
+      "shadow": 0.38
+    },
+    {
+      "id": "capa",
+      "sprite": "nesneler/istanbul_diorama/capa.png",
+      "x": 0.52,
+      "y": 0.7917,
+      "height": 0.0166,
+      "brightness": 0.996,
+      "tint": [
+        1.017,
+        0.987,
+        0.996
+      ],
+      "shadow": 0.37
+    },
+    {
+      "id": "hazine_sandigi",
+      "sprite": "nesneler/istanbul_diorama/hazine_sandigi.png",
+      "x": 0.3,
+      "y": 0.8028,
+      "height": 0.0143,
+      "brightness": 0.863,
+      "tint": [
+        0.961,
+        1.045,
+        0.994
+      ],
+      "shadow": 0.3
+    },
+    {
+      "id": "dalgic_kaski",
+      "sprite": "nesneler/istanbul_diorama/dalgic_kaski.png",
+      "x": 0.74,
+      "y": 0.8028,
+      "height": 0.0143,
+      "brightness": 0.956,
+      "tint": [
+        0.953,
+        1.028,
+        1.019
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "amfora",
+      "sprite": "nesneler/istanbul_diorama/amfora.png",
+      "x": 0.1,
+      "y": 0.7917,
+      "height": 0.0166,
+      "brightness": 0.863,
+      "tint": [
+        1.12,
+        0.935,
+        0.942
+      ],
+      "shadow": 0.3
+    },
+    {
+      "id": "denizanasi",
+      "sprite": "nesneler/istanbul_diorama/denizanasi.png",
+      "x": 0.35,
+      "y": 0.6833,
+      "height": 0.0134,
+      "brightness": 0.937,
+      "tint": [
+        0.85,
+        1.071,
+        1.082
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "denizyildizi",
+      "sprite": "nesneler/istanbul_diorama/denizyildizi.png",
+      "x": 0.45,
+      "y": 0.809,
+      "height": 0.012,
+      "brightness": 0.967,
+      "tint": [
+        0.95,
+        1.045,
+        1.004
+      ],
+      "shadow": 0.36
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.62,
+    "y": 0.535,
+    "height": 0.016
+  },
+  "sceneSize": [
+    4093,
+    3100
+  ],
+  "tiles": {
+    "lo": [
+      {
+        "path": "sahneler/istanbul_diorama/game/lo.webp",
+        "rect": [
+          0,
+          0,
+          1,
+          1
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "path": "sahneler/istanbul_diorama/game/t_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          0.250428,
+          0.250645
+        ]
+      },
+      {
+        "path": "sahneler/istanbul_diorama/game/t_0_1.webp",
+        "rect": [
+          0.24945,
+          0.0,
+          0.250916,
+          0.250645
+        ]
+      },
+      {
+        "path": "sahneler/istanbul_diorama/game/t_0_2.webp",
+        "rect": [
+          0.499389,
+          0.0,
+          0.251161,
+          0.250645
+        ]
+      },
+      {
+        "path": "sahneler/istanbul_diorama/game/t_0_3.webp",
+        "rect": [
+          0.749572,
+          0.0,
+          0.250428,
+          0.250645
+        ]
+      },
+      {
+        "path": "sahneler/istanbul_diorama/game/t_1_0.webp",
+        "rect": [
+          0.0,
+          0.249355,
+          0.250428,
+          0.25129
+        ]
+      },
+      {
+        "path": "sahneler/istanbul_diorama/game/t_1_1.webp",
+        "rect": [
+          0.24945,
+          0.249355,
+          0.250916,
+          0.25129
+        ]
+      },
+      {
+        "path": "sahneler/istanbul_diorama/game/t_1_2.webp",
+        "rect": [
+          0.499389,
+          0.249355,
+          0.251161,
+          0.25129
+        ]
+      },
+      {
+        "path": "sahneler/istanbul_diorama/game/t_1_3.webp",
+        "rect": [
+          0.749572,
+          0.249355,
+          0.250428,
+          0.25129
+        ]
+      },
+      {
+        "path": "sahneler/istanbul_diorama/game/t_2_0.webp",
+        "rect": [
+          0.0,
+          0.499355,
+          0.250428,
+          0.25129
+        ]
+      },
+      {
+        "path": "sahneler/istanbul_diorama/game/t_2_1.webp",
+        "rect": [
+          0.24945,
+          0.499355,
+          0.250916,
+          0.25129
+        ]
+      },
+      {
+        "path": "sahneler/istanbul_diorama/game/t_2_2.webp",
+        "rect": [
+          0.499389,
+          0.499355,
+          0.251161,
+          0.25129
+        ]
+      },
+      {
+        "path": "sahneler/istanbul_diorama/game/t_2_3.webp",
+        "rect": [
+          0.749572,
+          0.499355,
+          0.250428,
+          0.25129
+        ]
+      },
+      {
+        "path": "sahneler/istanbul_diorama/game/t_3_0.webp",
+        "rect": [
+          0.0,
+          0.749355,
+          0.250428,
+          0.250645
+        ]
+      },
+      {
+        "path": "sahneler/istanbul_diorama/game/t_3_1.webp",
+        "rect": [
+          0.24945,
+          0.749355,
+          0.250916,
+          0.250645
+        ]
+      },
+      {
+        "path": "sahneler/istanbul_diorama/game/t_3_2.webp",
+        "rect": [
+          0.499389,
+          0.749355,
+          0.251161,
+          0.250645
+        ]
+      },
+      {
+        "path": "sahneler/istanbul_diorama/game/t_3_3.webp",
+        "rect": [
+          0.749572,
+          0.749355,
+          0.250428,
+          0.250645
+        ]
+      }
+    ]
+  }
+}

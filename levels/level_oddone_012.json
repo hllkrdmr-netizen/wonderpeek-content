@@ -1,0 +1,284 @@
+{
+  "levelId": 12,
+  "sceneId": "teleskop",
+  "scene": "sahneler/teleskop/scene.webp",
+  "depth": "sahneler/teleskop/depth.png",
+  "mode": "oddone",
+  "objectCount": 7,
+  "timePerObjectSec": 30,
+  "silhouetteCount": 2,
+  "camouflage": "medium",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "plastik_flamingo",
+      "sprite": "nesneler/teleskop/plastik_flamingo.png",
+      "x": 0.72,
+      "y": 0.3261,
+      "height": 0.0238,
+      "brightness": 0.982,
+      "tint": [
+        1.11,
+        0.996,
+        0.894
+      ],
+      "shadow": 0.37
+    },
+    {
+      "id": "camasir_makinesi",
+      "sprite": "nesneler/teleskop/camasir_makinesi.png",
+      "x": 0.555,
+      "y": 0.3169,
+      "height": 0.0181,
+      "brightness": 0.928,
+      "tint": [
+        1.092,
+        0.999,
+        0.909
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "ofis_koltugu",
+      "sprite": "nesneler/teleskop/ofis_koltugu.png",
+      "x": 0.255,
+      "y": 0.4173,
+      "height": 0.0454,
+      "brightness": 0.964,
+      "tint": [
+        1.084,
+        1.003,
+        0.913
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "elektrikli_scooter",
+      "sprite": "nesneler/teleskop/elektrikli_scooter.png",
+      "x": 0.835,
+      "y": 0.5279,
+      "height": 0.0503,
+      "brightness": 0.953,
+      "tint": [
+        1.108,
+        0.989,
+        0.903
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "yesil_spor_ayakkabi",
+      "sprite": "nesneler/teleskop/yesil_spor_ayakkabi.png",
+      "x": 0.225,
+      "y": 0.6168,
+      "height": 0.0223,
+      "brightness": 0.944,
+      "tint": [
+        1.088,
+        1.003,
+        0.909
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "sulama_kabi",
+      "sprite": "nesneler/teleskop/sulama_kabi.png",
+      "x": 0.455,
+      "y": 0.6267,
+      "height": 0.0267,
+      "brightness": 1.017,
+      "tint": [
+        1.036,
+        1.0,
+        0.964
+      ],
+      "shadow": 0.39
+    },
+    {
+      "id": "oyun_kolu",
+      "sprite": "nesneler/teleskop/oyun_kolu.png",
+      "x": 0.605,
+      "y": 0.6089,
+      "height": 0.0182,
+      "brightness": 0.98,
+      "tint": [
+        1.074,
+        0.998,
+        0.928
+      ],
+      "shadow": 0.36
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.345,
+    "y": 0.3,
+    "height": 0.014
+  },
+  "sceneSize": [
+    4082,
+    3495
+  ],
+  "tiles": {
+    "lo": [
+      {
+        "path": "sahneler/teleskop/game/lo.webp",
+        "rect": [
+          0,
+          0,
+          1,
+          1
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "path": "sahneler/teleskop/game/t_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          0.250367,
+          0.250644
+        ]
+      },
+      {
+        "path": "sahneler/teleskop/game/t_0_1.webp",
+        "rect": [
+          0.249388,
+          0.0,
+          0.251102,
+          0.250644
+        ]
+      },
+      {
+        "path": "sahneler/teleskop/game/t_0_2.webp",
+        "rect": [
+          0.49951,
+          0.0,
+          0.251102,
+          0.250644
+        ]
+      },
+      {
+        "path": "sahneler/teleskop/game/t_0_3.webp",
+        "rect": [
+          0.749633,
+          0.0,
+          0.250367,
+          0.250644
+        ]
+      },
+      {
+        "path": "sahneler/teleskop/game/t_1_0.webp",
+        "rect": [
+          0.0,
+          0.249499,
+          0.250367,
+          0.251216
+        ]
+      },
+      {
+        "path": "sahneler/teleskop/game/t_1_1.webp",
+        "rect": [
+          0.249388,
+          0.249499,
+          0.251102,
+          0.251216
+        ]
+      },
+      {
+        "path": "sahneler/teleskop/game/t_1_2.webp",
+        "rect": [
+          0.49951,
+          0.249499,
+          0.251102,
+          0.251216
+        ]
+      },
+      {
+        "path": "sahneler/teleskop/game/t_1_3.webp",
+        "rect": [
+          0.749633,
+          0.249499,
+          0.250367,
+          0.251216
+        ]
+      },
+      {
+        "path": "sahneler/teleskop/game/t_2_0.webp",
+        "rect": [
+          0.0,
+          0.499571,
+          0.250367,
+          0.25093
+        ]
+      },
+      {
+        "path": "sahneler/teleskop/game/t_2_1.webp",
+        "rect": [
+          0.249388,
+          0.499571,
+          0.251102,
+          0.25093
+        ]
+      },
+      {
+        "path": "sahneler/teleskop/game/t_2_2.webp",
+        "rect": [
+          0.49951,
+          0.499571,
+          0.251102,
+          0.25093
+        ]
+      },
+      {
+        "path": "sahneler/teleskop/game/t_2_3.webp",
+        "rect": [
+          0.749633,
+          0.499571,
+          0.250367,
+          0.25093
+        ]
+      },
+      {
+        "path": "sahneler/teleskop/game/t_3_0.webp",
+        "rect": [
+          0.0,
+          0.749356,
+          0.250367,
+          0.250644
+        ]
+      },
+      {
+        "path": "sahneler/teleskop/game/t_3_1.webp",
+        "rect": [
+          0.249388,
+          0.749356,
+          0.251102,
+          0.250644
+        ]
+      },
+      {
+        "path": "sahneler/teleskop/game/t_3_2.webp",
+        "rect": [
+          0.49951,
+          0.749356,
+          0.251102,
+          0.250644
+        ]
+      },
+      {
+        "path": "sahneler/teleskop/game/t_3_3.webp",
+        "rect": [
+          0.749633,
+          0.749356,
+          0.250367,
+          0.250644
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "levelId": 8,
+  "sceneId": "japon_koyu",
+  "scene": "sahneler/japon_koyu/scene.webp",
+  "depth": "sahneler/japon_koyu/depth.png",
+  "mode": "oddone",
+  "objectCount": 7,
+  "timePerObjectSec": 28,
+  "silhouetteCount": 0,
+  "camouflage": "light",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "kement",
+      "sprite": "nesneler/japon_koyu/kement.png",
+      "x": 0.875,
+      "y": 0.2509,
+      "height": 0.0142,
+      "brightness": 0.945,
+      "tint": [
+        1.028,
+        1.004,
+        0.968
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "cali_topu",
+      "sprite": "nesneler/japon_koyu/cali_topu.png",
+      "x": 0.53,
+      "y": 0.3103,
+      "height": 0.0154,
+      "brightness": 0.874,
+      "tint": [
+        1.079,
+        1.005,
+        0.916
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "kovboy_sapkasi",
+      "sprite": "nesneler/japon_koyu/kovboy_sapkasi.png",
+      "x": 0.353,
+      "y": 0.4176,
+      "height": 0.0148,
+      "brightness": 0.903,
+      "tint": [
+        1.072,
+        0.969,
+        0.959
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "serif_yildizi",
+      "sprite": "nesneler/japon_koyu/serif_yildizi.png",
+      "x": 0.098,
+      "y": 0.5393,
+      "height": 0.0154,
+      "brightness": 0.837,
+      "tint": [
+        1.105,
+        0.999,
+        0.896
+      ],
+      "shadow": 0.29
+    },
+    {
+      "id": "eyer",
+      "sprite": "nesneler/japon_koyu/eyer.png",
+      "x": 0.7,
+      "y": 0.5971,
+      "height": 0.0257,
+      "brightness": 1.012,
+      "tint": [
+        1.035,
+        1.003,
+        0.963
+      ],
+      "shadow": 0.38
+    },
+    {
+      "id": "kaktus",
+      "sprite": "nesneler/japon_koyu/kaktus.png",
+      "x": 0.256,
+      "y": 0.7541,
+      "height": 0.0438,
+      "brightness": 0.908,
+      "tint": [
+        1.042,
+        0.999,
+        0.959
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "kovboy_cizmesi",
+      "sprite": "nesneler/japon_koyu/kovboy_cizmesi.png",
+      "x": 0.745,
+      "y": 0.7797,
+      "height": 0.0246,
+      "brightness": 0.948,
+      "tint": [
+        1.071,
+        0.993,
+        0.936
+      ],
+      "shadow": 0.34
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.21,
+    "y": 0.205,
+    "height": 0.018
+  },
+  "sceneSize": [
+    4087,
+    3325
+  ],
+  "tiles": {
+    "lo": [
+      {
+        "path": "sahneler/japon_koyu/game/lo.webp",
+        "rect": [
+          0,
+          0,
+          1,
+          1
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "path": "sahneler/japon_koyu/game/t_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          0.250551,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/japon_koyu/game/t_0_1.webp",
+        "rect": [
+          0.249572,
+          0.0,
+          0.25104,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/japon_koyu/game/t_0_2.webp",
+        "rect": [
+          0.499633,
+          0.0,
+          0.250795,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/japon_koyu/game/t_0_3.webp",
+        "rect": [
+          0.749449,
+          0.0,
+          0.250551,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/japon_koyu/game/t_1_0.webp",
+        "rect": [
+          0.0,
+          0.249323,
+          0.250551,
+          0.251128
+        ]
+      },
+      {
+        "path": "sahneler/japon_koyu/game/t_1_1.webp",
+        "rect": [
+          0.249572,
+          0.249323,
+          0.25104,
+          0.251128
+        ]
+      },
+      {
+        "path": "sahneler/japon_koyu/game/t_1_2.webp",
+        "rect": [
+          0.499633,
+          0.249323,
+          0.250795,
+          0.251128
+        ]
+      },
+      {
+        "path": "sahneler/japon_koyu/game/t_1_3.webp",
+        "rect": [
+          0.749449,
+          0.249323,
+          0.250551,
+          0.251128
+        ]
+      },
+      {
+        "path": "sahneler/japon_koyu/game/t_2_0.webp",
+        "rect": [
+          0.0,
+          0.499248,
+          0.250551,
+          0.251429
+        ]
+      },
+      {
+        "path": "sahneler/japon_koyu/game/t_2_1.webp",
+        "rect": [
+          0.249572,
+          0.499248,
+          0.25104,
+          0.251429
+        ]
+      },
+      {
+        "path": "sahneler/japon_koyu/game/t_2_2.webp",
+        "rect": [
+          0.499633,
+          0.499248,
+          0.250795,
+          0.251429
+        ]
+      },
+      {
+        "path": "sahneler/japon_koyu/game/t_2_3.webp",
+        "rect": [
+          0.749449,
+          0.499248,
+          0.250551,
+          0.251429
+        ]
+      },
+      {
+        "path": "sahneler/japon_koyu/game/t_3_0.webp",
+        "rect": [
+          0.0,
+          0.749474,
+          0.250551,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/japon_koyu/game/t_3_1.webp",
+        "rect": [
+          0.249572,
+          0.749474,
+          0.25104,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/japon_koyu/game/t_3_2.webp",
+        "rect": [
+          0.499633,
+          0.749474,
+          0.250795,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/japon_koyu/game/t_3_3.webp",
+        "rect": [
+          0.749449,
+          0.749474,
+          0.250551,
+          0.250526
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "levelId": 2,
+  "sceneId": "fiyort",
+  "scene": "sahneler/fiyort/scene.webp",
+  "depth": "sahneler/fiyort/depth.png",
+  "mode": "oddone",
+  "objectCount": 6,
+  "timePerObjectSec": 30,
+  "silhouetteCount": 0,
+  "camouflage": "none",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "flamingo",
+      "sprite": "nesneler/fiyort/flamingo.png",
+      "x": 0.93,
+      "y": 0.2041,
+      "height": 0.0179,
+      "brightness": 0.947,
+      "tint": [
+        1.001,
+        0.992,
+        1.007
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "palmiye",
+      "sprite": "nesneler/fiyort/palmiye.png",
+      "x": 0.42,
+      "y": 0.3244,
+      "height": 0.0212,
+      "brightness": 0.917,
+      "tint": [
+        1.018,
+        0.994,
+        0.988
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "kaktus",
+      "sprite": "nesneler/fiyort/kaktus.png",
+      "x": 0.71,
+      "y": 0.522,
+      "height": 0.0261,
+      "brightness": 0.947,
+      "tint": [
+        1.0,
+        0.995,
+        1.004
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "plaj_semsiyesi",
+      "sprite": "nesneler/fiyort/plaj_semsiyesi.png",
+      "x": 0.48,
+      "y": 0.5368,
+      "height": 0.0384,
+      "brightness": 0.948,
+      "tint": [
+        0.97,
+        0.998,
+        1.033
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "ordek_simit",
+      "sprite": "nesneler/fiyort/ordek_simit.png",
+      "x": 0.53,
+      "y": 0.6934,
+      "height": 0.0232,
+      "brightness": 0.963,
+      "tint": [
+        0.979,
+        0.995,
+        1.025
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "dondurma",
+      "sprite": "nesneler/fiyort/dondurma.png",
+      "x": 0.455,
+      "y": 0.8167,
+      "height": 0.0185,
+      "brightness": 0.952,
+      "tint": [
+        1.015,
+        0.992,
+        0.993
+      ],
+      "shadow": 0.35
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.218,
+    "y": 0.591,
+    "height": 0.012
+  },
+  "sceneSize": [
+    1587,
+    4093
+  ],
+  "tiles": {
+    "lo": [
+      {
+        "path": "sahneler/fiyort/game/lo.webp",
+        "rect": [
+          0,
+          0,
+          1,
+          1
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "path": "sahneler/fiyort/game/t_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          0.501575,
+          0.250428
+        ]
+      },
+      {
+        "path": "sahneler/fiyort/game/t_0_1.webp",
+        "rect": [
+          0.499055,
+          0.0,
+          0.500945,
+          0.250428
+        ]
+      },
+      {
+        "path": "sahneler/fiyort/game/t_1_0.webp",
+        "rect": [
+          0.0,
+          0.24945,
+          0.501575,
+          0.250916
+        ]
+      },
+      {
+        "path": "sahneler/fiyort/game/t_1_1.webp",
+        "rect": [
+          0.499055,
+          0.24945,
+          0.500945,
+          0.250916
+        ]
+      },
+      {
+        "path": "sahneler/fiyort/game/t_2_0.webp",
+        "rect": [
+          0.0,
+          0.499389,
+          0.501575,
+          0.251161
+        ]
+      },
+      {
+        "path": "sahneler/fiyort/game/t_2_1.webp",
+        "rect": [
+          0.499055,
+          0.499389,
+          0.500945,
+          0.251161
+        ]
+      },
+      {
+        "path": "sahneler/fiyort/game/t_3_0.webp",
+        "rect": [
+          0.0,
+          0.749572,
+          0.501575,
+          0.250428
+        ]
+      },
+      {
+        "path": "sahneler/fiyort/game/t_3_1.webp",
+        "rect": [
+          0.499055,
+          0.749572,
+          0.500945,
+          0.250428
+        ]
+      }
+    ]
+  }
+}

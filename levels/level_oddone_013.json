@@ -1,0 +1,284 @@
+{
+  "levelId": 13,
+  "sceneId": "kaplumbaga_ada",
+  "scene": "sahneler/kaplumbaga_ada/scene.webp",
+  "depth": "sahneler/kaplumbaga_ada/depth.png",
+  "mode": "oddone",
+  "objectCount": 7,
+  "timePerObjectSec": 30,
+  "silhouetteCount": 3,
+  "camouflage": "medium",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "plastik_sandalye",
+      "sprite": "nesneler/kaplumbaga_ada/plastik_sandalye.png",
+      "x": 0.84,
+      "y": 0.2511,
+      "height": 0.0219,
+      "brightness": 0.909,
+      "tint": [
+        1.02,
+        1.002,
+        0.979
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "posta_kutusu",
+      "sprite": "nesneler/kaplumbaga_ada/posta_kutusu.png",
+      "x": 0.205,
+      "y": 0.2907,
+      "height": 0.0245,
+      "brightness": 0.949,
+      "tint": [
+        1.034,
+        0.999,
+        0.966
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "bisiklet_kaski",
+      "sprite": "nesneler/kaplumbaga_ada/bisiklet_kaski.png",
+      "x": 0.29,
+      "y": 0.4216,
+      "height": 0.0209,
+      "brightness": 0.995,
+      "tint": [
+        1.034,
+        0.996,
+        0.969
+      ],
+      "shadow": 0.37
+    },
+    {
+      "id": "masa_lambasi",
+      "sprite": "nesneler/kaplumbaga_ada/masa_lambasi.png",
+      "x": 0.795,
+      "y": 0.3744,
+      "height": 0.0272,
+      "brightness": 0.858,
+      "tint": [
+        1.087,
+        0.992,
+        0.92
+      ],
+      "shadow": 0.3
+    },
+    {
+      "id": "renkli_bardaklar",
+      "sprite": "nesneler/kaplumbaga_ada/renkli_bardaklar.png",
+      "x": 0.6,
+      "y": 0.402,
+      "height": 0.0201,
+      "brightness": 1.006,
+      "tint": [
+        1.056,
+        1.0,
+        0.944
+      ],
+      "shadow": 0.38
+    },
+    {
+      "id": "simit_can_simidi",
+      "sprite": "nesneler/kaplumbaga_ada/simit_can_simidi.png",
+      "x": 0.63,
+      "y": 0.6675,
+      "height": 0.0449,
+      "brightness": 0.832,
+      "tint": [
+        0.91,
+        1.053,
+        1.036
+      ],
+      "shadow": 0.29
+    },
+    {
+      "id": "teyp",
+      "sprite": "nesneler/kaplumbaga_ada/teyp.png",
+      "x": 0.66,
+      "y": 0.6077,
+      "height": 0.0287,
+      "brightness": 0.825,
+      "tint": [
+        1.064,
+        1.005,
+        0.931
+      ],
+      "shadow": 0.28
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.185,
+    "y": 0.135,
+    "height": 0.012
+  },
+  "sceneSize": [
+    4093,
+    3295
+  ],
+  "tiles": {
+    "lo": [
+      {
+        "path": "sahneler/kaplumbaga_ada/game/lo.webp",
+        "rect": [
+          0,
+          0,
+          1,
+          1
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "path": "sahneler/kaplumbaga_ada/game/t_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          0.250428,
+          0.250683
+        ]
+      },
+      {
+        "path": "sahneler/kaplumbaga_ada/game/t_0_1.webp",
+        "rect": [
+          0.24945,
+          0.0,
+          0.250916,
+          0.250683
+        ]
+      },
+      {
+        "path": "sahneler/kaplumbaga_ada/game/t_0_2.webp",
+        "rect": [
+          0.499389,
+          0.0,
+          0.251161,
+          0.250683
+        ]
+      },
+      {
+        "path": "sahneler/kaplumbaga_ada/game/t_0_3.webp",
+        "rect": [
+          0.749572,
+          0.0,
+          0.250428,
+          0.250683
+        ]
+      },
+      {
+        "path": "sahneler/kaplumbaga_ada/game/t_1_0.webp",
+        "rect": [
+          0.0,
+          0.249469,
+          0.250428,
+          0.25129
+        ]
+      },
+      {
+        "path": "sahneler/kaplumbaga_ada/game/t_1_1.webp",
+        "rect": [
+          0.24945,
+          0.249469,
+          0.250916,
+          0.25129
+        ]
+      },
+      {
+        "path": "sahneler/kaplumbaga_ada/game/t_1_2.webp",
+        "rect": [
+          0.499389,
+          0.249469,
+          0.251161,
+          0.25129
+        ]
+      },
+      {
+        "path": "sahneler/kaplumbaga_ada/game/t_1_3.webp",
+        "rect": [
+          0.749572,
+          0.249469,
+          0.250428,
+          0.25129
+        ]
+      },
+      {
+        "path": "sahneler/kaplumbaga_ada/game/t_2_0.webp",
+        "rect": [
+          0.0,
+          0.499545,
+          0.250428,
+          0.250986
+        ]
+      },
+      {
+        "path": "sahneler/kaplumbaga_ada/game/t_2_1.webp",
+        "rect": [
+          0.24945,
+          0.499545,
+          0.250916,
+          0.250986
+        ]
+      },
+      {
+        "path": "sahneler/kaplumbaga_ada/game/t_2_2.webp",
+        "rect": [
+          0.499389,
+          0.499545,
+          0.251161,
+          0.250986
+        ]
+      },
+      {
+        "path": "sahneler/kaplumbaga_ada/game/t_2_3.webp",
+        "rect": [
+          0.749572,
+          0.499545,
+          0.250428,
+          0.250986
+        ]
+      },
+      {
+        "path": "sahneler/kaplumbaga_ada/game/t_3_0.webp",
+        "rect": [
+          0.0,
+          0.749317,
+          0.250428,
+          0.250683
+        ]
+      },
+      {
+        "path": "sahneler/kaplumbaga_ada/game/t_3_1.webp",
+        "rect": [
+          0.24945,
+          0.749317,
+          0.250916,
+          0.250683
+        ]
+      },
+      {
+        "path": "sahneler/kaplumbaga_ada/game/t_3_2.webp",
+        "rect": [
+          0.499389,
+          0.749317,
+          0.251161,
+          0.250683
+        ]
+      },
+      {
+        "path": "sahneler/kaplumbaga_ada/game/t_3_3.webp",
+        "rect": [
+          0.749572,
+          0.749317,
+          0.250428,
+          0.250683
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,410 @@
+{
+  "levelId": 23,
+  "sceneId": "balkabagi_koy",
+  "scene": "sahneler/balkabagi_koy/scene.webp",
+  "depth": "sahneler/balkabagi_koy/depth.png",
+  "mode": "classic",
+  "objectCount": 16,
+  "timePerObjectSec": 12,
+  "silhouetteCount": 5,
+  "camouflage": "heavy",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "baykus",
+      "sprite": "nesneler/balkabagi_koy/baykus.png",
+      "x": 0.42,
+      "y": 0.2292,
+      "height": 0.0116,
+      "brightness": 1.001,
+      "tint": [
+        1.089,
+        1.005,
+        0.905
+      ],
+      "shadow": 0.38
+    },
+    {
+      "id": "hasir_sapka",
+      "sprite": "nesneler/balkabagi_koy/hasir_sapka.png",
+      "x": 0.651,
+      "y": 0.2847,
+      "height": 0.0105,
+      "brightness": 0.952,
+      "tint": [
+        1.09,
+        1.001,
+        0.908
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "pusula",
+      "sprite": "nesneler/balkabagi_koy/pusula.png",
+      "x": 0.73,
+      "y": 0.23,
+      "height": 0.0099,
+      "brightness": 0.882,
+      "tint": [
+        1.113,
+        0.974,
+        0.913
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "akcaagac_yapragi",
+      "sprite": "nesneler/balkabagi_koy/akcaagac_yapragi.png",
+      "x": 0.24,
+      "y": 0.2549,
+      "height": 0.0102,
+      "brightness": 0.846,
+      "tint": [
+        1.115,
+        1.015,
+        0.87
+      ],
+      "shadow": 0.29
+    },
+    {
+      "id": "bal_kavanozu",
+      "sprite": "nesneler/balkabagi_koy/bal_kavanozu.png",
+      "x": 0.92,
+      "y": 0.4742,
+      "height": 0.0117,
+      "brightness": 0.958,
+      "tint": [
+        1.12,
+        0.991,
+        0.876
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "turta",
+      "sprite": "nesneler/balkabagi_koy/turta.png",
+      "x": 0.62,
+      "y": 0.5581,
+      "height": 0.0137,
+      "brightness": 1.008,
+      "tint": [
+        1.074,
+        0.976,
+        0.95
+      ],
+      "shadow": 0.38
+    },
+    {
+      "id": "gaz_lambasi",
+      "sprite": "nesneler/balkabagi_koy/gaz_lambasi.png",
+      "x": 0.615,
+      "y": 0.3464,
+      "height": 0.0113,
+      "brightness": 0.953,
+      "tint": [
+        1.06,
+        0.999,
+        0.941
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "misir",
+      "sprite": "nesneler/balkabagi_koy/misir.png",
+      "x": 0.355,
+      "y": 0.5272,
+      "height": 0.0156,
+      "brightness": 0.883,
+      "tint": [
+        1.113,
+        0.999,
+        0.888
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "atki",
+      "sprite": "nesneler/balkabagi_koy/atki.png",
+      "x": 0.2,
+      "y": 0.578,
+      "height": 0.0139,
+      "brightness": 0.998,
+      "tint": [
+        1.106,
+        0.991,
+        0.903
+      ],
+      "shadow": 0.38
+    },
+    {
+      "id": "cam_kozalagi",
+      "sprite": "nesneler/balkabagi_koy/cam_kozalagi.png",
+      "x": 0.555,
+      "y": 0.5294,
+      "height": 0.0111,
+      "brightness": 0.837,
+      "tint": [
+        1.12,
+        0.955,
+        0.887
+      ],
+      "shadow": 0.29
+    },
+    {
+      "id": "elma_sepeti",
+      "sprite": "nesneler/balkabagi_koy/elma_sepeti.png",
+      "x": 0.88,
+      "y": 0.6924,
+      "height": 0.0153,
+      "brightness": 0.916,
+      "tint": [
+        1.12,
+        1.004,
+        0.876
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "sulama_kabi",
+      "sprite": "nesneler/balkabagi_koy/sulama_kabi.png",
+      "x": 0.7,
+      "y": 0.6277,
+      "height": 0.0145,
+      "brightness": 1.017,
+      "tint": [
+        1.117,
+        0.993,
+        0.89
+      ],
+      "shadow": 0.39
+    },
+    {
+      "id": "cizme",
+      "sprite": "nesneler/balkabagi_koy/cizme.png",
+      "x": 0.535,
+      "y": 0.7272,
+      "height": 0.0157,
+      "brightness": 0.891,
+      "tint": [
+        1.12,
+        0.973,
+        0.891
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "el_arabasi",
+      "sprite": "nesneler/balkabagi_koy/el_arabasi.png",
+      "x": 0.8,
+      "y": 0.7891,
+      "height": 0.0219,
+      "brightness": 0.982,
+      "tint": [
+        1.12,
+        0.976,
+        0.894
+      ],
+      "shadow": 0.37
+    },
+    {
+      "id": "yaba",
+      "sprite": "nesneler/balkabagi_koy/yaba.png",
+      "x": 0.45,
+      "y": 0.7877,
+      "height": 0.0246,
+      "brightness": 1.013,
+      "tint": [
+        1.088,
+        0.992,
+        0.92
+      ],
+      "shadow": 0.39
+    },
+    {
+      "id": "mese_palamudu",
+      "sprite": "nesneler/balkabagi_koy/mese_palamudu.png",
+      "x": 0.3,
+      "y": 0.7746,
+      "height": 0.0108,
+      "brightness": 0.991,
+      "tint": [
+        1.079,
+        0.984,
+        0.937
+      ],
+      "shadow": 0.37
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.4,
+    "y": 0.32,
+    "height": 0.016
+  },
+  "sceneSize": [
+    4093,
+    3100
+  ],
+  "tiles": {
+    "lo": [
+      {
+        "path": "sahneler/balkabagi_koy/game/lo.webp",
+        "rect": [
+          0,
+          0,
+          1,
+          1
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "path": "sahneler/balkabagi_koy/game/t_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          0.250428,
+          0.250645
+        ]
+      },
+      {
+        "path": "sahneler/balkabagi_koy/game/t_0_1.webp",
+        "rect": [
+          0.24945,
+          0.0,
+          0.250916,
+          0.250645
+        ]
+      },
+      {
+        "path": "sahneler/balkabagi_koy/game/t_0_2.webp",
+        "rect": [
+          0.499389,
+          0.0,
+          0.251161,
+          0.250645
+        ]
+      },
+      {
+        "path": "sahneler/balkabagi_koy/game/t_0_3.webp",
+        "rect": [
+          0.749572,
+          0.0,
+          0.250428,
+          0.250645
+        ]
+      },
+      {
+        "path": "sahneler/balkabagi_koy/game/t_1_0.webp",
+        "rect": [
+          0.0,
+          0.249355,
+          0.250428,
+          0.25129
+        ]
+      },
+      {
+        "path": "sahneler/balkabagi_koy/game/t_1_1.webp",
+        "rect": [
+          0.24945,
+          0.249355,
+          0.250916,
+          0.25129
+        ]
+      },
+      {
+        "path": "sahneler/balkabagi_koy/game/t_1_2.webp",
+        "rect": [
+          0.499389,
+          0.249355,
+          0.251161,
+          0.25129
+        ]
+      },
+      {
+        "path": "sahneler/balkabagi_koy/game/t_1_3.webp",
+        "rect": [
+          0.749572,
+          0.249355,
+          0.250428,
+          0.25129
+        ]
+      },
+      {
+        "path": "sahneler/balkabagi_koy/game/t_2_0.webp",
+        "rect": [
+          0.0,
+          0.499355,
+          0.250428,
+          0.25129
+        ]
+      },
+      {
+        "path": "sahneler/balkabagi_koy/game/t_2_1.webp",
+        "rect": [
+          0.24945,
+          0.499355,
+          0.250916,
+          0.25129
+        ]
+      },
+      {
+        "path": "sahneler/balkabagi_koy/game/t_2_2.webp",
+        "rect": [
+          0.499389,
+          0.499355,
+          0.251161,
+          0.25129
+        ]
+      },
+      {
+        "path": "sahneler/balkabagi_koy/game/t_2_3.webp",
+        "rect": [
+          0.749572,
+          0.499355,
+          0.250428,
+          0.25129
+        ]
+      },
+      {
+        "path": "sahneler/balkabagi_koy/game/t_3_0.webp",
+        "rect": [
+          0.0,
+          0.749355,
+          0.250428,
+          0.250645
+        ]
+      },
+      {
+        "path": "sahneler/balkabagi_koy/game/t_3_1.webp",
+        "rect": [
+          0.24945,
+          0.749355,
+          0.250916,
+          0.250645
+        ]
+      },
+      {
+        "path": "sahneler/balkabagi_koy/game/t_3_2.webp",
+        "rect": [
+          0.499389,
+          0.749355,
+          0.251161,
+          0.250645
+        ]
+      },
+      {
+        "path": "sahneler/balkabagi_koy/game/t_3_3.webp",
+        "rect": [
+          0.749572,
+          0.749355,
+          0.250428,
+          0.250645
+        ]
+      }
+    ]
+  }
+}

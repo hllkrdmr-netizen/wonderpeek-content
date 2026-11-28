@@ -1,0 +1,396 @@
+{
+  "levelId": 19,
+  "sceneId": "hazine_haritasi",
+  "scene": "sahneler/hazine_haritasi/scene.webp",
+  "depth": "sahneler/hazine_haritasi/depth.png",
+  "mode": "classic",
+  "objectCount": 15,
+  "timePerObjectSec": 14,
+  "silhouetteCount": 3,
+  "camouflage": "medium",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "sekstant",
+      "sprite": "nesneler/hazine_haritasi/sekstant.png",
+      "x": 0.085,
+      "y": 0.2051,
+      "height": 0.0198,
+      "brightness": 1.009,
+      "tint": [
+        1.07,
+        1.001,
+        0.929
+      ],
+      "shadow": 0.38
+    },
+    {
+      "id": "kum_saati",
+      "sprite": "nesneler/hazine_haritasi/kum_saati.png",
+      "x": 0.6,
+      "y": 0.1205,
+      "height": 0.0191,
+      "brightness": 1.02,
+      "tint": [
+        1.093,
+        0.998,
+        0.909
+      ],
+      "shadow": 0.4
+    },
+    {
+      "id": "uc_kose_sapka",
+      "sprite": "nesneler/hazine_haritasi/uc_kose_sapka.png",
+      "x": 0.64,
+      "y": 0.2636,
+      "height": 0.0127,
+      "brightness": 0.844,
+      "tint": [
+        1.068,
+        1.014,
+        0.918
+      ],
+      "shadow": 0.29
+    },
+    {
+      "id": "mesaj_sisesi",
+      "sprite": "nesneler/hazine_haritasi/mesaj_sisesi.png",
+      "x": 0.85,
+      "y": 0.1968,
+      "height": 0.0123,
+      "brightness": 1.02,
+      "tint": [
+        1.061,
+        1.007,
+        0.932
+      ],
+      "shadow": 0.39
+    },
+    {
+      "id": "yakutlu_kadeh",
+      "sprite": "nesneler/hazine_haritasi/yakutlu_kadeh.png",
+      "x": 0.33,
+      "y": 0.3634,
+      "height": 0.0133,
+      "brightness": 0.841,
+      "tint": [
+        1.104,
+        0.991,
+        0.906
+      ],
+      "shadow": 0.29
+    },
+    {
+      "id": "muz",
+      "sprite": "nesneler/hazine_haritasi/muz.png",
+      "x": 0.53,
+      "y": 0.4332,
+      "height": 0.0137,
+      "brightness": 0.88,
+      "tint": [
+        1.103,
+        0.997,
+        0.901
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "hasir_sapka",
+      "sprite": "nesneler/hazine_haritasi/hasir_sapka.png",
+      "x": 0.815,
+      "y": 0.4411,
+      "height": 0.0137,
+      "brightness": 0.886,
+      "tint": [
+        1.096,
+        1.002,
+        0.902
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "ananas",
+      "sprite": "nesneler/hazine_haritasi/ananas.png",
+      "x": 0.64,
+      "y": 0.5421,
+      "height": 0.0157,
+      "brightness": 0.933,
+      "tint": [
+        1.097,
+        0.993,
+        0.91
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "olta_makarasi",
+      "sprite": "nesneler/hazine_haritasi/olta_makarasi.png",
+      "x": 0.92,
+      "y": 0.493,
+      "height": 0.014,
+      "brightness": 1.02,
+      "tint": [
+        1.041,
+        1.009,
+        0.95
+      ],
+      "shadow": 0.42
+    },
+    {
+      "id": "hindistancevizi_icecek",
+      "sprite": "nesneler/hazine_haritasi/hindistancevizi_icecek.png",
+      "x": 0.04,
+      "y": 0.5514,
+      "height": 0.0172,
+      "brightness": 1.02,
+      "tint": [
+        1.064,
+        1.001,
+        0.934
+      ],
+      "shadow": 0.42
+    },
+    {
+      "id": "kirmizi_bandana",
+      "sprite": "nesneler/hazine_haritasi/kirmizi_bandana.png",
+      "x": 0.15,
+      "y": 0.7631,
+      "height": 0.0217,
+      "brightness": 1.02,
+      "tint": [
+        1.025,
+        1.006,
+        0.97
+      ],
+      "shadow": 0.42
+    },
+    {
+      "id": "inci_kolye",
+      "sprite": "nesneler/hazine_haritasi/inci_kolye.png",
+      "x": 0.62,
+      "y": 0.847,
+      "height": 0.016,
+      "brightness": 0.971,
+      "tint": [
+        1.036,
+        1.008,
+        0.957
+      ],
+      "shadow": 0.36
+    },
+    {
+      "id": "yakut_yuzuk",
+      "sprite": "nesneler/hazine_haritasi/yakut_yuzuk.png",
+      "x": 0.33,
+      "y": 0.8316,
+      "height": 0.0127,
+      "brightness": 0.907,
+      "tint": [
+        1.062,
+        0.995,
+        0.943
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "altin_kesesi",
+      "sprite": "nesneler/hazine_haritasi/altin_kesesi.png",
+      "x": 0.82,
+      "y": 0.7208,
+      "height": 0.0183,
+      "brightness": 0.896,
+      "tint": [
+        0.983,
+        1.022,
+        0.995
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "sisede_gemi",
+      "sprite": "nesneler/hazine_haritasi/sisede_gemi.png",
+      "x": 0.87,
+      "y": 0.5315,
+      "height": 0.0171,
+      "brightness": 1.02,
+      "tint": [
+        1.01,
+        1.031,
+        0.959
+      ],
+      "shadow": 0.39
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.095,
+    "y": 0.395,
+    "height": 0.018
+  },
+  "sceneSize": [
+    4096,
+    3453
+  ],
+  "tiles": {
+    "lo": [
+      {
+        "path": "sahneler/hazine_haritasi/game/lo.webp",
+        "rect": [
+          0,
+          0,
+          1,
+          1
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "path": "sahneler/hazine_haritasi/game/t_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          0.250488,
+          0.250507
+        ]
+      },
+      {
+        "path": "sahneler/hazine_haritasi/game/t_0_1.webp",
+        "rect": [
+          0.249512,
+          0.0,
+          0.250977,
+          0.250507
+        ]
+      },
+      {
+        "path": "sahneler/hazine_haritasi/game/t_0_2.webp",
+        "rect": [
+          0.499512,
+          0.0,
+          0.250977,
+          0.250507
+        ]
+      },
+      {
+        "path": "sahneler/hazine_haritasi/game/t_0_3.webp",
+        "rect": [
+          0.749512,
+          0.0,
+          0.250488,
+          0.250507
+        ]
+      },
+      {
+        "path": "sahneler/hazine_haritasi/game/t_1_0.webp",
+        "rect": [
+          0.0,
+          0.249348,
+          0.250488,
+          0.251086
+        ]
+      },
+      {
+        "path": "sahneler/hazine_haritasi/game/t_1_1.webp",
+        "rect": [
+          0.249512,
+          0.249348,
+          0.250977,
+          0.251086
+        ]
+      },
+      {
+        "path": "sahneler/hazine_haritasi/game/t_1_2.webp",
+        "rect": [
+          0.499512,
+          0.249348,
+          0.250977,
+          0.251086
+        ]
+      },
+      {
+        "path": "sahneler/hazine_haritasi/game/t_1_3.webp",
+        "rect": [
+          0.749512,
+          0.249348,
+          0.250488,
+          0.251086
+        ]
+      },
+      {
+        "path": "sahneler/hazine_haritasi/game/t_2_0.webp",
+        "rect": [
+          0.0,
+          0.499276,
+          0.250488,
+          0.251376
+        ]
+      },
+      {
+        "path": "sahneler/hazine_haritasi/game/t_2_1.webp",
+        "rect": [
+          0.249512,
+          0.499276,
+          0.250977,
+          0.251376
+        ]
+      },
+      {
+        "path": "sahneler/hazine_haritasi/game/t_2_2.webp",
+        "rect": [
+          0.499512,
+          0.499276,
+          0.250977,
+          0.251376
+        ]
+      },
+      {
+        "path": "sahneler/hazine_haritasi/game/t_2_3.webp",
+        "rect": [
+          0.749512,
+          0.499276,
+          0.250488,
+          0.251376
+        ]
+      },
+      {
+        "path": "sahneler/hazine_haritasi/game/t_3_0.webp",
+        "rect": [
+          0.0,
+          0.749493,
+          0.250488,
+          0.250507
+        ]
+      },
+      {
+        "path": "sahneler/hazine_haritasi/game/t_3_1.webp",
+        "rect": [
+          0.249512,
+          0.749493,
+          0.250977,
+          0.250507
+        ]
+      },
+      {
+        "path": "sahneler/hazine_haritasi/game/t_3_2.webp",
+        "rect": [
+          0.499512,
+          0.749493,
+          0.250977,
+          0.250507
+        ]
+      },
+      {
+        "path": "sahneler/hazine_haritasi/game/t_3_3.webp",
+        "rect": [
+          0.749512,
+          0.749493,
+          0.250488,
+          0.250507
+        ]
+      }
+    ]
+  }
+}

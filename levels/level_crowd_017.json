@@ -1,0 +1,426 @@
+{
+  "levelId": 17,
+  "sceneId": "defile",
+  "scene": "sahneler/defile/scene.webp",
+  "depth": "sahneler/defile/depth.png",
+  "mode": "crowd",
+  "objectCount": 12,
+  "timePerObjectSec": 24,
+  "silhouetteCount": 3,
+  "camouflage": "medium",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "sapkali_hanim",
+      "sprite": "nesneler/defile/sapkali_hanim.png",
+      "x": 0.22,
+      "y": 0.2,
+      "height": 0.05,
+      "brightness": 0.948,
+      "tint": [
+        1.02,
+        0.994,
+        0.986
+      ],
+      "shadow": 0.34,
+      "trayCrop": [
+        0.0,
+        0.0,
+        1.0,
+        0.275
+      ]
+    },
+    {
+      "id": "asistan",
+      "sprite": "nesneler/defile/asistan.png",
+      "x": 0.165,
+      "y": 0.2295,
+      "height": 0.051,
+      "brightness": 0.96,
+      "tint": [
+        1.023,
+        0.994,
+        0.983
+      ],
+      "shadow": 0.35,
+      "trayCrop": [
+        0.0901,
+        0.0,
+        0.7297,
+        0.45
+      ]
+    },
+    {
+      "id": "lornyonlu_bey",
+      "sprite": "nesneler/defile/lornyonlu_bey.png",
+      "x": 0.74,
+      "y": 0.2724,
+      "height": 0.0552,
+      "brightness": 0.974,
+      "tint": [
+        1.019,
+        0.997,
+        0.984
+      ],
+      "shadow": 0.36,
+      "trayCrop": [
+        0.0,
+        0.0,
+        0.9364,
+        0.45
+      ]
+    },
+    {
+      "id": "garson",
+      "sprite": "nesneler/defile/garson.png",
+      "x": 0.86,
+      "y": 0.2091,
+      "height": 0.0517,
+      "brightness": 0.926,
+      "tint": [
+        1.021,
+        0.998,
+        0.981
+      ],
+      "shadow": 0.33,
+      "trayCrop": [
+        0.0,
+        0.0,
+        0.905,
+        0.45
+      ]
+    },
+    {
+      "id": "terzi",
+      "sprite": "nesneler/defile/terzi.png",
+      "x": 0.125,
+      "y": 0.4451,
+      "height": 0.2198,
+      "brightness": 0.914,
+      "tint": [
+        1.028,
+        0.993,
+        0.979
+      ],
+      "shadow": 0.33,
+      "trayCrop": [
+        0.0,
+        0.0,
+        1.0,
+        0.3778
+      ]
+    },
+    {
+      "id": "pembe_model",
+      "sprite": "nesneler/defile/pembe_model.png",
+      "x": 0.335,
+      "y": 0.459,
+      "height": 0.162,
+      "brightness": 0.979,
+      "tint": [
+        1.013,
+        0.993,
+        0.993
+      ],
+      "shadow": 0.36,
+      "trayCrop": [
+        0.2024,
+        0.0,
+        0.6429,
+        0.45
+      ]
+    },
+    {
+      "id": "kopekli_nine",
+      "sprite": "nesneler/defile/kopekli_nine.png",
+      "x": 0.42,
+      "y": 0.4209,
+      "height": 0.0782,
+      "brightness": 1.018,
+      "tint": [
+        1.006,
+        0.995,
+        0.999
+      ],
+      "shadow": 0.39,
+      "trayCrop": [
+        0.0,
+        0.0,
+        1.0,
+        0.4333
+      ]
+    },
+    {
+      "id": "gelin",
+      "sprite": "nesneler/defile/gelin.png",
+      "x": 0.5,
+      "y": 0.4277,
+      "height": 0.0846,
+      "brightness": 1.02,
+      "tint": [
+        1.007,
+        0.996,
+        0.997
+      ],
+      "shadow": 0.39,
+      "trayCrop": [
+        0.2747,
+        0.0,
+        0.5934,
+        0.45
+      ]
+    },
+    {
+      "id": "kutulu_kiz",
+      "sprite": "nesneler/defile/kutulu_kiz.png",
+      "x": 0.69,
+      "y": 0.42,
+      "height": 0.21,
+      "brightness": 0.925,
+      "tint": [
+        1.013,
+        0.996,
+        0.991
+      ],
+      "shadow": 0.33,
+      "trayCrop": [
+        0.1225,
+        0.0,
+        0.7941,
+        0.45
+      ]
+    },
+    {
+      "id": "cicekci",
+      "sprite": "nesneler/defile/cicekci.png",
+      "x": 0.875,
+      "y": 0.4551,
+      "height": 0.1998,
+      "brightness": 0.952,
+      "tint": [
+        1.02,
+        0.996,
+        0.983
+      ],
+      "shadow": 0.35,
+      "trayCrop": [
+        0.0105,
+        0.0,
+        0.8482,
+        0.45
+      ]
+    },
+    {
+      "id": "fotografci",
+      "sprite": "nesneler/defile/fotografci.png",
+      "x": 0.285,
+      "y": 0.6579,
+      "height": 0.2142,
+      "brightness": 0.932,
+      "tint": [
+        1.017,
+        0.992,
+        0.991
+      ],
+      "shadow": 0.34,
+      "trayCrop": [
+        0.3038,
+        0.0,
+        0.6118,
+        0.4475
+      ]
+    },
+    {
+      "id": "siyah_model",
+      "sprite": "nesneler/defile/siyah_model.png",
+      "x": 0.5,
+      "y": 0.6594,
+      "height": 0.3612,
+      "brightness": 0.956,
+      "tint": [
+        1.006,
+        0.994,
+        1.0
+      ],
+      "shadow": 0.35,
+      "trayCrop": [
+        0.0,
+        0.0,
+        1.0,
+        0.4
+      ]
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.66,
+    "y": 0.23,
+    "height": 0.015
+  },
+  "sceneSize": [
+    4086,
+    3367
+  ],
+  "tiles": {
+    "lo": [
+      {
+        "path": "sahneler/defile/game/lo.webp",
+        "rect": [
+          0,
+          0,
+          1,
+          1
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "path": "sahneler/defile/game/t_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          0.250612,
+          0.250668
+        ]
+      },
+      {
+        "path": "sahneler/defile/game/t_0_1.webp",
+        "rect": [
+          0.249633,
+          0.0,
+          0.250857,
+          0.250668
+        ]
+      },
+      {
+        "path": "sahneler/defile/game/t_0_2.webp",
+        "rect": [
+          0.499511,
+          0.0,
+          0.250857,
+          0.250668
+        ]
+      },
+      {
+        "path": "sahneler/defile/game/t_0_3.webp",
+        "rect": [
+          0.749388,
+          0.0,
+          0.250612,
+          0.250668
+        ]
+      },
+      {
+        "path": "sahneler/defile/game/t_1_0.webp",
+        "rect": [
+          0.0,
+          0.24948,
+          0.250612,
+          0.251262
+        ]
+      },
+      {
+        "path": "sahneler/defile/game/t_1_1.webp",
+        "rect": [
+          0.249633,
+          0.24948,
+          0.250857,
+          0.251262
+        ]
+      },
+      {
+        "path": "sahneler/defile/game/t_1_2.webp",
+        "rect": [
+          0.499511,
+          0.24948,
+          0.250857,
+          0.251262
+        ]
+      },
+      {
+        "path": "sahneler/defile/game/t_1_3.webp",
+        "rect": [
+          0.749388,
+          0.24948,
+          0.250612,
+          0.251262
+        ]
+      },
+      {
+        "path": "sahneler/defile/game/t_2_0.webp",
+        "rect": [
+          0.0,
+          0.499554,
+          0.250612,
+          0.250965
+        ]
+      },
+      {
+        "path": "sahneler/defile/game/t_2_1.webp",
+        "rect": [
+          0.249633,
+          0.499554,
+          0.250857,
+          0.250965
+        ]
+      },
+      {
+        "path": "sahneler/defile/game/t_2_2.webp",
+        "rect": [
+          0.499511,
+          0.499554,
+          0.250857,
+          0.250965
+        ]
+      },
+      {
+        "path": "sahneler/defile/game/t_2_3.webp",
+        "rect": [
+          0.749388,
+          0.499554,
+          0.250612,
+          0.250965
+        ]
+      },
+      {
+        "path": "sahneler/defile/game/t_3_0.webp",
+        "rect": [
+          0.0,
+          0.749332,
+          0.250612,
+          0.250668
+        ]
+      },
+      {
+        "path": "sahneler/defile/game/t_3_1.webp",
+        "rect": [
+          0.249633,
+          0.749332,
+          0.250857,
+          0.250668
+        ]
+      },
+      {
+        "path": "sahneler/defile/game/t_3_2.webp",
+        "rect": [
+          0.499511,
+          0.749332,
+          0.250857,
+          0.250668
+        ]
+      },
+      {
+        "path": "sahneler/defile/game/t_3_3.webp",
+        "rect": [
+          0.749388,
+          0.749332,
+          0.250612,
+          0.250668
+        ]
+      }
+    ]
+  }
+}

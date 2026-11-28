@@ -1,0 +1,346 @@
+{
+  "levelId": 3,
+  "sceneId": "hasat_senligi",
+  "scene": "sahneler/hasat_senligi/scene.webp",
+  "depth": "sahneler/hasat_senligi/depth.png",
+  "mode": "crowd",
+  "objectCount": 8,
+  "timePerObjectSec": 25,
+  "silhouetteCount": 0,
+  "camouflage": "none",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "balli_dede",
+      "sprite": "nesneler/hasat_senligi/balli_dede.png",
+      "x": 0.22,
+      "y": 0.2309,
+      "height": 0.0783,
+      "brightness": 0.93,
+      "tint": [
+        1.096,
+        0.979,
+        0.926
+      ],
+      "shadow": 0.33,
+      "trayCrop": [
+        0.0,
+        0.0,
+        1.0,
+        0.45
+      ]
+    },
+    {
+      "id": "banjocu",
+      "sprite": "nesneler/hasat_senligi/banjocu.png",
+      "x": 0.76,
+      "y": 0.2309,
+      "height": 0.0783,
+      "brightness": 0.901,
+      "tint": [
+        1.099,
+        0.983,
+        0.917
+      ],
+      "shadow": 0.32,
+      "trayCrop": [
+        0.0291,
+        0.0,
+        0.7864,
+        0.45
+      ]
+    },
+    {
+      "id": "ciftci",
+      "sprite": "nesneler/hasat_senligi/ciftci.png",
+      "x": 0.52,
+      "y": 0.2565,
+      "height": 0.087,
+      "brightness": 0.944,
+      "tint": [
+        1.085,
+        0.982,
+        0.933
+      ],
+      "shadow": 0.34,
+      "trayCrop": [
+        0.1435,
+        0.0,
+        0.6835,
+        0.45
+      ]
+    },
+    {
+      "id": "turtali_kadin",
+      "sprite": "nesneler/hasat_senligi/turtali_kadin.png",
+      "x": 0.66,
+      "y": 0.4018,
+      "height": 0.1363,
+      "brightness": 0.935,
+      "tint": [
+        1.106,
+        0.982,
+        0.912
+      ],
+      "shadow": 0.34,
+      "trayCrop": [
+        0.0226,
+        0.0,
+        0.9153,
+        0.45
+      ]
+    },
+    {
+      "id": "kuzulu_kiz",
+      "sprite": "nesneler/hasat_senligi/kuzulu_kiz.png",
+      "x": 0.74,
+      "y": 0.4597,
+      "height": 0.1206,
+      "brightness": 0.937,
+      "tint": [
+        1.091,
+        0.989,
+        0.92
+      ],
+      "shadow": 0.34,
+      "trayCrop": [
+        0.0,
+        0.0,
+        1.0,
+        0.4056
+      ]
+    },
+    {
+      "id": "el_arabali_kadin",
+      "sprite": "nesneler/hasat_senligi/el_arabali_kadin.png",
+      "x": 0.3,
+      "y": 0.4275,
+      "height": 0.145,
+      "brightness": 0.936,
+      "tint": [
+        1.093,
+        0.987,
+        0.92
+      ],
+      "shadow": 0.34,
+      "trayCrop": [
+        0.0412,
+        0.0,
+        0.6067,
+        0.45
+      ]
+    },
+    {
+      "id": "kuzu_kostumlu_cocuk",
+      "sprite": "nesneler/hasat_senligi/kuzu_kostumlu_cocuk.png",
+      "x": 0.385,
+      "y": 0.7041,
+      "height": 0.1718,
+      "brightness": 0.941,
+      "tint": [
+        1.12,
+        0.989,
+        0.885
+      ],
+      "shadow": 0.34,
+      "trayCrop": [
+        0.0,
+        0.0,
+        1.0,
+        0.4472
+      ]
+    },
+    {
+      "id": "balkabakli_kiz",
+      "sprite": "nesneler/hasat_senligi/balkabakli_kiz.png",
+      "x": 0.305,
+      "y": 0.7085,
+      "height": 0.1729,
+      "brightness": 0.951,
+      "tint": [
+        1.113,
+        0.984,
+        0.903
+      ],
+      "shadow": 0.35,
+      "trayCrop": [
+        0.0,
+        0.0,
+        0.9759,
+        0.45
+      ]
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.45,
+    "y": 0.27,
+    "height": 0.015
+  },
+  "sceneSize": [
+    4087,
+    3325
+  ],
+  "tiles": {
+    "lo": [
+      {
+        "path": "sahneler/hasat_senligi/game/lo.webp",
+        "rect": [
+          0,
+          0,
+          1,
+          1
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "path": "sahneler/hasat_senligi/game/t_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          0.250551,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/hasat_senligi/game/t_0_1.webp",
+        "rect": [
+          0.249572,
+          0.0,
+          0.25104,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/hasat_senligi/game/t_0_2.webp",
+        "rect": [
+          0.499633,
+          0.0,
+          0.250795,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/hasat_senligi/game/t_0_3.webp",
+        "rect": [
+          0.749449,
+          0.0,
+          0.250551,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/hasat_senligi/game/t_1_0.webp",
+        "rect": [
+          0.0,
+          0.249323,
+          0.250551,
+          0.251128
+        ]
+      },
+      {
+        "path": "sahneler/hasat_senligi/game/t_1_1.webp",
+        "rect": [
+          0.249572,
+          0.249323,
+          0.25104,
+          0.251128
+        ]
+      },
+      {
+        "path": "sahneler/hasat_senligi/game/t_1_2.webp",
+        "rect": [
+          0.499633,
+          0.249323,
+          0.250795,
+          0.251128
+        ]
+      },
+      {
+        "path": "sahneler/hasat_senligi/game/t_1_3.webp",
+        "rect": [
+          0.749449,
+          0.249323,
+          0.250551,
+          0.251128
+        ]
+      },
+      {
+        "path": "sahneler/hasat_senligi/game/t_2_0.webp",
+        "rect": [
+          0.0,
+          0.499248,
+          0.250551,
+          0.251429
+        ]
+      },
+      {
+        "path": "sahneler/hasat_senligi/game/t_2_1.webp",
+        "rect": [
+          0.249572,
+          0.499248,
+          0.25104,
+          0.251429
+        ]
+      },
+      {
+        "path": "sahneler/hasat_senligi/game/t_2_2.webp",
+        "rect": [
+          0.499633,
+          0.499248,
+          0.250795,
+          0.251429
+        ]
+      },
+      {
+        "path": "sahneler/hasat_senligi/game/t_2_3.webp",
+        "rect": [
+          0.749449,
+          0.499248,
+          0.250551,
+          0.251429
+        ]
+      },
+      {
+        "path": "sahneler/hasat_senligi/game/t_3_0.webp",
+        "rect": [
+          0.0,
+          0.749474,
+          0.250551,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/hasat_senligi/game/t_3_1.webp",
+        "rect": [
+          0.249572,
+          0.749474,
+          0.25104,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/hasat_senligi/game/t_3_2.webp",
+        "rect": [
+          0.499633,
+          0.749474,
+          0.250795,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/hasat_senligi/game/t_3_3.webp",
+        "rect": [
+          0.749449,
+          0.749474,
+          0.250551,
+          0.250526
+        ]
+      }
+    ]
+  }
+}

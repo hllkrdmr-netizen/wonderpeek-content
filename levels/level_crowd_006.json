@@ -1,0 +1,366 @@
+{
+  "levelId": 6,
+  "sceneId": "kayak_koyu",
+  "scene": "sahneler/kayak_koyu/scene.webp",
+  "depth": "sahneler/kayak_koyu/depth.png",
+  "mode": "crowd",
+  "objectCount": 9,
+  "timePerObjectSec": 23,
+  "silhouetteCount": 0,
+  "camouflage": "light",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "kayak_egitmeni",
+      "sprite": "nesneler/kayak_koyu/kayak_egitmeni.png",
+      "x": 0.45,
+      "y": 0.31,
+      "height": 0.0399,
+      "brightness": 0.934,
+      "tint": [
+        0.999,
+        0.988,
+        1.013
+      ],
+      "shadow": 0.34,
+      "trayCrop": [
+        0.0,
+        0.0,
+        1.0,
+        0.3944
+      ]
+    },
+    {
+      "id": "kopekli_nine",
+      "sprite": "nesneler/kayak_koyu/kopekli_nine.png",
+      "x": 0.72,
+      "y": 0.3356,
+      "height": 0.0489,
+      "brightness": 0.968,
+      "tint": [
+        1.007,
+        0.993,
+        1.0
+      ],
+      "shadow": 0.36,
+      "trayCrop": [
+        0.0088,
+        0.0,
+        0.7105,
+        0.45
+      ]
+    },
+    {
+      "id": "kirmizi_ponponlu_kayakci",
+      "sprite": "nesneler/kayak_koyu/kirmizi_ponponlu_kayakci.png",
+      "x": 0.24,
+      "y": 0.4121,
+      "height": 0.0759,
+      "brightness": 0.925,
+      "tint": [
+        1.017,
+        0.989,
+        0.993
+      ],
+      "shadow": 0.33,
+      "trayCrop": [
+        0.0,
+        0.0,
+        1.0,
+        0.4472
+      ]
+    },
+    {
+      "id": "sicak_cikolatali_kadin",
+      "sprite": "nesneler/kayak_koyu/sicak_cikolatali_kadin.png",
+      "x": 0.555,
+      "y": 0.5056,
+      "height": 0.1089,
+      "brightness": 0.93,
+      "tint": [
+        1.046,
+        0.984,
+        0.97
+      ],
+      "shadow": 0.33,
+      "trayCrop": [
+        0.0,
+        0.0,
+        1.0,
+        0.4
+      ]
+    },
+    {
+      "id": "geyik_kulaklikli_adam",
+      "sprite": "nesneler/kayak_koyu/geyik_kulaklikli_adam.png",
+      "x": 0.8,
+      "y": 0.4546,
+      "height": 0.0909,
+      "brightness": 0.996,
+      "tint": [
+        1.0,
+        0.995,
+        1.005
+      ],
+      "shadow": 0.37,
+      "trayCrop": [
+        0.0,
+        0.0,
+        1.0,
+        0.3944
+      ]
+    },
+    {
+      "id": "kizakli_kiz",
+      "sprite": "nesneler/kayak_koyu/kizakli_kiz.png",
+      "x": 0.44,
+      "y": 0.4812,
+      "height": 0.0775,
+      "brightness": 0.996,
+      "tint": [
+        1.012,
+        0.99,
+        0.998
+      ],
+      "shadow": 0.37,
+      "trayCrop": [
+        0.0,
+        0.0,
+        0.8663,
+        0.45
+      ]
+    },
+    {
+      "id": "kartopu_cocuk",
+      "sprite": "nesneler/kayak_koyu/kartopu_cocuk.png",
+      "x": 0.3,
+      "y": 0.6396,
+      "height": 0.1207,
+      "brightness": 0.937,
+      "tint": [
+        1.016,
+        0.99,
+        0.994
+      ],
+      "shadow": 0.34,
+      "trayCrop": [
+        0.0,
+        0.0,
+        0.9643,
+        0.45
+      ]
+    },
+    {
+      "id": "snowboardcu",
+      "sprite": "nesneler/kayak_koyu/snowboardcu.png",
+      "x": 0.68,
+      "y": 0.6245,
+      "height": 0.1509,
+      "brightness": 0.958,
+      "tint": [
+        1.024,
+        0.988,
+        0.987
+      ],
+      "shadow": 0.35,
+      "trayCrop": [
+        0.0,
+        0.0,
+        0.8182,
+        0.45
+      ]
+    },
+    {
+      "id": "kestaneci_kadin",
+      "sprite": "nesneler/kayak_koyu/kestaneci_kadin.png",
+      "x": 0.19,
+      "y": 0.5141,
+      "height": 0.1119,
+      "brightness": 0.935,
+      "tint": [
+        1.028,
+        0.989,
+        0.983
+      ],
+      "shadow": 0.34,
+      "trayCrop": [
+        0.0,
+        0.0,
+        0.895,
+        0.45
+      ]
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.135,
+    "y": 0.105,
+    "height": 0.015
+  },
+  "sceneSize": [
+    4087,
+    3325
+  ],
+  "tiles": {
+    "lo": [
+      {
+        "path": "sahneler/kayak_koyu/game/lo.webp",
+        "rect": [
+          0,
+          0,
+          1,
+          1
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "path": "sahneler/kayak_koyu/game/t_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          0.250551,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/kayak_koyu/game/t_0_1.webp",
+        "rect": [
+          0.249572,
+          0.0,
+          0.25104,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/kayak_koyu/game/t_0_2.webp",
+        "rect": [
+          0.499633,
+          0.0,
+          0.250795,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/kayak_koyu/game/t_0_3.webp",
+        "rect": [
+          0.749449,
+          0.0,
+          0.250551,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/kayak_koyu/game/t_1_0.webp",
+        "rect": [
+          0.0,
+          0.249323,
+          0.250551,
+          0.251128
+        ]
+      },
+      {
+        "path": "sahneler/kayak_koyu/game/t_1_1.webp",
+        "rect": [
+          0.249572,
+          0.249323,
+          0.25104,
+          0.251128
+        ]
+      },
+      {
+        "path": "sahneler/kayak_koyu/game/t_1_2.webp",
+        "rect": [
+          0.499633,
+          0.249323,
+          0.250795,
+          0.251128
+        ]
+      },
+      {
+        "path": "sahneler/kayak_koyu/game/t_1_3.webp",
+        "rect": [
+          0.749449,
+          0.249323,
+          0.250551,
+          0.251128
+        ]
+      },
+      {
+        "path": "sahneler/kayak_koyu/game/t_2_0.webp",
+        "rect": [
+          0.0,
+          0.499248,
+          0.250551,
+          0.251429
+        ]
+      },
+      {
+        "path": "sahneler/kayak_koyu/game/t_2_1.webp",
+        "rect": [
+          0.249572,
+          0.499248,
+          0.25104,
+          0.251429
+        ]
+      },
+      {
+        "path": "sahneler/kayak_koyu/game/t_2_2.webp",
+        "rect": [
+          0.499633,
+          0.499248,
+          0.250795,
+          0.251429
+        ]
+      },
+      {
+        "path": "sahneler/kayak_koyu/game/t_2_3.webp",
+        "rect": [
+          0.749449,
+          0.499248,
+          0.250551,
+          0.251429
+        ]
+      },
+      {
+        "path": "sahneler/kayak_koyu/game/t_3_0.webp",
+        "rect": [
+          0.0,
+          0.749474,
+          0.250551,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/kayak_koyu/game/t_3_1.webp",
+        "rect": [
+          0.249572,
+          0.749474,
+          0.25104,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/kayak_koyu/game/t_3_2.webp",
+        "rect": [
+          0.499633,
+          0.749474,
+          0.250795,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/kayak_koyu/game/t_3_3.webp",
+        "rect": [
+          0.749449,
+          0.749474,
+          0.250551,
+          0.250526
+        ]
+      }
+    ]
+  }
+}

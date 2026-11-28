@@ -1,0 +1,361 @@
+{
+  "levelId": 19,
+  "sceneId": "kitaplik",
+  "scene": "sahneler/kitaplik/scene.webp",
+  "depth": "sahneler/kitaplik/depth.png",
+  "mode": "lantern",
+  "objectCount": 12,
+  "timePerObjectSec": 22,
+  "silhouetteCount": 2,
+  "camouflage": "medium",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "teleskop",
+      "sprite": "nesneler/kitaplik/teleskop.png",
+      "x": 0.44,
+      "y": 0.1926,
+      "height": 0.0208,
+      "brightness": 0.922,
+      "tint": [
+        1.089,
+        0.982,
+        0.929
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "baykus",
+      "sprite": "nesneler/kitaplik/baykus.png",
+      "x": 0.365,
+      "y": 0.1979,
+      "height": 0.0183,
+      "brightness": 0.845,
+      "tint": [
+        1.074,
+        0.992,
+        0.933
+      ],
+      "shadow": 0.29
+    },
+    {
+      "id": "kum_saati",
+      "sprite": "nesneler/kitaplik/kum_saati.png",
+      "x": 0.93,
+      "y": 0.3248,
+      "height": 0.0204,
+      "brightness": 0.916,
+      "tint": [
+        1.12,
+        0.959,
+        0.894
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "kitaplar",
+      "sprite": "nesneler/kitaplik/kitaplar.png",
+      "x": 0.35,
+      "y": 0.3466,
+      "height": 0.0208,
+      "brightness": 0.821,
+      "tint": [
+        1.116,
+        0.981,
+        0.904
+      ],
+      "shadow": 0.28
+    },
+    {
+      "id": "uyuyan_kedi",
+      "sprite": "nesneler/kitaplik/uyuyan_kedi.png",
+      "x": 0.29,
+      "y": 0.4672,
+      "height": 0.0196,
+      "brightness": 0.949,
+      "tint": [
+        1.09,
+        0.985,
+        0.925
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "ates_bocegi_kavanoz",
+      "sprite": "nesneler/kitaplik/ates_bocegi_kavanoz.png",
+      "x": 0.93,
+      "y": 0.4457,
+      "height": 0.0225,
+      "brightness": 0.963,
+      "tint": [
+        1.097,
+        0.972,
+        0.931
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "buyutec",
+      "sprite": "nesneler/kitaplik/buyutec.png",
+      "x": 0.56,
+      "y": 0.7054,
+      "height": 0.0231,
+      "brightness": 0.992,
+      "tint": [
+        1.119,
+        0.984,
+        0.897
+      ],
+      "shadow": 0.37
+    },
+    {
+      "id": "hokka_tuy",
+      "sprite": "nesneler/kitaplik/hokka_tuy.png",
+      "x": 0.57,
+      "y": 0.5845,
+      "height": 0.0249,
+      "brightness": 0.899,
+      "tint": [
+        1.118,
+        1.001,
+        0.881
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "merdiven",
+      "sprite": "nesneler/kitaplik/merdiven.png",
+      "x": 0.205,
+      "y": 0.6045,
+      "height": 0.0289,
+      "brightness": 0.938,
+      "tint": [
+        1.095,
+        1.002,
+        0.904
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "parsomen",
+      "sprite": "nesneler/kitaplik/parsomen.png",
+      "x": 0.94,
+      "y": 0.7054,
+      "height": 0.0231,
+      "brightness": 0.964,
+      "tint": [
+        1.12,
+        0.961,
+        0.876
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "masa_lambasi",
+      "sprite": "nesneler/kitaplik/masa_lambasi.png",
+      "x": 0.22,
+      "y": 0.763,
+      "height": 0.028,
+      "brightness": 0.93,
+      "tint": [
+        1.111,
+        0.985,
+        0.904
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "mum",
+      "sprite": "nesneler/kitaplik/mum.png",
+      "x": 0.38,
+      "y": 0.763,
+      "height": 0.028,
+      "brightness": 0.924,
+      "tint": [
+        1.115,
+        0.979,
+        0.906
+      ],
+      "shadow": 0.33
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.06,
+    "y": 0.18,
+    "height": 0.02
+  },
+  "sceneSize": [
+    4091,
+    3765
+  ],
+  "tiles": {
+    "lo": [
+      {
+        "path": "sahneler/kitaplik/game/lo.webp",
+        "rect": [
+          0,
+          0,
+          1,
+          1
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "path": "sahneler/kitaplik/game/t_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          0.25055,
+          0.250465
+        ]
+      },
+      {
+        "path": "sahneler/kitaplik/game/t_0_1.webp",
+        "rect": [
+          0.249572,
+          0.0,
+          0.251039,
+          0.250465
+        ]
+      },
+      {
+        "path": "sahneler/kitaplik/game/t_0_2.webp",
+        "rect": [
+          0.499633,
+          0.0,
+          0.250794,
+          0.250465
+        ]
+      },
+      {
+        "path": "sahneler/kitaplik/game/t_0_3.webp",
+        "rect": [
+          0.74945,
+          0.0,
+          0.25055,
+          0.250465
+        ]
+      },
+      {
+        "path": "sahneler/kitaplik/game/t_1_0.webp",
+        "rect": [
+          0.0,
+          0.249402,
+          0.25055,
+          0.250996
+        ]
+      },
+      {
+        "path": "sahneler/kitaplik/game/t_1_1.webp",
+        "rect": [
+          0.249572,
+          0.249402,
+          0.251039,
+          0.250996
+        ]
+      },
+      {
+        "path": "sahneler/kitaplik/game/t_1_2.webp",
+        "rect": [
+          0.499633,
+          0.249402,
+          0.250794,
+          0.250996
+        ]
+      },
+      {
+        "path": "sahneler/kitaplik/game/t_1_3.webp",
+        "rect": [
+          0.74945,
+          0.249402,
+          0.25055,
+          0.250996
+        ]
+      },
+      {
+        "path": "sahneler/kitaplik/game/t_2_0.webp",
+        "rect": [
+          0.0,
+          0.499336,
+          0.25055,
+          0.251262
+        ]
+      },
+      {
+        "path": "sahneler/kitaplik/game/t_2_1.webp",
+        "rect": [
+          0.249572,
+          0.499336,
+          0.251039,
+          0.251262
+        ]
+      },
+      {
+        "path": "sahneler/kitaplik/game/t_2_2.webp",
+        "rect": [
+          0.499633,
+          0.499336,
+          0.250794,
+          0.251262
+        ]
+      },
+      {
+        "path": "sahneler/kitaplik/game/t_2_3.webp",
+        "rect": [
+          0.74945,
+          0.499336,
+          0.25055,
+          0.251262
+        ]
+      },
+      {
+        "path": "sahneler/kitaplik/game/t_3_0.webp",
+        "rect": [
+          0.0,
+          0.749535,
+          0.25055,
+          0.250465
+        ]
+      },
+      {
+        "path": "sahneler/kitaplik/game/t_3_1.webp",
+        "rect": [
+          0.249572,
+          0.749535,
+          0.251039,
+          0.250465
+        ]
+      },
+      {
+        "path": "sahneler/kitaplik/game/t_3_2.webp",
+        "rect": [
+          0.499633,
+          0.749535,
+          0.250794,
+          0.250465
+        ]
+      },
+      {
+        "path": "sahneler/kitaplik/game/t_3_3.webp",
+        "rect": [
+          0.74945,
+          0.749535,
+          0.25055,
+          0.250465
+        ]
+      }
+    ]
+  },
+  "lantern": {
+    "radius": 0.22,
+    "start": [
+      0.52,
+      0.5
+    ]
+  }
+}

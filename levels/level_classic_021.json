@@ -1,0 +1,410 @@
+{
+  "levelId": 21,
+  "sceneId": "kus_kafesi",
+  "scene": "sahneler/kus_kafesi/scene.webp",
+  "depth": "sahneler/kus_kafesi/depth.png",
+  "mode": "classic",
+  "objectCount": 16,
+  "timePerObjectSec": 12,
+  "silhouetteCount": 4,
+  "camouflage": "heavy",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "kanarya",
+      "sprite": "nesneler/kus_kafesi/kanarya.png",
+      "x": 0.56,
+      "y": 0.1141,
+      "height": 0.0119,
+      "brightness": 0.983,
+      "tint": [
+        1.038,
+        1.002,
+        0.96
+      ],
+      "shadow": 0.37
+    },
+    {
+      "id": "kus_evi",
+      "sprite": "nesneler/kus_kafesi/kus_evi.png",
+      "x": 0.68,
+      "y": 0.3133,
+      "height": 0.0134,
+      "brightness": 0.958,
+      "tint": [
+        1.059,
+        1.024,
+        0.917
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "kafes_anahtari",
+      "sprite": "nesneler/kus_kafesi/kafes_anahtari.png",
+      "x": 0.235,
+      "y": 0.2566,
+      "height": 0.0108,
+      "brightness": 0.938,
+      "tint": [
+        1.08,
+        1.008,
+        0.912
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "tavus_tuyu",
+      "sprite": "nesneler/kus_kafesi/tavus_tuyu.png",
+      "x": 0.28,
+      "y": 0.3172,
+      "height": 0.0157,
+      "brightness": 0.901,
+      "tint": [
+        1.059,
+        1.027,
+        0.915
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "hasir_sapka",
+      "sprite": "nesneler/kus_kafesi/hasir_sapka.png",
+      "x": 0.22,
+      "y": 0.449,
+      "height": 0.0121,
+      "brightness": 0.907,
+      "tint": [
+        1.085,
+        1.005,
+        0.91
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "piknik_sepeti",
+      "sprite": "nesneler/kus_kafesi/piknik_sepeti.png",
+      "x": 0.72,
+      "y": 0.4639,
+      "height": 0.0122,
+      "brightness": 0.921,
+      "tint": [
+        1.113,
+        1.004,
+        0.883
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "ugur_bocegi",
+      "sprite": "nesneler/kus_kafesi/ugur_bocegi.png",
+      "x": 0.5,
+      "y": 0.4651,
+      "height": 0.0097,
+      "brightness": 0.905,
+      "tint": [
+        1.059,
+        1.007,
+        0.934
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "yesil_fener",
+      "sprite": "nesneler/kus_kafesi/yesil_fener.png",
+      "x": 0.66,
+      "y": 0.5324,
+      "height": 0.0151,
+      "brightness": 0.916,
+      "tint": [
+        1.086,
+        1.0,
+        0.913
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "lavanta",
+      "sprite": "nesneler/kus_kafesi/lavanta.png",
+      "x": 0.88,
+      "y": 0.5474,
+      "height": 0.0152,
+      "brightness": 0.963,
+      "tint": [
+        1.083,
+        1.003,
+        0.914
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "aycicegi",
+      "sprite": "nesneler/kus_kafesi/aycicegi.png",
+      "x": 0.27,
+      "y": 0.6257,
+      "height": 0.0185,
+      "brightness": 0.887,
+      "tint": [
+        1.12,
+        0.993,
+        0.881
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "sardunya",
+      "sprite": "nesneler/kus_kafesi/sardunya.png",
+      "x": 0.6,
+      "y": 0.6569,
+      "height": 0.0161,
+      "brightness": 0.934,
+      "tint": [
+        1.049,
+        1.002,
+        0.948
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "bakir_sulama_kabi",
+      "sprite": "nesneler/kus_kafesi/bakir_sulama_kabi.png",
+      "x": 0.4,
+      "y": 0.637,
+      "height": 0.016,
+      "brightness": 0.951,
+      "tint": [
+        1.05,
+        1.016,
+        0.934
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "yuva_yumurta",
+      "sprite": "nesneler/kus_kafesi/yuva_yumurta.png",
+      "x": 0.8,
+      "y": 0.6334,
+      "height": 0.0133,
+      "brightness": 0.988,
+      "tint": [
+        1.082,
+        1.017,
+        0.901
+      ],
+      "shadow": 0.37
+    },
+    {
+      "id": "bahce_kuregi",
+      "sprite": "nesneler/kus_kafesi/bahce_kuregi.png",
+      "x": 0.93,
+      "y": 0.6506,
+      "height": 0.0187,
+      "brightness": 0.963,
+      "tint": [
+        1.085,
+        0.995,
+        0.919
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "salyangoz",
+      "sprite": "nesneler/kus_kafesi/salyangoz.png",
+      "x": 0.45,
+      "y": 0.6932,
+      "height": 0.0136,
+      "brightness": 1.003,
+      "tint": [
+        1.028,
+        1.006,
+        0.965
+      ],
+      "shadow": 0.38
+    },
+    {
+      "id": "bank",
+      "sprite": "nesneler/kus_kafesi/bank.png",
+      "x": 0.17,
+      "y": 0.6506,
+      "height": 0.0187,
+      "brightness": 0.856,
+      "tint": [
+        1.104,
+        1.004,
+        0.892
+      ],
+      "shadow": 0.3
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.76,
+    "y": 0.36,
+    "height": 0.016
+  },
+  "sceneSize": [
+    4086,
+    3456
+  ],
+  "tiles": {
+    "lo": [
+      {
+        "path": "sahneler/kus_kafesi/game/lo.webp",
+        "rect": [
+          0,
+          0,
+          1,
+          1
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "path": "sahneler/kus_kafesi/game/t_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          0.250612,
+          0.250579
+        ]
+      },
+      {
+        "path": "sahneler/kus_kafesi/game/t_0_1.webp",
+        "rect": [
+          0.249633,
+          0.0,
+          0.250857,
+          0.250579
+        ]
+      },
+      {
+        "path": "sahneler/kus_kafesi/game/t_0_2.webp",
+        "rect": [
+          0.499511,
+          0.0,
+          0.250857,
+          0.250579
+        ]
+      },
+      {
+        "path": "sahneler/kus_kafesi/game/t_0_3.webp",
+        "rect": [
+          0.749388,
+          0.0,
+          0.250612,
+          0.250579
+        ]
+      },
+      {
+        "path": "sahneler/kus_kafesi/game/t_1_0.webp",
+        "rect": [
+          0.0,
+          0.249421,
+          0.250612,
+          0.251157
+        ]
+      },
+      {
+        "path": "sahneler/kus_kafesi/game/t_1_1.webp",
+        "rect": [
+          0.249633,
+          0.249421,
+          0.250857,
+          0.251157
+        ]
+      },
+      {
+        "path": "sahneler/kus_kafesi/game/t_1_2.webp",
+        "rect": [
+          0.499511,
+          0.249421,
+          0.250857,
+          0.251157
+        ]
+      },
+      {
+        "path": "sahneler/kus_kafesi/game/t_1_3.webp",
+        "rect": [
+          0.749388,
+          0.249421,
+          0.250612,
+          0.251157
+        ]
+      },
+      {
+        "path": "sahneler/kus_kafesi/game/t_2_0.webp",
+        "rect": [
+          0.0,
+          0.499421,
+          0.250612,
+          0.251157
+        ]
+      },
+      {
+        "path": "sahneler/kus_kafesi/game/t_2_1.webp",
+        "rect": [
+          0.249633,
+          0.499421,
+          0.250857,
+          0.251157
+        ]
+      },
+      {
+        "path": "sahneler/kus_kafesi/game/t_2_2.webp",
+        "rect": [
+          0.499511,
+          0.499421,
+          0.250857,
+          0.251157
+        ]
+      },
+      {
+        "path": "sahneler/kus_kafesi/game/t_2_3.webp",
+        "rect": [
+          0.749388,
+          0.499421,
+          0.250612,
+          0.251157
+        ]
+      },
+      {
+        "path": "sahneler/kus_kafesi/game/t_3_0.webp",
+        "rect": [
+          0.0,
+          0.749421,
+          0.250612,
+          0.250579
+        ]
+      },
+      {
+        "path": "sahneler/kus_kafesi/game/t_3_1.webp",
+        "rect": [
+          0.249633,
+          0.749421,
+          0.250857,
+          0.250579
+        ]
+      },
+      {
+        "path": "sahneler/kus_kafesi/game/t_3_2.webp",
+        "rect": [
+          0.499511,
+          0.749421,
+          0.250857,
+          0.250579
+        ]
+      },
+      {
+        "path": "sahneler/kus_kafesi/game/t_3_3.webp",
+        "rect": [
+          0.749388,
+          0.749421,
+          0.250612,
+          0.250579
+        ]
+      }
+    ]
+  }
+}

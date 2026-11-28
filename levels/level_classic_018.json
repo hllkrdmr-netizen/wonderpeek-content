@@ -1,0 +1,382 @@
+{
+  "levelId": 18,
+  "sceneId": "gokyuzu_limani",
+  "scene": "sahneler/gokyuzu_limani/scene.webp",
+  "depth": "sahneler/gokyuzu_limani/depth.png",
+  "mode": "classic",
+  "objectCount": 14,
+  "timePerObjectSec": 14,
+  "silhouetteCount": 2,
+  "camouflage": "medium",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "horoz_ruzgar_gulu",
+      "sprite": "nesneler/gokyuzu_limani/horoz_ruzgar_gulu.png",
+      "x": 0.035,
+      "y": 0.1256,
+      "height": 0.0188,
+      "brightness": 1.001,
+      "tint": [
+        1.001,
+        0.982,
+        1.018
+      ],
+      "shadow": 0.38
+    },
+    {
+      "id": "kurmali_kus",
+      "sprite": "nesneler/gokyuzu_limani/kurmali_kus.png",
+      "x": 0.925,
+      "y": 0.1914,
+      "height": 0.0133,
+      "brightness": 0.926,
+      "tint": [
+        1.09,
+        0.983,
+        0.927
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "kus_kafesi",
+      "sprite": "nesneler/gokyuzu_limani/kus_kafesi.png",
+      "x": 0.405,
+      "y": 0.1812,
+      "height": 0.0176,
+      "brightness": 0.869,
+      "tint": [
+        1.059,
+        1.0,
+        0.941
+      ],
+      "shadow": 0.3
+    },
+    {
+      "id": "orgulu_demlik",
+      "sprite": "nesneler/gokyuzu_limani/orgulu_demlik.png",
+      "x": 0.615,
+      "y": 0.3324,
+      "height": 0.0113,
+      "brightness": 0.958,
+      "tint": [
+        1.065,
+        0.995,
+        0.94
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "pilot_kaski",
+      "sprite": "nesneler/gokyuzu_limani/pilot_kaski.png",
+      "x": 0.56,
+      "y": 0.1486,
+      "height": 0.0128,
+      "brightness": 0.897,
+      "tint": [
+        1.046,
+        1.006,
+        0.948
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "kirmizi_semsiye",
+      "sprite": "nesneler/gokyuzu_limani/kirmizi_semsiye.png",
+      "x": 0.11,
+      "y": 0.3917,
+      "height": 0.0265,
+      "brightness": 0.889,
+      "tint": [
+        1.099,
+        0.98,
+        0.921
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "muhurlu_zarf",
+      "sprite": "nesneler/gokyuzu_limani/muhurlu_zarf.png",
+      "x": 0.31,
+      "y": 0.4193,
+      "height": 0.0135,
+      "brightness": 1.02,
+      "tint": [
+        1.059,
+        0.987,
+        0.954
+      ],
+      "shadow": 0.39
+    },
+    {
+      "id": "seyahat_defteri",
+      "sprite": "nesneler/gokyuzu_limani/seyahat_defteri.png",
+      "x": 0.225,
+      "y": 0.3589,
+      "height": 0.0141,
+      "brightness": 0.971,
+      "tint": [
+        1.075,
+        0.991,
+        0.935
+      ],
+      "shadow": 0.36
+    },
+    {
+      "id": "atesbocegi_kavanozu",
+      "sprite": "nesneler/gokyuzu_limani/atesbocegi_kavanozu.png",
+      "x": 0.746,
+      "y": 0.41,
+      "height": 0.0161,
+      "brightness": 1.02,
+      "tint": [
+        1.047,
+        0.983,
+        0.969
+      ],
+      "shadow": 0.41
+    },
+    {
+      "id": "pervane_oyuncak",
+      "sprite": "nesneler/gokyuzu_limani/pervane_oyuncak.png",
+      "x": 0.7,
+      "y": 0.5878,
+      "height": 0.0183,
+      "brightness": 0.908,
+      "tint": [
+        1.12,
+        0.997,
+        0.882
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "capa",
+      "sprite": "nesneler/gokyuzu_limani/capa.png",
+      "x": 0.59,
+      "y": 0.7328,
+      "height": 0.0303,
+      "brightness": 0.9,
+      "tint": [
+        1.085,
+        0.987,
+        0.928
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "cep_saati",
+      "sprite": "nesneler/gokyuzu_limani/cep_saati.png",
+      "x": 0.27,
+      "y": 0.7775,
+      "height": 0.019,
+      "brightness": 0.896,
+      "tint": [
+        1.083,
+        0.987,
+        0.93
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "dumen",
+      "sprite": "nesneler/gokyuzu_limani/dumen.png",
+      "x": 0.84,
+      "y": 0.6393,
+      "height": 0.0254,
+      "brightness": 0.894,
+      "tint": [
+        1.084,
+        0.989,
+        0.927
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "durbun",
+      "sprite": "nesneler/gokyuzu_limani/durbun.png",
+      "x": 0.15,
+      "y": 0.7081,
+      "height": 0.0198,
+      "brightness": 0.93,
+      "tint": [
+        1.081,
+        0.988,
+        0.931
+      ],
+      "shadow": 0.33
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.04,
+    "y": 0.36,
+    "height": 0.02
+  },
+  "sceneSize": [
+    4087,
+    3325
+  ],
+  "tiles": {
+    "lo": [
+      {
+        "path": "sahneler/gokyuzu_limani/game/lo.webp",
+        "rect": [
+          0,
+          0,
+          1,
+          1
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "path": "sahneler/gokyuzu_limani/game/t_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          0.250551,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/gokyuzu_limani/game/t_0_1.webp",
+        "rect": [
+          0.249572,
+          0.0,
+          0.25104,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/gokyuzu_limani/game/t_0_2.webp",
+        "rect": [
+          0.499633,
+          0.0,
+          0.250795,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/gokyuzu_limani/game/t_0_3.webp",
+        "rect": [
+          0.749449,
+          0.0,
+          0.250551,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/gokyuzu_limani/game/t_1_0.webp",
+        "rect": [
+          0.0,
+          0.249323,
+          0.250551,
+          0.251128
+        ]
+      },
+      {
+        "path": "sahneler/gokyuzu_limani/game/t_1_1.webp",
+        "rect": [
+          0.249572,
+          0.249323,
+          0.25104,
+          0.251128
+        ]
+      },
+      {
+        "path": "sahneler/gokyuzu_limani/game/t_1_2.webp",
+        "rect": [
+          0.499633,
+          0.249323,
+          0.250795,
+          0.251128
+        ]
+      },
+      {
+        "path": "sahneler/gokyuzu_limani/game/t_1_3.webp",
+        "rect": [
+          0.749449,
+          0.249323,
+          0.250551,
+          0.251128
+        ]
+      },
+      {
+        "path": "sahneler/gokyuzu_limani/game/t_2_0.webp",
+        "rect": [
+          0.0,
+          0.499248,
+          0.250551,
+          0.251429
+        ]
+      },
+      {
+        "path": "sahneler/gokyuzu_limani/game/t_2_1.webp",
+        "rect": [
+          0.249572,
+          0.499248,
+          0.25104,
+          0.251429
+        ]
+      },
+      {
+        "path": "sahneler/gokyuzu_limani/game/t_2_2.webp",
+        "rect": [
+          0.499633,
+          0.499248,
+          0.250795,
+          0.251429
+        ]
+      },
+      {
+        "path": "sahneler/gokyuzu_limani/game/t_2_3.webp",
+        "rect": [
+          0.749449,
+          0.499248,
+          0.250551,
+          0.251429
+        ]
+      },
+      {
+        "path": "sahneler/gokyuzu_limani/game/t_3_0.webp",
+        "rect": [
+          0.0,
+          0.749474,
+          0.250551,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/gokyuzu_limani/game/t_3_1.webp",
+        "rect": [
+          0.249572,
+          0.749474,
+          0.25104,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/gokyuzu_limani/game/t_3_2.webp",
+        "rect": [
+          0.499633,
+          0.749474,
+          0.250795,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/gokyuzu_limani/game/t_3_3.webp",
+        "rect": [
+          0.749449,
+          0.749474,
+          0.250551,
+          0.250526
+        ]
+      }
+    ]
+  }
+}

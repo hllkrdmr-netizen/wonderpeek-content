@@ -1,0 +1,326 @@
+{
+  "levelId": 5,
+  "sceneId": "noel_pazari",
+  "scene": "sahneler/noel_pazari/scene.webp",
+  "depth": "sahneler/noel_pazari/depth.png",
+  "mode": "crowd",
+  "objectCount": 7,
+  "timePerObjectSec": 27,
+  "silhouetteCount": 0,
+  "camouflage": "none",
+  "objectScale": 1,
+  "isBreather": true,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "asci",
+      "sprite": "nesneler/noel_pazari/asci.png",
+      "x": 0.2,
+      "y": 0.325,
+      "height": 0.07,
+      "brightness": 0.912,
+      "tint": [
+        1.084,
+        0.983,
+        0.933
+      ],
+      "shadow": 0.32,
+      "trayCrop": [
+        0.0152,
+        0.0,
+        0.8182,
+        0.45
+      ]
+    },
+    {
+      "id": "elf",
+      "sprite": "nesneler/noel_pazari/elf.png",
+      "x": 0.47,
+      "y": 0.332,
+      "height": 0.056,
+      "brightness": 0.901,
+      "tint": [
+        1.08,
+        0.975,
+        0.944
+      ],
+      "shadow": 0.32,
+      "trayCrop": [
+        0.0,
+        0.0,
+        1.0,
+        0.4389
+      ]
+    },
+    {
+      "id": "hediyeli_kadin",
+      "sprite": "nesneler/noel_pazari/hediyeli_kadin.png",
+      "x": 0.74,
+      "y": 0.325,
+      "height": 0.07,
+      "brightness": 0.948,
+      "tint": [
+        1.026,
+        0.984,
+        0.99
+      ],
+      "shadow": 0.34,
+      "trayCrop": [
+        0.0879,
+        0.0,
+        0.8901,
+        0.45
+      ]
+    },
+    {
+      "id": "fotografci_kadin",
+      "sprite": "nesneler/noel_pazari/fotografci_kadin.png",
+      "x": 0.27,
+      "y": 0.4675,
+      "height": 0.165,
+      "brightness": 0.887,
+      "tint": [
+        1.088,
+        0.979,
+        0.933
+      ],
+      "shadow": 0.31,
+      "trayCrop": [
+        0.0,
+        0.0,
+        1.0,
+        0.4306
+      ]
+    },
+    {
+      "id": "ren_geyikli_cocuk",
+      "sprite": "nesneler/noel_pazari/ren_geyikli_cocuk.png",
+      "x": 0.4,
+      "y": 0.6384,
+      "height": 0.1931,
+      "brightness": 0.906,
+      "tint": [
+        1.095,
+        0.974,
+        0.931
+      ],
+      "shadow": 0.32,
+      "trayCrop": [
+        0.0,
+        0.0,
+        1.0,
+        0.3722
+      ]
+    },
+    {
+      "id": "yilbasi_agacli_dede",
+      "sprite": "nesneler/noel_pazari/yilbasi_agacli_dede.png",
+      "x": 0.725,
+      "y": 0.4675,
+      "height": 0.165,
+      "brightness": 0.931,
+      "tint": [
+        1.058,
+        0.981,
+        0.962
+      ],
+      "shadow": 0.33,
+      "trayCrop": [
+        0.0556,
+        0.0,
+        0.9,
+        0.45
+      ]
+    },
+    {
+      "id": "kar_kureli_kiz",
+      "sprite": "nesneler/noel_pazari/kar_kureli_kiz.png",
+      "x": 0.635,
+      "y": 0.6303,
+      "height": 0.1894,
+      "brightness": 0.906,
+      "tint": [
+        1.084,
+        0.98,
+        0.935
+      ],
+      "shadow": 0.32,
+      "trayCrop": [
+        0.0,
+        0.0,
+        1.0,
+        0.4472
+      ]
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.16,
+    "y": 0.42,
+    "height": 0.018
+  },
+  "sceneSize": [
+    4087,
+    3325
+  ],
+  "tiles": {
+    "lo": [
+      {
+        "path": "sahneler/noel_pazari/game/lo.webp",
+        "rect": [
+          0,
+          0,
+          1,
+          1
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "path": "sahneler/noel_pazari/game/t_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          0.250551,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/noel_pazari/game/t_0_1.webp",
+        "rect": [
+          0.249572,
+          0.0,
+          0.25104,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/noel_pazari/game/t_0_2.webp",
+        "rect": [
+          0.499633,
+          0.0,
+          0.250795,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/noel_pazari/game/t_0_3.webp",
+        "rect": [
+          0.749449,
+          0.0,
+          0.250551,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/noel_pazari/game/t_1_0.webp",
+        "rect": [
+          0.0,
+          0.249323,
+          0.250551,
+          0.251128
+        ]
+      },
+      {
+        "path": "sahneler/noel_pazari/game/t_1_1.webp",
+        "rect": [
+          0.249572,
+          0.249323,
+          0.25104,
+          0.251128
+        ]
+      },
+      {
+        "path": "sahneler/noel_pazari/game/t_1_2.webp",
+        "rect": [
+          0.499633,
+          0.249323,
+          0.250795,
+          0.251128
+        ]
+      },
+      {
+        "path": "sahneler/noel_pazari/game/t_1_3.webp",
+        "rect": [
+          0.749449,
+          0.249323,
+          0.250551,
+          0.251128
+        ]
+      },
+      {
+        "path": "sahneler/noel_pazari/game/t_2_0.webp",
+        "rect": [
+          0.0,
+          0.499248,
+          0.250551,
+          0.251429
+        ]
+      },
+      {
+        "path": "sahneler/noel_pazari/game/t_2_1.webp",
+        "rect": [
+          0.249572,
+          0.499248,
+          0.25104,
+          0.251429
+        ]
+      },
+      {
+        "path": "sahneler/noel_pazari/game/t_2_2.webp",
+        "rect": [
+          0.499633,
+          0.499248,
+          0.250795,
+          0.251429
+        ]
+      },
+      {
+        "path": "sahneler/noel_pazari/game/t_2_3.webp",
+        "rect": [
+          0.749449,
+          0.499248,
+          0.250551,
+          0.251429
+        ]
+      },
+      {
+        "path": "sahneler/noel_pazari/game/t_3_0.webp",
+        "rect": [
+          0.0,
+          0.749474,
+          0.250551,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/noel_pazari/game/t_3_1.webp",
+        "rect": [
+          0.249572,
+          0.749474,
+          0.25104,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/noel_pazari/game/t_3_2.webp",
+        "rect": [
+          0.499633,
+          0.749474,
+          0.250795,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/noel_pazari/game/t_3_3.webp",
+        "rect": [
+          0.749449,
+          0.749474,
+          0.250551,
+          0.250526
+        ]
+      }
+    ]
+  }
+}

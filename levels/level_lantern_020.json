@@ -1,0 +1,333 @@
+{
+  "levelId": 20,
+  "sceneId": "koi_kase",
+  "scene": "sahneler/koi_kase/scene.webp",
+  "depth": "sahneler/koi_kase/depth.png",
+  "mode": "lantern",
+  "objectCount": 10,
+  "timePerObjectSec": 26,
+  "silhouetteCount": 2,
+  "camouflage": "light",
+  "objectScale": 1,
+  "isBreather": true,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "demlik",
+      "sprite": "nesneler/koi_kase/demlik.png",
+      "x": 0.92,
+      "y": 0.3015,
+      "height": 0.0271,
+      "brightness": 0.956,
+      "tint": [
+        1.087,
+        0.992,
+        0.921
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "yelpaze",
+      "sprite": "nesneler/koi_kase/yelpaze.png",
+      "x": 0.705,
+      "y": 0.2374,
+      "height": 0.0252,
+      "brightness": 0.899,
+      "tint": [
+        1.06,
+        1.02,
+        0.92
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "kurbaga",
+      "sprite": "nesneler/koi_kase/kurbaga.png",
+      "x": 0.63,
+      "y": 0.4838,
+      "height": 0.0324,
+      "brightness": 0.942,
+      "tint": [
+        1.063,
+        1.008,
+        0.929
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "koi",
+      "sprite": "nesneler/koi_kase/koi.png",
+      "x": 0.82,
+      "y": 0.5991,
+      "height": 0.0418,
+      "brightness": 0.948,
+      "tint": [
+        1.064,
+        1.005,
+        0.931
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "ates_bocegi_kavanoz",
+      "sprite": "nesneler/koi_kase/ates_bocegi_kavanoz.png",
+      "x": 0.18,
+      "y": 0.5331,
+      "height": 0.0338,
+      "brightness": 0.863,
+      "tint": [
+        1.12,
+        1.021,
+        0.85
+      ],
+      "shadow": 0.3
+    },
+    {
+      "id": "olta",
+      "sprite": "nesneler/koi_kase/olta.png",
+      "x": 0.88,
+      "y": 0.5029,
+      "height": 0.0442,
+      "brightness": 0.984,
+      "tint": [
+        1.081,
+        1.0,
+        0.919
+      ],
+      "shadow": 0.37
+    },
+    {
+      "id": "ruzgar_cani",
+      "sprite": "nesneler/koi_kase/ruzgar_cani.png",
+      "x": 0.31,
+      "y": 0.4148,
+      "height": 0.0304,
+      "brightness": 0.887,
+      "tint": [
+        1.12,
+        0.955,
+        0.887
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "kayik",
+      "sprite": "nesneler/koi_kase/kayik.png",
+      "x": 0.37,
+      "y": 0.6809,
+      "height": 0.0382,
+      "brightness": 0.938,
+      "tint": [
+        1.037,
+        1.003,
+        0.96
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "nilufer",
+      "sprite": "nesneler/koi_kase/nilufer.png",
+      "x": 0.56,
+      "y": 0.6021,
+      "height": 0.0359,
+      "brightness": 0.919,
+      "tint": [
+        1.022,
+        0.995,
+        0.982
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "tas_fener",
+      "sprite": "nesneler/koi_kase/tas_fener.png",
+      "x": 0.17,
+      "y": 0.6169,
+      "height": 0.0363,
+      "brightness": 0.89,
+      "tint": [
+        1.091,
+        1.001,
+        0.908
+      ],
+      "shadow": 0.31
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.33,
+    "y": 0.175,
+    "height": 0.02
+  },
+  "sceneSize": [
+    4093,
+    3100
+  ],
+  "tiles": {
+    "lo": [
+      {
+        "path": "sahneler/koi_kase/game/lo.webp",
+        "rect": [
+          0,
+          0,
+          1,
+          1
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "path": "sahneler/koi_kase/game/t_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          0.250428,
+          0.250645
+        ]
+      },
+      {
+        "path": "sahneler/koi_kase/game/t_0_1.webp",
+        "rect": [
+          0.24945,
+          0.0,
+          0.250916,
+          0.250645
+        ]
+      },
+      {
+        "path": "sahneler/koi_kase/game/t_0_2.webp",
+        "rect": [
+          0.499389,
+          0.0,
+          0.251161,
+          0.250645
+        ]
+      },
+      {
+        "path": "sahneler/koi_kase/game/t_0_3.webp",
+        "rect": [
+          0.749572,
+          0.0,
+          0.250428,
+          0.250645
+        ]
+      },
+      {
+        "path": "sahneler/koi_kase/game/t_1_0.webp",
+        "rect": [
+          0.0,
+          0.249355,
+          0.250428,
+          0.25129
+        ]
+      },
+      {
+        "path": "sahneler/koi_kase/game/t_1_1.webp",
+        "rect": [
+          0.24945,
+          0.249355,
+          0.250916,
+          0.25129
+        ]
+      },
+      {
+        "path": "sahneler/koi_kase/game/t_1_2.webp",
+        "rect": [
+          0.499389,
+          0.249355,
+          0.251161,
+          0.25129
+        ]
+      },
+      {
+        "path": "sahneler/koi_kase/game/t_1_3.webp",
+        "rect": [
+          0.749572,
+          0.249355,
+          0.250428,
+          0.25129
+        ]
+      },
+      {
+        "path": "sahneler/koi_kase/game/t_2_0.webp",
+        "rect": [
+          0.0,
+          0.499355,
+          0.250428,
+          0.25129
+        ]
+      },
+      {
+        "path": "sahneler/koi_kase/game/t_2_1.webp",
+        "rect": [
+          0.24945,
+          0.499355,
+          0.250916,
+          0.25129
+        ]
+      },
+      {
+        "path": "sahneler/koi_kase/game/t_2_2.webp",
+        "rect": [
+          0.499389,
+          0.499355,
+          0.251161,
+          0.25129
+        ]
+      },
+      {
+        "path": "sahneler/koi_kase/game/t_2_3.webp",
+        "rect": [
+          0.749572,
+          0.499355,
+          0.250428,
+          0.25129
+        ]
+      },
+      {
+        "path": "sahneler/koi_kase/game/t_3_0.webp",
+        "rect": [
+          0.0,
+          0.749355,
+          0.250428,
+          0.250645
+        ]
+      },
+      {
+        "path": "sahneler/koi_kase/game/t_3_1.webp",
+        "rect": [
+          0.24945,
+          0.749355,
+          0.250916,
+          0.250645
+        ]
+      },
+      {
+        "path": "sahneler/koi_kase/game/t_3_2.webp",
+        "rect": [
+          0.499389,
+          0.749355,
+          0.251161,
+          0.250645
+        ]
+      },
+      {
+        "path": "sahneler/koi_kase/game/t_3_3.webp",
+        "rect": [
+          0.749572,
+          0.749355,
+          0.250428,
+          0.250645
+        ]
+      }
+    ]
+  },
+  "lantern": {
+    "radius": 0.22,
+    "start": [
+      0.42,
+      0.7
+    ]
+  }
+}

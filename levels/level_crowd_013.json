@@ -1,0 +1,426 @@
+{
+  "levelId": 13,
+  "sceneId": "buz_festivali",
+  "scene": "sahneler/buz_festivali/scene.webp",
+  "depth": "sahneler/buz_festivali/depth.png",
+  "mode": "crowd",
+  "objectCount": 12,
+  "timePerObjectSec": 24,
+  "silhouetteCount": 2,
+  "camouflage": "medium",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "akordeoncu",
+      "sprite": "nesneler/buz_festivali/akordeoncu.png",
+      "x": 0.48,
+      "y": 0.3026,
+      "height": 0.0248,
+      "brightness": 0.933,
+      "tint": [
+        1.089,
+        0.988,
+        0.923
+      ],
+      "shadow": 0.34,
+      "trayCrop": [
+        0.0754,
+        0.0,
+        0.7789,
+        0.4493
+      ]
+    },
+    {
+      "id": "fener_yakici",
+      "sprite": "nesneler/buz_festivali/fener_yakici.png",
+      "x": 0.835,
+      "y": 0.3106,
+      "height": 0.0289,
+      "brightness": 1.02,
+      "tint": [
+        1.0,
+        0.997,
+        1.003
+      ],
+      "shadow": 0.41,
+      "trayCrop": [
+        0.209,
+        0.0,
+        0.6598,
+        0.4497
+      ]
+    },
+    {
+      "id": "buz_heykeltiras",
+      "sprite": "nesneler/buz_festivali/buz_heykeltiras.png",
+      "x": 0.24,
+      "y": 0.3658,
+      "height": 0.0244,
+      "brightness": 0.937,
+      "tint": [
+        1.039,
+        0.993,
+        0.968
+      ],
+      "shadow": 0.34,
+      "trayCrop": [
+        0.3391,
+        0.0,
+        0.3797,
+        0.4486
+      ]
+    },
+    {
+      "id": "kakaolu_kadin",
+      "sprite": "nesneler/buz_festivali/kakaolu_kadin.png",
+      "x": 0.27,
+      "y": 0.4798,
+      "height": 0.0505,
+      "brightness": 0.938,
+      "tint": [
+        1.061,
+        0.984,
+        0.956
+      ],
+      "shadow": 0.34,
+      "trayCrop": [
+        0.1022,
+        0.0,
+        0.8387,
+        0.4496
+      ]
+    },
+    {
+      "id": "hediyeli_adam",
+      "sprite": "nesneler/buz_festivali/hediyeli_adam.png",
+      "x": 0.32,
+      "y": 0.4245,
+      "height": 0.0411,
+      "brightness": 0.912,
+      "tint": [
+        1.117,
+        0.986,
+        0.897
+      ],
+      "shadow": 0.32,
+      "trayCrop": [
+        0.133,
+        0.0,
+        0.8138,
+        0.4474
+      ]
+    },
+    {
+      "id": "pateni_cift",
+      "sprite": "nesneler/buz_festivali/pateni_cift.png",
+      "x": 0.53,
+      "y": 0.4014,
+      "height": 0.0371,
+      "brightness": 0.981,
+      "tint": [
+        1.019,
+        0.987,
+        0.995
+      ],
+      "shadow": 0.36,
+      "trayCrop": [
+        0.2401,
+        0.0,
+        0.4347,
+        0.4483
+      ]
+    },
+    {
+      "id": "hokeyci_cocuk",
+      "sprite": "nesneler/buz_festivali/hokeyci_cocuk.png",
+      "x": 0.585,
+      "y": 0.5082,
+      "height": 0.0435,
+      "brightness": 1.02,
+      "tint": [
+        1.01,
+        0.989,
+        1.0
+      ],
+      "shadow": 0.4,
+      "trayCrop": [
+        0.3099,
+        0.0,
+        0.4613,
+        0.4486
+      ]
+    },
+    {
+      "id": "kopekli_amca",
+      "sprite": "nesneler/buz_festivali/kopekli_amca.png",
+      "x": 0.875,
+      "y": 0.5166,
+      "height": 0.0568,
+      "brightness": 0.941,
+      "tint": [
+        1.06,
+        0.986,
+        0.954
+      ],
+      "shadow": 0.34,
+      "trayCrop": [
+        0.0657,
+        0.0,
+        0.5292,
+        0.4475
+      ]
+    },
+    {
+      "id": "kizakli_cocuk",
+      "sprite": "nesneler/buz_festivali/kizakli_cocuk.png",
+      "x": 0.76,
+      "y": 0.6974,
+      "height": 0.0553,
+      "brightness": 1.005,
+      "tint": [
+        1.036,
+        0.989,
+        0.976
+      ],
+      "shadow": 0.38,
+      "trayCrop": [
+        0.586,
+        0.0,
+        0.3761,
+        0.4479
+      ]
+    },
+    {
+      "id": "patenci_kiz",
+      "sprite": "nesneler/buz_festivali/patenci_kiz.png",
+      "x": 0.43,
+      "y": 0.6042,
+      "height": 0.0416,
+      "brightness": 1.02,
+      "tint": [
+        1.008,
+        0.993,
+        0.999
+      ],
+      "shadow": 0.41,
+      "trayCrop": [
+        0.3012,
+        0.0,
+        0.4367,
+        0.4489
+      ]
+    },
+    {
+      "id": "kestaneci",
+      "sprite": "nesneler/buz_festivali/kestaneci.png",
+      "x": 0.865,
+      "y": 0.6594,
+      "height": 0.0811,
+      "brightness": 0.965,
+      "tint": [
+        1.045,
+        0.987,
+        0.968
+      ],
+      "shadow": 0.35,
+      "trayCrop": [
+        0.2646,
+        0.0,
+        0.5258,
+        0.4487
+      ]
+    },
+    {
+      "id": "kardan_adamli_kiz",
+      "sprite": "nesneler/buz_festivali/kardan_adamli_kiz.png",
+      "x": 0.505,
+      "y": 0.6947,
+      "height": 0.0505,
+      "brightness": 1.006,
+      "tint": [
+        1.039,
+        0.986,
+        0.975
+      ],
+      "shadow": 0.38,
+      "trayCrop": [
+        0.2721,
+        0.0,
+        0.4218,
+        0.4493
+      ]
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.72,
+    "y": 0.185,
+    "height": 0.015
+  },
+  "sceneSize": [
+    4093,
+    3402
+  ],
+  "tiles": {
+    "lo": [
+      {
+        "path": "sahneler/buz_festivali/game/lo.webp",
+        "rect": [
+          0,
+          0,
+          1,
+          1
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "path": "sahneler/buz_festivali/game/t_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          0.250428,
+          0.250441
+        ]
+      },
+      {
+        "path": "sahneler/buz_festivali/game/t_0_1.webp",
+        "rect": [
+          0.24945,
+          0.0,
+          0.250916,
+          0.250441
+        ]
+      },
+      {
+        "path": "sahneler/buz_festivali/game/t_0_2.webp",
+        "rect": [
+          0.499389,
+          0.0,
+          0.251161,
+          0.250441
+        ]
+      },
+      {
+        "path": "sahneler/buz_festivali/game/t_0_3.webp",
+        "rect": [
+          0.749572,
+          0.0,
+          0.250428,
+          0.250441
+        ]
+      },
+      {
+        "path": "sahneler/buz_festivali/game/t_1_0.webp",
+        "rect": [
+          0.0,
+          0.249265,
+          0.250428,
+          0.251323
+        ]
+      },
+      {
+        "path": "sahneler/buz_festivali/game/t_1_1.webp",
+        "rect": [
+          0.24945,
+          0.249265,
+          0.250916,
+          0.251323
+        ]
+      },
+      {
+        "path": "sahneler/buz_festivali/game/t_1_2.webp",
+        "rect": [
+          0.499389,
+          0.249265,
+          0.251161,
+          0.251323
+        ]
+      },
+      {
+        "path": "sahneler/buz_festivali/game/t_1_3.webp",
+        "rect": [
+          0.749572,
+          0.249265,
+          0.250428,
+          0.251323
+        ]
+      },
+      {
+        "path": "sahneler/buz_festivali/game/t_2_0.webp",
+        "rect": [
+          0.0,
+          0.499412,
+          0.250428,
+          0.251323
+        ]
+      },
+      {
+        "path": "sahneler/buz_festivali/game/t_2_1.webp",
+        "rect": [
+          0.24945,
+          0.499412,
+          0.250916,
+          0.251323
+        ]
+      },
+      {
+        "path": "sahneler/buz_festivali/game/t_2_2.webp",
+        "rect": [
+          0.499389,
+          0.499412,
+          0.251161,
+          0.251323
+        ]
+      },
+      {
+        "path": "sahneler/buz_festivali/game/t_2_3.webp",
+        "rect": [
+          0.749572,
+          0.499412,
+          0.250428,
+          0.251323
+        ]
+      },
+      {
+        "path": "sahneler/buz_festivali/game/t_3_0.webp",
+        "rect": [
+          0.0,
+          0.749559,
+          0.250428,
+          0.250441
+        ]
+      },
+      {
+        "path": "sahneler/buz_festivali/game/t_3_1.webp",
+        "rect": [
+          0.24945,
+          0.749559,
+          0.250916,
+          0.250441
+        ]
+      },
+      {
+        "path": "sahneler/buz_festivali/game/t_3_2.webp",
+        "rect": [
+          0.499389,
+          0.749559,
+          0.251161,
+          0.250441
+        ]
+      },
+      {
+        "path": "sahneler/buz_festivali/game/t_3_3.webp",
+        "rect": [
+          0.749572,
+          0.749559,
+          0.250428,
+          0.250441
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "levelId": 3,
+  "sceneId": "yunan_ada",
+  "scene": "sahneler/yunan_ada/scene.webp",
+  "depth": "sahneler/yunan_ada/depth.png",
+  "mode": "oddone",
+  "objectCount": 6,
+  "timePerObjectSec": 30,
+  "silhouetteCount": 0,
+  "camouflage": "none",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "penguen",
+      "sprite": "nesneler/yunan_ada/penguen.png",
+      "x": 0.11,
+      "y": 0.2413,
+      "height": 0.0275,
+      "brightness": 1.005,
+      "tint": [
+        1.027,
+        0.992,
+        0.981
+      ],
+      "shadow": 0.38
+    },
+    {
+      "id": "yilbasi_agaci",
+      "sprite": "nesneler/yunan_ada/yilbasi_agaci.png",
+      "x": 0.46,
+      "y": 0.1266,
+      "height": 0.0508,
+      "brightness": 0.943,
+      "tint": [
+        1.045,
+        0.964,
+        0.991
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "kizak",
+      "sprite": "nesneler/yunan_ada/kizak.png",
+      "x": 0.575,
+      "y": 0.4791,
+      "height": 0.0359,
+      "brightness": 0.94,
+      "tint": [
+        1.067,
+        0.999,
+        0.934
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "buz_pateni",
+      "sprite": "nesneler/yunan_ada/buz_pateni.png",
+      "x": 0.775,
+      "y": 0.4922,
+      "height": 0.0217,
+      "brightness": 0.863,
+      "tint": [
+        1.053,
+        0.994,
+        0.953
+      ],
+      "shadow": 0.3
+    },
+    {
+      "id": "kar_kuresi",
+      "sprite": "nesneler/yunan_ada/kar_kuresi.png",
+      "x": 0.092,
+      "y": 0.7394,
+      "height": 0.0333,
+      "brightness": 0.913,
+      "tint": [
+        1.048,
+        0.993,
+        0.959
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "kardan_adam",
+      "sprite": "nesneler/yunan_ada/kardan_adam.png",
+      "x": 0.77,
+      "y": 0.7266,
+      "height": 0.0668,
+      "brightness": 0.933,
+      "tint": [
+        1.046,
+        0.997,
+        0.957
+      ],
+      "shadow": 0.34
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.877,
+    "y": 0.175,
+    "height": 0.022
+  },
+  "sceneSize": [
+    4092,
+    3260
+  ],
+  "tiles": {
+    "lo": [
+      {
+        "path": "sahneler/yunan_ada/game/lo.webp",
+        "rect": [
+          0,
+          0,
+          1,
+          1
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "path": "sahneler/yunan_ada/game/t_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          0.250489,
+          0.250613
+        ]
+      },
+      {
+        "path": "sahneler/yunan_ada/game/t_0_1.webp",
+        "rect": [
+          0.249511,
+          0.0,
+          0.250978,
+          0.250613
+        ]
+      },
+      {
+        "path": "sahneler/yunan_ada/game/t_0_2.webp",
+        "rect": [
+          0.499511,
+          0.0,
+          0.250978,
+          0.250613
+        ]
+      },
+      {
+        "path": "sahneler/yunan_ada/game/t_0_3.webp",
+        "rect": [
+          0.749511,
+          0.0,
+          0.250489,
+          0.250613
+        ]
+      },
+      {
+        "path": "sahneler/yunan_ada/game/t_1_0.webp",
+        "rect": [
+          0.0,
+          0.249387,
+          0.250489,
+          0.251227
+        ]
+      },
+      {
+        "path": "sahneler/yunan_ada/game/t_1_1.webp",
+        "rect": [
+          0.249511,
+          0.249387,
+          0.250978,
+          0.251227
+        ]
+      },
+      {
+        "path": "sahneler/yunan_ada/game/t_1_2.webp",
+        "rect": [
+          0.499511,
+          0.249387,
+          0.250978,
+          0.251227
+        ]
+      },
+      {
+        "path": "sahneler/yunan_ada/game/t_1_3.webp",
+        "rect": [
+          0.749511,
+          0.249387,
+          0.250489,
+          0.251227
+        ]
+      },
+      {
+        "path": "sahneler/yunan_ada/game/t_2_0.webp",
+        "rect": [
+          0.0,
+          0.499387,
+          0.250489,
+          0.251227
+        ]
+      },
+      {
+        "path": "sahneler/yunan_ada/game/t_2_1.webp",
+        "rect": [
+          0.249511,
+          0.499387,
+          0.250978,
+          0.251227
+        ]
+      },
+      {
+        "path": "sahneler/yunan_ada/game/t_2_2.webp",
+        "rect": [
+          0.499511,
+          0.499387,
+          0.250978,
+          0.251227
+        ]
+      },
+      {
+        "path": "sahneler/yunan_ada/game/t_2_3.webp",
+        "rect": [
+          0.749511,
+          0.499387,
+          0.250489,
+          0.251227
+        ]
+      },
+      {
+        "path": "sahneler/yunan_ada/game/t_3_0.webp",
+        "rect": [
+          0.0,
+          0.749387,
+          0.250489,
+          0.250613
+        ]
+      },
+      {
+        "path": "sahneler/yunan_ada/game/t_3_1.webp",
+        "rect": [
+          0.249511,
+          0.749387,
+          0.250978,
+          0.250613
+        ]
+      },
+      {
+        "path": "sahneler/yunan_ada/game/t_3_2.webp",
+        "rect": [
+          0.499511,
+          0.749387,
+          0.250978,
+          0.250613
+        ]
+      },
+      {
+        "path": "sahneler/yunan_ada/game/t_3_3.webp",
+        "rect": [
+          0.749511,
+          0.749387,
+          0.250489,
+          0.250613
+        ]
+      }
+    ]
+  }
+}

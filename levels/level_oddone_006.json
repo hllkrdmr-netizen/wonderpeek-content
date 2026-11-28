@@ -1,0 +1,284 @@
+{
+  "levelId": 6,
+  "sceneId": "ay_kolonisi",
+  "scene": "sahneler/ay_kolonisi/scene.webp",
+  "depth": "sahneler/ay_kolonisi/depth.png",
+  "mode": "oddone",
+  "objectCount": 7,
+  "timePerObjectSec": 28,
+  "silhouetteCount": 0,
+  "camouflage": "light",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "sovalye_migferi",
+      "sprite": "nesneler/ay_kolonisi/sovalye_migferi.png",
+      "x": 0.95,
+      "y": 0.3195,
+      "height": 0.017,
+      "brightness": 0.951,
+      "tint": [
+        0.988,
+        0.988,
+        1.024
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "gramofon",
+      "sprite": "nesneler/ay_kolonisi/gramofon.png",
+      "x": 0.585,
+      "y": 0.3301,
+      "height": 0.0157,
+      "brightness": 0.944,
+      "tint": [
+        1.087,
+        0.988,
+        0.925
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "cikrik",
+      "sprite": "nesneler/ay_kolonisi/cikrik.png",
+      "x": 0.205,
+      "y": 0.4796,
+      "height": 0.0269,
+      "brightness": 1.02,
+      "tint": [
+        1.006,
+        1.003,
+        0.99
+      ],
+      "shadow": 0.4
+    },
+    {
+      "id": "saman_kovan",
+      "sprite": "nesneler/ay_kolonisi/saman_kovan.png",
+      "x": 0.725,
+      "y": 0.5258,
+      "height": 0.0184,
+      "brightness": 0.953,
+      "tint": [
+        1.015,
+        0.99,
+        0.995
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "tuy_kalem_hokka",
+      "sprite": "nesneler/ay_kolonisi/tuy_kalem_hokka.png",
+      "x": 0.18,
+      "y": 0.7081,
+      "height": 0.0278,
+      "brightness": 0.934,
+      "tint": [
+        1.032,
+        1.0,
+        0.969
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "gaz_lambasi",
+      "sprite": "nesneler/ay_kolonisi/gaz_lambasi.png",
+      "x": 0.51,
+      "y": 0.6124,
+      "height": 0.0292,
+      "brightness": 0.982,
+      "tint": [
+        1.033,
+        0.996,
+        0.971
+      ],
+      "shadow": 0.36
+    },
+    {
+      "id": "araba_tekerlegi",
+      "sprite": "nesneler/ay_kolonisi/araba_tekerlegi.png",
+      "x": 0.735,
+      "y": 0.7546,
+      "height": 0.0408,
+      "brightness": 0.942,
+      "tint": [
+        1.065,
+        0.987,
+        0.948
+      ],
+      "shadow": 0.34
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.39,
+    "y": 0.275,
+    "height": 0.018
+  },
+  "sceneSize": [
+    4087,
+    3325
+  ],
+  "tiles": {
+    "lo": [
+      {
+        "path": "sahneler/ay_kolonisi/game/lo.webp",
+        "rect": [
+          0,
+          0,
+          1,
+          1
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "path": "sahneler/ay_kolonisi/game/t_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          0.250551,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/ay_kolonisi/game/t_0_1.webp",
+        "rect": [
+          0.249572,
+          0.0,
+          0.25104,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/ay_kolonisi/game/t_0_2.webp",
+        "rect": [
+          0.499633,
+          0.0,
+          0.250795,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/ay_kolonisi/game/t_0_3.webp",
+        "rect": [
+          0.749449,
+          0.0,
+          0.250551,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/ay_kolonisi/game/t_1_0.webp",
+        "rect": [
+          0.0,
+          0.249323,
+          0.250551,
+          0.251128
+        ]
+      },
+      {
+        "path": "sahneler/ay_kolonisi/game/t_1_1.webp",
+        "rect": [
+          0.249572,
+          0.249323,
+          0.25104,
+          0.251128
+        ]
+      },
+      {
+        "path": "sahneler/ay_kolonisi/game/t_1_2.webp",
+        "rect": [
+          0.499633,
+          0.249323,
+          0.250795,
+          0.251128
+        ]
+      },
+      {
+        "path": "sahneler/ay_kolonisi/game/t_1_3.webp",
+        "rect": [
+          0.749449,
+          0.249323,
+          0.250551,
+          0.251128
+        ]
+      },
+      {
+        "path": "sahneler/ay_kolonisi/game/t_2_0.webp",
+        "rect": [
+          0.0,
+          0.499248,
+          0.250551,
+          0.251429
+        ]
+      },
+      {
+        "path": "sahneler/ay_kolonisi/game/t_2_1.webp",
+        "rect": [
+          0.249572,
+          0.499248,
+          0.25104,
+          0.251429
+        ]
+      },
+      {
+        "path": "sahneler/ay_kolonisi/game/t_2_2.webp",
+        "rect": [
+          0.499633,
+          0.499248,
+          0.250795,
+          0.251429
+        ]
+      },
+      {
+        "path": "sahneler/ay_kolonisi/game/t_2_3.webp",
+        "rect": [
+          0.749449,
+          0.499248,
+          0.250551,
+          0.251429
+        ]
+      },
+      {
+        "path": "sahneler/ay_kolonisi/game/t_3_0.webp",
+        "rect": [
+          0.0,
+          0.749474,
+          0.250551,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/ay_kolonisi/game/t_3_1.webp",
+        "rect": [
+          0.249572,
+          0.749474,
+          0.25104,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/ay_kolonisi/game/t_3_2.webp",
+        "rect": [
+          0.499633,
+          0.749474,
+          0.250795,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/ay_kolonisi/game/t_3_3.webp",
+        "rect": [
+          0.749449,
+          0.749474,
+          0.250551,
+          0.250526
+        ]
+      }
+    ]
+  }
+}

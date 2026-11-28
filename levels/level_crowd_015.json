@@ -1,0 +1,386 @@
+{
+  "levelId": 15,
+  "sceneId": "atlikarinca",
+  "scene": "sahneler/atlikarinca/scene.webp",
+  "depth": "sahneler/atlikarinca/depth.png",
+  "mode": "crowd",
+  "objectCount": 10,
+  "timePerObjectSec": 28,
+  "silhouetteCount": 2,
+  "camouflage": "light",
+  "objectScale": 1,
+  "isBreather": true,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "ayakli_adam",
+      "sprite": "nesneler/atlikarinca/ayakli_adam.png",
+      "x": 0.4,
+      "y": 0.331,
+      "height": 0.0579,
+      "brightness": 1.018,
+      "tint": [
+        1.12,
+        0.974,
+        0.899
+      ],
+      "shadow": 0.39,
+      "trayCrop": [
+        0.1705,
+        0.0,
+        0.7051,
+        0.4474
+      ]
+    },
+    {
+      "id": "guclu_adam",
+      "sprite": "nesneler/atlikarinca/guclu_adam.png",
+      "x": 0.53,
+      "y": 0.3307,
+      "height": 0.0427,
+      "brightness": 1.009,
+      "tint": [
+        1.12,
+        0.973,
+        0.871
+      ],
+      "shadow": 0.38,
+      "trayCrop": [
+        0.2344,
+        0.0,
+        0.5311,
+        0.4475
+      ]
+    },
+    {
+      "id": "lobutlu_hokkabaz",
+      "sprite": "nesneler/atlikarinca/lobutlu_hokkabaz.png",
+      "x": 0.15,
+      "y": 0.5016,
+      "height": 0.0568,
+      "brightness": 1.006,
+      "tint": [
+        1.113,
+        0.984,
+        0.903
+      ],
+      "shadow": 0.38,
+      "trayCrop": [
+        0.0786,
+        0.0,
+        0.6681,
+        0.4487
+      ]
+    },
+    {
+      "id": "balon_sanatcisi",
+      "sprite": "nesneler/atlikarinca/balon_sanatcisi.png",
+      "x": 0.3,
+      "y": 0.4634,
+      "height": 0.0532,
+      "brightness": 1.02,
+      "tint": [
+        1.103,
+        0.975,
+        0.921
+      ],
+      "shadow": 0.39,
+      "trayCrop": [
+        0.006,
+        0.0,
+        0.8922,
+        0.4474
+      ]
+    },
+    {
+      "id": "megafonlu_sunucu",
+      "sprite": "nesneler/atlikarinca/megafonlu_sunucu.png",
+      "x": 0.71,
+      "y": 0.4061,
+      "height": 0.0477,
+      "brightness": 0.977,
+      "tint": [
+        1.12,
+        0.988,
+        0.878
+      ],
+      "shadow": 0.36,
+      "trayCrop": [
+        0.3004,
+        0.0,
+        0.5802,
+        0.4476
+      ]
+    },
+    {
+      "id": "kopekli_nine",
+      "sprite": "nesneler/atlikarinca/kopekli_nine.png",
+      "x": 0.9,
+      "y": 0.4469,
+      "height": 0.0462,
+      "brightness": 0.977,
+      "tint": [
+        1.12,
+        0.98,
+        0.887
+      ],
+      "shadow": 0.36,
+      "trayCrop": [
+        0.1465,
+        0.0,
+        0.702,
+        0.4498
+      ]
+    },
+    {
+      "id": "laterna_ustasi",
+      "sprite": "nesneler/atlikarinca/laterna_ustasi.png",
+      "x": 0.86,
+      "y": 0.5092,
+      "height": 0.0516,
+      "brightness": 0.987,
+      "tint": [
+        1.113,
+        0.979,
+        0.908
+      ],
+      "shadow": 0.37,
+      "trayCrop": [
+        0.1082,
+        0.0,
+        0.645,
+        0.4474
+      ]
+    },
+    {
+      "id": "pamuk_sekerli_kiz",
+      "sprite": "nesneler/atlikarinca/pamuk_sekerli_kiz.png",
+      "x": 0.42,
+      "y": 0.6693,
+      "height": 0.0615,
+      "brightness": 1.003,
+      "tint": [
+        1.12,
+        0.975,
+        0.904
+      ],
+      "shadow": 0.38,
+      "trayCrop": [
+        0.2297,
+        0.0,
+        0.6746,
+        0.4476
+      ]
+    },
+    {
+      "id": "semsiyeli_cift",
+      "sprite": "nesneler/atlikarinca/semsiyeli_cift.png",
+      "x": 0.345,
+      "y": 0.6925,
+      "height": 0.075,
+      "brightness": 1.008,
+      "tint": [
+        1.119,
+        0.979,
+        0.903
+      ],
+      "shadow": 0.38,
+      "trayCrop": [
+        0.1441,
+        0.0,
+        0.7027,
+        0.4496
+      ]
+    },
+    {
+      "id": "ayicikli_cocuk",
+      "sprite": "nesneler/atlikarinca/ayicikli_cocuk.png",
+      "x": 0.255,
+      "y": 0.7193,
+      "height": 0.0615,
+      "brightness": 0.976,
+      "tint": [
+        1.12,
+        0.97,
+        0.9
+      ],
+      "shadow": 0.36,
+      "trayCrop": [
+        0.199,
+        0.0,
+        0.6796,
+        0.4487
+      ]
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.645,
+    "y": 0.205,
+    "height": 0.015
+  },
+  "sceneSize": [
+    4093,
+    3524
+  ],
+  "tiles": {
+    "lo": [
+      {
+        "path": "sahneler/atlikarinca/game/lo.webp",
+        "rect": [
+          0,
+          0,
+          1,
+          1
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "path": "sahneler/atlikarinca/game/t_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          0.250428,
+          0.250568
+        ]
+      },
+      {
+        "path": "sahneler/atlikarinca/game/t_0_1.webp",
+        "rect": [
+          0.24945,
+          0.0,
+          0.250916,
+          0.250568
+        ]
+      },
+      {
+        "path": "sahneler/atlikarinca/game/t_0_2.webp",
+        "rect": [
+          0.499389,
+          0.0,
+          0.251161,
+          0.250568
+        ]
+      },
+      {
+        "path": "sahneler/atlikarinca/game/t_0_3.webp",
+        "rect": [
+          0.749572,
+          0.0,
+          0.250428,
+          0.250568
+        ]
+      },
+      {
+        "path": "sahneler/atlikarinca/game/t_1_0.webp",
+        "rect": [
+          0.0,
+          0.249432,
+          0.250428,
+          0.251135
+        ]
+      },
+      {
+        "path": "sahneler/atlikarinca/game/t_1_1.webp",
+        "rect": [
+          0.24945,
+          0.249432,
+          0.250916,
+          0.251135
+        ]
+      },
+      {
+        "path": "sahneler/atlikarinca/game/t_1_2.webp",
+        "rect": [
+          0.499389,
+          0.249432,
+          0.251161,
+          0.251135
+        ]
+      },
+      {
+        "path": "sahneler/atlikarinca/game/t_1_3.webp",
+        "rect": [
+          0.749572,
+          0.249432,
+          0.250428,
+          0.251135
+        ]
+      },
+      {
+        "path": "sahneler/atlikarinca/game/t_2_0.webp",
+        "rect": [
+          0.0,
+          0.499432,
+          0.250428,
+          0.251135
+        ]
+      },
+      {
+        "path": "sahneler/atlikarinca/game/t_2_1.webp",
+        "rect": [
+          0.24945,
+          0.499432,
+          0.250916,
+          0.251135
+        ]
+      },
+      {
+        "path": "sahneler/atlikarinca/game/t_2_2.webp",
+        "rect": [
+          0.499389,
+          0.499432,
+          0.251161,
+          0.251135
+        ]
+      },
+      {
+        "path": "sahneler/atlikarinca/game/t_2_3.webp",
+        "rect": [
+          0.749572,
+          0.499432,
+          0.250428,
+          0.251135
+        ]
+      },
+      {
+        "path": "sahneler/atlikarinca/game/t_3_0.webp",
+        "rect": [
+          0.0,
+          0.749432,
+          0.250428,
+          0.250568
+        ]
+      },
+      {
+        "path": "sahneler/atlikarinca/game/t_3_1.webp",
+        "rect": [
+          0.24945,
+          0.749432,
+          0.250916,
+          0.250568
+        ]
+      },
+      {
+        "path": "sahneler/atlikarinca/game/t_3_2.webp",
+        "rect": [
+          0.499389,
+          0.749432,
+          0.251161,
+          0.250568
+        ]
+      },
+      {
+        "path": "sahneler/atlikarinca/game/t_3_3.webp",
+        "rect": [
+          0.749572,
+          0.749432,
+          0.250428,
+          0.250568
+        ]
+      }
+    ]
+  }
+}

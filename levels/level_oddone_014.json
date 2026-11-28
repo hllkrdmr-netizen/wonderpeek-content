@@ -1,0 +1,262 @@
+{
+  "levelId": 14,
+  "sceneId": "kar_kuresi",
+  "scene": "sahneler/kar_kuresi/scene.webp",
+  "depth": "sahneler/kar_kuresi/depth.png",
+  "mode": "oddone",
+  "objectCount": 8,
+  "timePerObjectSec": 30,
+  "silhouetteCount": 3,
+  "camouflage": "medium",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "plaj_semsiyesi",
+      "sprite": "nesneler/kar_kuresi/plaj_semsiyesi.png",
+      "x": 0.53,
+      "y": 0.2126,
+      "height": 0.0247,
+      "brightness": 1.02,
+      "tint": [
+        1.01,
+        0.984,
+        1.005
+      ],
+      "shadow": 0.42
+    },
+    {
+      "id": "sorf_tahtasi",
+      "sprite": "nesneler/kar_kuresi/sorf_tahtasi.png",
+      "x": 0.795,
+      "y": 0.2863,
+      "height": 0.0273,
+      "brightness": 0.971,
+      "tint": [
+        1.022,
+        0.985,
+        0.993
+      ],
+      "shadow": 0.36
+    },
+    {
+      "id": "palmiye",
+      "sprite": "nesneler/kar_kuresi/palmiye.png",
+      "x": 0.2,
+      "y": 0.2171,
+      "height": 0.0298,
+      "brightness": 0.932,
+      "tint": [
+        1.034,
+        0.984,
+        0.981
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "vantilator",
+      "sprite": "nesneler/kar_kuresi/vantilator.png",
+      "x": 0.85,
+      "y": 0.5425,
+      "height": 0.029,
+      "brightness": 0.936,
+      "tint": [
+        1.1,
+        0.974,
+        0.926
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "kum_kovasi",
+      "sprite": "nesneler/kar_kuresi/kum_kovasi.png",
+      "x": 0.62,
+      "y": 0.5254,
+      "height": 0.0192,
+      "brightness": 0.971,
+      "tint": [
+        1.062,
+        0.982,
+        0.956
+      ],
+      "shadow": 0.36
+    },
+    {
+      "id": "flamingo_simit",
+      "sprite": "nesneler/kar_kuresi/flamingo_simit.png",
+      "x": 0.7,
+      "y": 0.6821,
+      "height": 0.0358,
+      "brightness": 1.02,
+      "tint": [
+        1.003,
+        0.986,
+        1.012
+      ],
+      "shadow": 0.41
+    },
+    {
+      "id": "karpuz",
+      "sprite": "nesneler/kar_kuresi/karpuz.png",
+      "x": 0.325,
+      "y": 0.6325,
+      "height": 0.0249,
+      "brightness": 1.02,
+      "tint": [
+        1.011,
+        0.984,
+        1.004
+      ],
+      "shadow": 0.41
+    },
+    {
+      "id": "terlik",
+      "sprite": "nesneler/kar_kuresi/terlik.png",
+      "x": 0.46,
+      "y": 0.7096,
+      "height": 0.0248,
+      "brightness": 1.02,
+      "tint": [
+        0.98,
+        0.986,
+        1.034
+      ],
+      "shadow": 0.41
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.125,
+    "y": 0.445,
+    "height": 0.014
+  },
+  "sceneSize": [
+    4095,
+    2730
+  ],
+  "tiles": {
+    "lo": [
+      {
+        "path": "sahneler/kar_kuresi/game/lo.webp",
+        "rect": [
+          0,
+          0,
+          1,
+          1
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "path": "sahneler/kar_kuresi/game/t_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          0.250549,
+          0.334066
+        ]
+      },
+      {
+        "path": "sahneler/kar_kuresi/game/t_0_1.webp",
+        "rect": [
+          0.249573,
+          0.0,
+          0.251038,
+          0.334066
+        ]
+      },
+      {
+        "path": "sahneler/kar_kuresi/game/t_0_2.webp",
+        "rect": [
+          0.499634,
+          0.0,
+          0.250794,
+          0.334066
+        ]
+      },
+      {
+        "path": "sahneler/kar_kuresi/game/t_0_3.webp",
+        "rect": [
+          0.749451,
+          0.0,
+          0.250549,
+          0.334066
+        ]
+      },
+      {
+        "path": "sahneler/kar_kuresi/game/t_1_0.webp",
+        "rect": [
+          0.0,
+          0.332601,
+          0.250549,
+          0.334799
+        ]
+      },
+      {
+        "path": "sahneler/kar_kuresi/game/t_1_1.webp",
+        "rect": [
+          0.249573,
+          0.332601,
+          0.251038,
+          0.334799
+        ]
+      },
+      {
+        "path": "sahneler/kar_kuresi/game/t_1_2.webp",
+        "rect": [
+          0.499634,
+          0.332601,
+          0.250794,
+          0.334799
+        ]
+      },
+      {
+        "path": "sahneler/kar_kuresi/game/t_1_3.webp",
+        "rect": [
+          0.749451,
+          0.332601,
+          0.250549,
+          0.334799
+        ]
+      },
+      {
+        "path": "sahneler/kar_kuresi/game/t_2_0.webp",
+        "rect": [
+          0.0,
+          0.665934,
+          0.250549,
+          0.334066
+        ]
+      },
+      {
+        "path": "sahneler/kar_kuresi/game/t_2_1.webp",
+        "rect": [
+          0.249573,
+          0.665934,
+          0.251038,
+          0.334066
+        ]
+      },
+      {
+        "path": "sahneler/kar_kuresi/game/t_2_2.webp",
+        "rect": [
+          0.499634,
+          0.665934,
+          0.250794,
+          0.334066
+        ]
+      },
+      {
+        "path": "sahneler/kar_kuresi/game/t_2_3.webp",
+        "rect": [
+          0.749451,
+          0.665934,
+          0.250549,
+          0.334066
+        ]
+      }
+    ]
+  }
+}

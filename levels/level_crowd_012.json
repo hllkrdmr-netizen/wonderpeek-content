@@ -1,0 +1,426 @@
+{
+  "levelId": 12,
+  "sceneId": "piyano_festivali",
+  "scene": "sahneler/piyano_festivali/scene.webp",
+  "depth": "sahneler/piyano_festivali/depth.png",
+  "mode": "crowd",
+  "objectCount": 12,
+  "timePerObjectSec": 24,
+  "silhouetteCount": 2,
+  "camouflage": "medium",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "kemanci_kadin",
+      "sprite": "nesneler/piyano_festivali/kemanci_kadin.png",
+      "x": 0.21,
+      "y": 0.2814,
+      "height": 0.0272,
+      "brightness": 1.02,
+      "tint": [
+        1.106,
+        0.995,
+        0.899
+      ],
+      "shadow": 0.41,
+      "trayCrop": [
+        0.0838,
+        0.0,
+        0.8443,
+        0.449
+      ]
+    },
+    {
+      "id": "fotografci_kadin",
+      "sprite": "nesneler/piyano_festivali/fotografci_kadin.png",
+      "x": 0.37,
+      "y": 0.3163,
+      "height": 0.0333,
+      "brightness": 0.97,
+      "tint": [
+        1.12,
+        0.988,
+        0.873
+      ],
+      "shadow": 0.36,
+      "trayCrop": [
+        0.1069,
+        0.0,
+        0.8616,
+        0.4477
+      ]
+    },
+    {
+      "id": "bastonlu_amca",
+      "sprite": "nesneler/piyano_festivali/bastonlu_amca.png",
+      "x": 0.8,
+      "y": 0.2272,
+      "height": 0.0176,
+      "brightness": 1.02,
+      "tint": [
+        1.12,
+        0.993,
+        0.873
+      ],
+      "shadow": 0.4,
+      "trayCrop": [
+        0.0072,
+        0.0,
+        0.9928,
+        0.4481
+      ]
+    },
+    {
+      "id": "gulcu_kadin",
+      "sprite": "nesneler/piyano_festivali/gulcu_kadin.png",
+      "x": 0.115,
+      "y": 0.4882,
+      "height": 0.0636,
+      "brightness": 1.003,
+      "tint": [
+        1.089,
+        0.972,
+        0.939
+      ],
+      "shadow": 0.38,
+      "trayCrop": [
+        0.0414,
+        0.0,
+        0.8402,
+        0.4479
+      ]
+    },
+    {
+      "id": "patlamisci",
+      "sprite": "nesneler/piyano_festivali/patlamisci.png",
+      "x": 0.335,
+      "y": 0.4496,
+      "height": 0.0568,
+      "brightness": 1.02,
+      "tint": [
+        1.088,
+        0.987,
+        0.926
+      ],
+      "shadow": 0.42,
+      "trayCrop": [
+        0.2369,
+        0.0,
+        0.5502,
+        0.4492
+      ]
+    },
+    {
+      "id": "balonlu_kiz",
+      "sprite": "nesneler/piyano_festivali/balonlu_kiz.png",
+      "x": 0.475,
+      "y": 0.5116,
+      "height": 0.0568,
+      "brightness": 1.02,
+      "tint": [
+        1.055,
+        0.984,
+        0.961
+      ],
+      "shadow": 0.41,
+      "trayCrop": [
+        0.1176,
+        0.0,
+        0.8471,
+        0.4486
+      ]
+    },
+    {
+      "id": "hokkabaz",
+      "sprite": "nesneler/piyano_festivali/hokkabaz.png",
+      "x": 0.655,
+      "y": 0.4974,
+      "height": 0.0653,
+      "brightness": 1.02,
+      "tint": [
+        1.084,
+        0.981,
+        0.935
+      ],
+      "shadow": 0.4,
+      "trayCrop": [
+        0.0,
+        0.0,
+        1.0,
+        0.4418
+      ]
+    },
+    {
+      "id": "omuzdaki_cocuk",
+      "sprite": "nesneler/piyano_festivali/omuzdaki_cocuk.png",
+      "x": 0.885,
+      "y": 0.3708,
+      "height": 0.0525,
+      "brightness": 0.996,
+      "tint": [
+        1.105,
+        0.972,
+        0.923
+      ],
+      "shadow": 0.37,
+      "trayCrop": [
+        0.0,
+        0.0,
+        1.0,
+        0.4103
+      ]
+    },
+    {
+      "id": "trompetci",
+      "sprite": "nesneler/piyano_festivali/trompetci.png",
+      "x": 0.8,
+      "y": 0.5249,
+      "height": 0.0701,
+      "brightness": 1.02,
+      "tint": [
+        1.098,
+        0.99,
+        0.912
+      ],
+      "shadow": 0.39,
+      "trayCrop": [
+        0.0,
+        0.0,
+        0.9931,
+        0.4497
+      ]
+    },
+    {
+      "id": "cellist",
+      "sprite": "nesneler/piyano_festivali/cellist.png",
+      "x": 0.13,
+      "y": 0.5951,
+      "height": 0.1197,
+      "brightness": 0.955,
+      "tint": [
+        1.071,
+        0.983,
+        0.946
+      ],
+      "shadow": 0.35,
+      "trayCrop": [
+        0.0,
+        0.0,
+        1.0,
+        0.4401
+      ]
+    },
+    {
+      "id": "davulcu",
+      "sprite": "nesneler/piyano_festivali/davulcu.png",
+      "x": 0.385,
+      "y": 0.6084,
+      "height": 0.1231,
+      "brightness": 1.02,
+      "tint": [
+        1.064,
+        0.986,
+        0.95
+      ],
+      "shadow": 0.41,
+      "trayCrop": [
+        0.0208,
+        0.0,
+        0.9236,
+        0.4478
+      ]
+    },
+    {
+      "id": "sef",
+      "sprite": "nesneler/piyano_festivali/sef.png",
+      "x": 0.522,
+      "y": 0.6102,
+      "height": 0.1236,
+      "brightness": 1.02,
+      "tint": [
+        1.057,
+        0.987,
+        0.956
+      ],
+      "shadow": 0.42,
+      "trayCrop": [
+        0.0534,
+        0.0,
+        0.733,
+        0.4481
+      ]
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.155,
+    "y": 0.41,
+    "height": 0.02
+  },
+  "sceneSize": [
+    4095,
+    3780
+  ],
+  "tiles": {
+    "lo": [
+      {
+        "path": "sahneler/piyano_festivali/game/lo.webp",
+        "rect": [
+          0,
+          0,
+          1,
+          1
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "path": "sahneler/piyano_festivali/game/t_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          0.250549,
+          0.250529
+        ]
+      },
+      {
+        "path": "sahneler/piyano_festivali/game/t_0_1.webp",
+        "rect": [
+          0.249573,
+          0.0,
+          0.251038,
+          0.250529
+        ]
+      },
+      {
+        "path": "sahneler/piyano_festivali/game/t_0_2.webp",
+        "rect": [
+          0.499634,
+          0.0,
+          0.250794,
+          0.250529
+        ]
+      },
+      {
+        "path": "sahneler/piyano_festivali/game/t_0_3.webp",
+        "rect": [
+          0.749451,
+          0.0,
+          0.250549,
+          0.250529
+        ]
+      },
+      {
+        "path": "sahneler/piyano_festivali/game/t_1_0.webp",
+        "rect": [
+          0.0,
+          0.249471,
+          0.250549,
+          0.251058
+        ]
+      },
+      {
+        "path": "sahneler/piyano_festivali/game/t_1_1.webp",
+        "rect": [
+          0.249573,
+          0.249471,
+          0.251038,
+          0.251058
+        ]
+      },
+      {
+        "path": "sahneler/piyano_festivali/game/t_1_2.webp",
+        "rect": [
+          0.499634,
+          0.249471,
+          0.250794,
+          0.251058
+        ]
+      },
+      {
+        "path": "sahneler/piyano_festivali/game/t_1_3.webp",
+        "rect": [
+          0.749451,
+          0.249471,
+          0.250549,
+          0.251058
+        ]
+      },
+      {
+        "path": "sahneler/piyano_festivali/game/t_2_0.webp",
+        "rect": [
+          0.0,
+          0.499471,
+          0.250549,
+          0.251058
+        ]
+      },
+      {
+        "path": "sahneler/piyano_festivali/game/t_2_1.webp",
+        "rect": [
+          0.249573,
+          0.499471,
+          0.251038,
+          0.251058
+        ]
+      },
+      {
+        "path": "sahneler/piyano_festivali/game/t_2_2.webp",
+        "rect": [
+          0.499634,
+          0.499471,
+          0.250794,
+          0.251058
+        ]
+      },
+      {
+        "path": "sahneler/piyano_festivali/game/t_2_3.webp",
+        "rect": [
+          0.749451,
+          0.499471,
+          0.250549,
+          0.251058
+        ]
+      },
+      {
+        "path": "sahneler/piyano_festivali/game/t_3_0.webp",
+        "rect": [
+          0.0,
+          0.749471,
+          0.250549,
+          0.250529
+        ]
+      },
+      {
+        "path": "sahneler/piyano_festivali/game/t_3_1.webp",
+        "rect": [
+          0.249573,
+          0.749471,
+          0.251038,
+          0.250529
+        ]
+      },
+      {
+        "path": "sahneler/piyano_festivali/game/t_3_2.webp",
+        "rect": [
+          0.499634,
+          0.749471,
+          0.250794,
+          0.250529
+        ]
+      },
+      {
+        "path": "sahneler/piyano_festivali/game/t_3_3.webp",
+        "rect": [
+          0.749451,
+          0.749471,
+          0.250549,
+          0.250529
+        ]
+      }
+    ]
+  }
+}

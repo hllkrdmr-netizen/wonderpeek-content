@@ -1,0 +1,386 @@
+{
+  "levelId": 7,
+  "sceneId": "amsterdam_kanal",
+  "scene": "sahneler/amsterdam_kanal/scene.webp",
+  "depth": "sahneler/amsterdam_kanal/depth.png",
+  "mode": "crowd",
+  "objectCount": 10,
+  "timePerObjectSec": 23,
+  "silhouetteCount": 0,
+  "camouflage": "light",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "laleli_kadin",
+      "sprite": "nesneler/amsterdam_kanal/laleli_kadin.png",
+      "x": 0.15,
+      "y": 0.308,
+      "height": 0.0639,
+      "brightness": 0.932,
+      "tint": [
+        1.04,
+        0.989,
+        0.971
+      ],
+      "shadow": 0.34,
+      "trayCrop": [
+        0.043,
+        0.0,
+        0.871,
+        0.45
+      ]
+    },
+    {
+      "id": "kaykayli_genc",
+      "sprite": "nesneler/amsterdam_kanal/kaykayli_genc.png",
+      "x": 0.82,
+      "y": 0.308,
+      "height": 0.0639,
+      "brightness": 0.951,
+      "tint": [
+        1.061,
+        0.98,
+        0.959
+      ],
+      "shadow": 0.35,
+      "trayCrop": [
+        0.0,
+        0.0,
+        1.0,
+        0.45
+      ]
+    },
+    {
+      "id": "akordiyoncu",
+      "sprite": "nesneler/amsterdam_kanal/akordiyoncu.png",
+      "x": 0.27,
+      "y": 0.4159,
+      "height": 0.1081,
+      "brightness": 0.921,
+      "tint": [
+        1.045,
+        0.991,
+        0.964
+      ],
+      "shadow": 0.33,
+      "trayCrop": [
+        0.0538,
+        0.0,
+        0.871,
+        0.45
+      ]
+    },
+    {
+      "id": "peynirli_adam",
+      "sprite": "nesneler/amsterdam_kanal/peynirli_adam.png",
+      "x": 0.68,
+      "y": 0.4408,
+      "height": 0.1183,
+      "brightness": 0.953,
+      "tint": [
+        1.036,
+        0.987,
+        0.977
+      ],
+      "shadow": 0.35,
+      "trayCrop": [
+        0.0,
+        0.0,
+        0.9586,
+        0.45
+      ]
+    },
+    {
+      "id": "kitapli_adam",
+      "sprite": "nesneler/amsterdam_kanal/kitapli_adam.png",
+      "x": 0.33,
+      "y": 0.4574,
+      "height": 0.1251,
+      "brightness": 0.937,
+      "tint": [
+        1.037,
+        0.991,
+        0.972
+      ],
+      "shadow": 0.34,
+      "trayCrop": [
+        0.0,
+        0.0,
+        1.0,
+        0.4222
+      ]
+    },
+    {
+      "id": "kopekli_kadin",
+      "sprite": "nesneler/amsterdam_kanal/kopekli_kadin.png",
+      "x": 0.78,
+      "y": 0.4657,
+      "height": 0.1285,
+      "brightness": 0.937,
+      "tint": [
+        1.061,
+        0.983,
+        0.956
+      ],
+      "shadow": 0.34,
+      "trayCrop": [
+        0.0,
+        0.0,
+        0.72,
+        0.45
+      ]
+    },
+    {
+      "id": "yel_degirmenli_kiz",
+      "sprite": "nesneler/amsterdam_kanal/yel_degirmenli_kiz.png",
+      "x": 0.355,
+      "y": 0.6514,
+      "height": 0.1572,
+      "brightness": 0.942,
+      "tint": [
+        1.042,
+        0.989,
+        0.969
+      ],
+      "shadow": 0.34,
+      "trayCrop": [
+        0.0968,
+        0.0,
+        0.871,
+        0.45
+      ]
+    },
+    {
+      "id": "balikci_dede",
+      "sprite": "nesneler/amsterdam_kanal/balikci_dede.png",
+      "x": 0.465,
+      "y": 0.6649,
+      "height": 0.2101,
+      "brightness": 0.934,
+      "tint": [
+        1.033,
+        0.988,
+        0.979
+      ],
+      "shadow": 0.34,
+      "trayCrop": [
+        0.0889,
+        0.0,
+        0.72,
+        0.45
+      ]
+    },
+    {
+      "id": "guvercinli_nine",
+      "sprite": "nesneler/amsterdam_kanal/guvercinli_nine.png",
+      "x": 0.44,
+      "y": 0.2184,
+      "height": 0.0272,
+      "brightness": 0.931,
+      "tint": [
+        1.032,
+        0.999,
+        0.968
+      ],
+      "shadow": 0.33,
+      "trayCrop": [
+        0.3579,
+        0.0,
+        0.5418,
+        0.45
+      ]
+    },
+    {
+      "id": "sokak_ressami",
+      "sprite": "nesneler/amsterdam_kanal/sokak_ressami.png",
+      "x": 0.6,
+      "y": 0.2333,
+      "height": 0.0333,
+      "brightness": 0.942,
+      "tint": [
+        1.024,
+        0.999,
+        0.977
+      ],
+      "shadow": 0.34,
+      "trayCrop": [
+        0.1696,
+        0.0,
+        0.5724,
+        0.45
+      ]
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.52,
+    "y": 0.37,
+    "height": 0.015
+  },
+  "sceneSize": [
+    4087,
+    3325
+  ],
+  "tiles": {
+    "lo": [
+      {
+        "path": "sahneler/amsterdam_kanal/game/lo.webp",
+        "rect": [
+          0,
+          0,
+          1,
+          1
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "path": "sahneler/amsterdam_kanal/game/t_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          0.250551,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/amsterdam_kanal/game/t_0_1.webp",
+        "rect": [
+          0.249572,
+          0.0,
+          0.25104,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/amsterdam_kanal/game/t_0_2.webp",
+        "rect": [
+          0.499633,
+          0.0,
+          0.250795,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/amsterdam_kanal/game/t_0_3.webp",
+        "rect": [
+          0.749449,
+          0.0,
+          0.250551,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/amsterdam_kanal/game/t_1_0.webp",
+        "rect": [
+          0.0,
+          0.249323,
+          0.250551,
+          0.251128
+        ]
+      },
+      {
+        "path": "sahneler/amsterdam_kanal/game/t_1_1.webp",
+        "rect": [
+          0.249572,
+          0.249323,
+          0.25104,
+          0.251128
+        ]
+      },
+      {
+        "path": "sahneler/amsterdam_kanal/game/t_1_2.webp",
+        "rect": [
+          0.499633,
+          0.249323,
+          0.250795,
+          0.251128
+        ]
+      },
+      {
+        "path": "sahneler/amsterdam_kanal/game/t_1_3.webp",
+        "rect": [
+          0.749449,
+          0.249323,
+          0.250551,
+          0.251128
+        ]
+      },
+      {
+        "path": "sahneler/amsterdam_kanal/game/t_2_0.webp",
+        "rect": [
+          0.0,
+          0.499248,
+          0.250551,
+          0.251429
+        ]
+      },
+      {
+        "path": "sahneler/amsterdam_kanal/game/t_2_1.webp",
+        "rect": [
+          0.249572,
+          0.499248,
+          0.25104,
+          0.251429
+        ]
+      },
+      {
+        "path": "sahneler/amsterdam_kanal/game/t_2_2.webp",
+        "rect": [
+          0.499633,
+          0.499248,
+          0.250795,
+          0.251429
+        ]
+      },
+      {
+        "path": "sahneler/amsterdam_kanal/game/t_2_3.webp",
+        "rect": [
+          0.749449,
+          0.499248,
+          0.250551,
+          0.251429
+        ]
+      },
+      {
+        "path": "sahneler/amsterdam_kanal/game/t_3_0.webp",
+        "rect": [
+          0.0,
+          0.749474,
+          0.250551,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/amsterdam_kanal/game/t_3_1.webp",
+        "rect": [
+          0.249572,
+          0.749474,
+          0.25104,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/amsterdam_kanal/game/t_3_2.webp",
+        "rect": [
+          0.499633,
+          0.749474,
+          0.250795,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/amsterdam_kanal/game/t_3_3.webp",
+        "rect": [
+          0.749449,
+          0.749474,
+          0.250551,
+          0.250526
+        ]
+      }
+    ]
+  }
+}

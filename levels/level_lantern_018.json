@@ -1,0 +1,361 @@
+{
+  "levelId": 18,
+  "sceneId": "gemi_feneri",
+  "scene": "sahneler/gemi_feneri/scene.webp",
+  "depth": "sahneler/gemi_feneri/depth.png",
+  "mode": "lantern",
+  "objectCount": 12,
+  "timePerObjectSec": 22,
+  "silhouetteCount": 2,
+  "camouflage": "medium",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "yagmur_sapkasi",
+      "sprite": "nesneler/gemi_feneri/yagmur_sapkasi.png",
+      "x": 0.455,
+      "y": 0.3064,
+      "height": 0.0172,
+      "brightness": 0.938,
+      "tint": [
+        1.019,
+        0.994,
+        0.988
+      ],
+      "shadow": 0.34
+    },
+    {
+      "id": "cizgili_kupa",
+      "sprite": "nesneler/gemi_feneri/cizgili_kupa.png",
+      "x": 0.375,
+      "y": 0.3133,
+      "height": 0.0174,
+      "brightness": 0.915,
+      "tint": [
+        0.991,
+        1.006,
+        1.004
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "gemi_cani",
+      "sprite": "nesneler/gemi_feneri/gemi_cani.png",
+      "x": 0.705,
+      "y": 0.2916,
+      "height": 0.0168,
+      "brightness": 0.896,
+      "tint": [
+        0.989,
+        0.981,
+        1.029
+      ],
+      "shadow": 0.32
+    },
+    {
+      "id": "olta",
+      "sprite": "nesneler/gemi_feneri/olta.png",
+      "x": 0.555,
+      "y": 0.461,
+      "height": 0.0279,
+      "brightness": 0.866,
+      "tint": [
+        1.03,
+        0.996,
+        0.974
+      ],
+      "shadow": 0.3
+    },
+    {
+      "id": "mektuplu_sise",
+      "sprite": "nesneler/gemi_feneri/mektuplu_sise.png",
+      "x": 0.425,
+      "y": 0.497,
+      "height": 0.0161,
+      "brightness": 0.874,
+      "tint": [
+        1.009,
+        1.007,
+        0.985
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "cep_saati",
+      "sprite": "nesneler/gemi_feneri/cep_saati.png",
+      "x": 0.165,
+      "y": 0.3471,
+      "height": 0.0157,
+      "brightness": 0.889,
+      "tint": [
+        1.086,
+        0.991,
+        0.923
+      ],
+      "shadow": 0.31
+    },
+    {
+      "id": "balik_tuzagi",
+      "sprite": "nesneler/gemi_feneri/balik_tuzagi.png",
+      "x": 0.8,
+      "y": 0.586,
+      "height": 0.0179,
+      "brightness": 0.95,
+      "tint": [
+        0.942,
+        1.015,
+        1.043
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "kurek",
+      "sprite": "nesneler/gemi_feneri/kurek.png",
+      "x": 0.36,
+      "y": 0.6929,
+      "height": 0.0241,
+      "brightness": 0.953,
+      "tint": [
+        1.066,
+        0.993,
+        0.941
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "halat",
+      "sprite": "nesneler/gemi_feneri/halat.png",
+      "x": 0.3,
+      "y": 0.8267,
+      "height": 0.0366,
+      "brightness": 0.913,
+      "tint": [
+        1.061,
+        0.985,
+        0.954
+      ],
+      "shadow": 0.33
+    },
+    {
+      "id": "cizme",
+      "sprite": "nesneler/gemi_feneri/cizme.png",
+      "x": 0.18,
+      "y": 0.7535,
+      "height": 0.043,
+      "brightness": 0.822,
+      "tint": [
+        1.088,
+        0.984,
+        0.928
+      ],
+      "shadow": 0.28
+    },
+    {
+      "id": "gaz_lambasi",
+      "sprite": "nesneler/gemi_feneri/gaz_lambasi.png",
+      "x": 0.62,
+      "y": 0.7878,
+      "height": 0.0444,
+      "brightness": 0.812,
+      "tint": [
+        1.1,
+        0.983,
+        0.917
+      ],
+      "shadow": 0.28
+    },
+    {
+      "id": "balik_kasasi",
+      "sprite": "nesneler/gemi_feneri/balik_kasasi.png",
+      "x": 0.86,
+      "y": 0.7682,
+      "height": 0.0436,
+      "brightness": 0.863,
+      "tint": [
+        1.024,
+        0.983,
+        0.993
+      ],
+      "shadow": 0.3
+    }
+  ],
+  "peek": {
+    "sprite": "peek/oturan.png",
+    "x": 0.66,
+    "y": 0.15,
+    "height": 0.02
+  },
+  "sceneSize": [
+    4087,
+    3476
+  ],
+  "tiles": {
+    "lo": [
+      {
+        "path": "sahneler/gemi_feneri/game/lo.webp",
+        "rect": [
+          0,
+          0,
+          1,
+          1
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "path": "sahneler/gemi_feneri/game/t_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          0.250551,
+          0.250575
+        ]
+      },
+      {
+        "path": "sahneler/gemi_feneri/game/t_0_1.webp",
+        "rect": [
+          0.249572,
+          0.0,
+          0.25104,
+          0.250575
+        ]
+      },
+      {
+        "path": "sahneler/gemi_feneri/game/t_0_2.webp",
+        "rect": [
+          0.499633,
+          0.0,
+          0.250795,
+          0.250575
+        ]
+      },
+      {
+        "path": "sahneler/gemi_feneri/game/t_0_3.webp",
+        "rect": [
+          0.749449,
+          0.0,
+          0.250551,
+          0.250575
+        ]
+      },
+      {
+        "path": "sahneler/gemi_feneri/game/t_1_0.webp",
+        "rect": [
+          0.0,
+          0.249425,
+          0.250551,
+          0.251151
+        ]
+      },
+      {
+        "path": "sahneler/gemi_feneri/game/t_1_1.webp",
+        "rect": [
+          0.249572,
+          0.249425,
+          0.25104,
+          0.251151
+        ]
+      },
+      {
+        "path": "sahneler/gemi_feneri/game/t_1_2.webp",
+        "rect": [
+          0.499633,
+          0.249425,
+          0.250795,
+          0.251151
+        ]
+      },
+      {
+        "path": "sahneler/gemi_feneri/game/t_1_3.webp",
+        "rect": [
+          0.749449,
+          0.249425,
+          0.250551,
+          0.251151
+        ]
+      },
+      {
+        "path": "sahneler/gemi_feneri/game/t_2_0.webp",
+        "rect": [
+          0.0,
+          0.499425,
+          0.250551,
+          0.251151
+        ]
+      },
+      {
+        "path": "sahneler/gemi_feneri/game/t_2_1.webp",
+        "rect": [
+          0.249572,
+          0.499425,
+          0.25104,
+          0.251151
+        ]
+      },
+      {
+        "path": "sahneler/gemi_feneri/game/t_2_2.webp",
+        "rect": [
+          0.499633,
+          0.499425,
+          0.250795,
+          0.251151
+        ]
+      },
+      {
+        "path": "sahneler/gemi_feneri/game/t_2_3.webp",
+        "rect": [
+          0.749449,
+          0.499425,
+          0.250551,
+          0.251151
+        ]
+      },
+      {
+        "path": "sahneler/gemi_feneri/game/t_3_0.webp",
+        "rect": [
+          0.0,
+          0.749425,
+          0.250551,
+          0.250575
+        ]
+      },
+      {
+        "path": "sahneler/gemi_feneri/game/t_3_1.webp",
+        "rect": [
+          0.249572,
+          0.749425,
+          0.25104,
+          0.250575
+        ]
+      },
+      {
+        "path": "sahneler/gemi_feneri/game/t_3_2.webp",
+        "rect": [
+          0.499633,
+          0.749425,
+          0.250795,
+          0.250575
+        ]
+      },
+      {
+        "path": "sahneler/gemi_feneri/game/t_3_3.webp",
+        "rect": [
+          0.749449,
+          0.749425,
+          0.250551,
+          0.250575
+        ]
+      }
+    ]
+  },
+  "lantern": {
+    "radius": 0.22,
+    "start": [
+      0.28,
+      0.25
+    ]
+  }
+}

@@ -1,0 +1,366 @@
+{
+  "levelId": 4,
+  "sceneId": "sovalye_panayiri",
+  "scene": "sahneler/sovalye_panayiri/scene.webp",
+  "depth": "sahneler/sovalye_panayiri/depth.png",
+  "mode": "crowd",
+  "objectCount": 9,
+  "timePerObjectSec": 23,
+  "silhouetteCount": 0,
+  "camouflage": "light",
+  "objectScale": 1,
+  "isBreather": false,
+  "wrongTapPenaltySec": 0,
+  "loseEnabled": true,
+  "objects": [
+    {
+      "id": "borazanci",
+      "sprite": "nesneler/sovalye_panayiri/borazanci.png",
+      "x": 0.2,
+      "y": 0.29,
+      "height": 0.08,
+      "brightness": 0.94,
+      "tint": [
+        1.067,
+        0.994,
+        0.938
+      ],
+      "shadow": 0.34,
+      "trayCrop": [
+        0.1569,
+        0.0,
+        0.6353,
+        0.45
+      ]
+    },
+    {
+      "id": "konik_sapkali_hanim",
+      "sprite": "nesneler/sovalye_panayiri/konik_sapkali_hanim.png",
+      "x": 0.8,
+      "y": 0.298,
+      "height": 0.084,
+      "brightness": 0.921,
+      "tint": [
+        1.08,
+        0.982,
+        0.938
+      ],
+      "shadow": 0.33,
+      "trayCrop": [
+        0.095,
+        0.0,
+        0.733,
+        0.45
+      ]
+    },
+    {
+      "id": "kazli_cocuk",
+      "sprite": "nesneler/sovalye_panayiri/kazli_cocuk.png",
+      "x": 0.53,
+      "y": 0.3085,
+      "height": 0.063,
+      "brightness": 0.917,
+      "tint": [
+        1.071,
+        0.985,
+        0.944
+      ],
+      "shadow": 0.33,
+      "trayCrop": [
+        0.0,
+        0.0,
+        1.0,
+        0.4194
+      ]
+    },
+    {
+      "id": "arpli_ozan",
+      "sprite": "nesneler/sovalye_panayiri/arpli_ozan.png",
+      "x": 0.37,
+      "y": 0.426,
+      "height": 0.148,
+      "brightness": 0.922,
+      "tint": [
+        1.079,
+        0.984,
+        0.937
+      ],
+      "shadow": 0.33,
+      "trayCrop": [
+        0.0863,
+        0.0,
+        0.8223,
+        0.45
+      ]
+    },
+    {
+      "id": "fenerli_bilge_kadin",
+      "sprite": "nesneler/sovalye_panayiri/fenerli_bilge_kadin.png",
+      "x": 0.12,
+      "y": 0.394,
+      "height": 0.132,
+      "brightness": 0.927,
+      "tint": [
+        1.087,
+        0.986,
+        0.927
+      ],
+      "shadow": 0.33,
+      "trayCrop": [
+        0.1423,
+        0.0,
+        0.6585,
+        0.45
+      ]
+    },
+    {
+      "id": "degirmenci",
+      "sprite": "nesneler/sovalye_panayiri/degirmenci.png",
+      "x": 0.59,
+      "y": 0.394,
+      "height": 0.132,
+      "brightness": 0.914,
+      "tint": [
+        1.075,
+        0.986,
+        0.939
+      ],
+      "shadow": 0.33,
+      "trayCrop": [
+        0.1239,
+        0.0,
+        0.7168,
+        0.45
+      ]
+    },
+    {
+      "id": "peynirli_kesis",
+      "sprite": "nesneler/sovalye_panayiri/peynirli_kesis.png",
+      "x": 0.755,
+      "y": 0.602,
+      "height": 0.236,
+      "brightness": 0.919,
+      "tint": [
+        1.082,
+        0.991,
+        0.927
+      ],
+      "shadow": 0.33,
+      "trayCrop": [
+        0.1327,
+        0.0,
+        0.7678,
+        0.45
+      ]
+    },
+    {
+      "id": "elmali_kiz",
+      "sprite": "nesneler/sovalye_panayiri/elmali_kiz.png",
+      "x": 0.875,
+      "y": 0.6145,
+      "height": 0.171,
+      "brightness": 0.926,
+      "tint": [
+        1.083,
+        0.993,
+        0.923
+      ],
+      "shadow": 0.33,
+      "trayCrop": [
+        0.1019,
+        0.0,
+        0.7864,
+        0.45
+      ]
+    },
+    {
+      "id": "hokkabaz",
+      "sprite": "nesneler/sovalye_panayiri/hokkabaz.png",
+      "x": 0.29,
+      "y": 0.314,
+      "height": 0.092,
+      "brightness": 0.933,
+      "tint": [
+        1.062,
+        0.986,
+        0.951
+      ],
+      "shadow": 0.34,
+      "trayCrop": [
+        0.0576,
+        0.0,
+        0.8482,
+        0.45
+      ]
+    }
+  ],
+  "peek": {
+    "sprite": "peek/bakan.png",
+    "x": 0.07,
+    "y": 0.2,
+    "height": 0.018
+  },
+  "sceneSize": [
+    4087,
+    3325
+  ],
+  "tiles": {
+    "lo": [
+      {
+        "path": "sahneler/sovalye_panayiri/game/lo.webp",
+        "rect": [
+          0,
+          0,
+          1,
+          1
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "path": "sahneler/sovalye_panayiri/game/t_0_0.webp",
+        "rect": [
+          0.0,
+          0.0,
+          0.250551,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/sovalye_panayiri/game/t_0_1.webp",
+        "rect": [
+          0.249572,
+          0.0,
+          0.25104,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/sovalye_panayiri/game/t_0_2.webp",
+        "rect": [
+          0.499633,
+          0.0,
+          0.250795,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/sovalye_panayiri/game/t_0_3.webp",
+        "rect": [
+          0.749449,
+          0.0,
+          0.250551,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/sovalye_panayiri/game/t_1_0.webp",
+        "rect": [
+          0.0,
+          0.249323,
+          0.250551,
+          0.251128
+        ]
+      },
+      {
+        "path": "sahneler/sovalye_panayiri/game/t_1_1.webp",
+        "rect": [
+          0.249572,
+          0.249323,
+          0.25104,
+          0.251128
+        ]
+      },
+      {
+        "path": "sahneler/sovalye_panayiri/game/t_1_2.webp",
+        "rect": [
+          0.499633,
+          0.249323,
+          0.250795,
+          0.251128
+        ]
+      },
+      {
+        "path": "sahneler/sovalye_panayiri/game/t_1_3.webp",
+        "rect": [
+          0.749449,
+          0.249323,
+          0.250551,
+          0.251128
+        ]
+      },
+      {
+        "path": "sahneler/sovalye_panayiri/game/t_2_0.webp",
+        "rect": [
+          0.0,
+          0.499248,
+          0.250551,
+          0.251429
+        ]
+      },
+      {
+        "path": "sahneler/sovalye_panayiri/game/t_2_1.webp",
+        "rect": [
+          0.249572,
+          0.499248,
+          0.25104,
+          0.251429
+        ]
+      },
+      {
+        "path": "sahneler/sovalye_panayiri/game/t_2_2.webp",
+        "rect": [
+          0.499633,
+          0.499248,
+          0.250795,
+          0.251429
+        ]
+      },
+      {
+        "path": "sahneler/sovalye_panayiri/game/t_2_3.webp",
+        "rect": [
+          0.749449,
+          0.499248,
+          0.250551,
+          0.251429
+        ]
+      },
+      {
+        "path": "sahneler/sovalye_panayiri/game/t_3_0.webp",
+        "rect": [
+          0.0,
+          0.749474,
+          0.250551,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/sovalye_panayiri/game/t_3_1.webp",
+        "rect": [
+          0.249572,
+          0.749474,
+          0.25104,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/sovalye_panayiri/game/t_3_2.webp",
+        "rect": [
+          0.499633,
+          0.749474,
+          0.250795,
+          0.250526
+        ]
+      },
+      {
+        "path": "sahneler/sovalye_panayiri/game/t_3_3.webp",
+        "rect": [
+          0.749449,
+          0.749474,
+          0.250551,
+          0.250526
+        ]
+      }
+    ]
+  }
+}
