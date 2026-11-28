@@ -4,9 +4,9 @@
   "scene": "sahneler/newyork_diorama/scene.webp",
   "depth": "sahneler/newyork_diorama/depth.png",
   "mode": "lantern",
-  "objectCount": 12,
+  "objectCount": 14,
   "timePerObjectSec": 20,
-  "silhouetteCount": 3,
+  "silhouetteCount": 4,
   "camouflage": "heavy",
   "objectScale": 1,
   "isBreather": false,
@@ -129,15 +129,15 @@
       "id": "istakoz",
       "sprite": "nesneler/newyork_diorama/istakoz.png",
       "x": 0.22,
-      "y": 0.761,
-      "height": 0.028,
-      "brightness": 0.851,
+      "y": 0.7808,
+      "height": 0.0283,
+      "brightness": 0.9,
       "tint": [
-        0.977,
-        0.989,
-        1.034
+        0.984,
+        0.992,
+        1.024
       ],
-      "shadow": 0.29
+      "shadow": 0.32
     },
     {
       "id": "pervane",
@@ -180,6 +180,34 @@
         1.002
       ],
       "shadow": 0.38
+    },
+    {
+      "id": "el_cantasi",
+      "sprite": "nesneler/newyork_diorama/el_cantasi.png",
+      "x": 0.4,
+      "y": 0.8226,
+      "height": 0.0249,
+      "brightness": 0.963,
+      "tint": [
+        0.985,
+        0.993,
+        1.023
+      ],
+      "shadow": 0.35
+    },
+    {
+      "id": "inci_dizisi",
+      "sprite": "nesneler/newyork_diorama/inci_dizisi.png",
+      "x": 0.875,
+      "y": 0.7988,
+      "height": 0.0225,
+      "brightness": 0.938,
+      "tint": [
+        1.003,
+        0.989,
+        1.008
+      ],
+      "shadow": 0.34
     }
   ],
   "peek": {

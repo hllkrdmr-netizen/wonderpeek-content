@@ -11448,18 +11448,18 @@
       "id": 21,
       "mode": "lantern",
       "thumb": "sahneler/newyork_diorama/thumb.webp",
-      "version": 2,
+      "version": 3,
       "minAppVersion": "1.0.0",
       "requires": [
         "longScene"
       ],
       "level": "levels/level_lantern_021.json",
-      "size": 5412547,
+      "size": 5834739,
       "files": [
         {
           "path": "levels/level_lantern_021.json",
-          "size": 6999,
-          "sha256": "f7a27b70d88fa6003501d672875531b57dfee2ea7352f4ab590fa84abe6b197b"
+          "size": 7551,
+          "sha256": "89f36c7d910a1dc704d553e74416e45911d2820274115d669fd85b7bdac33c4d"
         },
         {
           "path": "sahneler/newyork_diorama/game/lo.webp",
@@ -11655,9 +11655,23 @@
           "height": 262
         },
         {
+          "path": "nesneler/newyork_diorama/el_cantasi.png",
+          "size": 216731,
+          "sha256": "4be02d8485f0d3f56e576de145d92458493bfa3568a22860efcb96869bab89b3",
+          "width": 376,
+          "height": 360
+        },
+        {
+          "path": "nesneler/newyork_diorama/inci_dizisi.png",
+          "size": 203379,
+          "sha256": "b482d007338b304abe20d49032f135184d991c8db408ca00a37e0dbf3ae1fcd1",
+          "width": 531,
+          "height": 360
+        },
+        {
           "path": "sahneler/newyork_diorama/effects.json",
-          "size": 2898,
-          "sha256": "0fc0c8994f4a0a86d408cba46c2453d169eed34b3ee47ef635d9ba93d26f140d"
+          "size": 4428,
+          "sha256": "1560628e4f31db8e2c77af753cafd7fc23835aacaa6a6e5873cdde92f3f013f5"
         },
         {
           "path": "efektler/balik.png",
