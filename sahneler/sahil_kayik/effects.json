@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "scene": "sahil_kayik",
+  "effects": [
+    { "type": "water", "note": "the sea inside the boat, by the swimmers", "polygon": [[0.03, 0.42], [0.1, 0.37], [0.18, 0.4], [0.2, 0.5], [0.25, 0.58], [0.2, 0.65], [0.13, 0.6], [0.06, 0.52]], "intensity": 0.6 },
+    { "type": "water", "note": "open sea beyond, under the sailing boats", "polygon": [[0.0, 0.15], [0.24, 0.16], [0.22, 0.2], [0.1, 0.21], [0.0, 0.24]], "intensity": 0.45 },
+    { "type": "splash", "note": "the wave breaking over the boat's side", "at": [0.04, 0.36], "direction": -60, "spread": 50, "speed": 0.06, "count": 14 },
+    { "type": "sprite_path", "note": "seagulls, 2–3 at a time, across the sky above the hotel now and then", "sheet": "efektler/marti.png", "frames": 8, "fps": 12, "path": [[-0.06, 0.08], [0.35, 0.045], [0.7, 0.06], [1.06, 0.04]], "every": [8, 14], "count": [2, 3], "spacing": 0.05, "speed": 0.15, "scale": 0.04, "jitter": [0, 0.02], "both_ways": true, "wobble": 0.006 }
+  ]
+}

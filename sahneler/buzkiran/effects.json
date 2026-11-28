@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "scene": "buzkiran",
+  "effects": [
+    { "type": "smoke", "note": "exhaust from the left funnel", "at": [0.415, 0.135], "count": 7, "rise": 0.07, "drift": 0.03, "size": 0.02, "opacity": 0.28 },
+    { "type": "smoke", "note": "exhaust from the right funnel", "at": [0.59, 0.135], "count": 7, "rise": 0.07, "drift": 0.03, "size": 0.02, "opacity": 0.28 },
+    { "type": "smoke", "note": "steam from the cook's kettle", "at": [0.628, 0.6], "count": 5, "rise": 0.04, "drift": 0.01, "size": 0.01, "opacity": 0.25 },
+    { "type": "splash", "note": "spray where the bow breaks the ice", "at": [0.42, 0.8], "direction": -60, "spread": 60, "speed": 0.06, "count": 14, "size": 0.004 },
+    { "type": "splash", "note": "spray along the hull", "at": [0.62, 0.76], "direction": -70, "spread": 50, "speed": 0.05, "count": 10, "size": 0.0035 },
+    { "type": "water", "note": "open water off the starboard side", "polygon": [[0.8, 0.3], [0.9, 0.29], [0.98, 0.33], [0.98, 0.6], [0.94, 0.66], [0.9, 0.62], [0.86, 0.5], [0.82, 0.4]], "intensity": 0.5 },
+    { "type": "water", "note": "churned water at the bow", "polygon": [[0.42, 0.79], [0.55, 0.78], [0.68, 0.74], [0.8, 0.72], [0.86, 0.78], [0.72, 0.84], [0.55, 0.86], [0.42, 0.86]], "intensity": 0.6 },
+    { "type": "glow", "note": "lit bridge windows", "at": [0.6, 0.29], "radius": 0.05, "color": "#ffc56b", "period": 2.0, "strength": 0.3 },
+    { "type": "glow", "note": "aurora shimmer, left", "at": [0.2, 0.06], "radius": 0.15, "color": "#6bffc8", "period": 2.0, "strength": 0.2 },
+    { "type": "glow", "note": "aurora shimmer, right", "at": [0.75, 0.05], "radius": 0.15, "color": "#6bffc8", "period": 1.8, "strength": 0.2 },
+    { "type": "glow", "note": "blue light in the iceberg cave", "at": [0.935, 0.17], "radius": 0.03, "color": "#5fd6ff", "period": 1.9, "strength": 0.4 },
+    {
+      "type": "sprite_path", "note": "a few gulls over the pack ice now and then (either way)",
+      "sheet": "efektler/marti.png", "frames": 8, "fps": 12,
+      "path": [[-0.08, 0.12], [0.3, 0.1], [0.65, 0.11], [1.08, 0.08]],
+      "every": [10, 18], "count": [2, 3], "spacing": 0.04, "speed": 0.14, "scale": 0.025, "jitter": [0, 0.02], "both_ways": true, "wobble": 0.006
+    },
+    {
+      "type": "sprite_path", "note": "light snow falling over the ship",
+      "sheet": "efektler/kar_tanesi.png", "frames": 1, "motion": "fall",
+      "area": [0.0, 0.05, 1.0, 0.8], "count": 10, "speed": 0.03, "scale": 0.008, "scale_var": 0.5,
+      "sway": 0.015, "sway_period": 4, "tilt": 25, "spin": 40, "fade": 0.6
+    }
+  ]
+}

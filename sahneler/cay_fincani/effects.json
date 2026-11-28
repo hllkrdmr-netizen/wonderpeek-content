@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "scene": "cay_fincani",
+  "effects": [
+    { "type": "water", "note": "the sea in the teacup", "polygon": [[0.26, 0.4], [0.36, 0.38], [0.5, 0.38], [0.6, 0.4], [0.6, 0.45], [0.5, 0.48], [0.35, 0.48], [0.26, 0.45]], "intensity": 0.5 },
+    { "type": "water", "note": "canal on the saucer, front", "polygon": [[0.37, 0.64], [0.48, 0.62], [0.62, 0.63], [0.66, 0.66], [0.6, 0.69], [0.45, 0.69], [0.37, 0.67]], "intensity": 0.5 },
+    { "type": "water", "note": "canal by the swan boats, right", "polygon": [[0.66, 0.5], [0.8, 0.5], [0.97, 0.52], [0.97, 0.58], [0.85, 0.6], [0.7, 0.57]], "intensity": 0.45 },
+    { "type": "splash", "note": "tea pouring from the spout into the cup", "at": [0.37, 0.37], "direction": -90, "spread": 70, "speed": 0.05, "count": 12, "color": "#bff3ee" },
+    { "type": "splash", "note": "milk pouring from the jug, right", "at": [0.875, 0.48], "direction": -90, "spread": 60, "speed": 0.035, "count": 8, "color": "#fffaf0" },
+    { "type": "smoke", "note": "steam from the cup of tea, bottom right", "at": [0.965, 0.645], "count": 6, "rise": 0.06, "drift": -0.01, "size": 0.02, "opacity": 0.2 },
+    { "type": "rays", "note": "sunlight through the window, top left", "from": [0.0, 0.0], "angle": 42, "width": 0.45, "length": 0.8, "color": "#ffe6b8", "opacity": 0.08, "sway": 2, "period": 14 },
+    { "type": "dust", "note": "motes in the sunbeam", "rect": [0.02, 0.03, 0.45, 0.35], "density": 0.4, "color": "#ffe8c0" },
+    { "type": "glow", "note": "sugar-cube lighthouse lamp", "at": [0.51, 0.375], "radius": 0.018, "color": "#ffd28a", "period": 1.5, "strength": 0.5 },
+    {
+      "type": "sprite_path",
+      "note": "little gulls over the teacup sea now and then, like the drawn ones",
+      "sheet": "efektler/marti.png", "frames": 8, "fps": 12,
+      "path": [[-0.06, 0.2], [0.3, 0.16], [0.6, 0.2], [1.06, 0.15]],
+      "every": [9, 16], "count": [1, 2], "spacing": 0.04, "speed": 0.12, "scale": 0.03, "jitter": [0, 0.03], "both_ways": true, "wobble": 0.006
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "scene": "noel_pazari",
+  "effects": [
+    { "type": "glow", "note": "street lamp, far left", "at": [0.032, 0.124], "radius": 0.022, "color": "#ffcf80", "period": 1.6, "strength": 0.55 },
+    { "type": "glow", "note": "street lamp, left", "at": [0.082, 0.098], "radius": 0.022, "color": "#ffcf80", "period": 1.9, "strength": 0.55 },
+    { "type": "glow", "note": "lamp by the carousel stall", "at": [0.32, 0.3], "radius": 0.018, "color": "#ffcf80", "period": 1.4, "strength": 0.5 },
+    { "type": "glow", "note": "lamp below the Ferris wheel", "at": [0.424, 0.17], "radius": 0.018, "color": "#ffcf80", "period": 1.7, "strength": 0.5 },
+    { "type": "glow", "note": "lamp above the puppet theatre", "at": [0.544, 0.096], "radius": 0.02, "color": "#ffcf80", "period": 1.5, "strength": 0.5 },
+    { "type": "glow", "note": "street lamp by the rink", "at": [0.67, 0.124], "radius": 0.018, "color": "#ffcf80", "period": 1.8, "strength": 0.45 },
+    { "type": "glow", "note": "street lamp, far right", "at": [0.94, 0.09], "radius": 0.024, "color": "#ffcf80", "period": 1.3, "strength": 0.55 },
+    { "type": "glow", "note": "lantern on the chestnut cart", "at": [0.517, 0.576], "radius": 0.02, "color": "#ffc670", "period": 1.2, "strength": 0.55 },
+    { "type": "glow", "note": "candles at the snow-globe stall", "at": [0.88, 0.37], "radius": 0.03, "color": "#ffc670", "period": 1.6, "strength": 0.4 },
+    { "type": "smoke", "note": "steam off the mulled-wine pot", "at": [0.07, 0.69], "count": 6, "rise": 0.07, "drift": 0.01, "size": 0.026, "opacity": 0.22 },
+    { "type": "smoke", "note": "steam off the roasting chestnuts", "at": [0.585, 0.67], "count": 5, "rise": 0.06, "drift": -0.008, "size": 0.022, "opacity": 0.2 },
+    {
+      "type": "sprite_path",
+      "note": "snowflakes falling over the whole market",
+      "sheet": "efektler/kar_tanesi.png", "frames": 1, "fps": 1, "motion": "fall",
+      "area": [0.0, -0.05, 1.0, 1.0], "count": 12, "speed": 0.03, "scale": 0.011, "scale_var": 0.5,
+      "sway": 0.012, "sway_period": 4, "tilt": 0, "spin": 30, "fade": 0.6, "phase_random": true
+    }
+  ]
+}

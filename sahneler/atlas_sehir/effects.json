@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "scene": "atlas_sehir",
+  "effects": [
+    {
+      "type": "water",
+      "note": "the spilled-ink river through the town",
+      "polygon": [[0.12, 0.66], [0.25, 0.665], [0.33, 0.655], [0.4, 0.62], [0.47, 0.6], [0.55, 0.56], [0.6, 0.53], [0.64, 0.55], [0.58, 0.6], [0.5, 0.64], [0.42, 0.675], [0.32, 0.7], [0.2, 0.7], [0.12, 0.69]],
+      "intensity": 0.6
+    },
+    {
+      "type": "water",
+      "note": "harbour by the sailing ship, right",
+      "polygon": [[0.68, 0.5], [0.8, 0.49], [0.95, 0.5], [0.97, 0.58], [0.85, 0.6], [0.72, 0.58]],
+      "intensity": 0.45
+    },
+    { "type": "glow", "note": "NEON: cyan swirl in the ink river", "at": [0.25, 0.685], "radius": 0.03, "color": "#3fe8ff", "period": 1.8, "strength": 0.5 },
+    { "type": "glow", "note": "NEON: purple swirl in the ink river", "at": [0.38, 0.68], "radius": 0.03, "color": "#b45cff", "period": 1.6, "strength": 0.5, "phase": 0.4 },
+    { "type": "glow", "note": "NEON: purple swirl under the bridge", "at": [0.396, 0.55], "radius": 0.025, "color": "#b45cff", "period": 1.9, "strength": 0.45, "phase": 0.7 },
+    { "type": "glow", "note": "NEON: cyan swirl by the quay", "at": [0.58, 0.52], "radius": 0.025, "color": "#3fe8ff", "period": 1.5, "strength": 0.45, "phase": 0.2 },
+    { "type": "glow", "note": "the big candle on the desk", "at": [0.04, 0.32], "radius": 0.05, "color": "#ffb85a", "period": 1.2, "strength": 0.55 },
+    { "type": "smoke", "note": "thin smoke from the candle flame", "at": [0.04, 0.295], "count": 4, "rise": 0.06, "drift": 0.01, "size": 0.012, "opacity": 0.14 },
+    { "type": "dust", "note": "dust in the candlelight", "rect": [0.0, 0.18, 0.16, 0.3], "density": 0.35, "color": "#ffe2b0", "size": 0.003 },
+    { "type": "glow", "note": "street lamp by the fountain", "at": [0.337, 0.458], "radius": 0.016, "color": "#ffc670", "period": 1.6, "strength": 0.5 },
+    { "type": "glow", "note": "street lamp on the square", "at": [0.242, 0.538], "radius": 0.016, "color": "#ffc670", "period": 1.4, "strength": 0.5 },
+    { "type": "glow", "note": "street lamp by the bridge", "at": [0.455, 0.553], "radius": 0.016, "color": "#ffc670", "period": 1.8, "strength": 0.5 },
+    { "type": "glow", "note": "the moon, top left", "at": [0.12, 0.06], "radius": 0.03, "color": "#e8f0ff", "period": 2.0, "strength": 0.35 }
+  ]
+}

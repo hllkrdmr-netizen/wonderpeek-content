@@ -1,0 +1,28 @@
+{
+  "schema": 1,
+  "scene": "baharat_pazari",
+  "effects": [
+    {
+      "type": "rays",
+      "note": "sun from the top left corner, through the tree, slanting down the street",
+      "from": [0.06, -0.02], "angle": 50, "width": 0.5, "length": 1.0, "color": "#ffe2a8", "opacity": 0.08, "sway": 2, "period": 15
+    },
+    { "type": "dust", "note": "warm haze and spice dust over the busy street", "rect": [0.2, 0.15, 0.55, 0.3], "density": 0.4, "color": "#ffd9a0", "size": 0.004 },
+    { "type": "dust", "note": "spice powder in the air over the heaps, front left", "rect": [0.0, 0.62, 0.32, 0.14], "density": 0.25, "color": "#ffb060", "size": 0.003 },
+    { "type": "smoke", "note": "steam off the chai pots at the tea stall", "at": [0.152, 0.385], "count": 6, "rise": 0.06, "drift": 0.01, "size": 0.02, "opacity": 0.22 },
+    {
+      "type": "sprite_path",
+      "note": "butterflies by the bougainvillea, top right",
+      "sheet": "efektler/kelebek.png", "frames": 6, "fps": 15, "motion": "wander",
+      "area": [0.8, 0.04, 0.14, 0.16], "count": 2, "speed": 0.025, "scale": 0.026, "scale_var": 0.25, "wobble": 0.006, "phase_random": true
+    },
+    {
+      "type": "sprite_path",
+      "note": "a few sparrows over the street's strip of sky now and then",
+      "sheet": "efektler/serce.png", "frames": 8, "fps": 12,
+      "path": [[0.3, 0.06], [0.5, 0.04], [0.68, 0.05], [0.85, 0.03]],
+      "every": [10, 18], "count": [2, 4], "spacing": 0.03, "speed": 0.13, "scale": 0.026, "jitter": [0, 0.015], "both_ways": true, "fade": 0.3, "wobble": 0.006,
+      "glide": { "sheet": "efektler/serce_suzulme.png", "every": [4, 7], "duration": 1.0 }
+    }
+  ]
+}

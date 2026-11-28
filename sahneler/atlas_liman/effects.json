@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "scene": "atlas_liman",
+  "effects": [
+    { "type": "water", "note": "harbour water in front of the fish market quay", "polygon": [[0.33, 0.61], [0.44, 0.6], [0.47, 0.64], [0.46, 0.7], [0.4, 0.72], [0.34, 0.7]], "intensity": 0.5 },
+    { "type": "water", "note": "beach lagoon by the swimmers", "polygon": [[0.6, 0.58], [0.7, 0.57], [0.78, 0.6], [0.74, 0.65], [0.65, 0.66], [0.6, 0.63]], "intensity": 0.35 },
+    { "type": "fountain", "note": "square fountain among the flower stalls", "at": [0.795, 0.455], "count": 18, "direction": -90, "spread": 26, "speed": 0.06, "gravity": 0.6, "size": 0.0025, "life": 0.9 },
+    { "type": "rays", "note": "sunlight from the window, top left, over the open atlas", "from": [0.02, -0.02], "angle": 50, "width": 0.5, "length": 1.0, "color": "#ffe0a0", "opacity": 0.09, "sway": 2, "period": 14 },
+    { "type": "dust", "note": "motes in the sunbeam over the desk", "rect": [0.0, 0.0, 0.35, 0.3], "density": 0.4, "color": "#ffe6b0" },
+    { "type": "sprite_path", "note": "a seagull or two across the painted sky of the page now and then", "sheet": "efektler/marti.png", "frames": 8, "fps": 12, "path": [[0.3, 0.19], [0.45, 0.155], [0.62, 0.17]], "every": [8, 14], "count": [1, 2], "spacing": 0.03, "speed": 0.06, "scale": 0.028, "jitter": [0, 0.01], "both_ways": true, "fade": 0.6, "wobble": 0.004 }
+  ]
+}

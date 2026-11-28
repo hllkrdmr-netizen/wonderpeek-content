@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "scene": "kar_kuresi",
+  "effects": [
+    {
+      "type": "sprite_path", "note": "snow swirling inside the globe",
+      "sheet": "efektler/kar_tanesi.png", "frames": 1, "motion": "fall",
+      "area": [0.12, 0.1, 0.76, 0.62], "count": 12, "speed": 0.025, "scale": 0.01, "scale_var": 0.5,
+      "sway": 0.015, "sway_period": 4, "tilt": 25, "spin": 40, "fade": 0.6
+    },
+    { "type": "water", "note": "glints on the ice rink", "polygon": [[0.36, 0.56], [0.48, 0.535], [0.62, 0.53], [0.74, 0.58], [0.76, 0.66], [0.7, 0.72], [0.55, 0.74], [0.42, 0.72], [0.36, 0.64]], "intensity": 0.25 },
+    { "type": "smoke", "note": "steam locomotive on the viaduct", "at": [0.315, 0.265], "count": 7, "rise": 0.05, "drift": 0.02, "size": 0.014, "opacity": 0.25 },
+    { "type": "smoke", "note": "chimney of the lower-left chalet", "at": [0.135, 0.355], "count": 5, "rise": 0.04, "drift": 0.012, "size": 0.012, "opacity": 0.22 },
+    { "type": "smoke", "note": "steam from the hot drinks stall", "at": [0.86, 0.5], "count": 5, "rise": 0.035, "drift": 0.01, "size": 0.012, "opacity": 0.2 },
+    { "type": "glow", "note": "carousel lights", "at": [0.19, 0.51], "radius": 0.04, "color": "#ffc670", "period": 1.6, "strength": 0.4 },
+    { "type": "glow", "note": "street lamp by the carousel", "at": [0.29, 0.585], "radius": 0.018, "color": "#ffcf80", "period": 1.4, "strength": 0.55 },
+    { "type": "glow", "note": "lamp by the sled run", "at": [0.765, 0.3], "radius": 0.015, "color": "#ffcf80", "period": 1.5, "strength": 0.5 },
+    { "type": "glow", "note": "lamp at the rink steps", "at": [0.585, 0.44], "radius": 0.015, "color": "#ffcf80", "period": 1.7, "strength": 0.5 },
+    { "type": "glow", "note": "the fire in the room behind the globe", "at": [0.97, 0.27], "radius": 0.05, "color": "#ff9a40", "period": 1.2, "strength": 0.45 },
+    { "type": "glow", "note": "candle in the glass holder", "at": [0.955, 0.87], "radius": 0.03, "color": "#ffb757", "period": 1.1, "strength": 0.5 }
+  ]
+}

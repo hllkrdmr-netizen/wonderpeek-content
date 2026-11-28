@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "scene": "kus_kafesi",
+  "effects": [
+    { "type": "water", "note": "pond in the garden", "polygon": [[0.42, 0.56], [0.5, 0.55], [0.6, 0.57], [0.66, 0.62], [0.64, 0.68], [0.55, 0.68], [0.45, 0.66], [0.41, 0.61]], "intensity": 0.45 },
+    { "type": "rays", "note": "sunlight through the greenhouse, top left", "from": [0.05, -0.05], "angle": 55, "width": 0.4, "length": 0.8, "color": "#fff0c0", "opacity": 0.08, "sway": 2, "period": 13 },
+    { "type": "dust", "note": "pollen and motes inside the cage", "rect": [0.1, 0.1, 0.8, 0.45], "density": 0.4, "color": "#fff2c8" },
+    {
+      "type": "sprite_path",
+      "note": "butterflies over the flower beds",
+      "sheet": "efektler/kelebek.png", "frames": 6, "fps": 15, "motion": "wander",
+      "area": [0.15, 0.4, 0.7, 0.2], "count": 4, "speed": 0.025, "scale": 0.025, "scale_var": 0.25, "wobble": 0.006, "phase_random": true
+    },
+    {
+      "type": "sprite_path",
+      "note": "a pair of sparrows outside the cage, through the greenhouse leaves now and then",
+      "sheet": "efektler/serce.png", "frames": 8, "fps": 12,
+      "path": [[-0.06, 0.05], [0.3, 0.03], [0.7, 0.05], [1.06, 0.02]],
+      "every": [12, 20], "count": [1, 2], "spacing": 0.04, "speed": 0.14, "scale": 0.035, "jitter": [0, 0.02], "both_ways": true, "wobble": 0.006,
+      "glide": { "sheet": "efektler/serce_suzulme.png", "every": [3, 6], "duration": 0.8 }
+    }
+  ]
+}

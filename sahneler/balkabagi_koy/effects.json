@@ -1,0 +1,26 @@
+{
+  "schema": 1,
+  "scene": "balkabagi_koy",
+  "effects": [
+    {
+      "type": "sprite_path",
+      "note": "autumn leaves falling from the maples over the village",
+      "sheet": "efektler/yaprak.png", "frames": 8, "fps": 8, "motion": "fall",
+      "area": [0.08, -0.05, 0.84, 0.9], "count": 8, "speed": 0.03, "scale": 0.022, "scale_var": 0.35,
+      "sway": 0.02, "sway_period": 3, "tilt": 25, "spin": 40, "phase_random": true
+    },
+    { "type": "water", "note": "duck pond", "polygon": [[0.6, 0.415], [0.7, 0.41], [0.79, 0.42], [0.8, 0.46], [0.72, 0.48], [0.62, 0.47]], "intensity": 0.4 },
+    { "type": "smoke", "note": "cottage chimney", "at": [0.215, 0.205], "count": 7, "rise": 0.07, "drift": 0.02, "size": 0.022, "opacity": 0.22 },
+    { "type": "glow", "note": "lantern on the cottage wall", "at": [0.16, 0.37], "radius": 0.025, "color": "#ffbe68", "period": 1.6, "strength": 0.55 },
+    { "type": "glow", "note": "lit cottage window", "at": [0.06, 0.43], "radius": 0.035, "color": "#ffc56b", "period": 2.0, "strength": 0.35 },
+    { "type": "glow", "note": "the low sun over the hills", "at": [0.57, 0.14], "radius": 0.05, "color": "#fff0c0", "period": 2.0, "strength": 0.25 },
+    {
+      "type": "sprite_path",
+      "note": "a small flock across the sunset sky now and then (as the drawn birds)",
+      "sheet": "efektler/serce.png", "frames": 8, "fps": 12,
+      "path": [[-0.06, 0.1], [0.35, 0.07], [0.7, 0.09], [1.06, 0.06]],
+      "every": [11, 18], "count": [3, 4], "spacing": 0.035, "speed": 0.13, "scale": 0.025, "jitter": [0, 0.02], "both_ways": true, "wobble": 0.006,
+      "glide": { "sheet": "efektler/serce_suzulme.png", "every": [3, 6], "duration": 0.8 }
+    }
+  ]
+}

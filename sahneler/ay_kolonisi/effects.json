@@ -1,0 +1,153 @@
+{
+  "schema": 1,
+  "scene": "ay_kolonisi",
+  "effects": [
+    {
+      "type": "glow",
+      "note": "the Earth over the horizon",
+      "at": [
+        0.428,
+        0.045
+      ],
+      "radius": 0.04,
+      "color": "#9fd4ff",
+      "period": 2.0,
+      "strength": 0.3
+    },
+    {
+      "type": "glow",
+      "note": "blue light of the reactor tanks",
+      "at": [
+        0.905,
+        0.265
+      ],
+      "radius": 0.035,
+      "color": "#5fd2ff",
+      "period": 1.6,
+      "strength": 0.5
+    },
+    {
+      "type": "glow",
+      "note": "landing pad ring light",
+      "at": [
+        0.82,
+        0.345
+      ],
+      "radius": 0.05,
+      "color": "#ffb85c",
+      "period": 1.8,
+      "strength": 0.4
+    },
+    {
+      "type": "glow",
+      "note": "lamp post by the landing pad",
+      "at": [
+        0.91,
+        0.375
+      ],
+      "radius": 0.02,
+      "color": "#ffc670",
+      "period": 1.3,
+      "strength": 0.5
+    },
+    {
+      "type": "glow",
+      "note": "geodesic dome windows",
+      "at": [
+        0.4,
+        0.27
+      ],
+      "radius": 0.04,
+      "color": "#ffcf80",
+      "period": 1.9,
+      "strength": 0.3
+    },
+    {
+      "type": "glow",
+      "note": "control tower ring",
+      "at": [
+        0.265,
+        0.13
+      ],
+      "radius": 0.03,
+      "color": "#7fdcff",
+      "period": 1.5,
+      "strength": 0.4
+    },
+    {
+      "type": "glow",
+      "note": "blue sample lamp on the silver case",
+      "at": [
+        0.25,
+        0.71
+      ],
+      "radius": 0.03,
+      "color": "#6ad8ff",
+      "period": 1.4,
+      "strength": 0.5
+    },
+    {
+      "type": "glow",
+      "note": "workshop hangar light",
+      "at": [
+        0.73,
+        0.67
+      ],
+      "radius": 0.05,
+      "color": "#ffbe6a",
+      "period": 2.0,
+      "strength": 0.3
+    },
+    {
+      "type": "glow",
+      "note": "algae tubes",
+      "at": [
+        0.6,
+        0.48
+      ],
+      "radius": 0.05,
+      "color": "#a8ff7a",
+      "period": 1.9,
+      "strength": 0.25
+    },
+    {
+      "type": "glow",
+      "note": "big lantern on the crates, bottom right",
+      "at": [
+        0.832,
+        0.86
+      ],
+      "radius": 0.025,
+      "color": "#ffbe6a",
+      "period": 1.4,
+      "strength": 0.5
+    },
+    {
+      "type": "rays",
+      "note": "rover headlights over the regolith",
+      "from": [
+        0.14,
+        0.47
+      ],
+      "angle": 35,
+      "width": 0.12,
+      "length": 0.18,
+      "color": "#e8f6ff",
+      "opacity": 0.1,
+      "sway": 1,
+      "period": 8
+    },
+    {
+      "type": "dust",
+      "note": "fine grey moon dust stirred up by the work",
+      "rect": [
+        0.05,
+        0.55,
+        0.9,
+        0.3
+      ],
+      "density": 0.25,
+      "color": "#dfe3ea"
+    }
+  ]
+}

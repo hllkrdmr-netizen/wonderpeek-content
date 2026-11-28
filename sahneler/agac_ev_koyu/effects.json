@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "scene": "agac_ev_koyu",
+  "effects": [
+    { "type": "water", "note": "pool under the big waterfall", "polygon": [[0.19, 0.62], [0.24, 0.6], [0.3, 0.61], [0.31, 0.66], [0.28, 0.72], [0.24, 0.78], [0.2, 0.77], [0.18, 0.7]], "intensity": 0.45 },
+    { "type": "water", "note": "lagoon around the pier and the canoes", "polygon": [[0.66, 0.6], [0.74, 0.58], [0.8, 0.58], [0.84, 0.61], [0.78, 0.66], [0.74, 0.71], [0.74, 0.8], [0.8, 0.84], [0.9, 0.85], [0.9, 0.86], [0.62, 0.86], [0.62, 0.7]], "intensity": 0.5 },
+    { "type": "splash", "note": "foam where the big waterfall lands", "at": [0.24, 0.6], "direction": -90, "spread": 70, "speed": 0.04, "count": 12, "size": 0.0035 },
+    { "type": "splash", "note": "spray under the water wheel", "at": [0.78, 0.565], "direction": -90, "spread": 60, "speed": 0.03, "count": 8, "size": 0.003 },
+    { "type": "smoke", "note": "steam from the cook's pot at the market", "at": [0.633, 0.585], "count": 6, "rise": 0.05, "drift": 0.01, "size": 0.018, "opacity": 0.2, "life": 3.5 },
+    { "type": "glow", "note": "big lantern on the bridge post", "at": [0.43, 0.81], "radius": 0.03, "color": "#ffc670", "period": 1.7, "strength": 0.5 },
+    { "type": "glow", "note": "lantern on the pier", "at": [0.81, 0.71], "radius": 0.02, "color": "#ffc670", "period": 1.4, "strength": 0.5 },
+    { "type": "glow", "note": "lantern by the left stairs", "at": [0.075, 0.475], "radius": 0.02, "color": "#ffc670", "period": 1.6, "strength": 0.45 },
+    { "type": "glow", "note": "hanging lantern, top left", "at": [0.23, 0.11], "radius": 0.02, "color": "#ffcf80", "period": 1.9, "strength": 0.4 },
+    { "type": "rays", "note": "sunlight through the canopy, over the waterfall", "from": [0.3, -0.05], "angle": 95, "width": 0.3, "length": 0.75, "color": "#fff1c4", "opacity": 0.08, "sway": 2, "period": 12 },
+    { "type": "dust", "note": "motes in the light shafts", "rect": [0.15, 0.08, 0.5, 0.45], "density": 0.35, "color": "#fff0c0" },
+    {
+      "type": "sprite_path", "note": "butterflies over the lagoon and the orchids in front",
+      "sheet": "efektler/kelebek.png", "frames": 6, "fps": 15, "motion": "wander",
+      "area": [0.36, 0.7, 0.3, 0.14], "count": 3, "speed": 0.03, "scale": 0.03, "scale_var": 0.25, "wobble": 0.006, "phase_random": true
+    }
+  ]
+}

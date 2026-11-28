@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "scene": "terraryum",
+  "effects": [
+    { "type": "water", "note": "stream and lily pool, front", "polygon": [[0.55, 0.72], [0.63, 0.71], [0.68, 0.74], [0.68, 0.82], [0.62, 0.86], [0.55, 0.85], [0.53, 0.78]], "intensity": 0.45 },
+    { "type": "splash", "note": "foot of the waterfall, centre", "at": [0.39, 0.62], "direction": -90, "spread": 60, "speed": 0.04, "count": 10 },
+    { "type": "splash", "note": "foot of the far waterfall, right of the arch", "at": [0.66, 0.36], "direction": -90, "spread": 50, "speed": 0.03, "count": 6 },
+    { "type": "glow", "note": "lantern in the tent", "at": [0.125, 0.665], "radius": 0.03, "color": "#ffc670", "period": 1.6, "strength": 0.55 },
+    { "type": "glow", "note": "lantern held by the explorer", "at": [0.265, 0.705], "radius": 0.022, "color": "#ffc670", "period": 1.4, "strength": 0.55 },
+    { "type": "glow", "note": "lantern hanging by the hammock, right", "at": [0.915, 0.485], "radius": 0.022, "color": "#ffc670", "period": 1.8, "strength": 0.5 },
+    { "type": "glow", "note": "campfire", "at": [0.36, 0.835], "radius": 0.025, "color": "#ff9a40", "period": 1.0, "strength": 0.6 },
+    { "type": "smoke", "note": "campfire smoke", "at": [0.36, 0.825], "count": 7, "rise": 0.07, "drift": 0.015, "size": 0.02, "opacity": 0.22 },
+    {
+      "type": "sprite_path",
+      "note": "butterflies in the jungle clearing",
+      "sheet": "efektler/kelebek.png", "frames": 6, "fps": 15, "motion": "wander",
+      "area": [0.3, 0.42, 0.4, 0.2], "count": 3, "speed": 0.025, "scale": 0.03, "scale_var": 0.25, "wobble": 0.006, "phase_random": true
+    }
+  ]
+}

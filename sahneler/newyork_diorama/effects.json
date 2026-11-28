@@ -1,0 +1,40 @@
+{
+  "schema": 1,
+  "scene": "newyork_diorama",
+  "effects": [
+    {
+      "type": "water",
+      "note": "harbour surface under the pier",
+      "polygon": [[0.08, 0.565], [0.3, 0.555], [0.5, 0.55], [0.7, 0.555], [0.92, 0.565], [0.92, 0.625], [0.5, 0.628], [0.08, 0.625]],
+      "intensity": 0.55
+    },
+    { "type": "glow", "note": "NEON: cyan strip along the pier edge, left", "at": [0.2, 0.545], "radius": 0.028, "color": "#3fe8ff", "period": 1.8, "strength": 0.55 },
+    { "type": "glow", "note": "NEON: cyan strip, left middle", "at": [0.36, 0.517], "radius": 0.026, "color": "#3fe8ff", "period": 1.8, "strength": 0.5, "phase": 0.25 },
+    { "type": "glow", "note": "NEON: cyan strip, right middle", "at": [0.7, 0.522], "radius": 0.026, "color": "#3fe8ff", "period": 1.8, "strength": 0.5, "phase": 0.5 },
+    { "type": "glow", "note": "NEON: cyan strip, right", "at": [0.85, 0.553], "radius": 0.028, "color": "#3fe8ff", "period": 1.8, "strength": 0.55, "phase": 0.75 },
+    { "type": "glow", "note": "NEON: purple light of the jazz-club stage", "at": [0.33, 0.28], "radius": 0.04, "color": "#b45cff", "period": 1.6, "strength": 0.5 },
+    {
+      "type": "rays",
+      "note": "NEON: purple light shafts down into the water, left",
+      "from": [0.4, 0.62], "angle": 95, "width": 0.08, "length": 0.22, "color": "#9a6cff", "opacity": 0.1, "sway": 3, "period": 9
+    },
+    {
+      "type": "rays",
+      "note": "NEON: purple light shafts down into the water, right",
+      "from": [0.6, 0.62], "angle": 85, "width": 0.08, "length": 0.22, "color": "#9a6cff", "opacity": 0.1, "sway": 3, "period": 11
+    },
+    { "type": "glow", "note": "theatre marquee bulbs", "at": [0.8, 0.245], "radius": 0.06, "color": "#ffd28a", "period": 1.2, "strength": 0.4 },
+    { "type": "glow", "note": "hotel canopy", "at": [0.2, 0.26], "radius": 0.05, "color": "#ffd28a", "period": 1.9, "strength": 0.35 },
+    { "type": "glow", "note": "street clock face", "at": [0.605, 0.215], "radius": 0.022, "color": "#fff0c8", "period": 2.0, "strength": 0.4 },
+    { "type": "glow", "note": "the moon", "at": [0.52, 0.09], "radius": 0.03, "color": "#e8f0ff", "period": 2.0, "strength": 0.35 },
+    { "type": "smoke", "note": "steam from the ferry's funnel", "at": [0.535, 0.505], "count": 6, "rise": 0.06, "drift": 0.015, "size": 0.016, "opacity": 0.22 },
+    { "type": "dust", "note": "bubbles rising through the underwater world", "rect": [0.15, 0.64, 0.7, 0.17], "density": 0.35, "color": "#cfe8ff", "size": 0.0025 },
+    {
+      "type": "sprite_path",
+      "note": "a small school of fish swimming through the underwater world",
+      "sheet": "efektler/balik.png", "frames": 4, "fps": 8,
+      "path": [[0.1, 0.72], [0.35, 0.705], [0.6, 0.715], [0.9, 0.7]],
+      "every": [6, 11], "count": [3, 5], "spacing": 0.025, "speed": 0.035, "scale": 0.022, "jitter": [0, 0.03], "both_ways": true, "wobble": 0.004
+    }
+  ]
+}

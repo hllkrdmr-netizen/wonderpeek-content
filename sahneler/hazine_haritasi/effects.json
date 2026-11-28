@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "scene": "hazine_haritasi",
+  "effects": [
+    { "type": "water", "note": "harbour water between the docks", "polygon": [[0.27, 0.43], [0.4, 0.42], [0.5, 0.43], [0.52, 0.47], [0.45, 0.49], [0.36, 0.48], [0.27, 0.47]], "intensity": 0.4 },
+    { "type": "water", "note": "lagoon by the stilt village and the beach", "polygon": [[0.66, 0.46], [0.78, 0.455], [0.9, 0.47], [0.92, 0.51], [0.84, 0.53], [0.72, 0.52], [0.65, 0.5]], "intensity": 0.45 },
+    { "type": "water", "note": "open sea, the surface above the cut-away", "polygon": [[0.3, 0.6], [0.5, 0.585], [0.7, 0.6], [0.8, 0.6], [0.8, 0.63], [0.6, 0.64], [0.4, 0.64], [0.3, 0.63]], "intensity": 0.55 },
+    { "type": "glow", "note": "oil lantern on the desk, top left", "at": [0.06, 0.06], "radius": 0.05, "color": "#ffc670", "period": 1.6, "strength": 0.6 },
+    { "type": "glow", "note": "candles on the desk", "at": [0.49, 0.025], "radius": 0.035, "color": "#ffcf80", "period": 1.2, "strength": 0.55 },
+    { "type": "glow", "note": "lighthouse lamp", "at": [0.336, 0.085], "radius": 0.018, "color": "#ffe0a0", "period": 1.5, "strength": 0.55 },
+    { "type": "glow", "note": "fire inside the cave", "at": [0.125, 0.365], "radius": 0.028, "color": "#ffa850", "period": 1.1, "strength": 0.55 },
+    { "type": "smoke", "note": "smoking volcano", "at": [0.815, 0.075], "count": 8, "rise": 0.08, "drift": 0.03, "size": 0.03, "opacity": 0.28, "color": "#d8d0c8" },
+    { "type": "dust", "note": "warm motes over the desk in the lamp light", "rect": [0.0, 0.0, 0.6, 0.12], "density": 0.3, "color": "#ffe2b0" },
+    {
+      "type": "sprite_path",
+      "note": "gulls over the map and the lighthouse island now and then (like the drawn ones)",
+      "sheet": "efektler/marti.png", "frames": 8, "fps": 12,
+      "path": [[-0.06, 0.2], [0.25, 0.14], [0.55, 0.16], [1.06, 0.12]],
+      "every": [10, 18], "count": [1, 3], "spacing": 0.04, "speed": 0.14, "scale": 0.035, "jitter": [0, 0.03], "both_ways": true, "wobble": 0.006
+    },
+    {
+      "type": "sprite_path",
+      "note": "a fish jumping out of the open sea now and then, a splash where it goes back in",
+      "sheet": "efektler/balik.png", "frames": 4, "fps": 12,
+      "path": [[0.52, 0.615], [0.6, 0.612]],
+      "every": [7, 13], "count": 1, "speed": 0.08, "scale": 0.035, "arc": 0.03, "rotate_to_path": true, "fade": 0.08,
+      "jitter": [0.06, 0.004], "both_ways": true, "wobble": 0,
+      "splash_on_end": { "count": 10, "speed": 0.09, "size": 0.005, "life": 0.6 }
+    }
+  ]
+}

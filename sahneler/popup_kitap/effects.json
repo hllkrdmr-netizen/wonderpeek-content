@@ -1,0 +1,254 @@
+{
+  "schema": 1,
+  "scene": "popup_kitap",
+  "effects": [
+    {
+      "type": "water",
+      "note": "swan pond, right of the boat (piers and paper waves left out)",
+      "polygon": [
+        [
+          0.54,
+          0.505
+        ],
+        [
+          0.62,
+          0.5
+        ],
+        [
+          0.72,
+          0.51
+        ],
+        [
+          0.76,
+          0.535
+        ],
+        [
+          0.72,
+          0.56
+        ],
+        [
+          0.62,
+          0.575
+        ],
+        [
+          0.555,
+          0.565
+        ],
+        [
+          0.53,
+          0.535
+        ]
+      ],
+      "intensity": 0.45
+    },
+    {
+      "type": "water",
+      "note": "harbour channel below the café quay",
+      "polygon": [
+        [
+          0.2,
+          0.64
+        ],
+        [
+          0.26,
+          0.635
+        ],
+        [
+          0.33,
+          0.66
+        ],
+        [
+          0.36,
+          0.69
+        ],
+        [
+          0.3,
+          0.7
+        ],
+        [
+          0.22,
+          0.695
+        ]
+      ],
+      "intensity": 0.4
+    },
+    {
+      "type": "water",
+      "note": "sea on the far left",
+      "polygon": [
+        [
+          0.0,
+          0.255
+        ],
+        [
+          0.06,
+          0.255
+        ],
+        [
+          0.045,
+          0.29
+        ],
+        [
+          0.0,
+          0.31
+        ]
+      ],
+      "intensity": 0.4
+    },
+    {
+      "type": "glow",
+      "note": "lighthouse lamp",
+      "at": [
+        0.088,
+        0.31
+      ],
+      "radius": 0.035,
+      "color": "#ffd28a",
+      "period": 1.8,
+      "strength": 0.5
+    },
+    {
+      "type": "glow",
+      "note": "lantern by the pond pier",
+      "at": [
+        0.776,
+        0.55
+      ],
+      "radius": 0.02,
+      "color": "#ffc670",
+      "period": 1.4,
+      "strength": 0.5
+    },
+    {
+      "type": "glow",
+      "note": "cheese-shop lantern",
+      "at": [
+        0.705,
+        0.355
+      ],
+      "radius": 0.016,
+      "color": "#ffc670",
+      "period": 1.6,
+      "strength": 0.4
+    },
+    {
+      "type": "smoke",
+      "note": "steam train on the viaduct",
+      "at": [
+        0.335,
+        0.125
+      ],
+      "count": 6,
+      "rise": 0.05,
+      "drift": -0.03,
+      "size": 0.025,
+      "opacity": 0.28
+    },
+    {
+      "type": "splash",
+      "note": "foot of the castle waterfall",
+      "at": [
+        0.49,
+        0.235
+      ],
+      "direction": -90,
+      "spread": 60,
+      "speed": 0.03,
+      "count": 8
+    },
+    {
+      "type": "splash",
+      "note": "foot of the cascade by the stone bridge",
+      "at": [
+        0.705,
+        0.485
+      ],
+      "direction": -90,
+      "spread": 60,
+      "speed": 0.03,
+      "count": 8
+    },
+    {
+      "type": "sprite_path",
+      "note": "gulls over the paper sky now and then (paper gulls hang on strings: these fly lower, over the town)",
+      "sheet": "efektler/marti.png",
+      "frames": 8,
+      "fps": 12,
+      "path": [
+        [
+          -0.06,
+          0.1
+        ],
+        [
+          0.3,
+          0.085
+        ],
+        [
+          0.65,
+          0.1
+        ],
+        [
+          1.06,
+          0.08
+        ]
+      ],
+      "every": [
+        9,
+        16
+      ],
+      "count": [
+        2,
+        3
+      ],
+      "spacing": 0.04,
+      "speed": 0.14,
+      "scale": 0.035,
+      "jitter": [
+        0,
+        0.015
+      ],
+      "both_ways": true,
+      "wobble": 0.006
+    },
+    {
+      "type": "sprite_path",
+      "note": "butterflies over the flower beds and beehives, right",
+      "sheet": "efektler/kelebek.png",
+      "frames": 6,
+      "fps": 15,
+      "motion": "wander",
+      "area": [
+        0.78,
+        0.48,
+        0.15,
+        0.1
+      ],
+      "count": 3,
+      "speed": 0.025,
+      "scale": 0.025,
+      "scale_var": 0.25,
+      "wobble": 0.006,
+      "phase_random": true
+    },
+    {
+      "type": "sprite_path",
+      "note": "butterflies over the lavender field",
+      "sheet": "efektler/kelebek.png",
+      "frames": 6,
+      "fps": 15,
+      "motion": "wander",
+      "area": [
+        0.1,
+        0.18,
+        0.16,
+        0.08
+      ],
+      "count": 2,
+      "speed": 0.02,
+      "scale": 0.022,
+      "scale_var": 0.25,
+      "wobble": 0.006,
+      "phase_random": true
+    }
+  ]
+}

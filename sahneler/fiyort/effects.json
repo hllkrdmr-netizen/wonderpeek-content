@@ -1,0 +1,307 @@
+{
+  "schema": 1,
+  "scene": "fiyort",
+  "effects": [
+    {
+      "type": "water",
+      "note": "icy harbour between the piers, under the rowing boat",
+      "polygon": [
+        [
+          0.34,
+          0.318
+        ],
+        [
+          0.5,
+          0.312
+        ],
+        [
+          0.6,
+          0.33
+        ],
+        [
+          0.62,
+          0.38
+        ],
+        [
+          0.6,
+          0.44
+        ],
+        [
+          0.56,
+          0.49
+        ],
+        [
+          0.44,
+          0.5
+        ],
+        [
+          0.34,
+          0.485
+        ],
+        [
+          0.31,
+          0.44
+        ],
+        [
+          0.33,
+          0.37
+        ]
+      ],
+      "intensity": 0.4
+    },
+    {
+      "type": "water",
+      "note": "lower channel around the fishing boat",
+      "polygon": [
+        [
+          0.32,
+          0.56
+        ],
+        [
+          0.5,
+          0.55
+        ],
+        [
+          0.64,
+          0.57
+        ],
+        [
+          0.66,
+          0.62
+        ],
+        [
+          0.6,
+          0.665
+        ],
+        [
+          0.42,
+          0.67
+        ],
+        [
+          0.33,
+          0.64
+        ]
+      ],
+      "intensity": 0.35
+    },
+    {
+      "type": "water",
+      "note": "far fjord under the setting sun",
+      "polygon": [
+        [
+          0.02,
+          0.15
+        ],
+        [
+          0.2,
+          0.146
+        ],
+        [
+          0.36,
+          0.152
+        ],
+        [
+          0.38,
+          0.166
+        ],
+        [
+          0.18,
+          0.172
+        ],
+        [
+          0.02,
+          0.17
+        ]
+      ],
+      "intensity": 0.5
+    },
+    {
+      "type": "glow",
+      "note": "low sun over the fjord",
+      "at": [
+        0.13,
+        0.112
+      ],
+      "radius": 0.12,
+      "color": "#ffd59a",
+      "period": 2.0,
+      "strength": 0.35
+    },
+    {
+      "type": "glow",
+      "note": "lantern on the upper pier",
+      "at": [
+        0.105,
+        0.29
+      ],
+      "radius": 0.03,
+      "color": "#ffc36b",
+      "period": 1.5,
+      "strength": 0.55
+    },
+    {
+      "type": "glow",
+      "note": "lantern by the crates, right bank",
+      "at": [
+        0.715,
+        0.462
+      ],
+      "radius": 0.03,
+      "color": "#ffc36b",
+      "period": 1.7,
+      "strength": 0.55
+    },
+    {
+      "type": "glow",
+      "note": "market lanterns",
+      "at": [
+        0.085,
+        0.76
+      ],
+      "radius": 0.035,
+      "color": "#ffc36b",
+      "period": 1.4,
+      "strength": 0.5
+    },
+    {
+      "type": "glow",
+      "note": "lantern on the stall corner",
+      "at": [
+        0.37,
+        0.88
+      ],
+      "radius": 0.028,
+      "color": "#ffc36b",
+      "period": 1.6,
+      "strength": 0.5
+    },
+    {
+      "type": "glow",
+      "note": "campfire under the kettle",
+      "at": [
+        0.675,
+        0.86
+      ],
+      "radius": 0.06,
+      "color": "#ffb357",
+      "period": 1.1,
+      "strength": 0.6
+    },
+    {
+      "type": "rays",
+      "note": "evening sun down the fjord",
+      "from": [
+        0.13,
+        0.112
+      ],
+      "angle": 55,
+      "width": 0.5,
+      "length": 0.45,
+      "color": "#ffdcae",
+      "opacity": 0.08,
+      "sway": 2,
+      "period": 14
+    },
+    {
+      "type": "smoke",
+      "note": "campfire",
+      "at": [
+        0.675,
+        0.85
+      ],
+      "count": 7,
+      "rise": 0.09,
+      "drift": 0.02,
+      "size": 0.045,
+      "opacity": 0.25
+    },
+    {
+      "type": "smoke",
+      "note": "chimney of the red house, left",
+      "at": [
+        0.08,
+        0.205
+      ],
+      "count": 5,
+      "rise": 0.06,
+      "drift": 0.03,
+      "size": 0.04,
+      "opacity": 0.22
+    },
+    {
+      "type": "splash",
+      "note": "foot of the waterfall in the harbour",
+      "at": [
+        0.555,
+        0.292
+      ],
+      "direction": -90,
+      "spread": 70,
+      "speed": 0.04,
+      "count": 10
+    },
+    {
+      "type": "sprite_path",
+      "note": "slow snowfall over the village",
+      "sheet": "efektler/kar_tanesi.png",
+      "frames": 1,
+      "motion": "fall",
+      "area": [
+        0.02,
+        0.04,
+        0.96,
+        0.86
+      ],
+      "count": 14,
+      "speed": 0.04,
+      "scale": 0.03,
+      "scale_var": 0.55,
+      "sway": 0.018,
+      "sway_period": 3.5,
+      "spin": 40,
+      "fade": 0.8
+    },
+    {
+      "type": "sprite_path",
+      "note": "gulls over the fjord now and then (two are painted in the sky)",
+      "sheet": "efektler/marti.png",
+      "frames": 8,
+      "fps": 12,
+      "path": [
+        [
+          -0.1,
+          0.06
+        ],
+        [
+          0.35,
+          0.045
+        ],
+        [
+          0.7,
+          0.055
+        ],
+        [
+          1.1,
+          0.035
+        ]
+      ],
+      "every": [
+        9,
+        16
+      ],
+      "count": [
+        2,
+        3
+      ],
+      "spacing": 0.09,
+      "speed": 0.2,
+      "scale": 0.09,
+      "jitter": [
+        0,
+        0.012
+      ],
+      "both_ways": true,
+      "wobble": 0.008
+    }
+  ]
+}

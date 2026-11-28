@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "scene": "cep_saati_sehir",
+  "effects": [
+    { "type": "water", "note": "the canal under the bridge, around the rowboat", "polygon": [[0.8, 0.6], [0.86, 0.575], [0.94, 0.58], [0.98, 0.62], [0.98, 0.86], [0.88, 0.86], [0.8, 0.8], [0.78, 0.7]], "intensity": 0.5 },
+    { "type": "glow", "note": "street lamp, front left", "at": [0.04, 0.47], "radius": 0.028, "color": "#ffc670", "period": 1.6, "strength": 0.5 },
+    { "type": "glow", "note": "street lamp in the square", "at": [0.415, 0.525], "radius": 0.022, "color": "#ffc670", "period": 1.4, "strength": 0.5 },
+    { "type": "glow", "note": "lamp by the canal bridge", "at": [0.78, 0.47], "radius": 0.02, "color": "#ffc670", "period": 1.8, "strength": 0.5 },
+    { "type": "glow", "note": "lamp under the cherry tree", "at": [0.82, 0.36], "radius": 0.018, "color": "#ffcf80", "period": 1.5, "strength": 0.45 },
+    { "type": "glow", "note": "lamp inside the carriage", "at": [0.86, 0.48], "radius": 0.02, "color": "#ffbe68", "period": 2.0, "strength": 0.4 },
+    { "type": "glow", "note": "the café's bay window", "at": [0.17, 0.33], "radius": 0.04, "color": "#ffc56b", "period": 2.0, "strength": 0.3 },
+    { "type": "smoke", "note": "chimney the sweep is working on", "at": [0.36, 0.11], "count": 6, "rise": 0.05, "drift": 0.02, "size": 0.016, "opacity": 0.22 },
+    { "type": "smoke", "note": "chimneys of the far houses", "at": [0.33, 0.165], "count": 5, "rise": 0.04, "drift": 0.015, "size": 0.012, "opacity": 0.2 },
+    { "type": "rays", "note": "sunset glow between the gears", "from": [0.55, 0.1], "angle": 100, "width": 0.25, "length": 0.4, "color": "#ffd9a8", "opacity": 0.07, "sway": 2, "period": 14 },
+    {
+      "type": "sprite_path", "note": "a small flock of sparrows over the rooftops now and then",
+      "sheet": "efektler/serce.png", "frames": 8, "fps": 12,
+      "path": [[-0.06, 0.2], [0.3, 0.16], [0.6, 0.18], [1.06, 0.13]],
+      "every": [10, 18], "count": [2, 4], "spacing": 0.04, "speed": 0.15, "scale": 0.025, "jitter": [0, 0.02], "both_ways": true, "wobble": 0.005,
+      "glide": { "sheet": "efektler/serce_suzulme.png", "every": [4, 7], "duration": 0.9 }
+    }
+  ]
+}

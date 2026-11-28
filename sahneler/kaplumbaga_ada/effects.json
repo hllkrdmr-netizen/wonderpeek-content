@@ -1,0 +1,26 @@
+{
+  "schema": 1,
+  "scene": "kaplumbaga_ada",
+  "effects": [
+    { "type": "water", "note": "harbour between the quay and the beach", "polygon": [[0.36, 0.46], [0.48, 0.45], [0.58, 0.45], [0.66, 0.47], [0.62, 0.52], [0.52, 0.525], [0.4, 0.52]], "intensity": 0.45 },
+    { "type": "water", "note": "the sea surface in front of the turtle", "polygon": [[0.0, 0.62], [0.2, 0.64], [0.45, 0.68], [0.62, 0.66], [0.8, 0.66], [0.95, 0.72], [1.0, 0.72], [1.0, 0.76], [0.7, 0.74], [0.4, 0.74], [0.0, 0.72]], "intensity": 0.6 },
+    { "type": "splash", "note": "waves breaking on the turtle's head", "at": [0.04, 0.47], "direction": -100, "spread": 60, "speed": 0.05, "count": 12, "size": 0.004 },
+    { "type": "splash", "note": "spray off the right flipper", "at": [0.93, 0.7], "direction": -80, "spread": 50, "speed": 0.05, "count": 10, "size": 0.004 },
+    { "type": "rays", "note": "sunlight under the surface", "from": [0.62, 0.7], "angle": 95, "width": 0.3, "length": 0.3, "color": "#c8f4ff", "opacity": 0.1, "sway": 3, "period": 8 },
+    { "type": "dust", "note": "specks drifting in the underwater light", "rect": [0.3, 0.75, 0.5, 0.11], "density": 0.3, "color": "#d6f6ff" },
+    {
+      "type": "sprite_path", "note": "seagulls over the island now and then (either way)",
+      "sheet": "efektler/marti.png", "frames": 8, "fps": 12,
+      "path": [[-0.08, 0.1], [0.3, 0.07], [0.65, 0.085], [1.08, 0.06]],
+      "every": [9, 16], "count": [2, 3], "spacing": 0.05, "speed": 0.15, "scale": 0.035, "jitter": [0, 0.02], "both_ways": true, "wobble": 0.006
+    },
+    {
+      "type": "sprite_path", "note": "a fish jumping out of the sea on the right now and then, a splash where it goes back in",
+      "sheet": "efektler/balik.png", "frames": 4, "fps": 12,
+      "path": [[0.74, 0.73], [0.82, 0.73]],
+      "every": [7, 13], "count": 1, "speed": 0.08, "scale": 0.035, "arc": 0.03, "rotate_to_path": true, "fade": 0.08,
+      "jitter": [0.03, 0.004], "both_ways": true, "wobble": 0,
+      "splash_on_end": { "count": 10, "speed": 0.1, "size": 0.005, "life": 0.6 }
+    }
+  ]
+}

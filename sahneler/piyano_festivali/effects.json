@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "scene": "piyano_festivali",
+  "effects": [
+    { "type": "water", "note": "the lacquered lake under the keys, among the boats (glints)", "polygon": [[0.12, 0.72], [0.4, 0.71], [0.7, 0.71], [0.9, 0.73], [0.88, 0.8], [0.75, 0.86], [0.5, 0.875], [0.25, 0.86], [0.13, 0.8]], "intensity": 0.4 },
+    { "type": "glow", "note": "stage spotlight left", "at": [0.625, 0.3], "radius": 0.025, "color": "#ffd9a0", "period": 1.6, "strength": 0.5 },
+    { "type": "glow", "note": "stage spotlight middle", "at": [0.71, 0.29], "radius": 0.025, "color": "#ffd9a0", "period": 1.9, "strength": 0.5 },
+    { "type": "glow", "note": "stage spotlight right", "at": [0.79, 0.29], "radius": 0.025, "color": "#ffd9a0", "period": 1.4, "strength": 0.5 },
+    { "type": "glow", "note": "lamp post on the left stairs", "at": [0.08, 0.315], "radius": 0.018, "color": "#ffc670", "period": 1.7, "strength": 0.5 },
+    { "type": "glow", "note": "lamp post by the gazebo", "at": [0.235, 0.355], "radius": 0.018, "color": "#ffc670", "period": 1.5, "strength": 0.5 },
+    { "type": "glow", "note": "lantern on the left boat", "at": [0.33, 0.775], "radius": 0.015, "color": "#ffc670", "period": 1.3, "strength": 0.55 },
+    { "type": "glow", "note": "lantern on the middle boat", "at": [0.665, 0.82], "radius": 0.015, "color": "#ffc670", "period": 1.8, "strength": 0.55 },
+    { "type": "glow", "note": "lantern on the right boat", "at": [0.82, 0.775], "radius": 0.015, "color": "#ffc670", "period": 1.2, "strength": 0.55 },
+    { "type": "rays", "note": "stage light falling forward", "from": [0.71, 0.28], "angle": 95, "width": 0.18, "length": 0.15, "color": "#ffe6b8", "opacity": 0.1, "sway": 3, "period": 8 },
+    { "type": "dust", "note": "golden confetti sparkle under the lid, by the hammers", "rect": [0.25, 0.07, 0.45, 0.16], "density": 0.45, "color": "#ffe2a0" }
+  ]
+}

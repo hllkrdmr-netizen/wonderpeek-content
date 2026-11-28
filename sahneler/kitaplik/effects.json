@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "scene": "kitaplik",
+  "effects": [
+    { "type": "glow", "note": "NEON: cyan glowing globe in the map room", "at": [0.834, 0.28], "radius": 0.03, "color": "#3fe8ff", "period": 1.9, "strength": 0.55 },
+    { "type": "glow", "note": "NEON: cyan light, left middle shelf", "at": [0.457, 0.42], "radius": 0.025, "color": "#3fd0ff", "period": 1.6, "strength": 0.5, "phase": 0.4 },
+    { "type": "glow", "note": "NEON: cyan light, left middle shelf", "at": [0.387, 0.453], "radius": 0.02, "color": "#3fd0ff", "period": 1.4, "strength": 0.45, "phase": 0.8 },
+    { "type": "glow", "note": "NEON: purple mushrooms in the greenhouse, left", "at": [0.727, 0.506], "radius": 0.03, "color": "#b45cff", "period": 1.8, "strength": 0.55 },
+    { "type": "glow", "note": "NEON: purple mushrooms in the greenhouse, right", "at": [0.833, 0.502], "radius": 0.03, "color": "#b45cff", "period": 1.5, "strength": 0.55, "phase": 0.5 },
+    { "type": "dust", "note": "NEON: glowing spores in the greenhouse", "rect": [0.71, 0.45, 0.18, 0.09], "density": 0.3, "color": "#d6a8ff", "size": 0.0025 },
+    { "type": "glow", "note": "bakery oven fire", "at": [0.767, 0.652], "radius": 0.035, "color": "#ff9a40", "period": 1.1, "strength": 0.6 },
+    { "type": "glow", "note": "bakery wall lamp", "at": [0.865, 0.645], "radius": 0.018, "color": "#ffc670", "period": 1.6, "strength": 0.5 },
+    { "type": "glow", "note": "map-room desk lamp", "at": [0.72, 0.305], "radius": 0.022, "color": "#ffc670", "period": 1.8, "strength": 0.5 },
+    { "type": "glow", "note": "workshop lamp", "at": [0.257, 0.829], "radius": 0.02, "color": "#ffc670", "period": 1.4, "strength": 0.5 },
+    { "type": "glow", "note": "moonlit window, left", "at": [0.06, 0.16], "radius": 0.04, "color": "#c8d8ff", "period": 2.0, "strength": 0.3 },
+    { "type": "dust", "note": "dust motes in the library air", "rect": [0.1, 0.08, 0.8, 0.75], "density": 0.3, "color": "#ffe2b0", "size": 0.0025 }
+  ]
+}

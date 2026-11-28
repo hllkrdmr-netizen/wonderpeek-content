@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "scene": "meksika_fiesta",
+  "effects": [
+    { "type": "fountain", "note": "the plaza fountain's top spout", "at": [0.395, 0.275], "direction": -90, "spread": 28, "speed": 0.07, "gravity": 0.55, "count": 22, "life": 0.9, "size": 0.003 },
+    { "type": "splash", "note": "water falling into the fountain's lower bowl", "at": [0.41, 0.33], "direction": 90, "spread": 120, "speed": 0.03, "count": 10, "size": 0.003 },
+    {
+      "type": "water",
+      "note": "the fountain basin",
+      "polygon": [[0.36, 0.37], [0.4, 0.36], [0.45, 0.365], [0.47, 0.38], [0.44, 0.395], [0.39, 0.4], [0.36, 0.39]],
+      "intensity": 0.5
+    },
+    {
+      "type": "rays",
+      "note": "midday sun from the top right over the plaza",
+      "from": [0.9, -0.05], "angle": 120, "width": 0.5, "length": 0.9, "color": "#fff0c8", "opacity": 0.06, "sway": 2, "period": 14
+    },
+    { "type": "smoke", "note": "steam off the bean pot on the cook's table", "at": [0.16, 0.8], "count": 5, "rise": 0.05, "drift": 0.008, "size": 0.02, "opacity": 0.18 },
+    {
+      "type": "sprite_path",
+      "note": "butterflies by the bougainvillea, top right",
+      "sheet": "efektler/kelebek.png", "frames": 6, "fps": 15, "motion": "wander",
+      "area": [0.84, 0.05, 0.14, 0.2], "count": 2, "speed": 0.025, "scale": 0.028, "scale_var": 0.25, "wobble": 0.006, "phase_random": true
+    },
+    {
+      "type": "sprite_path",
+      "note": "butterflies by the flower boxes of the bandstand",
+      "sheet": "efektler/kelebek.png", "frames": 6, "fps": 15, "motion": "wander",
+      "area": [0.1, 0.13, 0.2, 0.1], "count": 2, "speed": 0.025, "scale": 0.026, "scale_var": 0.25, "wobble": 0.006, "phase_random": true
+    }
+  ]
+}

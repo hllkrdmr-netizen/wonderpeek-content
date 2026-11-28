@@ -2762,13 +2762,13 @@
       "id": 18,
       "mode": "classic",
       "thumb": "sahneler/gokyuzu_limani/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "requires": [
         "longScene"
       ],
       "level": "levels/level_classic_018.json",
-      "size": 5761988,
+      "size": 5914782,
       "files": [
         {
           "path": "levels/level_classic_018.json",
@@ -2981,6 +2981,18 @@
           "sha256": "17da3bf4f4c485d0c64e164d878209a3234c669c759a29ce59bc882d5b625cca",
           "width": 299,
           "height": 203
+        },
+        {
+          "path": "sahneler/gokyuzu_limani/effects.json",
+          "size": 1632,
+          "sha256": "9609771dee5fb2d201522b9c8221bb52f039b47de88eb20927723e3c7dcdaf53"
+        },
+        {
+          "path": "efektler/marti.png",
+          "size": 151162,
+          "sha256": "7aa07e0c5232b3c78d49f1c1fde03907c5fe6e873724096a7ab281a9c9902082",
+          "width": 2048,
+          "height": 256
         }
       ]
     },
@@ -2988,13 +3000,13 @@
       "id": 19,
       "mode": "classic",
       "thumb": "sahneler/hazine_haritasi/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "requires": [
         "longScene"
       ],
       "level": "levels/level_classic_019.json",
-      "size": 6585565,
+      "size": 6861122,
       "files": [
         {
           "path": "levels/level_classic_019.json",
@@ -3214,6 +3226,25 @@
           "sha256": "19512ccc92095b6d6e80a087e138052bfbfebc47eb3faba8d44c2bb744c99a25",
           "width": 314,
           "height": 192
+        },
+        {
+          "path": "sahneler/hazine_haritasi/effects.json",
+          "size": 2511,
+          "sha256": "1c0b9a9d20d34200206f519424c9b472e724aa05cf1c1fcd647e245071c84548"
+        },
+        {
+          "path": "efektler/marti.png",
+          "size": 151162,
+          "sha256": "7aa07e0c5232b3c78d49f1c1fde03907c5fe6e873724096a7ab281a9c9902082",
+          "width": 2048,
+          "height": 256
+        },
+        {
+          "path": "efektler/balik.png",
+          "size": 121884,
+          "sha256": "5b411b2a9a736619c1a620786cd20187bf6443c1689f42fa774c9a492e521655",
+          "width": 1024,
+          "height": 128
         }
       ]
     },
@@ -3221,13 +3252,13 @@
       "id": 20,
       "mode": "classic",
       "thumb": "sahneler/cay_fincani/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "requires": [
         "longScene"
       ],
       "level": "levels/level_classic_020.json",
-      "size": 4926750,
+      "size": 5079933,
       "files": [
         {
           "path": "levels/level_classic_020.json",
@@ -3426,6 +3457,18 @@
           "sha256": "f08439f15bb11209f8aabf9aac524fc9b62b12b41df27584a65864fdc0355ee8",
           "width": 269,
           "height": 235
+        },
+        {
+          "path": "sahneler/cay_fincani/effects.json",
+          "size": 2021,
+          "sha256": "9919749672f2c249a89f99479100bc5e669424034871f6f8a13f1a5dd92ba0de"
+        },
+        {
+          "path": "efektler/marti.png",
+          "size": 151162,
+          "sha256": "7aa07e0c5232b3c78d49f1c1fde03907c5fe6e873724096a7ab281a9c9902082",
+          "width": 2048,
+          "height": 256
         }
       ]
     },
@@ -3433,13 +3476,13 @@
       "id": 21,
       "mode": "classic",
       "thumb": "sahneler/kus_kafesi/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "requires": [
         "longScene"
       ],
       "level": "levels/level_classic_021.json",
-      "size": 6295619,
+      "size": 6756630,
       "files": [
         {
           "path": "levels/level_classic_021.json",
@@ -3666,6 +3709,32 @@
           "sha256": "85e808e9f6804f89db087fec05e9886f43d6a8c2b7817d777550e62d0e640aa8",
           "width": 290,
           "height": 226
+        },
+        {
+          "path": "sahneler/kus_kafesi/effects.json",
+          "size": 1420,
+          "sha256": "a2a7c98c3b29a7730d6ddb8a914d2552d4eb39db3df0d05f4d36ad840fe4f589"
+        },
+        {
+          "path": "efektler/kelebek.png",
+          "size": 274920,
+          "sha256": "c45f47239524c5c61c27d751e8c2eac370628679dbcc62dc4b273cb00b47d390",
+          "width": 1536,
+          "height": 256
+        },
+        {
+          "path": "efektler/serce.png",
+          "size": 159659,
+          "sha256": "26b688b22d45b5961b6abfb594045928f5417538085e8966028e76eab0768676",
+          "width": 2048,
+          "height": 256
+        },
+        {
+          "path": "efektler/serce_suzulme.png",
+          "size": 25012,
+          "sha256": "48c6193bed013a6036699b21779b1eee3c98cd0ff0cb0ae3b78d7e5311ca35db",
+          "width": 256,
+          "height": 256
         }
       ]
     },
@@ -3673,13 +3742,13 @@
       "id": 22,
       "mode": "classic",
       "thumb": "sahneler/keman_kutusu/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "requires": [
         "longScene"
       ],
       "level": "levels/level_classic_022.json",
-      "size": 5113594,
+      "size": 5115046,
       "files": [
         {
           "path": "levels/level_classic_022.json",
@@ -3906,6 +3975,11 @@
           "sha256": "177950b530a55b6863b444d235ea4b00f4e1d83bdbca6e4ee2931a214d8ff2cc",
           "width": 196,
           "height": 298
+        },
+        {
+          "path": "sahneler/keman_kutusu/effects.json",
+          "size": 1452,
+          "sha256": "db5f3484fa454626ce87fb91cfcaa034e2c68d241c9af95da100645d290740c0"
         }
       ]
     },
@@ -3913,13 +3987,13 @@
       "id": 23,
       "mode": "classic",
       "thumb": "sahneler/balkabagi_koy/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "requires": [
         "longScene"
       ],
       "level": "levels/level_classic_023.json",
-      "size": 6622160,
+      "size": 7143205,
       "files": [
         {
           "path": "levels/level_classic_023.json",
@@ -4146,6 +4220,32 @@
           "sha256": "2d9d57593f0ee927e6b76f920d9e189eebccaca89b9b997c22d006e86c66399d",
           "width": 177,
           "height": 222
+        },
+        {
+          "path": "sahneler/balkabagi_koy/effects.json",
+          "size": 1697,
+          "sha256": "67bf0cb26d7856320e0d929c0365d78631480de9e9aefe699469a373b58b1d20"
+        },
+        {
+          "path": "efektler/yaprak.png",
+          "size": 334677,
+          "sha256": "1d72d0838cf4ec8474d39c397660130704a0cc2eb41698d1a97242ef4bc6e626",
+          "width": 2048,
+          "height": 256
+        },
+        {
+          "path": "efektler/serce.png",
+          "size": 159659,
+          "sha256": "26b688b22d45b5961b6abfb594045928f5417538085e8966028e76eab0768676",
+          "width": 2048,
+          "height": 256
+        },
+        {
+          "path": "efektler/serce_suzulme.png",
+          "size": 25012,
+          "sha256": "48c6193bed013a6036699b21779b1eee3c98cd0ff0cb0ae3b78d7e5311ca35db",
+          "width": 256,
+          "height": 256
         }
       ]
     },
@@ -4153,13 +4253,13 @@
       "id": 24,
       "mode": "classic",
       "thumb": "sahneler/istanbul_diorama/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "requires": [
         "longScene"
       ],
       "level": "levels/level_classic_024.json",
-      "size": 6021039,
+      "size": 6144941,
       "files": [
         {
           "path": "levels/level_classic_024.json",
@@ -4386,6 +4486,18 @@
           "sha256": "feb5593d09ffcdb82508589399b12c4d1f49f00c03c2aedf17fcc2f5097e04cf",
           "width": 264,
           "height": 253
+        },
+        {
+          "path": "sahneler/istanbul_diorama/effects.json",
+          "size": 2018,
+          "sha256": "855fcf3b44b6207fabeac62ebdd0895a994d4bce87d4286bf82361d5ce1c85a8"
+        },
+        {
+          "path": "efektler/balik.png",
+          "size": 121884,
+          "sha256": "5b411b2a9a736619c1a620786cd20187bf6443c1689f42fa774c9a492e521655",
+          "width": 1024,
+          "height": 128
         }
       ]
     },
@@ -4393,13 +4505,13 @@
       "id": 25,
       "mode": "classic",
       "thumb": "sahneler/terraryum/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "requires": [
         "longScene"
       ],
       "level": "levels/level_classic_025.json",
-      "size": 5284496,
+      "size": 5561038,
       "files": [
         {
           "path": "levels/level_classic_025.json",
@@ -4605,6 +4717,18 @@
           "sha256": "a8b0b283f7d4e427d477073f3ec888b4644fa215228dc4cd54d11747e5de7629",
           "width": 282,
           "height": 279
+        },
+        {
+          "path": "sahneler/terraryum/effects.json",
+          "size": 1622,
+          "sha256": "c269b7a99e6f99e46706fd6156657cb92ca85f9decd3d07cf66513952d5d0937"
+        },
+        {
+          "path": "efektler/kelebek.png",
+          "size": 274920,
+          "sha256": "c45f47239524c5c61c27d751e8c2eac370628679dbcc62dc4b273cb00b47d390",
+          "width": 1536,
+          "height": 256
         }
       ]
     },
@@ -4949,13 +5073,13 @@
       "id": 2,
       "mode": "crowd",
       "thumb": "sahneler/sahil_iskele/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "requires": [
         "longScene"
       ],
       "level": "levels/level_crowd_002.json",
-      "size": 5350773,
+      "size": 5778576,
       "files": [
         {
           "path": "levels/level_crowd_002.json",
@@ -5126,6 +5250,25 @@
           "sha256": "0733b1e76bdd515d9d74401eefd4bf222735a4f7891ccf2328d5325f8d91d1e0",
           "width": 232,
           "height": 360
+        },
+        {
+          "path": "sahneler/sahil_iskele/effects.json",
+          "size": 1721,
+          "sha256": "1ff1468a6e31ecb95a998dfd39ea2c25b87057f4a33d45dd5ee13b1613538a29"
+        },
+        {
+          "path": "efektler/marti.png",
+          "size": 151162,
+          "sha256": "7aa07e0c5232b3c78d49f1c1fde03907c5fe6e873724096a7ab281a9c9902082",
+          "width": 2048,
+          "height": 256
+        },
+        {
+          "path": "efektler/kelebek.png",
+          "size": 274920,
+          "sha256": "c45f47239524c5c61c27d751e8c2eac370628679dbcc62dc4b273cb00b47d390",
+          "width": 1536,
+          "height": 256
         }
       ]
     },
@@ -5133,13 +5276,13 @@
       "id": 3,
       "mode": "crowd",
       "thumb": "sahneler/hasat_senligi/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "requires": [
         "longScene"
       ],
       "level": "levels/level_crowd_003.json",
-      "size": 5838139,
+      "size": 6360025,
       "files": [
         {
           "path": "levels/level_crowd_003.json",
@@ -5310,6 +5453,32 @@
           "sha256": "922c182016644c78bea239e88905152394977b281ae5b770c3d4625c66b203eb",
           "width": 166,
           "height": 360
+        },
+        {
+          "path": "sahneler/hasat_senligi/effects.json",
+          "size": 2538,
+          "sha256": "ba4b51ddfb11ce6fdbe441890efe208e34d08f9897d33c67395d9bf4643febe9"
+        },
+        {
+          "path": "efektler/yaprak.png",
+          "size": 334677,
+          "sha256": "1d72d0838cf4ec8474d39c397660130704a0cc2eb41698d1a97242ef4bc6e626",
+          "width": 2048,
+          "height": 256
+        },
+        {
+          "path": "efektler/serce.png",
+          "size": 159659,
+          "sha256": "26b688b22d45b5961b6abfb594045928f5417538085e8966028e76eab0768676",
+          "width": 2048,
+          "height": 256
+        },
+        {
+          "path": "efektler/serce_suzulme.png",
+          "size": 25012,
+          "sha256": "48c6193bed013a6036699b21779b1eee3c98cd0ff0cb0ae3b78d7e5311ca35db",
+          "width": 256,
+          "height": 256
         }
       ]
     },
@@ -5317,13 +5486,13 @@
       "id": 4,
       "mode": "crowd",
       "thumb": "sahneler/sovalye_panayiri/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "requires": [
         "longScene"
       ],
       "level": "levels/level_crowd_004.json",
-      "size": 6170997,
+      "size": 6632344,
       "files": [
         {
           "path": "levels/level_crowd_004.json",
@@ -5501,6 +5670,32 @@
           "sha256": "34089926cba018545cc270af8837d1694795af3ae20d8ac6fc01c5344681bcbc",
           "width": 191,
           "height": 360
+        },
+        {
+          "path": "sahneler/sovalye_panayiri/effects.json",
+          "size": 1756,
+          "sha256": "179c8750869d17aded0f1da87e42b2d86331af676753ffc6340b9acf51fca6a5"
+        },
+        {
+          "path": "efektler/kelebek.png",
+          "size": 274920,
+          "sha256": "c45f47239524c5c61c27d751e8c2eac370628679dbcc62dc4b273cb00b47d390",
+          "width": 1536,
+          "height": 256
+        },
+        {
+          "path": "efektler/serce.png",
+          "size": 159659,
+          "sha256": "26b688b22d45b5961b6abfb594045928f5417538085e8966028e76eab0768676",
+          "width": 2048,
+          "height": 256
+        },
+        {
+          "path": "efektler/serce_suzulme.png",
+          "size": 25012,
+          "sha256": "48c6193bed013a6036699b21779b1eee3c98cd0ff0cb0ae3b78d7e5311ca35db",
+          "width": 256,
+          "height": 256
         }
       ]
     },
@@ -5508,13 +5703,13 @@
       "id": 5,
       "mode": "crowd",
       "thumb": "sahneler/noel_pazari/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "requires": [
         "longScene"
       ],
       "level": "levels/level_crowd_005.json",
-      "size": 5817012,
+      "size": 5927058,
       "files": [
         {
           "path": "levels/level_crowd_005.json",
@@ -5678,6 +5873,18 @@
           "sha256": "4d99bdd1e0df86db5fe9052fc0c73522b1bb8337892cd87b6ad1583daf92603d",
           "width": 161,
           "height": 360
+        },
+        {
+          "path": "sahneler/noel_pazari/effects.json",
+          "size": 2125,
+          "sha256": "657e2cb0e0708d27ce2311a6b355512950e65a3e530033ec75bd35cfd94df7a6"
+        },
+        {
+          "path": "efektler/kar_tanesi.png",
+          "size": 107921,
+          "sha256": "bf332326c7692afa510700c0f0e050c65a096ead1e9aae9eabd1ba305762be90",
+          "width": 256,
+          "height": 256
         }
       ]
     },
@@ -5685,13 +5892,13 @@
       "id": 6,
       "mode": "crowd",
       "thumb": "sahneler/kayak_koyu/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "requires": [
         "longScene"
       ],
       "level": "levels/level_crowd_006.json",
-      "size": 5784239,
+      "size": 5785716,
       "files": [
         {
           "path": "levels/level_crowd_006.json",
@@ -5869,6 +6076,11 @@
           "sha256": "83ba58fc36852824662586d7e0c84e2adf8590f84a33b4ad08d712f366e3e264",
           "width": 181,
           "height": 360
+        },
+        {
+          "path": "sahneler/kayak_koyu/effects.json",
+          "size": 1477,
+          "sha256": "6fdde6b8154b2a5d27c4e60b128058139d77cf3536ecf26fda828e3a064598b0"
         }
       ]
     },
@@ -5876,13 +6088,13 @@
       "id": 7,
       "mode": "crowd",
       "thumb": "sahneler/amsterdam_kanal/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "requires": [
         "longScene"
       ],
       "level": "levels/level_crowd_007.json",
-      "size": 6329745,
+      "size": 6791386,
       "files": [
         {
           "path": "levels/level_crowd_007.json",
@@ -6067,6 +6279,32 @@
           "sha256": "4a48fb9f20dfbaf54752deb9b42009ba19d340253eebab22d4b48d549fe288fd",
           "width": 283,
           "height": 360
+        },
+        {
+          "path": "sahneler/amsterdam_kanal/effects.json",
+          "size": 2050,
+          "sha256": "0085e51defd4da0ca6b4253bce93f82a0a76b5a47908fb6cdb7f4d5f87037e84"
+        },
+        {
+          "path": "efektler/kelebek.png",
+          "size": 274920,
+          "sha256": "c45f47239524c5c61c27d751e8c2eac370628679dbcc62dc4b273cb00b47d390",
+          "width": 1536,
+          "height": 256
+        },
+        {
+          "path": "efektler/serce.png",
+          "size": 159659,
+          "sha256": "26b688b22d45b5961b6abfb594045928f5417538085e8966028e76eab0768676",
+          "width": 2048,
+          "height": 256
+        },
+        {
+          "path": "efektler/serce_suzulme.png",
+          "size": 25012,
+          "sha256": "48c6193bed013a6036699b21779b1eee3c98cd0ff0cb0ae3b78d7e5311ca35db",
+          "width": 256,
+          "height": 256
         }
       ]
     },
@@ -6074,13 +6312,13 @@
       "id": 8,
       "mode": "crowd",
       "thumb": "sahneler/meksika_fiesta/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "requires": [
         "longScene"
       ],
       "level": "levels/level_crowd_008.json",
-      "size": 6342952,
+      "size": 6619579,
       "files": [
         {
           "path": "levels/level_crowd_008.json",
@@ -6265,6 +6503,18 @@
           "sha256": "78f8042986d9d5a03200321a245b6e640f8dfa3e95b5dcd326b22f7e0e054f62",
           "width": 240,
           "height": 360
+        },
+        {
+          "path": "sahneler/meksika_fiesta/effects.json",
+          "size": 1707,
+          "sha256": "af8a5f7ed547ac5569ebe372f5b1c599161b1aeefb67bd172203649c1ddcbb20"
+        },
+        {
+          "path": "efektler/kelebek.png",
+          "size": 274920,
+          "sha256": "c45f47239524c5c61c27d751e8c2eac370628679dbcc62dc4b273cb00b47d390",
+          "width": 1536,
+          "height": 256
         }
       ]
     },
@@ -6272,13 +6522,13 @@
       "id": 9,
       "mode": "crowd",
       "thumb": "sahneler/baharat_pazari/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "requires": [
         "longScene"
       ],
       "level": "levels/level_crowd_009.json",
-      "size": 6332054,
+      "size": 6793301,
       "files": [
         {
           "path": "levels/level_crowd_009.json",
@@ -6463,6 +6713,32 @@
           "sha256": "7a9d50be63b64de386c140ef43eeb458675551ff37ab7faa729798dcf1e30bc1",
           "width": 224,
           "height": 360
+        },
+        {
+          "path": "sahneler/baharat_pazari/effects.json",
+          "size": 1656,
+          "sha256": "650878eb20f6cfe2153ddf3617a3deec9780ca2a3f79efeda653ea1e0e67e1f4"
+        },
+        {
+          "path": "efektler/kelebek.png",
+          "size": 274920,
+          "sha256": "c45f47239524c5c61c27d751e8c2eac370628679dbcc62dc4b273cb00b47d390",
+          "width": 1536,
+          "height": 256
+        },
+        {
+          "path": "efektler/serce.png",
+          "size": 159659,
+          "sha256": "26b688b22d45b5961b6abfb594045928f5417538085e8966028e76eab0768676",
+          "width": 2048,
+          "height": 256
+        },
+        {
+          "path": "efektler/serce_suzulme.png",
+          "size": 25012,
+          "sha256": "48c6193bed013a6036699b21779b1eee3c98cd0ff0cb0ae3b78d7e5311ca35db",
+          "width": 256,
+          "height": 256
         }
       ]
     },
@@ -6470,13 +6746,13 @@
       "id": 10,
       "mode": "crowd",
       "thumb": "sahneler/satranc_kralligi/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "requires": [
         "longScene"
       ],
       "level": "levels/level_crowd_010.json",
-      "size": 5143037,
+      "size": 5144457,
       "files": [
         {
           "path": "levels/level_crowd_010.json",
@@ -6640,6 +6916,11 @@
           "sha256": "d90fb1299fc09bab1eada8ff9048f0a7d01ab11878fb39764cc610cf942fc8a5",
           "width": 174,
           "height": 360
+        },
+        {
+          "path": "sahneler/satranc_kralligi/effects.json",
+          "size": 1420,
+          "sha256": "28b37e05384022176d32bfaeb8408f338978e85f1e490c5d884e057b94bdbdbc"
         }
       ]
     },
@@ -6647,13 +6928,13 @@
       "id": 11,
       "mode": "crowd",
       "thumb": "sahneler/saat_kasabasi/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "requires": [
         "longScene"
       ],
       "level": "levels/level_crowd_011.json",
-      "size": 6221521,
+      "size": 6223258,
       "files": [
         {
           "path": "levels/level_crowd_011.json",
@@ -6852,6 +7133,11 @@
           "sha256": "4581b21716daa9c1137fdb726a919487b7a1d1a8fc95dc2563f2f74633ebc2ec",
           "width": 270,
           "height": 360
+        },
+        {
+          "path": "sahneler/saat_kasabasi/effects.json",
+          "size": 1737,
+          "sha256": "5ee9203133d25e5d545d45bc7a96a477192f54268d9ded8eef6ef6588498be82"
         }
       ]
     },
@@ -6859,13 +7145,13 @@
       "id": 12,
       "mode": "crowd",
       "thumb": "sahneler/piyano_festivali/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "requires": [
         "longScene"
       ],
       "level": "levels/level_crowd_012.json",
-      "size": 4702165,
+      "size": 4704028,
       "files": [
         {
           "path": "levels/level_crowd_012.json",
@@ -7064,6 +7350,11 @@
           "sha256": "a62f94ebe846a78329c0abff38f29b1b906685d2f45a20e8246378079b82fe90",
           "width": 206,
           "height": 337
+        },
+        {
+          "path": "sahneler/piyano_festivali/effects.json",
+          "size": 1863,
+          "sha256": "e7a5692a7216289866b63fc48a12c6e418827f890f728ab099d93bd46e4132ae"
         }
       ]
     },
@@ -7071,13 +7362,13 @@
       "id": 13,
       "mode": "crowd",
       "thumb": "sahneler/buz_festivali/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "requires": [
         "longScene"
       ],
       "level": "levels/level_crowd_013.json",
-      "size": 6002350,
+      "size": 6112213,
       "files": [
         {
           "path": "levels/level_crowd_013.json",
@@ -7276,6 +7567,18 @@
           "sha256": "2dc6a3cb2cfdc7da9ae50b8e80f8fe03155baaa5e33ea843779d57a751f721d8",
           "width": 294,
           "height": 276
+        },
+        {
+          "path": "sahneler/buz_festivali/effects.json",
+          "size": 1942,
+          "sha256": "4effeeb8ff7fa5296524e657835ec22073e936c62b00f13f7d34df3eec50ea18"
+        },
+        {
+          "path": "efektler/kar_tanesi.png",
+          "size": 107921,
+          "sha256": "bf332326c7692afa510700c0f0e050c65a096ead1e9aae9eabd1ba305762be90",
+          "width": 256,
+          "height": 256
         }
       ]
     },
@@ -7283,13 +7586,13 @@
       "id": 14,
       "mode": "crowd",
       "thumb": "sahneler/atlas_liman/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "requires": [
         "longScene"
       ],
       "level": "levels/level_crowd_014.json",
-      "size": 5881072,
+      "size": 6033596,
       "files": [
         {
           "path": "levels/level_crowd_014.json",
@@ -7488,6 +7791,18 @@
           "sha256": "8f5e1906b93c66b8e2702b7b0c950542fbdaad4da78356a298ba760286a561a7",
           "width": 159,
           "height": 295
+        },
+        {
+          "path": "sahneler/atlas_liman/effects.json",
+          "size": 1362,
+          "sha256": "f3dd237ee5b99f123c727197c77255e8117a6856b60f58f1273de051cf354df6"
+        },
+        {
+          "path": "efektler/marti.png",
+          "size": 151162,
+          "sha256": "7aa07e0c5232b3c78d49f1c1fde03907c5fe6e873724096a7ab281a9c9902082",
+          "width": 2048,
+          "height": 256
         }
       ]
     },
@@ -7495,13 +7810,13 @@
       "id": 15,
       "mode": "crowd",
       "thumb": "sahneler/atlikarinca/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "requires": [
         "longScene"
       ],
       "level": "levels/level_crowd_015.json",
-      "size": 4961625,
+      "size": 4963346,
       "files": [
         {
           "path": "levels/level_crowd_015.json",
@@ -7686,6 +8001,11 @@
           "sha256": "bc1c2327e18d07dc2c57018049ca244f52d67539a1b4f4c3e4f8cdccc8fdbc08",
           "width": 206,
           "height": 312
+        },
+        {
+          "path": "sahneler/atlikarinca/effects.json",
+          "size": 1721,
+          "sha256": "1f9adb63989844fb2a29132aeeacfa2dced5345fbd1db12e2f031f75aaff08e4"
         }
       ]
     },
@@ -7693,13 +8013,13 @@
       "id": 16,
       "mode": "crowd",
       "thumb": "sahneler/sahil_kayik/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "requires": [
         "longScene"
       ],
       "level": "levels/level_crowd_016.json",
-      "size": 6384044,
+      "size": 6536188,
       "files": [
         {
           "path": "levels/level_crowd_016.json",
@@ -7898,6 +8218,18 @@
           "sha256": "aa3b81245e1ae2af2274250a076c6f8e44215836dc1d81b23690649a8cf15a62",
           "width": 317,
           "height": 304
+        },
+        {
+          "path": "sahneler/sahil_kayik/effects.json",
+          "size": 982,
+          "sha256": "321904fc5e4c2b8aaa590221d29bd323aa884109be53b81b97789b2caab27949"
+        },
+        {
+          "path": "efektler/marti.png",
+          "size": 151162,
+          "sha256": "7aa07e0c5232b3c78d49f1c1fde03907c5fe6e873724096a7ab281a9c9902082",
+          "width": 2048,
+          "height": 256
         }
       ]
     },
@@ -7905,13 +8237,13 @@
       "id": 17,
       "mode": "crowd",
       "thumb": "sahneler/defile/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "requires": [
         "longScene"
       ],
       "level": "levels/level_crowd_017.json",
-      "size": 5328372,
+      "size": 5329678,
       "files": [
         {
           "path": "levels/level_crowd_017.json",
@@ -8110,6 +8442,11 @@
           "sha256": "9198c019100e6fdd4b2369b4bcbd86af7919ffe441a7e01a616f21b7dc8ceb88",
           "width": 144,
           "height": 360
+        },
+        {
+          "path": "sahneler/defile/effects.json",
+          "size": 1306,
+          "sha256": "f6ed180d4cb6e89fb99bd9d6470f2dfb9914669fa60f61a24f13706662024390"
         }
       ]
     },
@@ -10005,13 +10342,13 @@
       "id": 16,
       "mode": "lantern",
       "thumb": "sahneler/mantar_ormani/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "requires": [
         "longScene"
       ],
       "level": "levels/level_lantern_016.json",
-      "size": 5567235,
+      "size": 5809138,
       "files": [
         {
           "path": "levels/level_lantern_016.json",
@@ -10217,6 +10554,18 @@
           "sha256": "846f6cc70223b1f5bc7222c362a2ae6877469df4be88ce500b46c05d59ed5a9d",
           "width": 234,
           "height": 270
+        },
+        {
+          "path": "sahneler/mantar_ormani/effects.json",
+          "size": 3551,
+          "sha256": "daf1ad2dfc95ae82a2535a621206c24710ecf2a46143d40deee8331d225642b5"
+        },
+        {
+          "path": "efektler/ates_bocegi.png",
+          "size": 238352,
+          "sha256": "7c539908c8b53b8bc06ac13e47b2a716b5c504e84812da9f1ef899eb9cc5ef15",
+          "width": 1536,
+          "height": 256
         }
       ]
     },
@@ -10224,13 +10573,13 @@
       "id": 17,
       "mode": "lantern",
       "thumb": "sahneler/muzik_kutusu/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "requires": [
         "longScene"
       ],
       "level": "levels/level_lantern_017.json",
-      "size": 4212118,
+      "size": 4213819,
       "files": [
         {
           "path": "levels/level_lantern_017.json",
@@ -10429,6 +10778,11 @@
           "sha256": "5e3410443a35c46d9f2845d9ae7b696f22ecee23e61ba7cfc25290527014d3df",
           "width": 197,
           "height": 271
+        },
+        {
+          "path": "sahneler/muzik_kutusu/effects.json",
+          "size": 1701,
+          "sha256": "2cddd9c888647cbd843a0d41ec15e509c9821cbcb88b9a11a2f58207b74fef4b"
         }
       ]
     },
@@ -10436,13 +10790,13 @@
       "id": 18,
       "mode": "lantern",
       "thumb": "sahneler/gemi_feneri/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "requires": [
         "longScene"
       ],
       "level": "levels/level_lantern_018.json",
-      "size": 5198237,
+      "size": 5323731,
       "files": [
         {
           "path": "levels/level_lantern_018.json",
@@ -10641,6 +10995,18 @@
           "sha256": "0c88538b0779820d136dc06ba1ec7f697a188386f35804dcde1de07f938c8f5d",
           "width": 344,
           "height": 282
+        },
+        {
+          "path": "sahneler/gemi_feneri/effects.json",
+          "size": 3610,
+          "sha256": "1e82918cd7f4cd37023a3a91ae48ebf82c1f03cb6da195b371f9183f2108ddee"
+        },
+        {
+          "path": "efektler/balik.png",
+          "size": 121884,
+          "sha256": "5b411b2a9a736619c1a620786cd20187bf6443c1689f42fa774c9a492e521655",
+          "width": 1024,
+          "height": 128
         }
       ]
     },
@@ -10648,13 +11014,13 @@
       "id": 19,
       "mode": "lantern",
       "thumb": "sahneler/kitaplik/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "requires": [
         "longScene"
       ],
       "level": "levels/level_lantern_019.json",
-      "size": 4578473,
+      "size": 4580433,
       "files": [
         {
           "path": "levels/level_lantern_019.json",
@@ -10853,6 +11219,11 @@
           "sha256": "3f6422204ac7d114eeedb892492b5d638413b37ef5c7273b60c1ded2ff4ff98e",
           "width": 257,
           "height": 305
+        },
+        {
+          "path": "sahneler/kitaplik/effects.json",
+          "size": 1960,
+          "sha256": "75f6e7d75f2e0d1d23ddbcac2d083c536600ed0d42b8d2500d406ab2a7f3de54"
         }
       ]
     },
@@ -10860,13 +11231,13 @@
       "id": 20,
       "mode": "lantern",
       "thumb": "sahneler/koi_kase/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "requires": [
         "longScene"
       ],
       "level": "levels/level_lantern_020.json",
-      "size": 5516500,
+      "size": 5880130,
       "files": [
         {
           "path": "levels/level_lantern_020.json",
@@ -11051,6 +11422,25 @@
           "sha256": "b1c60c432584c5f895395075c24cdf603f51aaab9579652f262b10a3b46b131e",
           "width": 235,
           "height": 302
+        },
+        {
+          "path": "sahneler/koi_kase/effects.json",
+          "size": 3394,
+          "sha256": "4b5ca7eeda7c9ef567bdf8427eabcff19098abb4e13e914bfad1aac6c148812a"
+        },
+        {
+          "path": "efektler/balik.png",
+          "size": 121884,
+          "sha256": "5b411b2a9a736619c1a620786cd20187bf6443c1689f42fa774c9a492e521655",
+          "width": 1024,
+          "height": 128
+        },
+        {
+          "path": "efektler/ates_bocegi.png",
+          "size": 238352,
+          "sha256": "7c539908c8b53b8bc06ac13e47b2a716b5c504e84812da9f1ef899eb9cc5ef15",
+          "width": 1536,
+          "height": 256
         }
       ]
     },
@@ -11058,13 +11448,13 @@
       "id": 21,
       "mode": "lantern",
       "thumb": "sahneler/newyork_diorama/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "requires": [
         "longScene"
       ],
       "level": "levels/level_lantern_021.json",
-      "size": 5287765,
+      "size": 5412547,
       "files": [
         {
           "path": "levels/level_lantern_021.json",
@@ -11263,6 +11653,18 @@
           "sha256": "1449c777684332d49b760b9f9d51a2dcaac06b2e574de27859705b2124b1570a",
           "width": 314,
           "height": 262
+        },
+        {
+          "path": "sahneler/newyork_diorama/effects.json",
+          "size": 2898,
+          "sha256": "0fc0c8994f4a0a86d408cba46c2453d169eed34b3ee47ef635d9ba93d26f140d"
+        },
+        {
+          "path": "efektler/balik.png",
+          "size": 121884,
+          "sha256": "5b411b2a9a736619c1a620786cd20187bf6443c1689f42fa774c9a492e521655",
+          "width": 1024,
+          "height": 128
         }
       ]
     },
@@ -11270,13 +11672,13 @@
       "id": 22,
       "mode": "lantern",
       "thumb": "sahneler/atlas_sehir/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "requires": [
         "longScene"
       ],
       "level": "levels/level_lantern_022.json",
-      "size": 5561629,
+      "size": 5563961,
       "files": [
         {
           "path": "levels/level_lantern_022.json",
@@ -11503,6 +11905,11 @@
           "sha256": "08fa9c589ff208d3d1bf8f911e47a62ef0429e891fe2f12c713132c3449ba630",
           "width": 295,
           "height": 255
+        },
+        {
+          "path": "sahneler/atlas_sehir/effects.json",
+          "size": 2332,
+          "sha256": "f40ba86924076e373ce8289ea0fdbfc292d2c605cc7dcbd076706cbfb35dd428"
         }
       ]
     },
@@ -11602,13 +12009,13 @@
       "id": 2,
       "mode": "oddone",
       "thumb": "sahneler/fiyort/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "requires": [
         "longScene"
       ],
       "level": "levels/level_oddone_002.json",
-      "size": 4710019,
+      "size": 4974177,
       "files": [
         {
           "path": "levels/level_oddone_002.json",
@@ -11725,6 +12132,25 @@
           "sha256": "3633925a7d282ce3f9f22d1b4ac4a3d0653602061d97371ba700547e86a17fea",
           "width": 192,
           "height": 360
+        },
+        {
+          "path": "sahneler/fiyort/effects.json",
+          "size": 5075,
+          "sha256": "f241aaeafaa9f22154f334826911b938b3ff248dfdca5f8a6b347dde57bef40e"
+        },
+        {
+          "path": "efektler/kar_tanesi.png",
+          "size": 107921,
+          "sha256": "bf332326c7692afa510700c0f0e050c65a096ead1e9aae9eabd1ba305762be90",
+          "width": 256,
+          "height": 256
+        },
+        {
+          "path": "efektler/marti.png",
+          "size": 151162,
+          "sha256": "7aa07e0c5232b3c78d49f1c1fde03907c5fe6e873724096a7ab281a9c9902082",
+          "width": 2048,
+          "height": 256
         }
       ]
     },
@@ -11732,13 +12158,13 @@
       "id": 3,
       "mode": "oddone",
       "thumb": "sahneler/yunan_ada/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "requires": [
         "longScene"
       ],
       "level": "levels/level_oddone_003.json",
-      "size": 6070652,
+      "size": 6621887,
       "files": [
         {
           "path": "levels/level_oddone_003.json",
@@ -11895,6 +12321,32 @@
           "sha256": "11ae921ba825797a8dee8a79e45eabb810a54badfa72e731d20b05a0356d1f56",
           "width": 288,
           "height": 360
+        },
+        {
+          "path": "sahneler/yunan_ada/effects.json",
+          "size": 3269,
+          "sha256": "47856bc7c9cecc0e8b3dd9fc23474844ef5507cc430a236d2594dd39f8c0b030"
+        },
+        {
+          "path": "efektler/marti.png",
+          "size": 151162,
+          "sha256": "7aa07e0c5232b3c78d49f1c1fde03907c5fe6e873724096a7ab281a9c9902082",
+          "width": 2048,
+          "height": 256
+        },
+        {
+          "path": "efektler/kelebek.png",
+          "size": 274920,
+          "sha256": "c45f47239524c5c61c27d751e8c2eac370628679dbcc62dc4b273cb00b47d390",
+          "width": 1536,
+          "height": 256
+        },
+        {
+          "path": "efektler/balik.png",
+          "size": 121884,
+          "sha256": "5b411b2a9a736619c1a620786cd20187bf6443c1689f42fa774c9a492e521655",
+          "width": 1024,
+          "height": 128
         }
       ]
     },
@@ -11902,13 +12354,13 @@
       "id": 4,
       "mode": "oddone",
       "thumb": "sahneler/vahsi_bati/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "requires": [
         "longScene"
       ],
       "level": "levels/level_oddone_004.json",
-      "size": 6001480,
+      "size": 6465632,
       "files": [
         {
           "path": "levels/level_oddone_004.json",
@@ -12065,6 +12517,32 @@
           "sha256": "c05d7527d04e389aad3f36f42554b10cdf30a5e63de6fc48e9a9a07c9e11b9b7",
           "width": 304,
           "height": 360
+        },
+        {
+          "path": "sahneler/vahsi_bati/effects.json",
+          "size": 4561,
+          "sha256": "2a8e759389d8418a9d50990856d1725d56306a8f00c1e21f602236bd9aba6e49"
+        },
+        {
+          "path": "efektler/serce.png",
+          "size": 159659,
+          "sha256": "26b688b22d45b5961b6abfb594045928f5417538085e8966028e76eab0768676",
+          "width": 2048,
+          "height": 256
+        },
+        {
+          "path": "efektler/serce_suzulme.png",
+          "size": 25012,
+          "sha256": "48c6193bed013a6036699b21779b1eee3c98cd0ff0cb0ae3b78d7e5311ca35db",
+          "width": 256,
+          "height": 256
+        },
+        {
+          "path": "efektler/kelebek.png",
+          "size": 274920,
+          "sha256": "c45f47239524c5c61c27d751e8c2eac370628679dbcc62dc4b273cb00b47d390",
+          "width": 1536,
+          "height": 256
         }
       ]
     },
@@ -12072,13 +12550,13 @@
       "id": 5,
       "mode": "oddone",
       "thumb": "sahneler/mercan_resif/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "requires": [
         "longScene"
       ],
       "level": "levels/level_oddone_005.json",
-      "size": 5945974,
+      "size": 6070048,
       "files": [
         {
           "path": "levels/level_oddone_005.json",
@@ -12235,6 +12713,18 @@
           "sha256": "499150c57fadd9fdd050fd88c040ecf414fb9ec71c537f51dc5a6f47a721f1af",
           "width": 326,
           "height": 360
+        },
+        {
+          "path": "sahneler/mercan_resif/effects.json",
+          "size": 2190,
+          "sha256": "c666c0f0d918db95833b9b56660f34a89b6febb076393b795bd2fa6f16a4963d"
+        },
+        {
+          "path": "efektler/balik.png",
+          "size": 121884,
+          "sha256": "5b411b2a9a736619c1a620786cd20187bf6443c1689f42fa774c9a492e521655",
+          "width": 1024,
+          "height": 128
         }
       ]
     },
@@ -12242,13 +12732,13 @@
       "id": 6,
       "mode": "oddone",
       "thumb": "sahneler/ay_kolonisi/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "requires": [
         "longScene"
       ],
       "level": "levels/level_oddone_006.json",
-      "size": 5291528,
+      "size": 5294297,
       "files": [
         {
           "path": "levels/level_oddone_006.json",
@@ -12412,6 +12902,11 @@
           "sha256": "1d9703e0f7d5700ea51dbb39573069bdd31b38a7cbaa5b77aace4b3e6bf92c01",
           "width": 339,
           "height": 360
+        },
+        {
+          "path": "sahneler/ay_kolonisi/effects.json",
+          "size": 2769,
+          "sha256": "d50ea36b5fee5adf6819f9225638347545d00b7d5dbcff06117f84e79dd908c3"
         }
       ]
     },
@@ -12419,13 +12914,13 @@
       "id": 7,
       "mode": "oddone",
       "thumb": "sahneler/popup_kitap/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "requires": [
         "longScene"
       ],
       "level": "levels/level_oddone_007.json",
-      "size": 5465095,
+      "size": 5895498,
       "files": [
         {
           "path": "levels/level_oddone_007.json",
@@ -12582,6 +13077,25 @@
           "sha256": "04565e865d7f490258967cf25e9bee79a9770e9ece2bd7224f0f26a198041de7",
           "width": 347,
           "height": 360
+        },
+        {
+          "path": "sahneler/popup_kitap/effects.json",
+          "size": 4321,
+          "sha256": "c3531118496e1a3b11782dbed1878c1325c8a346b4b6d3356261c9f182ada19b"
+        },
+        {
+          "path": "efektler/marti.png",
+          "size": 151162,
+          "sha256": "7aa07e0c5232b3c78d49f1c1fde03907c5fe6e873724096a7ab281a9c9902082",
+          "width": 2048,
+          "height": 256
+        },
+        {
+          "path": "efektler/kelebek.png",
+          "size": 274920,
+          "sha256": "c45f47239524c5c61c27d751e8c2eac370628679dbcc62dc4b273cb00b47d390",
+          "width": 1536,
+          "height": 256
         }
       ]
     },
@@ -12589,13 +13103,13 @@
       "id": 8,
       "mode": "oddone",
       "thumb": "sahneler/japon_koyu/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "requires": [
         "longScene"
       ],
       "level": "levels/level_oddone_008.json",
-      "size": 5800335,
+      "size": 6263277,
       "files": [
         {
           "path": "levels/level_oddone_008.json",
@@ -12759,6 +13273,32 @@
           "sha256": "3a559e53bdc15c4b9d7249a2ebfd8b5c474b58a1d7e495ecf0d778bb6b069dad",
           "width": 348,
           "height": 346
+        },
+        {
+          "path": "sahneler/japon_koyu/effects.json",
+          "size": 3351,
+          "sha256": "f4a7a0adf24a0164192e5ddd4fa47ac1463686724fa7e5d04a6b75b36fcc6bae"
+        },
+        {
+          "path": "efektler/kelebek.png",
+          "size": 274920,
+          "sha256": "c45f47239524c5c61c27d751e8c2eac370628679dbcc62dc4b273cb00b47d390",
+          "width": 1536,
+          "height": 256
+        },
+        {
+          "path": "efektler/serce.png",
+          "size": 159659,
+          "sha256": "26b688b22d45b5961b6abfb594045928f5417538085e8966028e76eab0768676",
+          "width": 2048,
+          "height": 256
+        },
+        {
+          "path": "efektler/serce_suzulme.png",
+          "size": 25012,
+          "sha256": "48c6193bed013a6036699b21779b1eee3c98cd0ff0cb0ae3b78d7e5311ca35db",
+          "width": 256,
+          "height": 256
         }
       ]
     },
@@ -12766,13 +13306,13 @@
       "id": 9,
       "mode": "oddone",
       "thumb": "sahneler/antik_roma/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "requires": [
         "longScene"
       ],
       "level": "levels/level_oddone_009.json",
-      "size": 6452835,
+      "size": 6882682,
       "files": [
         {
           "path": "levels/level_oddone_009.json",
@@ -12936,6 +13476,25 @@
           "sha256": "e2fa0ed6c5c49837333ad1af563c7d3ee9f812c83d4e1053fe4eb5f40077a34e",
           "width": 409,
           "height": 303
+        },
+        {
+          "path": "sahneler/antik_roma/effects.json",
+          "size": 3765,
+          "sha256": "794a9fb245d8ecd81d67b254a1216957838184dd49983552c17e4d6f777f5eb5"
+        },
+        {
+          "path": "efektler/marti.png",
+          "size": 151162,
+          "sha256": "7aa07e0c5232b3c78d49f1c1fde03907c5fe6e873724096a7ab281a9c9902082",
+          "width": 2048,
+          "height": 256
+        },
+        {
+          "path": "efektler/kelebek.png",
+          "size": 274920,
+          "sha256": "c45f47239524c5c61c27d751e8c2eac370628679dbcc62dc4b273cb00b47d390",
+          "width": 1536,
+          "height": 256
         }
       ]
     },
@@ -12943,13 +13502,13 @@
       "id": 10,
       "mode": "oddone",
       "thumb": "sahneler/agac_ev_koyu/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "requires": [
         "longScene"
       ],
       "level": "levels/level_oddone_010.json",
-      "size": 6060791,
+      "size": 6338022,
       "files": [
         {
           "path": "levels/level_oddone_010.json",
@@ -13106,6 +13665,18 @@
           "sha256": "68346f0af6990da6a1a679f91c6e37e135d82a11a363c6ecfe6aec27fe435fe2",
           "width": 242,
           "height": 360
+        },
+        {
+          "path": "sahneler/agac_ev_koyu/effects.json",
+          "size": 2311,
+          "sha256": "15d4746303e770e28d619593d5a38c2af2671fe056a1d642fccd29ddae6a1b8a"
+        },
+        {
+          "path": "efektler/kelebek.png",
+          "size": 274920,
+          "sha256": "c45f47239524c5c61c27d751e8c2eac370628679dbcc62dc4b273cb00b47d390",
+          "width": 1536,
+          "height": 256
         }
       ]
     },
@@ -13113,13 +13684,13 @@
       "id": 11,
       "mode": "oddone",
       "thumb": "sahneler/kum_saati/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "requires": [
         "longScene"
       ],
       "level": "levels/level_oddone_011.json",
-      "size": 4824815,
+      "size": 4826496,
       "files": [
         {
           "path": "levels/level_oddone_011.json",
@@ -13283,6 +13854,11 @@
           "sha256": "b46d29f5472ef9a50e81358b435dbd3e5ba7bd508faccddb8a26bf0112d63ed7",
           "width": 310,
           "height": 360
+        },
+        {
+          "path": "sahneler/kum_saati/effects.json",
+          "size": 1681,
+          "sha256": "cdec0c5e07f0c435403a72b0d3411bbb24c7752981d2f6b9d4b45c504d9efcdd"
         }
       ]
     },
@@ -13290,13 +13866,13 @@
       "id": 12,
       "mode": "oddone",
       "thumb": "sahneler/teleskop/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "requires": [
         "longScene"
       ],
       "level": "levels/level_oddone_012.json",
-      "size": 4840833,
+      "size": 5027710,
       "files": [
         {
           "path": "levels/level_oddone_012.json",
@@ -13460,6 +14036,25 @@
           "sha256": "56662af56789c1910cfba1abe120f8bc55ad6133175290525bbea5e984578db3",
           "width": 362,
           "height": 315
+        },
+        {
+          "path": "sahneler/teleskop/effects.json",
+          "size": 2206,
+          "sha256": "14c7a4b2b2df63a579c80480118f9baa84970c27c46cc85036ab573a22beda3b"
+        },
+        {
+          "path": "efektler/serce.png",
+          "size": 159659,
+          "sha256": "26b688b22d45b5961b6abfb594045928f5417538085e8966028e76eab0768676",
+          "width": 2048,
+          "height": 256
+        },
+        {
+          "path": "efektler/serce_suzulme.png",
+          "size": 25012,
+          "sha256": "48c6193bed013a6036699b21779b1eee3c98cd0ff0cb0ae3b78d7e5311ca35db",
+          "width": 256,
+          "height": 256
         }
       ]
     },
@@ -13467,13 +14062,13 @@
       "id": 13,
       "mode": "oddone",
       "thumb": "sahneler/kaplumbaga_ada/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "requires": [
         "longScene"
       ],
       "level": "levels/level_oddone_013.json",
-      "size": 5605586,
+      "size": 5880701,
       "files": [
         {
           "path": "levels/level_oddone_013.json",
@@ -13637,6 +14232,25 @@
           "sha256": "5e55fb027c1de634725ac43c06eebfdad37289c8d5218dd1df82e634623c2323",
           "width": 400,
           "height": 283
+        },
+        {
+          "path": "sahneler/kaplumbaga_ada/effects.json",
+          "size": 2069,
+          "sha256": "26693c8a11d6c5605cb1d97441de581329338bd54b535078827b9394df2d25a3"
+        },
+        {
+          "path": "efektler/marti.png",
+          "size": 151162,
+          "sha256": "7aa07e0c5232b3c78d49f1c1fde03907c5fe6e873724096a7ab281a9c9902082",
+          "width": 2048,
+          "height": 256
+        },
+        {
+          "path": "efektler/balik.png",
+          "size": 121884,
+          "sha256": "5b411b2a9a736619c1a620786cd20187bf6443c1689f42fa774c9a492e521655",
+          "width": 1024,
+          "height": 128
         }
       ]
     },
@@ -13644,13 +14258,13 @@
       "id": 14,
       "mode": "oddone",
       "thumb": "sahneler/kar_kuresi/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "requires": [
         "longScene"
       ],
       "level": "levels/level_oddone_014.json",
-      "size": 4935546,
+      "size": 5045466,
       "files": [
         {
           "path": "levels/level_oddone_014.json",
@@ -13801,6 +14415,18 @@
           "sha256": "bf40255a42fa41ded7c3c6e5f203651e66349a8411f8c493c2a746e0c8a5b85b",
           "width": 354,
           "height": 314
+        },
+        {
+          "path": "sahneler/kar_kuresi/effects.json",
+          "size": 1999,
+          "sha256": "030af29dd98db725f9f7a308a5431c30422d4460ded7210cb4709cf8ed23b738"
+        },
+        {
+          "path": "efektler/kar_tanesi.png",
+          "size": 107921,
+          "sha256": "bf332326c7692afa510700c0f0e050c65a096ead1e9aae9eabd1ba305762be90",
+          "width": 256,
+          "height": 256
         }
       ]
     },
@@ -13808,13 +14434,13 @@
       "id": 15,
       "mode": "oddone",
       "thumb": "sahneler/cep_saati_sehir/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "requires": [
         "longScene"
       ],
       "level": "levels/level_oddone_015.json",
-      "size": 6041267,
+      "size": 6228110,
       "files": [
         {
           "path": "levels/level_oddone_015.json",
@@ -13971,6 +14597,25 @@
           "sha256": "989838a11129ba8197099f2b369f1cc86ab9de32ae71a8327bbfbae580a03294",
           "width": 346,
           "height": 360
+        },
+        {
+          "path": "sahneler/cep_saati_sehir/effects.json",
+          "size": 2172,
+          "sha256": "df4ddb1d34b4e487e4c2d7330c9e1b858aadf3ee7e809c3f83dd384c3d7b7892"
+        },
+        {
+          "path": "efektler/serce.png",
+          "size": 159659,
+          "sha256": "26b688b22d45b5961b6abfb594045928f5417538085e8966028e76eab0768676",
+          "width": 2048,
+          "height": 256
+        },
+        {
+          "path": "efektler/serce_suzulme.png",
+          "size": 25012,
+          "sha256": "48c6193bed013a6036699b21779b1eee3c98cd0ff0cb0ae3b78d7e5311ca35db",
+          "width": 256,
+          "height": 256
         }
       ]
     },
@@ -13978,13 +14623,13 @@
       "id": 16,
       "mode": "oddone",
       "thumb": "sahneler/buzkiran/thumb.webp",
-      "version": 1,
+      "version": 2,
       "minAppVersion": "1.0.0",
       "requires": [
         "longScene"
       ],
       "level": "levels/level_oddone_016.json",
-      "size": 4611683,
+      "size": 4873334,
       "files": [
         {
           "path": "levels/level_oddone_016.json",
@@ -14155,6 +14800,25 @@
           "sha256": "6dbeb9f82c56c319105f41e870fe5dcfd70419a2fbf287718fa62f50bc7aecd5",
           "width": 210,
           "height": 360
+        },
+        {
+          "path": "sahneler/buzkiran/effects.json",
+          "size": 2568,
+          "sha256": "a538166e31bc7e30135b6cca424a139fa2aeb4604a90c7d1620e74b6d5bd83e5"
+        },
+        {
+          "path": "efektler/marti.png",
+          "size": 151162,
+          "sha256": "7aa07e0c5232b3c78d49f1c1fde03907c5fe6e873724096a7ab281a9c9902082",
+          "width": 2048,
+          "height": 256
+        },
+        {
+          "path": "efektler/kar_tanesi.png",
+          "size": 107921,
+          "sha256": "bf332326c7692afa510700c0f0e050c65a096ead1e9aae9eabd1ba305762be90",
+          "width": 256,
+          "height": 256
         }
       ]
     }

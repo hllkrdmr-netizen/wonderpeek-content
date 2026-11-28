@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "scene": "kayak_koyu",
+  "effects": [
+    {
+      "type": "rays",
+      "note": "bright winter sun over the slopes from the top right",
+      "from": [0.95, -0.05], "angle": 120, "width": 0.5, "length": 0.9, "color": "#fff6e0", "opacity": 0.06, "sway": 2, "period": 15
+    },
+    { "type": "dust", "note": "glittering snow crystals in the air over the village (clear day: no snowfall)", "rect": [0.15, 0.15, 0.7, 0.3], "density": 0.35, "color": "#ffffff", "size": 0.003 },
+    { "type": "smoke", "note": "chimney of the big chalet, middle", "at": [0.53, 0.143], "count": 6, "rise": 0.06, "drift": 0.015, "size": 0.022, "opacity": 0.2 },
+    { "type": "smoke", "note": "steam off the hot-chocolate copper pot", "at": [0.165, 0.71], "count": 5, "rise": 0.05, "drift": 0.006, "size": 0.018, "opacity": 0.2 },
+    { "type": "glow", "note": "wall lantern on the chalet, top left", "at": [0.082, 0.195], "radius": 0.026, "color": "#ffc670", "period": 1.7, "strength": 0.45 },
+    { "type": "glow", "note": "lantern in the fondue hut, right", "at": [0.885, 0.64], "radius": 0.026, "color": "#ffc670", "period": 1.4, "strength": 0.45 },
+    { "type": "glow", "note": "fairy lights over the hot-chocolate hut", "at": [0.12, 0.645], "radius": 0.04, "color": "#ffd08a", "period": 1.9, "strength": 0.3 },
+    { "type": "glow", "note": "candle lantern on the front table", "at": [0.357, 0.805], "radius": 0.02, "color": "#ffc670", "period": 1.2, "strength": 0.45 }
+  ]
+}

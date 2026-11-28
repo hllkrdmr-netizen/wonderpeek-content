@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "scene": "muzik_kutusu",
+  "effects": [
+    { "type": "glow", "note": "moonlight in the round attic window", "at": [0.115, 0.12], "radius": 0.04, "color": "#c8d8ff", "period": 2.0, "strength": 0.35 },
+    {
+      "type": "rays",
+      "note": "moonbeam from the round window into the attic",
+      "from": [0.115, 0.12], "angle": 40, "width": 0.22, "length": 0.55, "color": "#c8d4ff", "opacity": 0.08, "sway": 2, "period": 14
+    },
+    { "type": "dust", "note": "dust in the moonbeam", "rect": [0.12, 0.15, 0.3, 0.35], "density": 0.45, "color": "#dfe6ff", "size": 0.003 },
+    { "type": "glow", "note": "candle on the book stack", "at": [0.975, 0.418], "radius": 0.02, "color": "#ffbe68", "period": 1.2, "strength": 0.6 },
+    { "type": "smoke", "note": "thin smoke from the candle", "at": [0.975, 0.405], "count": 4, "rise": 0.05, "drift": -0.01, "size": 0.01, "opacity": 0.14 },
+    { "type": "glow", "note": "lit diorama inside the box: upper right", "at": [0.749, 0.34], "radius": 0.04, "color": "#ffd28a", "period": 1.9, "strength": 0.35 },
+    { "type": "glow", "note": "lit diorama: centre", "at": [0.526, 0.424], "radius": 0.045, "color": "#ffd28a", "period": 1.7, "strength": 0.35, "phase": 0.3 },
+    { "type": "glow", "note": "lit diorama: lamp, right", "at": [0.681, 0.438], "radius": 0.03, "color": "#ffc670", "period": 1.5, "strength": 0.4 },
+    { "type": "glow", "note": "lit diorama: front", "at": [0.556, 0.634], "radius": 0.035, "color": "#ffc670", "period": 1.8, "strength": 0.35, "phase": 0.7 },
+    { "type": "dust", "note": "warm sparkles over the music box stage", "rect": [0.35, 0.3, 0.42, 0.33], "density": 0.3, "color": "#ffe2b0", "size": 0.0025 }
+  ]
+}

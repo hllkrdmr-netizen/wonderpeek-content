@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "scene": "gokyuzu_limani",
+  "effects": [
+    { "type": "glow", "note": "big lantern, front left", "at": [0.075, 0.79], "radius": 0.04, "color": "#ffc670", "period": 1.7, "strength": 0.55 },
+    { "type": "glow", "note": "lantern on the crates, front right", "at": [0.833, 0.765], "radius": 0.032, "color": "#ffc670", "period": 1.5, "strength": 0.55 },
+    { "type": "glow", "note": "airship gondola windows", "at": [0.48, 0.56], "radius": 0.03, "color": "#ffd28a", "period": 1.9, "strength": 0.45 },
+    { "type": "glow", "note": "lighthouse lamp on the floating island", "at": [0.437, 0.055], "radius": 0.022, "color": "#ffe0a0", "period": 1.4, "strength": 0.55 },
+    { "type": "glow", "note": "pagoda lanterns, top right", "at": [0.955, 0.2], "radius": 0.022, "color": "#ffb060", "period": 1.6, "strength": 0.45 },
+    { "type": "glow", "note": "the setting sun between the islands", "at": [0.43, 0.375], "radius": 0.05, "color": "#fff0c0", "period": 2.0, "strength": 0.25 },
+    { "type": "smoke", "note": "steam of the locomotive on the viaduct", "at": [0.705, 0.152], "count": 8, "rise": 0.06, "drift": -0.03, "size": 0.022, "opacity": 0.3, "color": "#f4f0f4" },
+    {
+      "type": "sprite_path",
+      "note": "gulls across the pink sky above the islands now and then (either way), like the ones drawn top right",
+      "sheet": "efektler/marti.png", "frames": 8, "fps": 12,
+      "path": [[-0.06, 0.12], [0.3, 0.085], [0.65, 0.1], [1.06, 0.06]],
+      "every": [9, 16], "count": [2, 3], "spacing": 0.045, "speed": 0.15, "scale": 0.04, "jitter": [0, 0.03], "both_ways": true, "wobble": 0.006
+    }
+  ]
+}
